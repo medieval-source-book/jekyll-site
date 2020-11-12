@@ -1,0 +1,20 @@
+<aside id="sidenav">
+	<div class="panel">
+		<p class="morse">{% if page.title == "Project Videos" %}projects{% endif %}{% if page.title == "Topics in DH" %}topics{% endif %}</p>
+		<h3 id="tocheader">Table of Contents</h3>
+		<ul id="toc">
+		{% if page.title == "Project Videos" %}
+			{% assign projects = site.projects | sort: 'title' %}
+			{% for project in projects limit:1000 %}
+				<li data-projectid="{{ project.identifier }}">{{ project.title }}</li>
+			{% endfor %}
+		{% endif %}
+		{% if page.title == "Topics in DH" %}
+			{% assign topics = site.topics | sort: 'title' %}
+			{% for topic in topics limit:1000 %}
+				<li data-topicid="{{ topic.identifier }}">{{ topic.title }}</li>
+			{% endfor %}
+		{% endif %}
+		</ul>
+	</div>
+</aside>

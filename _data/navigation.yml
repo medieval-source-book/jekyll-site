@@ -1,0 +1,82 @@
+- title: What are DH?
+  url: "/what-are-dh/"
+  side: left
+  alternate:
+
+- title: "Topics"
+  url: "/topics/"
+  side: left
+  alternate:
+
+- title: "Project Videos"
+  url: "/project-videos/"
+  side: left
+  alternate:
+
+- title: "Global Resources"
+  url: "/global-resources/"
+  side: left
+  alternate:
+  dropdown:
+  - title: "Educational Resources"
+    url: "/global-resources/educational-resources/"
+    alternate:
+    dropdown:
+    - title: "Textbooks"
+      url: "/global-resources/educational-resources/textbooks/"
+    - title: "MOOCs and Other Online Courses"
+      url: "/global-resources/educational-resources/moocs/"
+    - title: "Short Institutes & Workshops"
+      url: "/global-resources/educational-resources/short-institutes-and-workshops/"
+    - title: "MA/PhD Programs"
+      url: "/global-resources/educational-resources/ma-phd-programs/"
+  - title: "DH Community"
+    url: "/global-resources/dh-community/"
+    alternate:
+    dropdown:
+    - title: "Conferences"
+      url: "/global-resources/dh-community/conferences/"
+    - title: "Journals"
+      url: "/global-resources/dh-community/journals/"
+    - title: "Scholarly Organizations"
+      url: "/global-resources/dh-community/scholarly-organizations/"
+    - title: "Online Communities"
+      url: "/global-resources/dh-community/online-communities/"
+  - title: "Getting Hired"
+    url: "/global-resources/getting-hired/"
+    side: left
+    alternate:
+    dropdown:
+    - title: "Job Boards"
+      url: "/global-resources/getting-hired/job-boards/"
+      alternate:
+    - title: "Job Market Advice"
+      url: "/global-resources/getting-hired/job-market-advice/"
+      alternate:
+    - title: "Hiring Surveys"
+      url: "/global-resources/getting-hired/hiring-surveys/"
+      alternate:
+  - title: "Grants and Fellowships"
+    url: "/global-resources/grants-and-fellowships/"
+  - title: "Evaluating Digital Work"
+    url: "/global-resources/evaluating-digital-work/"
+    
+- title: "Local Resources"
+  url: "/local-resources/"
+  side: left
+  alternate:
+  dropdown:
+  - title: Getting Involved
+    url: "/local-resources/getting-involved/"
+  - title: Communities and Programs
+    url: "/local-resources/communities-and-programs/"
+  - title: Projects
+    url: "/local-resources/projects/"
+  - title: People
+    url: "/local-resources/people/"
+
+
+- title: "Search"
+  url: "/search/"
+  side: left
+  alternate: "?"

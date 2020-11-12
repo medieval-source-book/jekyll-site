@@ -1,0 +1,13 @@
+_site/
+.sass-cache/
+.DS_Store
+vendor
+.bundle
+_config_dev.yml
+/_config_dev.yml
+.vscode/
+/_site_local
+.jekyll-metadata
+tmp/
+assets/screencaps
+assets/videos
