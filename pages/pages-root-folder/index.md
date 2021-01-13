@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: "The Digital Humanities Literacy Guidebook"
-meta_title: "The Digital Humanities Literacy Guidebook"
+title: "Global Medieval Sourcebook"
+meta_title: "Global Medieval Sourcebook"
 breadcrumb: false
 permalink: "/"
 callforaction:

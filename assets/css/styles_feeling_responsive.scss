@@ -163,7 +163,14 @@ code{
 }
 .panel {
   margin-bottom: 2rem;
+  max-width: 40%;
 }
+
+.caption {
+  font-size: 70%;
+  line-height: 100%;
+}
+
 #lunrsearchresults {
   width: 100%;
   p{
@@ -1074,7 +1081,7 @@ body.frontpage{
   }
 }
 @media #{$middlebar-up} {
-  
+
 }
 
 @media #{$xlarge-up} {

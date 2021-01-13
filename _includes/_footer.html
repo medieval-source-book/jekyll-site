@@ -9,49 +9,34 @@
       <div id="footer">
         <div class="row">
             <div id="dhlogobox" class="large-2 small-4 columns">
-              <img src="{{ '/assets/img/marks/dhlg_logotype_vertical_rev.svg' |relative_url }}" id="dhlg-logo">
+              <img src="{{ '/assets/img/LogoPrint_trans.png' |relative_url }}" id="dhlg-logo">
+              <img src="{{ '/assets/img/SU_Seal_Black_darkbgrd_footer.png' |relative_url }}" id="dhlg-logo">
+              <img src="{{ '/assets/img/dlcl-logo-new.png' |relative_url }}" id="dhlg-logo">
+              <img src="{{ '/assets/img/neh_transparent.png' |relative_url }}" id="dhlg-logo">
+
             </div><!-- /.large-6.columns -->
 
           <div class="large-3 small-8 columns">
-            <h5>The DH Literacy Guidebook</h5>
-            <p>The DHLG introduces digital humanities to newcomers. Read more about the DHLG, its authors, and how to contribute <a href='/dhlg/about/'>here</a>. Cite the DHLG as: Weingart, Scott B., Susan Grunewald, Matthew Lincoln et al. (eds.). <i>The Digital Humanities Literacy Guidebook</i>. Carnegie Mellon University,  Updated {{ site.time | date: '%B %d, %Y' }}. https://cmu-lib.github.io/dhlg/.</p>
-          </div><!-- /.large-6.columns -->
+            <h5>Global Medieval Sourcebook</h5>
+<p>{{ site.concept}}</p>          </div>
 
-          <div class="large-3 medium-4 small-12 columns">
-            <h5>Content Attribution</h5>
-            <div class="row">
-              <div class="small-3 columns">
-                  <img src="{{ '/assets/img/circle-brilliant-amber.svg' | relative_url }}" id="core-marker">
-              </div>
-              <div class="small-9 columns">
-                <p>{{ site.corecontent }}</p>
-              </div>
-            </div>
-            <div class="row">
-                <div class="small-3 columns">
-                    <img src="{{ '/assets/img/circle-cobalt.svg' | relative_url }}" id="contributed-marker">
-                </div>
-                <div class="small-9 columns">
-                  <p>{{ site.contributedcontent }}</p>
-                </div>
-              </div>
-          </div><!-- /.large-4.columns -->
+          <div class="large-3 small-8 columns">
+            <h5>Permissions and License</h5>
+<p>{{ site.permissions }}</p>
+<p>{{ site.license}}</p>
+          </div>
 
-
-          <div class="large-2 medium-4 small-6 columns">
-            <h5>Links</h5>
-            <ul class="no-bullet">
-            {% for link in site.data.footerlinks %}
-              {% if link.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-                <li>
-                  <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.name }}</a>
-                </li>
-            {% endfor %}
-            </ul>
-          </div><!-- /.large-3.columns -->
-          <div class="large-2 medium-4 small-6 columns">
-              <a href="https://mellon.org/" target="_blank" title="The Mellon Foundation"><img src="{{ '/assets/img/mellon-logo-small.svg' | relative_url }}" id="mellon-logo"></a>
-            </div>
+          <div class="large-3 small-8 columns">
+<h5>Links</h5>
+<ul class="no-bullet">
+{% for link in site.data.footerlinks %}
+  {% if link.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
+    <li>
+      <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.name }}</a>
+    </li>
+{% endfor %}
+</ul>
+          </div>
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
@@ -60,15 +45,10 @@
       <div id="subfooter">
         <div class="row">
           <div id="subfooter-left" class="medium-9 columns">
-            <ul class="inline-list">
-              {% for link in site.data.subfooterlinks %}
-                <li><a href="{{ link.url }}" target="_blank" title="{{ link.title }}">{{ link.name }}</a></li>
-              {% endfor %}
-              </ul>
+            
           </div>
 
           <div id="subfooter-right" class="medium-3 columns">
-            <img src="{{ '/assets/img/CMU_wordmark_1500px-min_white.png' | relative_url }}" id="cmu-logo">
           </div>
         </div>
       </div><!-- /#subfooter -->
