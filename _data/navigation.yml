@@ -20,6 +20,27 @@
 - title: "By language"
   url: "/languages/"
   side: left
+  alternate:
+  dropdown:
+  - title: "The Americas"
+    url: "/languages/americas/"
+    side: left
+    alternate:
+    dropdown:
+       - title: "Latin"
+         url: "/languages/latin"
+       - title: "Spanish"
+         url: "/languages/spanish"
+       - title: "Quechua"
+         url: "/languages/quechua"
+  - title: "Western Europe"
+    url: "/languages/western-europe"
+  - title: "Eastern Europe"
+    url: "/languages/eastern-europe"
+  - title: "Middle East and North Africa"
+    url: "/languages/middle-east-and-north-africa"
+  - title: "Asia"
+    url: "/languages/asia"
 - title: "By genre"
   url: "/genres/"
   side: left

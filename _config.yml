@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: What are Digital Humanities?
+title: Global Medieval Sourcebook
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'something'
@@ -45,23 +45,29 @@ plugins:
 collections:
   texts:
     output: true
-    permalink: /:path/
-  textcollection:
+    permalink: /text/:path/
+  textcollections:
     output: true
     permalink: /collections/:path/
-  language:
+  languages:
     output: true
     permalink: /languages/:path/
+    layout: langpage
   textauthor:
     output: true
     permalink: /authors/:path/
-  genre:
+  genres:
     output: true
     permalink: /genres/:path/
+    layout: genrepage
   keywords:
     output: true
     permalink: /keywords/:path/
-
+    layout: keywordpage
+  periods:
+    output: true
+    permalink: /periods/:path/
+    layout: periodpage
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown

@@ -1,0 +1,31 @@
+---
+layout: text
+sidebar: left
+title: '"Two or three days ago" | ""Depuis deux ou trois jours enca", "15th Century'
+engtitle: '"Two or three days ago"'
+origtitle: '""Depuis deux ou trois jours enca", "15th Century'
+breadcrumb: true
+permalink: "text/two-or-three-days-ago"
+identifier: two-or-three-days-ago
+textauthor: Anonymous
+languages: French, Western Europe
+periods: 
+genres: Lyric Verse / Song
+keywords: love, Love songs, French language--Middle French--1300-1600
+textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
+sdr: https://library.stanford.edu/research/stanford-digital-repository 
+doi: example-doi 
+image: /assets/img/text/two-or-three-days-ago.png
+imagesource: TBD 
+fulltext: '  Depuis Deux ou trois jours enca Two or three days ago Depuis Deux ou trois jours enca / Two or three days ago Sen est alle mon doux ami my sweet love went away Sans ce quil ait parle a my / without saying anything to me. helas quy me confortera Alas, who will comfort me? Ne scay se vuel retournera I don't know whether he wants to return Mais il ma mise en grant soussi but he has made me very worried Demander le me conviendra I will have to ask A ceulx quy sont amis de luy those friends of his about it Car par ma foi je vous dis because, in faith, I say to you Quen temps mieulx con cuer ne Lama that my heart never loved him better. '
+---
+## Introduction to the Source 
+<p>The song can be found in the Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), ff.127v-128r (new foliation: 130v-131r). The manuscript is available to view <a href="http://patrimoine.bm-dijon.fr/pleade/img-viewer/MS00517/viewer.html?ns=FR212316101_CITEAUX_MS00517_130_V.jpg">here</a>.</p>
+## Introduction to the Text 
+<p>This anonymous love song comes from a large songbook (called a 'chansonnier'), most likely compiled for a wealthy client between 1460 and 1470 CE. Although this song has no named composer, many of the other 160 songs do, and they show that this book sought to capture the latest trends in French songwriting. This song is a rondeau written for three voices, who were to sing their different parts simultaneously. The lyrical content - sorrow at separation from a lover - is typical for a medieval love song, but is somewhat unusual in that it adopts a woman's perspective.</p>
+## Credits
+Transcription by Mae Velloso-Lyons, 
+Translation by Mae Velloso-Lyons, 
+Encoded in TEI P5 XML by Mae Velloso-Lyons,  and Jordan Rosen-Kaplan
+## Suggested Citation
+<p>Suggested citation: Anonymous.  ""Two or three days ago"." Translation and Introduction by Mae Velloso-Lyons. <em>Global Medieval Sourcebook</em>. <a href="http://sourcebook.stanford.edu/text/two-or-three-days-ago">http://sourcebook.stanford.edu/text/two-or-three-days-ago</a>. Retrieved on February 03, 2021.</p>
