@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/explanation-divination-through-apostles"
 identifier: explanation-divination-through-apostles
 textauthor: Anonymous
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 13th Century
-genres: Handbook
-keywords: Divination, Oracles, prayer
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [13th Century]
+genres: [Handbook]
 textcollections: ""
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/explanation-divination-through-apostles.jpg
-imagesource: TBD 
+imagesource: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.26v [Public Domain]'
 fulltext: '  Pilcrows, punctuation, and linebreaks follow the manuscript. Sortes apostolite ad explanandum An Explanation of Divination Through the Apostles Si de aliqua re sire uolueris hoc modo sire poteris. If you would like to know of any thing, you will be able to in this way. Inprimis cantent Rendered as cantēt unum psalmum Rendered as psalmū cum Rendered as cū oratione dominica. Rendered as dnīca First a psalm is to be sung as a prayer to the Lord. deuota mente. Ut dominus Dominus here is endered as ds with a macron. In a printed edition of this text Adolf Tobler transcribes this as "deus" but given that elsewhere in the MS a macron represents a missing M "dominus" seems like a more accurate transcription. See Adolf Tober, Die altvenezianische Übersetzung der Sprüche des Dionysius Cato. Abhandlungen der königlichen Akademie der Wissenschaften zu Berlin aus dem Jahre 1883. Philosophisch-historische Classe 1, Berlin, 1883, 86 manifestet ei quod querit. The mind having thus been dedicated, the Lord reveals what you ask. Postea aperiat psalterium. et prima litera que tibi aparuerit Abbreviated aperueīt but likely a misspelling of apparuerit. cognosce eam. et videbis quod queris: Afterward, open a psalter and consider the first letter that will appear to you and you will see what you seek: ¶ .A. significat uitam siue potestatem: ¶ .A. signifies alternatively life or power: ¶ .B. significat potestatem in populo: ¶ .B. signifies power over people: ¶ .C. significat mortem uiri: ¶ .C. signifies a man’s death: ¶ .D. significat conturbacionem vel mortem: ¶ .D. signifies sickness or death: ¶ .E. significat letitiam: ¶ .E. signifies joy: ¶ .F. significat nobilitatem: ¶ .F. signifies renown: ¶ .G significat unius hominis occisionis: ¶ .G. signifies the murder of a man: Literally one man ¶ .H. significat femine occisionis: ¶ .H. signifies a murdered woman: ¶ .I. significat bonam Rendered as bonā uitam: ¶ .I. signifies good life: ¶ K. significat iamnem Likely a misspelling of inanem literarum: ¶ .K. signifies vain Literally empty scholarship: ¶ .L. significat gaudium: ¶ .L. signifies delight: ¶ .M. significat medio: ¶ .M. signifies division: In other mantic alphabets M often signifies something “mediocrem” or moderate. ¶ .N. significat reuisitacionem: ¶ .N. signifies a reappearance: ¶ .O. significat dure potestatem: ¶ .O. signifes harsh power: ¶ .P. significat omnem salutem: ¶ .P. signifies complete health: ¶ .Q. significat vitam uel cautelam: Rendered cautelā ¶ .Q. signifies life or caution. ¶ .R. significat restitutum uel uulneratum: ¶ .R. signifies recovery or injury: ¶ .S. significat anum Likely a misspelling of annum. sanitatem: ¶ .S. signifies a healthy year: Presumably this is a healthy year, as written it reads literally “.S. signifies a healthy anus:” ¶ .T. significat iracundiam uel munitionem: ¶ .T. signifies temper or defensiveness: ¶ .V. significat mortem: Here readers have scratched away the word "mortem" ¶ .V. signifies death: ¶ .X. significat parentes obliuionem: ¶ .X. signifies forgiving parents: Quicquid tibi volueris ut eunte pecunie augmentum. Thus whatever you would want, like having more money, has come about. '
 ---
 ## Introduction to the Source 

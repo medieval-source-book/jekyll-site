@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/chen-wangyou%E2%80%99s-daughter-law"
 identifier: chen-wangyou%E2%80%99s-daughter-law
 textauthor: Hong Mai 洪邁
-languages: Chinese, Asia
-periods: 12th Century
-genres: History
-keywords: Ghost stories--Chinese, Taoism, supernatural, death, Mothers, Chinese literature--Song dynasty--960-1279, China--History--Song dynasty--960-1279--Anecdotes, Chinese literature--Song dynasty--960-1279--History and criticism
+languages: [Chinese, Asia]
+periods: [12th Century]
+genres: [History]
 textcollections: "Writing History: Chronicles, Legends and Anecdotes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/chen-wangyou%E2%80%99s-daughter-law.jpg
-imagesource: TBD 
+imagesource: Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]'
 fulltext: '  Punctuation follows the edition. 陳王猷子妇 Chen Wangyou’s Daughter-in-Law 潮州人陳王猷為梅州守。 Chen Wangyou from Chaozhou was the magistrate of Meizhou. 子婦死焉, 葬之於郡北山之上。 When his daughter-in-law died, the Chen family buried her in the mountain north of the county. 其魂每夕歸與夫共寢。 Every evening, her spirit would come back home to sleep with her husband. 夫懼宿於母榻。 Her husband was scared and slept in his mother’s bed. 婦複來即之, 不可卻, But the woman came back again and could not be turned away. 雖家人相見無所避。 Even when she saw the [other members of the] Chen family, she would not avoid them. 一子數歲矣, 韶秀可愛, Her son was a few years old, cute and good-looking. 每欲取以去, 舉家爭而奪之。 Every time she tried to take him away, the entire Chen family would fight to get him back. 婦出入自若, However the woman went in and out of the Chen family home like there was no one around. 陳氏甚懼, 乃召道士醮設及禱於神, 皆不能遣。 The Chen family was so scared that they hired a Daoist to set up a religious ceremony and pray to God on their behalf – neither [action] could dispel the spirit. 時紹興庚午三月也。 At the time, it was the third month of the Shaoxing era. 又三月, 陳守卒於郡。 After three months, the magistrate Chen died in the county. '
 ---
 ## Introduction to the Text 

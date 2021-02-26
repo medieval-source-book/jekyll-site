@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-81-debate-between-florentine-and-venetian"
 identifier: joke-81-debate-between-florentine-and-venetian
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance, war
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-81-debate-between-florentine-and-venetian.jpg
-imagesource: TBD 
+imagesource: Venice, from Hartmann Schedel's Nuremberg Chronicle [Public Domain]'
 fulltext: '  Facetia LXXXI Joke 81 Venetis foedus erat cum Duce Mediolani ad decennium. There had been an alliance between Venice and the duke of Milan for a decade. Interim primo inter Florentinos Ducemque orto bello, cum Florentinorum res deteriori loco viderentur, Veneti Ducem haud quicquam hostile timentem adorti, rupto foedere, Brixiam occuparunt: Meanwhile a war had arisen between Florence and the duke, then at a point when the Florentines seemed to be losing the Venetians broke the alliance and attacked the duke, who did not suspect a thing, and occupied Brescia. veriti ne, si Dux superior esset, omnis belli moles in se verteretur. They feared that if the duke would win, then the whole war apparatus might be turned against them. Florentino Venetoque postmodum de hac re disceptantibus, cum Venetus diceret: When later on a Florentine and a Venetian were debating this thing, the Venetian said: 'Nobis libertatem debetis: nam nostra opera liberi estis.' “You owe us your liberty: for you are free because of our work.” 'Hoc nequaquam verum est,' inquit ad retundendam illius petulantiam Florentinus: To rebut the impudent Venetian the Florentine said: “That’s not true at all! 'non enim nos liberos esse fecistis, sed nos vos reddidimus proditores.' For you did not free us, but rather we made you traitors.” '
 ---
 ## Introduction to the Source 

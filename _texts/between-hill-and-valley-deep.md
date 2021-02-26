@@ -1,22 +1,21 @@
 ---
 layout: text
 sidebar: left
-title: '"Between hill and valley deep" | ""Zwischen perg und tieffe tal", "16th Century'
+title: '"Between hill and valley deep" | "Zwischen perg und tieffe tal"'
 engtitle: '"Between hill and valley deep"'
-origtitle: '""Zwischen perg und tieffe tal", "16th Century'
+origtitle: '"Zwischen perg und tieffe tal"'
 breadcrumb: true
 permalink: "text/between-hill-and-valley-deep"
 identifier: between-hill-and-valley-deep
 textauthor: Erhard Oeglin
-languages: German, Western Europe
-periods: 
-genres: Lyric Verse / Song
-keywords: love, Love songs, Old High German songs, Music--16th century, Canzonets (Part songs)--German
+languages: [German, Western Europe]
+periods: [16th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/between-hill-and-valley-deep.jpeg
-imagesource: TBD 
+imagesource: Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v [Public Domain]'
 fulltext: '  Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript. Zwischen perg und tieffe tal Between hill and valley deep Zwischen perg und tieffe tal \ da ligt ain freie strassen \ wer seinen půll nit haben mag \ der můß yn faren lassen. Between hill and valley deep there runs a public road, whoever can’t keep her lover must let him ride away. Far hin, far hin, du hast die wal \ ich kann mich dein wol maßen \ im jar sind noch vil langer tag \ glück ist in allen gassen. Ride on, ride on, the choice is yours, I can measure up to you; there is many a long day left in the year, and fortune waits at every turn. '
 ---
 ## Introduction to the Source 

@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D-chrysanthemums-railings-wilt"
 identifier: tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D-chrysanthemums-railings-wilt
 textauthor: Yan Shu 晏殊
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: flowers, nature, loneliness, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D-chrysanthemums-railings-wilt.jpg
-imagesource: TBD 
+imagesource: 宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]'
 fulltext: '  Punctuation follows the edition. 鹊踏枝 To the tune "Magpie Treads the Branch" 檻菊愁煙蘭泣露。 Chrysanthemums by the railings wilt in the mist, the orchids weep dew. 羅幕輕寒， Inside the silken bed canopy Refers to silky curtain, mostly used in wealthy families. , it is slightly cold; 燕子雙飛去。 Swallows fly away in pairs. 明月不諳離恨苦。 The bright moon does not know the bitterness of parting; 斜光到曉穿朱戶。 Its slanting light penetrates my painted window until daybreak. 昨夜西風凋碧樹。 Last night, the west wind withered the emerald tree. 獨上高樓， Alone, I ascended the high tower Refers to an ancient Chinese tower, which is typically high and has many floors, originally for military usage, but when discarded, most towers became gathering places for poets alike. , 望盡天涯路。 to stare at the road that leads to the edge of the world. 欲寄彩箋兼尺素。 I want to send letters on colored paper Refers to the exquisite paper that people used to write poems or songs on. and white silk, 山長水闊知何處。 The mountains are wide, the rivers broad, how do I know where you are? '
 ---
 ## Introduction to the Text 

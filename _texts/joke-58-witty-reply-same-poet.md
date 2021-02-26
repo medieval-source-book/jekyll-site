@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-58-witty-reply-same-poet"
 identifier: joke-58-witty-reply-same-poet
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-58-witty-reply-same-poet.jpg
-imagesource: TBD 
+imagesource: Andrea del Castagno, Dante from the Cycle of Famous Men and Women, Galleria degli Uffizi, Florence [Image in Public Domain]'
 fulltext: '  Facetia LVIII Joke 58 Huic ipsi inter seniorem aliquando iunioremque Canes prandenti, cum ministri utriusque, dedita opera, ante pedes Dantis, ad eum lacessendum, ossa occulte subiecissent, Dante was once seated for dinner between the older and younger CangrandeLiterally "big dog", when their servants intentionally tried to hurt him by secretly throwing bones in front of his feet. remota mensa, versi omnes in solum Dantem, mirabantur, cur ante ipsum solummodo ossa conspicerentur. When the table was removed everyone turned toward Dante and wondered why there were bones in front of him only. Tum ille, ut erat ad respondendum promptus: To which Dante, always prepared to reply, said: 'Minime,' inquit, 'mirum, si Canes ossa sua comederunt: ego autem non sum Canis.' “It is little wonder if the dogs have eaten their bones, but I am not a dog!” '
 ---
 ## Introduction to the Source 

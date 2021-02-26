@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D-singer"
 identifier: tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D-singer
 textauthor: Yan Shu 晏殊
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: music, Singing, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia, Gender Sex and Sensuality: Writings on Women Men and Desire"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D-singer.jpg
-imagesource: TBD 
+imagesource: Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, National Palace Museum, Accesion Number: K2A000155N000000000PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 贈歌者 To a singer 家住西秦。 My family lived in the west of Qin, 賭博藝隨身。 I lived by my skills and talent in dancing and song; 花柳上、鬥尖新。 among all the blossoms and willows, “Blossoms and willows” is a euphemism for sexual relationships between men and women. I vied to stand out. 偶學念奴聲調， Occasionally I imitated the tunes of Niannu, Niannu is the name of a famous courtesan in the Tang dynasty, who was known for her excellence in singing. 有時高遏行雲。 my voice could halt floating clouds in their path. 蜀錦纏頭無數， I have countless Shu brocades and silks, Brocades produced in the Shu area (in present Sichuan) were exquisite and expensive. They were given to singers and dancers as rewards. Although singers and dancers did wrap Shu brocades around their heads as a form of ornament, here the persona says this to indicate her success as a singer. 不負辛勤。 my efforts were well-rewarded. 數年來往咸京道， For years now I have traveled between Xianyang and the capital. The singers usually travel a lot from work place to work place to accommodate the needs of officials. 殘杯冷炙謾消魂。 Leftover wine and cold food consume my spirit. 衷腸事、託何人。 To whom can I confide the things deep in my heart? 若有知音見採， If a patron who appreciated me would choose me, 不辭遍唱陽春。 I would willingly sing every one of the finest songs 一曲當筵落淚， Now, a single song at the banquet and my tears start to fall. 重掩羅巾。 Once again, I hide my face with the silk kerchief. '
 ---
 ## Introduction to the Text 

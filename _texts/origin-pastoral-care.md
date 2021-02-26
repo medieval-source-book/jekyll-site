@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/origin-pastoral-care"
 identifier: origin-pastoral-care
 textauthor: Anonymous
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 7th Century, 8th Century, 9th Century
-genres: History
-keywords: 500-1400, Popes--Biography, Pastoral care, Gaul, Goths, Romans
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [7th Century, 8th Century, 9th Century]
+genres: [History]
 textcollections: "Writing History: Chronicles, Legends and Anecdotes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/origin-pastoral-care.jpg
-imagesource: TBD 
+imagesource: Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John's College Oxford]'
 fulltext: '  All abbreviations in the manuscript witness have been expanded and the title "On the Origin of the Pastoral Care" has been added by the translator. Gregorius urbis romę æpiscopus hunc librum pastoralis curę scripsit pro excusatione episcoporum eo quod pelagius illius nutritor et romanę æcclesię princeps eum rogabat. Gregory, bishop of the city of Rome, wrote this book of pastoral care for the benefit of bishops because Pelagius, his mentor and head of the Roman church, ut post se episcopi locum tenuisset. asked that he take the place of bishop after him. et in gallia lugdunensi conscripsit huius libri incepta. And in Lyonnais Gaul he composed the beginnings of this book et in gallia belgica consummata est id est in ciuitate que dicitur brigalis and in Belgian Gaul it was completed, that is, in the city that is called Bruges, quia gregorius principatum uitare uolens in occidentales plagas gallorum fugerat. because Gregory, wanting to avoid leadership, had fled to the western regions of Gaul. et alii putant quia imperatoris de gothis vel insani regis romanorum tempore hic liber conscriptus est in quo narrat gregorius opus esse difficile principatum æcclesię; And others think that this book, in which Gregory recounts that leadership of the Church is difficult work, was begun at the time of the emperor of the Goths or of the demented leader of the Romans. Sanctus gregorius. annis. xiii. et. mensibus. x. et diebus. ix. rexit æcclesiam; St. Gregory ruled the Church for thirteen years and ten months and nine days. Gregorius grece uigil latine. “Gregorius” in Greek means vigil [“alert”] in Latin, et a uerbo gregorio. iii. coniugationes. quia inuenitur gregorite id est uigilate. and from the word “Gregorius” come three etymological connections because “gregorite” – that is, vigilate [“you (pl.) watch”] – is found. '
 ---
 ## Introduction to the Source 

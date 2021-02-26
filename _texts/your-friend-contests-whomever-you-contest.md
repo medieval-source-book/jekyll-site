@@ -1,22 +1,21 @@
 ---
 layout: text
 sidebar: left
-title: '"Your friend contests whomever you contest" | ""صديقك من يعادي من تعادي", "8th Century, 9th Century'
+title: '"Your friend contests whomever you contest" | صديقك من يعادي من تعادي'
 engtitle: '"Your friend contests whomever you contest"'
-origtitle: '""صديقك من يعادي من تعادي", "8th Century, 9th Century'
+origtitle: 'صديقك من يعادي من تعادي'
 breadcrumb: true
 permalink: "text/your-friend-contests-whomever-you-contest"
 identifier: your-friend-contests-whomever-you-contest
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: Arabic, Middle East and North Africa
-periods: 
-genres: Poetry
-keywords: Poetry, friendship, Enemies
+languages: [Arabic, Middle East and North Africa]
+periods: [8th Century, 9th Century]
+genres: [Poetry]
 textcollections: "Prayer Spirituality and Life after Death: Global Medieval Perspectives"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/your-friend-contests-whomever-you-contest.png
-imagesource: TBD 
+imagesource: Page from a manuscript on horsemanship, Hegira 9th century / AD 15th century, Paper with watercolour painting and writing in black and red ink. Museum of Islamic Art, Cairo [Image in Public Domain]'
 fulltext: '  For clarification, I have added diacritics to letters left unmarked in this edition. من ديوان الشافعي from Dīwān al-Shāfiʿī صديقك مَن يُعادي مَن تُعاديبطول الدَّهر ما سجع الحمامُ Your friend contests whomever you contestSo long as pigeons coo; ويُوفي الدَّينَ عنك بغير مَطْلٍولا يمنُن به أبَداً دوامُ Pays without delay your debt,Never guilting you. فإن صافى صديقك مَن تعاديويفرح حين ترشُقُك السِّهامُ Should your friend your foe underwrite,Enjoying arrows’ flight, فذاك هو العدوُّ بغير شكٍّتجنَّبه فصُحبته حرام Then surely he’s the foe, no doubt.Quit him. His friendship’s out. فإنَّا قد سمعنا بيت شعرٍشبيه الدُّر زينُه النِّظامُ: We heard a verse,Pearly in its framework: "إذا وافى صديقك مَن تُعاديفقد عاداك، وانفَصَل الكلامُ" “Once your friend upholds your foe, heCrosses, end of story.” '
 ---
 ## Introduction to the Text 

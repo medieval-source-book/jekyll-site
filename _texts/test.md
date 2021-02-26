@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/test"
 identifier: test
 textauthor: Test
-languages: English, Western Europe
-periods: 7th Century
-genres: Exemplum
-keywords: TEST
+languages: [English, Western Europe]
+periods: [7th Century]
+genres: [Exemplum]
 textcollections: ""
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/test.jpg
-imagesource: TBD 
+imagesource: TEST'
 fulltext: '  戀の心を On the topic of love. さても我が思ふ思よ遂にいかに何のかひなき詠のみして Well, well, here I am,so many feelings I feel!What will become of them,with this good-for-nothinggaze I keep giving my thoughts? '
 ---
 ## Credits

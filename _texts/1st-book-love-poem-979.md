@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/1st-book-love-poem-979"
 identifier: 1st-book-love-poem-979
 textauthor: Eifuku Mon'in 永福門院
-languages: Japanese, Asia
-periods: 14th Century
-genres: Tanka
-keywords: Waka, Japanese poetry--1185-1600, Japanese literature--Translations into English
+languages: [Japanese, Asia]
+periods: [14th Century]
+genres: [Tanka]
 textcollections: ""
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/1st-book-love-poem-979.jpg
-imagesource: TBD 
+imagesource: Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]'
 fulltext: '  戀の心を On the topic of love. さても我が思ふ思よ遂にいかに何のかひなき詠のみして Well, well, here I am,so many feelings I feel!What will become of them,with this good-for-nothinggaze I keep giving my thoughts? '
 ---
 ## Introduction to the Source 

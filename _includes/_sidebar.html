@@ -2,6 +2,13 @@
 	<div class="panel">
 		<p class="morse">{% if page.title == "Project Videos" %}projects{% endif %}{% if page.title == "Topics in DH" %}topics{% endif %}</p>
 		<h3 id="tocheader">Table of Contents</h3>
+		<p>PARASTUFF</p>
+		<p>PARASTUFF</p>
+		<p>PARASTUFF</p>
+		<p>PARASTUFF</p>
+<p>PARASTUFF</p>
+<p>PARASTUFF</p>
+<p>PARASTUFF</p>
 		<ul id="toc">
 		{% if page.title == "Project Videos" %}
 			{% assign projects = site.projects | sort: 'title' %}
@@ -15,6 +22,56 @@
 				<li data-topicid="{{ topic.identifier }}">{{ topic.title }}</li>
 			{% endfor %}
 		{% endif %}
+		
+		
+		{% assign authors = page.authors %}
+	  {% for author in authors %}
+	  <li><strong>Author:</strong><a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{author}}</a>
+	  {% unless forloop.last %}&nbsp;{% endunless %}
+	  {% endfor %}</li>
+		
+		
+		{% assign languages = page.languages %}
+  	  {% for language in languages %}
+  	  <li><strong>Language:</strong> <a href="{{site.baseurl}}/languages/{{language|slugize}}">{{language}}</a>
+  	  {% unless forloop.last %}&nbsp;{% endunless %}
+  	  {% endfor %}</li>
+		
+		
+		{% assign periods = page.periods %}
+    	  {% for period in periods %}
+    	  <li><strong>Period:</strong> <a href="{{site.baseurl}}/periods/{{period|slugize}}">{{period}}</a>
+    	  {% unless forloop.last %}&nbsp;{% endunless %}
+		  {% endfor %}</li>
+		  
+		{% assign genres = page.genres %}
+    	  {% for genre in genres %}
+    	  <li><strong>Genre: </strong> <a href="{{site.baseurl}}/genre/{{genre|slugize}}">{{genre}}</a>
+    	  {% unless forloop.last %}&nbsp;{% endunless %}
+		  {% endfor %}
+
+		{% if page.textcollection != '' %}<li><strong>Collection:</strong> <a href="{{site.baseurl}}/collections/{{page.textcollections|slugize}}">{{page.textcollections}}</li></a>{% endif %}
+		
+		
+		
+		
+		
+		<li>STUFF</li>
+		<li>STUFF</li>
+		<li>STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
+<li data-topicid="1">STUFF</li>
 		</ul>
 	</div>
 </aside>

@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D"
 identifier: %E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: Arabic, Middle East and North Africa
-periods: 8th Century, 9th Century
-genres: Poetry
-keywords: Classical Arabic literature, spiritual poetry, Islamic poetry
+languages: [Arabic, Middle East and North Africa]
+periods: [8th Century, 9th Century]
+genres: [Poetry]
 textcollections: "Prayer Spirituality and Life after Death: Global Medieval Perspectives"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D.jpg
-imagesource: TBD 
+imagesource: Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]'
 fulltext: '  من ديوان الشافعي from Dīwān al-Shāfiʿī ولو لا الشعر بالعلماء يزريلكنت اليوم أشعر من لبيد Were it not that poesy tarnished scholarsI would have now LabīdThe great Arab poet (d.c.660). outshone, وأشجع في الوغى من كل ليثوآل مهلب وبني يزيد Shown more courageous than every battle-lion,The House Muhallab,A powerful Arab family of generals and governors.the Banī Yazīd.The storied ruling tribe. ولولا خشية الرحمن ربيحسبت الناس كلهم عبيدي Were it not for fearing al-Raḥmān,A name of Allāh that encompasses the very possession of mercy.my Master,I would have counted the people—all people—my slaves. '
 ---
 ## Introduction to the Text 

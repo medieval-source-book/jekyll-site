@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-fisherman-proud-i-suddenly-heard"
 identifier: tune-fisherman-proud-i-suddenly-heard
 textauthor: Ouyang Xiu 歐陽修
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: flowers, wine, Metaphor, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-fisherman-proud-i-suddenly-heard.jpg
-imagesource: TBD 
+imagesource: Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses), Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 漁家傲 To the tune "The Fisherman Is Proud" 花底忽聞敲兩槳。 I suddenly heard the strike of two oars beneath the flowers; 逡巡女伴來尋訪。 After a short while, the girlfriends came visiting, 酒盞旋將荷葉當。 Substituting lotus leaves for wine cups. 蓮舟蕩, As the lotus boat rocks, 時時盞裏生紅浪。 Red ripples keep appearing in the cups. 花氣酒香清廝釀。 The aroma of the flowers and the scent of wine mingle together. 花腮酒面紅相向。 The flowers’ cheeks and the drinkers’ faces are equally red. 醉倚綠陰眠一餉。 Tipsy, I lay in the green shade to nap for a moment. 驚起望。 Startled awake, I arose to look: 船頭閣在沙灘上。 The bow of the boat was stranded on the beach. '
 ---
 ## Introduction to the Text 

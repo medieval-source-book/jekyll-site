@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/conclusion"
 identifier: conclusion
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/conclusion.jpg
-imagesource: TBD 
+imagesource: Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]'
 fulltext: '  Visum est mihi eum quoque nostris confabulationibus locum adiicere, in quo plures earum, tanquam in scena, recitatae sunt. I think I should also introduce the place where many of my conversations were recited as though on a scene. Is est ‘Bugiale’ nostrum, hoc est mendaciorum veluti officina quaedam, olim a secretariis institutum iocandi gratia. This place is our “Bugiale,” which is like a type of workshop for liars and was once founded by secretaries for the sake of amusement. Consuevimus enim, Martini Pontificis usque tempore, quemdam eligere in secretiori aula locum, in quo et nova referebantur, et variis de rebus, tum laxandi ut plurimum animi causa, tum serio quandoque, colloquebamur. Ever since the time of Pope Martin (V) we used to choose a place in a remote chamber where news was reported, but we also used to talk about many different things, often to relax our spirits, but sometimes also serious matters. Ibi parcebatur nemini in lacessendo ea quae non probabantur a nobis, ab ipso persaepe Pontifice initium reprehensionis sumpto: There no one would be spared when it came to criticising things we did not approve of, very often the pope himself would take the lead in this reproof. quo fiebat ut plures eo convenirent, veriti ne ab eis ordiremur. For this reason, it happened that many people gathered there for fear that we would start with them. Erant in eo principes fabulator Razellus Bononiensis, cuius nonnulla in confabulationes coniecimus; The leaders in this were the story-teller Razello di Bologna, some of whose stories I’ve thrown into this collection; Antonius item Luscus, qui saepius inseritur, vir admodum facetus; and Antonio Loschi, a witty man who is often introduced in this work; Cinciusque Romanus, et ipse iocis deditus. and Cincio Romano, also a man fond of jokes. Nos quoque plura e nostris addidimus non insulsa. And I also added many of my own not too inelegant stories. Hodie, cum illi diem suum obierint, desiit ‘Bugiale’, Today, after they have left us, the “Bugiale” has ceased to be. tum temporum, tum hominum culpa, omnisque iocandi confabulandique consuetudo sublata. Both time and men are to blame, and the entire custom to joke and converse has disappeared. '
 ---
 ## Introduction to the Source 

@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow"
 identifier: joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance, punishment, Archery
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow.png
-imagesource: TBD 
+imagesource: Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]'
 fulltext: '  Facetia LIV Joke 54 Viri nonnulli Camerinenses extra urbem exercitii causa sagittando tempus terebant. Some men from Camerino were passing the time outside of the city by practicing archery. Cum quispiam sagittam incautius emisisset, astantem procul Redolphum leviter vulneravit. When one of them fired an arrow carelessly, it happened to lightly wound Ridolfo, who was standing nearby. Capto illo, cum variae de poena inferenda sententiae dicerentur, et, ut quisque acerrime sentiret, ita se maxime Principi gratificaturum putaret, unus censuit manum illi esse amputandum, ne amplius arcu uteretur. The man was captured and different punishments were discussed, some thought it had to be very harsh so that it would be most pleasing to the prince, and one man even thought that the archer’s hand should be amputated so that he could never use a bow again. Redolphus liberum hominem dimitti iussit, dicens, illam futuram fuisse utilem sententiam, si id ante acceptum vulnus consilium dedisset. But Ridolfo ordered the archer to be set free and said that this would have been a useful punishment, if the man had given the advice before he was wounded. Plena prudentiae et humanitatis responsio. An answer full of wisdom and humanity. '
 ---
 ## Introduction to the Source 

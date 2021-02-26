@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/song-peter"
 identifier: song-peter
 textauthor: Anonymous
-languages: German, Western Europe
-periods: 9th Century
-genres: Lyric Verse / Song
-keywords: Hymns, liturgy, music, Apostles--Biography, Peter, the Apostle, Saint--Art, Heaven, German literature--Old High German--750-1050
+languages: [German, Western Europe]
+periods: [9th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Hymns and Histories: Early German Writings, 800-1000 CE, Prayer Spirituality and Life after Death: Global Medieval Perspectives"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/song-peter.png
-imagesource: TBD 
+imagesource: Detail from BSB MS Clm 6260, fol.158v'
 fulltext: '  Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript. Petruslied The Song of Peter ﻿Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian Our Lord gave Saint Peter the power to save ze imo dingenten man. kyrie eleyson christe eleyson. those entrusted to him. Kyrie eleison. Christe eleison. Er hapet ouh mit vuortun himriches portun. dar in mach er skerian With words, he also guards the gates of heaven through which he admits den er uuili nerian. kirie eleison criste [eleyson] those whom he wishes to save. Kyrie eleison. Christe eleison. Peter’s words can possibly be understood as the key to the gates of Heaven. According to Haug (1991), p.1119, this idea is present in other Latin hymns. Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer Let us entreat God’s disciple, loudly and in unison, so that he grants do ginaden This verse can also be found in Otfrid’s Gospel Harmony (I7,28), but with the Frankish form 'ginadon which results in an assonance instead of a rhyme. . kirie eleyson criste eleyson mercy to us sinners. Kyrie eleison. Christe eleison. '
 ---
 ## Introduction to the Source 

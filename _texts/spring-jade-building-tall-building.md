@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/spring-jade-building-tall-building"
 identifier: spring-jade-building-tall-building
 textauthor: Ouyang Xiu 歐陽修
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: love, loneliness, flowers, Gu ci, Melancholy, Chinese poetry--Song dynasty--960-1279
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/spring-jade-building-tall-building.jpg
-imagesource: TBD 
+imagesource: 宋米芾雲山煙樹(Smoke and Trees) 卷 , 米芾,  National Palace Museum, Accession Number: C2A000214N000000000PAH [Public Domain]'
 fulltext: '  Punctuation follows the edition. 玉樓春·湖邊柳外樓高處 To the tune “Spring in the Jade Building” 湖邊柳外樓高處。 In a tall building behind the willows by the lakeside, 望斷雲山多少路 How many roads in the misty mountains have I stared to the end of? 闌干倚遍使人愁， I have leant against all the railings, feeling disheartened; 又是天涯初日暮。 Again, the sun starts to set at the edge of the sky. 輕無管系狂無數。 Light without being tied down, The Chinese characters 管束 literally mean "discipline" and "obstacle". wild and numerous, 水畔花飛風裏絮。 Petals fly beside the water, willow catkins are blown by the wind. 算伊渾似薄情郎， They are just like my fickle lover, 去便不來來便去。 Leaving without returning, coming and soon departing. '
 ---
 ## Introduction to the Text 

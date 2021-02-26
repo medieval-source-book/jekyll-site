@@ -163,14 +163,7 @@ code{
 }
 .panel {
   margin-bottom: 2rem;
-  max-width: 40%;
 }
-
-.caption {
-  font-size: 70%;
-  line-height: 100%;
-}
-
 #lunrsearchresults {
   width: 100%;
   p{
@@ -766,6 +759,7 @@ body.frontpage{
       &:hover{
         transition: none;
         background: url(#{$baseurl}/assets/img/circle-brilliant-amber.svg) no-repeat -2px 2px;
+        line-height: 1rem;
       }
       & > a {
         &:before {
@@ -777,6 +771,7 @@ body.frontpage{
           font-family: $font-family-monospace;
           left: 1.2rem;
           top: 0.9rem;
+          line-height: 1rem;
         }
       }
       &.has-dropdown{
@@ -784,6 +779,7 @@ body.frontpage{
           &:before {
             content: "\FF0B";
             top: 1rem;
+            line-height: 1rem;
           }
         }
       }
@@ -832,12 +828,14 @@ body.frontpage{
     // Styling elements inside of dropdowns
     .dropdown {
       padding: 0;
+      line-height: 1rem;
       list-style: none;
       display: none;
       @include single-transition($default-float, $topbar-transition-speed);
       li {
         width: 100%;
         height: auto;
+        line-height: 1rem;
         position: relative;
         a {
           padding: 0.75rem 1rem;
@@ -852,6 +850,7 @@ body.frontpage{
             font-family: $font-family-monospace;
             left: 0.3rem;
             top: 0.7rem;
+            line-height: 1rem;
           }
         }
         &.has-dropdown{
@@ -860,6 +859,7 @@ body.frontpage{
               content: "\FF0B";
               top: 0.8rem;
               left: 0.2rem;
+              line-height: 1rem;
             }
           }
         }
@@ -1081,7 +1081,7 @@ body.frontpage{
   }
 }
 @media #{$middlebar-up} {
-
+  
 }
 
 @media #{$xlarge-up} {

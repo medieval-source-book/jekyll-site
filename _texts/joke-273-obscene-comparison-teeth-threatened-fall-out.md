@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-273-obscene-comparison-teeth-threatened-fall-out"
 identifier: joke-273-obscene-comparison-teeth-threatened-fall-out
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance, Aging
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-273-obscene-comparison-teeth-threatened-fall-out.jpg
-imagesource: TBD 
+imagesource: Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]'
 fulltext: '  Facetia CCLXXIII Joke 273 Episcopus mihi notus senior querebatur quosdam dentes sibi cecidisse, quosdam ita labare, ut eorum casum timeret. An older bishop I know used to complain that some of his teeth had fallen out, and that others were so loose that he feared they would fall out. Tum unus e familia: Then one of his kin said: Tum unus e familia: ‘Ne timeatis’ inquit ‘dentum casum’. “Don’t be afraid that they’ll fall out!” Petenti causam episcipo: When the bishop asked why, he replied: ‘Quia testiculi mei’ respondit ‘iam quadraginta annis pependerunt, casuro similes, et tamen nunquam ceciderunt’. “For forty years my testicles have already been hanging like they are about to fall off, but they have still never fallen off.” '
 ---
 ## Introduction to the Source 

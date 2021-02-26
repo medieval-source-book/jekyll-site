@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-sands-washing-stream-single-new-song-single-cup-wine"
 identifier: tune-sands-washing-stream-single-new-song-single-cup-wine
 textauthor: Yan Shu 晏殊
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: nature, loneliness, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-sands-washing-stream-single-new-song-single-cup-wine.jpg
-imagesource: TBD 
+imagesource: Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]'
 fulltext: '  Punctuation follows the edition. 浣溪沙 To the tune “Sands of the Washing Stream” 一曲新詞酒一杯。 A single new song, a single cup of wine 去年天氣舊亭臺。 On the old terrace in last year’s weather. 夕陽西下幾時回。 The setting sun has gone west, when will it return? 無可奈何花落去。 There’s no help for it, the blossoms fall and disappear; 似曾相識燕歸來。 I seem to recognize them, the swallows come back again. 小園香徑獨徘徊。 On the fragrant path refers to a path filled with the fragrant scent of flowers of the little garden, I linger alone. '
 ---
 ## Introduction to the Text 

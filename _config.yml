@@ -10,6 +10,12 @@
 # Title of your website
 title: Global Medieval Sourcebook
 
+
+permissions: 'Stanford strives to post only content for which we have licensed permission or that is otherwise permitted by copyright law. If you have a concern that your copyrighted material is posted here without your permission, please contact us and we will work with you to resolve your concern.'
+concept: 'The Global Medieval Sourcebook is an open-access online repository seeking to showcase the vibrant diversity of text production worldwide between 600 and 1600 CE.'
+license: 'Global Medieval Sourcebook by <a href="/">http://sourcebook.stanford.edu</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>.'
+
+
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'something'
 
@@ -18,16 +24,14 @@ slogan: 'something'
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>A <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> site designed by <a href="http://www.agilehumanities.ca">Agile Humanities</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
-permissions: 'Stanford strives to post only content for which we have licensed permission or that is otherwise permitted by copyright law. If you have a concern that your copyrighted material is posted here without your permission, please contact us and we will work with you to resolve your concern.'
-concept: 'The Global Medieval Sourcebook is an open-access online repository seeking to showcase the vibrant diversity of text production worldwide between 600 and 1600 CE.'
-license: 'Global Medieval Sourcebook by <a href="/">http://sourcebook.stanford.edu</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>.'
-
+corecontent: 'Content marked in amber is contributed by CMU and is offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
+contributedcontent: 'Content marked in blue is contributed by the community and offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://medieval-source-book.github.io'
+url: 'https://cmu-lib.github.io'
 baseurl: ''
-repositoryurl: 'https://github.com/medieval-source-book'
+repositoryurl: 'https://github.com/cmu-lib/dhlg'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -43,6 +47,15 @@ plugins:
     - jekyll-paginate
 
 collections:
+  topics:
+    output: false
+    permalink: /topics/:path/
+  projects:
+    output: true
+    permalink: /project-videos/:path/
+  interviews:
+    output: true
+    permalink: /getting-hired/:path/
   texts:
     output: true
     permalink: /text/:path/
@@ -68,6 +81,7 @@ collections:
     output: true
     permalink: /periods/:path/
     layout: periodpage
+
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown           : kramdown
@@ -243,7 +257,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-#google_analytics_tracking_id: UA-148157120-1
+google_analytics_tracking_id: UA-148157120-1
 
 
 

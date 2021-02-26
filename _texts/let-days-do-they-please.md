@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/let-days-do-they-please"
 identifier: let-days-do-they-please
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: Arabic, Middle East and North Africa
-periods: 8th Century, 9th Century
-genres: Poetry
-keywords: Wisdom literature, Advice in literature, Islamic poetry, medieval poetry
+languages: [Arabic, Middle East and North Africa]
+periods: [8th Century, 9th Century]
+genres: [Poetry]
 textcollections: ""
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/let-days-do-they-please.jpg
-imagesource: TBD 
+imagesource: Folio from a Qur'an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]'
 fulltext: '  For clarification, I have added diacritics to letters left unmarked in this edition. من ديوان الشافعي from Dīwān al-Shāfiʿī دع الأيام تفعل ما تشاءوطب نفساً بما حكم القضاء Let the days do as they please,And take heart with what destiny decreed. ولا تجزع لحادثة اللياليفما لحوادث الدنيا بقاء Don’t sweat the nights’ emergencies;The world’s afflictions lack perpetuity. وكن رجلا على الأهوال جلداًوشيمتك المروءة والوفاء Be a man indifferent to fear,Of noble, loyal nature. وإن كثرت عيوبك في البراياوسرّك أن يكون لها غطاء Should your faults accrue among creation,And you’d like to drape them, تستر بالسخاء فكل عيبيغطيه كما قيل السخاء Drape them with generosity, for every faultGenerosity enshrouds, as the saying goes. ولا تر للأعادي قط ذلاًفإن شماتة الأعدا بلاء Never show foes a fault;Their schadenfreude’s a sure misfortune. ولا ترج السماحة من بخيلفما في النار للظمآن ماء Expect no bounty from the miser;Jehennem waters not the parched. ورزقك ليس ينقصه التأنيوليس يزيد في الرزق العناء Unhurriedness will not diminish your provisions,Nor will overexertion increase them. ولا حزن يدوم ولا سرورولا بؤس عليك ولا رخاء Despondency passes, as does joy;Neither poverty nor affluence are on you. إذا ما كنت ذا قلب قنوعفأنت ومالك الدنيا سواء If you possess a satisfied heart,You own the world. ومن نزلت بساحته المنايافلا أرض تقيه ولا سماء On whomever Death descends with its appointment,No earth can shelter, no sky. وأرض الله واسعة ولكنإذا نزل القضا ضاق الفضاء Allāh’s earth is wide. However,When fate strikes the space contracts. دع الأيام تغدر كل حينفما يغني عن الموت الدواء Let the days betray every age,For death knows no antidote. '
 ---
 ## Introduction to the Text 

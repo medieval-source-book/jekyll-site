@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-%E2%80%9Cimmortal-river%E2%80%9D-beyond-willows"
 identifier: tune-%E2%80%9Cimmortal-river%E2%80%9D-beyond-willows
 textauthor: Ouyang Xiu 歐陽修
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: love, sex, Gu ci, Melancholy, Chinese poetry--Song dynasty--960-1279
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Cimmortal-river%E2%80%9D-beyond-willows.jpg
-imagesource: TBD 
+imagesource: Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 臨江仙 To the tune “Immortal by The River” 柳外輕雷池上雨， Beyond the willows there is light thunder, over the pond it rains. 雨聲滴碎荷聲。 The tinkle of the rain shatters the sound of lotus leaves. 小樓西角斷虹明。 At the western corner of the building, a rainbow appears. 欄干倚處， Leaning against the railings, 待得月華生。 I wait for the moonlight to emerge. 燕子飛來窺畫棟， Swallows fly by, peeking from the painted rafter. 玉鈎垂下簾旌。 I let down the curtain from the jade hooks. 凉波不動簟紋平。 The cool waves no longer move, the bamboo mat is still. 水精雙枕， Beside a pair of crystal pillows, 傍有墮釵橫。 a fallen hairpin lies. '
 ---
 ## Introduction to the Text 

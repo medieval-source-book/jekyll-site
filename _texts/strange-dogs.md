@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/strange-dogs"
 identifier: strange-dogs
 textauthor: Hong Mai 洪邁
-languages: Chinese, Asia
-periods: 12th Century
-genres: History
-keywords: weather, Chinese literature--Song dynasty--960-1279, China--History--Song dynasty--960-1279--Anecdotes
+languages: [Chinese, Asia]
+periods: [12th Century]
+genres: [History]
 textcollections: "Writing History: Chronicles, Legends and Anecdotes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/strange-dogs.jpg
-imagesource: TBD 
+imagesource: Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]'
 fulltext: '  犬異 Strange Dogs 金國天會十四年四月中, In the fourteenth year of the Tianhui era of the State of Jin, 京小雨, it was raining in the capital. 大雷震, There occurred a huge thunderbolt. 群犬數十爭赴土河而死, Several tens of dogs ran in group into the Tu River and died. 所可救者才一二耳。 Only one or two were rescued and survived. '
 ---
 ## Introduction to the Text 

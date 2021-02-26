@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-magnolia-flower-water-pond"
 identifier: tune-magnolia-flower-water-pond
 textauthor: Yan Shu 晏殊
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: love, nature, Dance, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-magnolia-flower-water-pond.jpg
-imagesource: TBD 
+imagesource: Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 木蘭花 To the tune “Magnolia Flower” 池塘水綠風微暖。 The water in the pond is green, and the wind is slightly warm. 記得玉真初見面。 I remember meeting Yuzhen Generally refers to beautiful singers and dancers. for the first time. 重頭歌韻響錚琮， The double-head song If a tune has the same beat in its two stanzas, it is called a double-head song. is loud and emotional, 入破舞腰紅亂旋。 As it began the coda The greater songs in the Tang and Song dynasties usually consist of three chapters, and po is the name of the final chapter, which is usually with a quick tempo. The character literally means “to break in” or “to break apart.” , her waist swung and her red skirt swirled. 玉鉤闌下香階畔。 By the railings under the jade hooks The curtain over the doorway is hung on jade hooks. and in front of the fragrant steps, 醉後不知斜日晚。 I was drunk, not knowing that the sun had slanted and the time was late. 當時共我賞花人， The men who appreciated the flowers with me at that time, 點檢如今無一半。 Now as I count them, are fewer than half. '
 ---
 ## Introduction to the Text 

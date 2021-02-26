@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-121-brilliant-dantes-joke"
 identifier: joke-121-brilliant-dantes-joke
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history—humor, Renaissance
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-121-brilliant-dantes-joke.jpg
-imagesource: TBD 
+imagesource: Domenico di Michelino, La commedia illumina Firenze, from the Duomo di Firenze, 1456 [Public Domain]'
 fulltext: '  Facetia CXXI Joke 121 Dantes, Poeta noster, cum exul Senis esset, et aliquando in ecclesia Minorum, cubito super altare posito, cogitabundus aliquid secretius scrutaretur animo, When our poet Dante was in exile in Siena, he was once in a mendicant church where he was searching his soul and privately pondering something. accessit ad eum quidam, nescio quid molestius petens. A man then walked up to him and asked something very annoying. Tum Dantes: 'Dic mihi,' inquit, 'quae est maxima omnium belluarum?' To which Dante replied: “Tell me, which is the biggest of all animals?” At ille: -- 'Elephas,' respondit. “The elephant”, the man replied. Cui Dantes: Dante then told him: 'O elephas! sine me,' inquit, 'maiora verbis tuis cogitantem, noli esse molestus.' “Oh elephant, leave me alone to ponder things greater than your words and stop being annoying!" '
 ---
 ## Introduction to the Source 

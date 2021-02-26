@@ -1,22 +1,21 @@
 ---
 layout: text
 sidebar: left
-title: '"Whoever repays loyalty with falsehood" | ""Wer trew mit valsch vergelten wil", "16th Century'
+title: '"Whoever repays loyalty with falsehood" | "Wer trew mit valsch vergelten wil"'
 engtitle: '"Whoever repays loyalty with falsehood"'
-origtitle: '""Wer trew mit valsch vergelten wil", "16th Century'
+origtitle: '"Wer trew mit valsch vergelten wil"'
 breadcrumb: true
 permalink: "text/whoever-repays-loyalty-falsehood"
 identifier: whoever-repays-loyalty-falsehood
 textauthor: Erhard Oeglin
-languages: German, Western Europe
-periods: 
-genres: Lyric Verse / Song
-keywords: love, Love songs, Old High German songs, Music--16th century, Canzonets (Part songs)--German
+languages: [German, Western Europe]
+periods: [16th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/whoever-repays-loyalty-falsehood.jpg
-imagesource: TBD 
+imagesource: Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.45v [Public Domain]'
 fulltext: '  Wer trew mit valsch vergelten wil / Whoever repays loyalty with falsehood, der hat das spil / has lost the game in aller wellt mit recht verloren / for all to see, and with good reason, und kündt er schiessen noch sovil / and if he could shoot even more, er trifft kayn zil / he still wouldn’t hit a target: ich wolt es gult im seine oren / I’d hope that it costs him his ears. prauch allen fleis / er wird mit solcher weys / No matter how hard he tries, der khegel nit vil scheiben / er hat kain glückh / he won't hit many pins weyl er solch tückh thůt treyben. because he acts so wickedly. Ich hann zwar lanng auff das gewart / I’ve indeed waited a long time ob er ayn fart / for him to someday trew gůttat wurd noch recht erkennen / correctly understand loyalty and integrity, die mich můß ewig rewen hart / which will pain me sorely forever. hyetz woll erspart / Now spared this ein närrin můß ich mich selbs nennen / I must call myself a foolish woman. will suchen weg / I want to find a way damit ich füran pfleg / to ensure der rue unnd mich verhüte / a quiet life from now on and keep myself away vor solchem gwin / from such a reward; das ist mein sin und gmüte. this is my mind and intention. Will mich wol schicken recht darein / I will resign myself to this und mercken feyn / and remember wie er sich than hat gen mir halten / how he acted towards me; verschlossen ist das hertze mein / my heart is closed off from him recht wye ayn schreyn / just like a chest; vor im wil mein selbs walten / I’ll take care of myself, ob kem ayn not / in case I risk das ich nit fall in spot / being ridiculed; [in the case] that people say von im wer ich verlassen / it was him who left me! verstee gantz wol / I truly know das ich mich sol / sein massen. that I should stay away from him. '
 ---
 ## Introduction to the Source 

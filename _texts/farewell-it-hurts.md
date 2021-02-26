@@ -1,22 +1,21 @@
 ---
 layout: text
 sidebar: left
-title: '"Farewell! It hurts" | ""Ade mit layd", "16th Century'
+title: '"Farewell! It hurts" | Ade mit layd'
 engtitle: '"Farewell! It hurts"'
-origtitle: '""Ade mit layd", "16th Century'
+origtitle: 'Ade mit layd'
 breadcrumb: true
 permalink: "text/farewell-it-hurts"
 identifier: farewell-it-hurts
 textauthor: Erhard Oeglin
-languages: German, Western Europe
-periods: 
-genres: Lyric Verse / Song
-keywords: love, Love songs, Old High German songs, Music--16th century, Canzonets (Part songs)--German
+languages: [German, Western Europe]
+periods: [16th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/farewell-it-hurts.jpg
-imagesource: TBD 
+imagesource: Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.22r [Public Domain]'
 fulltext: '  Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript. Ade mit layd Farewell! It hurts Ade mit layd / ich von dir schayd / dardurch mein hertz / unseglich schmertz / all stund empfind / und ist entzynd / in jamers wee / ade ade / on dich lusst mich kaynr frewden me. Farewell! It hurts to part from you; my heart feels unspeakable torment constantly and burns with sorrow’s woe. Farewell, farewell! Without you, no joy can amuse me. Ade mein freyd / der ich kayn zeit / zů sechen an / verdriess möcht han / das ist mir gwenndt / und bin ellendt / in layd ich stee / ade ade / on dich lusst mich kaynr frewden me. Goodbye to you, my joy, whom I could never look at with revulsion. Things have changed for me and I’m a wretch: I live in pain. Farewell, farewell! Without you no joy can amuse me. Ade / gedenck dein trew nit krenck / und hallt recht maß / vergiß nit das / als du wol waist / dein trew mir laist / hinfür als ee / ade ade / on dich lusst mich kaynr frewden me. Farewell! Consider this: don’t let your loyalty waver and continue to live in upstanding modesty. Don’t forget what you well know. Lend me your loyalty from now on as before. Farewell, farewell! Without you no joy can amuse me. '
 ---
 ## Introduction to the Source 

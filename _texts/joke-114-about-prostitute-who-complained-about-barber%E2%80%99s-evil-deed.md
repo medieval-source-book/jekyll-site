@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed"
 identifier: joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed
 textauthor: Poggio Bracciolini
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 15th Century
-genres: Humor
-keywords: humor, history---humor, obscene words, erotic literature, Renaissance, Prostitutes in literature
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [15th Century]
+genres: [Humor]
 textcollections: "Facetiae: A Collection of Early Modern Jokes"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed.jpg
-imagesource: TBD 
+imagesource: Barber from The Courtly Household Cards. Kunsthistorisches Museum Wien, Kunstkammer (KK 5088) [Public Domain]'
 fulltext: '  Facetia CXIV Joke 114 Magistratus est Florentiae, quem Officiales honestatis vocant: In Florence there is a magistracy called the Office of Respectability, horum praecipua cura est in iure meretricibus dicendo, curandoque ut in omni civitate absque molestia esse possint. whose main responsibility it is to preside over legal matters pertaining to prostitutes and to make sure that they can work untroubled all through the city. Accessit ad eos semel meretrix, questa iniuriam damnumque a tonsore illatum, Once a prostitute came to this office and complained that she had suffered injury and damage from a barber. qui in balneum accersitus ab ea ut partes inferiores raderet, rasorio ita cunni partem incidit, ut pluribus diebus homines admittere nequivisset, He had been summoned to the baths to shave her nether parts, but he had cut a part of the pussy with the razor so bad that she could not receive men for several days. ex quo damni infecti illum accusabat, amissi lucri restitutionem petens. For this she accused him of anticipated damage and asked to be repaid the lost income. Quaeritur quae sit futura sententia? One wonders what the judgment might be? '
 ---
 ## Introduction to the Source 

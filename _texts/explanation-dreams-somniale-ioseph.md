@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/explanation-dreams-somniale-ioseph"
 identifier: explanation-dreams-somniale-ioseph
 textauthor: Anonymous
-languages: Latin, The Americas, Western Europe, Eastern Europe
-periods: 13th Century
-genres: Handbook
-keywords: Divination, Oracles, Oneiromancy, Dreams
+languages: [Latin, The Americas, Western Europe, Eastern Europe]
+periods: [13th Century]
+genres: [Handbook]
 textcollections: ""
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/explanation-dreams-somniale-ioseph.jpg
-imagesource: TBD 
+imagesource: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]'
 fulltext: '  Pilcrows, other punctuation, line-breaks, and spacing follow the manuscript. ¶ In .A. significat adiutorium domini. ¶ An .A. signifies the help of the Lord. ¶ In .B. significat aliquod bonum. ¶ A .B. signifies something good. ¶ In .C. significat sanguinem. ¶ A .C. signifes blood. ¶ In .D. significat inimicum. ¶ A .D. signifies an enemy. ¶ In .E. significat noua uidere uel audire. ¶ An .E. signifies hearing or seeing strange things. ¶ In .F. significat malum prope esse. ¶ An .F. signifies that evil is near. ¶ In .G. significat gaudium. ¶ A .G. signifies delight. ¶ In .H. significat ad esse gaudium. ¶ An .H. signifies a coming delighted. ¶ In .I. significat alibi ire. ¶ An .I. signifies going somewhere. ¶ In .K. significat in eodem loco stare. ¶ A .K. signifies staying put. ¶ In .L. significat leticiam ed esse. ¶ An .L. signifies being happy. ¶ In .M. significat aliquod magnum. ¶ An .M. signifies something large. ¶ In .N. significat aloquod contrarium. ¶ An .N. signifies something conflicting. ¶ In .O. significat elemosinam facere. ¶ An .O. signifies giving alms. ¶ In .P. significat pietatem exercere. ¶ A .P. signifies working dutifully. ¶ In .Q. significat ad deum curere. ¶ A .Q. signifies attending to God. ¶ In .R. significat fossa mortis. ¶ An .R. signifies grave peril. ¶ In .S. significat salutem domini. ¶ An .S. signifies deliverance by the Lord. ¶ In .T. significat tristiciam ad esse. ¶ A .T. signifies being sad. ¶ In .V. Significat uenire adorare. ¶ A .V. signifies coming to worship. ¶ In .X. significat saluatorem ad esse. ¶ An .X. signifies the coming of the savior. ¶ In .Y. significat id adiuuare. ¶ A .Y. signifies His aid. As in divine aid. ¶ In .Ç. significat mortem adesse. ¶ A .Ç. Signifies a coming death. '
 ---
 ## Introduction to the Source 

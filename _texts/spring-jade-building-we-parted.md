@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/spring-jade-building-we-parted"
 identifier: spring-jade-building-we-parted
 textauthor: Ouyang Xiu 歐陽修
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: love, loneliness, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/spring-jade-building-we-parted.jpg
-imagesource: TBD 
+imagesource: Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  National Palace Museum, Accession Number: K2A000996N000000000PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 玉春樓 To the tune “Spring in the Jade Building” 別後不知君遠近。 Since we parted I do not know how far away you are, 觸目淒涼多少悶。 Whatever meets my eye looks desolate, so much sadness! 漸行漸遠漸無書， The longer we are apart, the further away you are, the fewer letters sent. 水闊魚沉何處問。 The water is wide and the fish has sunk,a common idiom to express a lack of communication where can I ask about you? 夜深風竹敲秋韻。 The night is late, the wind-blown bamboos strike the autumn rhyme.Refers to "The Sound of Autumn", a famous song for the erhu, a traditional Chinese string instrument. 萬葉千聲皆是恨。 In the thousand notes made by tens of thousands of leaves, there is nothing but regret. 故欹單枕夢中尋， Thus I lean onto the lonesome pillow to search for you in my dream, 夢又不成燈又燼。 Yet the dream does not come and the lamp is burnt out. '
 ---
 ## Introduction to the Text 

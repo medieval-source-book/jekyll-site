@@ -1,22 +1,21 @@
 ---
 layout: text
 sidebar: left
-title: '"Our vicar is away" | ""Unser pfarrer ist auf der pan", "16th Century'
+title: '"Our vicar is away" | Unser pfarrer ist auf der pan'
 engtitle: '"Our vicar is away"'
-origtitle: '""Unser pfarrer ist auf der pan", "16th Century'
+origtitle: 'Unser pfarrer ist auf der pan'
 breadcrumb: true
 permalink: "text/our-vicar-away"
 identifier: our-vicar-away
 textauthor: Erhard Oeglin
-languages: German, Western Europe
-periods: 
-genres: Lyric Verse / Song
-keywords: love, Love songs, Old High German songs, Music--16th century, Canzonets (Part songs)--German
+languages: [German, Western Europe]
+periods: [16th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/our-vicar-away.jpg
-imagesource: TBD 
+imagesource: Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46v [Public Domain]'
 fulltext: '  Unser pfarrer ist auf der pan / Our vicar is away. was getz dich an / What’s it to you? ich wais und kan / I can and know how dy junngen feilel müstern über gan / to ogle the young violets as I go. es fleügt do her ein weisser schwan / A white swan flies by, wil kurtzweil han / it wants to have fun; er prangt gar schan / it shows off nicely: do můsst ich armer půb gar pald dar von / Thus I, poor lad that I am, soon had to leave. ich gyeng durch ayn zerrissens haus / I walked through a tumbled-down house; still was dy maus / the mouse was quiet, sy ruckt her aus / ayn flügel mein gans / my goose spread apart her wings: gyng gang / gyng gang / gyng gang, gyng gang also laut unser gsang / - so our song goes. schaubhůt der ist fürd sunnen gůt / A straw hat, it’s good for the sun. das pferd ist wild kumbt aus der stůt / The horse is wild, it comes from the mare. das pferd ist will kumpt aus der stůt. The horse is wild, it comes from the mare. '
 ---
 ## Introduction to the Source 

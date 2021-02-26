@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/tune-%E2%80%9Csands-washing-stream%E2%80%9D-moments-time"
 identifier: tune-%E2%80%9Csands-washing-stream%E2%80%9D-moments-time
 textauthor: Yan Shu 晏殊
-languages: Chinese, Asia
-periods: 11th Century
-genres: Lyric Verse / Song
-keywords: time, loneliness, Gu ci, Melancholy
+languages: [Chinese, Asia]
+periods: [11th Century]
+genres: [Lyric Verse / Song]
 textcollections: "Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Csands-washing-stream%E2%80%9D-moments-time.jpg
-imagesource: TBD 
+imagesource: Detail from 宋人十八學士圖(Scholar Talking)軸, Anonymous, National Palace Museum, Accession Number: K2A000857N000000000PAA [Public Domain]'
 fulltext: '  Punctuation follows the edition. 浣溪沙 To the tune “Sands of the Washing Stream” 一向年光有限身。 Moments of time and limited life, 等閒離別易銷魂。 Even casual partings can easily consume the soul. 酒筵歌席莫辭頻。 Do not decline the chance to drink with friends and listen to songs. 滿目山河空念遠， Mountains and rivers fill up my eyes, I yearn in vain for the one faraway. 落花風雨更傷春。 The falling flowers and windy rains engrave the spring melancholy. 不如憐取眼前人。 Best to love the one before your eyes. '
 ---
 ## Introduction to the Text 

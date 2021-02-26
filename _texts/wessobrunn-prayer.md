@@ -8,15 +8,14 @@ breadcrumb: true
 permalink: "text/wessobrunn-prayer"
 identifier: wessobrunn-prayer
 textauthor: Anonymous
-languages: German, Western Europe
-periods: 9th Century
-genres: Devotional Verse
-keywords: prayer, Alliteration, German literature--Old High German--750-1050
+languages: [German, Western Europe]
+periods: [9th Century]
+genres: [Devotional Verse]
 textcollections: "Hymns and Histories: Early German Writings, 800-1000 CE, Prayer Spirituality and Life after Death: Global Medieval Perspectives"
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/wessobrunn-prayer.jpg
-imagesource: TBD 
+imagesource: Image in Public Domain'
 fulltext: '  De Poeta / Das Wessobrunner Gebet Of the Creator / The Wessobrun Prayer Dat gafregin ih mit firahim firiuuizzo meista, This I learned among men as the greatest wonder, dat ero ni uuas noh ûfhimil, That [once] there was neither earth nor heaven above, noh paum ... noh pereg ni uuas, ni ... nohheinîig, Nor was there tree ... nor mountain nor…. anything, noh sunna ni scein nor did the sun shine, no mâno ni liuhta, nor did the moon glow, noh der mâreo sêo. nor [was there] the great sea. Dô dâr niuuiht ni uuas enteo ni uuenteo, When there was nothing, neither end nor change, enti dô uuas der eino almahtîco cot, manno miltisto, there was the one almighty God, the most generous of all beings, enti dâr uuârun auh manake mit inan cootlîhhe geistâ. and with him there were many glorious spirits. enti cot heilac… And the holy God… Cot almahtico, Almighty God, du himil enti erda gaworachtos, You who created heaven and earth, enti du mannun so manac coot forgapi, And gave men so many good blessings, forgip mir in dino ganada in your mercy, grant me rehta galaupa true faith enti cotan willeon, and good will, wistom enti spachida enti craft, wisdom and cleverness and strength tiuflun za widarstantanne, enti arc za piwisanne endi dinan to resist the devil, and to shun evil and willeon za gauurchanne. to work your will. '
 ---
 ## Introduction to the Source 
