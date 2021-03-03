@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: genrepage
 title: Play
 tag: Play
 ---

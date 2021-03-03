@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 114: About the prostitute who complained about the barber’s evil deed | Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio'
-engtitle: 'Joke 114: About the prostitute who complained about the barber’s evil deed'
-origtitle: 'Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio'
+title: |
+  Joke 114: About the prostitute who complained about the barber’s evil deed | Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio
+engtitle: |
+  Joke 114: About the prostitute who complained about the barber’s evil deed
+origtitle: |
+  Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio
 breadcrumb: true
 permalink: "text/joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed"
-identifier: joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed
+identifier: "joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed.jpg
-imagesource: Barber from The Courtly Household Cards. Kunsthistorisches Museum Wien, Kunstkammer (KK 5088) [Public Domain]'
-fulltext: '  Facetia CXIV Joke 114 Magistratus est Florentiae, quem Officiales honestatis vocant: In Florence there is a magistracy called the Office of Respectability, horum praecipua cura est in iure meretricibus dicendo, curandoque ut in omni civitate absque molestia esse possint. whose main responsibility it is to preside over legal matters pertaining to prostitutes and to make sure that they can work untroubled all through the city. Accessit ad eos semel meretrix, questa iniuriam damnumque a tonsore illatum, Once a prostitute came to this office and complained that she had suffered injury and damage from a barber. qui in balneum accersitus ab ea ut partes inferiores raderet, rasorio ita cunni partem incidit, ut pluribus diebus homines admittere nequivisset, He had been summoned to the baths to shave her nether parts, but he had cut a part of the pussy with the razor so bad that she could not receive men for several days. ex quo damni infecti illum accusabat, amissi lucri restitutionem petens. For this she accused him of anticipated damage and asked to be repaid the lost income. Quaeritur quae sit futura sententia? One wonders what the judgment might be? '
+imagesource: |
+  Barber from The Courtly Household Cards. Kunsthistorisches Museum Wien, Kunstkammer (KK 5088) [Public Domain]
+fulltext: |
+    Facetia CXIV Joke 114 Magistratus est Florentiae, quem Officiales honestatis vocant: In Florence there is a magistracy called the Office of Respectability, horum praecipua cura est in iure meretricibus dicendo, curandoque ut in omni civitate absque molestia esse possint. whose main responsibility it is to preside over legal matters pertaining to prostitutes and to make sure that they can work untroubled all through the city. Accessit ad eos semel meretrix, questa iniuriam damnumque a tonsore illatum, Once a prostitute came to this office and complained that she had suffered injury and damage from a barber. qui in balneum accersitus ab ea ut partes inferiores raderet, rasorio ita cunni partem incidit, ut pluribus diebus homines admittere nequivisset, He had been summoned to the baths to shave her nether parts, but he had cut a part of the pussy with the razor so bad that she could not receive men for several days. ex quo damni infecti illum accusabat, amissi lucri restitutionem petens. For this she accused him of anticipated damage and asked to be repaid the lost income. Quaeritur quae sit futura sententia? One wonders what the judgment might be? 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

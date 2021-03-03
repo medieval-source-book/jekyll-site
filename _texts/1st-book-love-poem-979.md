@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'From the 1st Book of Love. Poem 979. | 戀歌一、９７９'
-engtitle: 'From the 1st Book of Love. Poem 979.'
-origtitle: '戀歌一、９７９'
+title: |
+  From the 1st Book of Love. Poem 979. | 戀歌一、９７９
+engtitle: |
+  From the 1st Book of Love. Poem 979.
+origtitle: |
+  戀歌一、９７９
 breadcrumb: true
 permalink: "text/1st-book-love-poem-979"
-identifier: 1st-book-love-poem-979
+identifier: "1st-book-love-poem-979"
 textauthor: Eifuku Mon'in 永福門院
 languages: [Japanese, Asia]
 periods: [14th Century]
 genres: [Tanka]
-textcollections: ""
+textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/1st-book-love-poem-979.jpg
-imagesource: Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]'
-fulltext: '  戀の心を On the topic of love. さても我が思ふ思よ遂にいかに何のかひなき詠のみして Well, well, here I am,so many feelings I feel!What will become of them,with this good-for-nothinggaze I keep giving my thoughts? '
+imagesource: |
+  Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]
+fulltext: |
+    戀の心を On the topic of love. さても我が思ふ思よ遂にいかに何のかひなき詠のみして Well, well, here I am,so many feelings I feel!What will become of them,with this good-for-nothinggaze I keep giving my thoughts? 
 ---
 ## Introduction to the Source 
 <p>The <em>Fūga wakashū</em> imperial anthology was commissioned and compiled between 1344 and 1346 by retired Emperor Hanazono (1297-1348), the son of Eifuku Mon’in. The <em>Fūga wakashū</em> contains twenty volumes with a total of 2,210 poems. The anthology is the second and final imperial anthology to prominently feature Kyōgoku school poetry, the first being the <em>Gyokuyō wakashū</em> (c. 1313-14). It also features many poets from the Reizei poetry school.</p> <p>It is notable that Hanazono involved himself to such an extent in the creation of the anthology. Normally, the emperor commissioning the work would have several compilers gather the poems, arrange them into sections, and make decisions on how to transcribe the poems, after which the emperor would inspect the final draft. Hanazono was trained by his mother Eifuku in the Kyōgoku style and personally knew many of the poets included in the collection. It is unsurprising, then, that Honazono compiled the anthology himself, not to mention his writing the Chinese and Japanese prefaces to the anthology.</p> <p>Two of the earliest surviving manuscripts of the<em> Fūga wakashū</em> date back to a time roughly contemporary with the compilation of the text. One is a fragment stored in <a href="http://library.tsurumi-u.ac.jp/opac/opac_link/bibid/1000064153">Tsurumi University’s Special Collections</a>; the other is a partial manuscript containing the seventeenth volume, which was transcribed by the Buddhist poet Ton’a, and which is stored at the <a href="https://core.ac.uk/download/pdf/235263481.pdf">Itsuō Art Museum in Ōsaka</a>. A later manuscript produced in the late Muromachi period containing the tenth volume of <em>Fūga wakashū </em>(Love Book One) has been digitized and <a href="http://www.archives.kyoto.jp/websearchpe/detail?cls=152_old_books_catalog&pkey=0000000144">viewable at the Kyoto Institute, Library, and Archives</a>. An example of a digitized manuscript containing all volumes of the text can be found <a href="https://kotenseki.nijl.ac.jp/biblio/200006882/viewer/115">here</a>. There are many examples of the text reproduced in woodblock print form during the Edo Period, such as <a href="http://dl.ndl.go.jp/info:ndljp/pid/2579178">this beautiful digitized book</a>. Although the transmission of the text appears stable, variants between manuscripts exist. A list of <em>Fūga wakashū</em> manuscripts containing variants can be found on page iv of Iwasa Miyoko’s edition of the text (2004).</p>

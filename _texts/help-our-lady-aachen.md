@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: '"Help, our lady of Aachen!" | "Hilf fraw von Ach"'
-engtitle: '"Help, our lady of Aachen!"'
-origtitle: '"Hilf fraw von Ach"'
+title: |
+  "Help, our lady of Aachen!" | ""Hilf fraw von Ach", "16th Century
+engtitle: |
+  "Help, our lady of Aachen!"
+origtitle: |
+  ""Hilf fraw von Ach", "16th Century
 breadcrumb: true
 permalink: "text/help-our-lady-aachen"
-identifier: help-our-lady-aachen
+identifier: "help-our-lady-aachen"
 textauthor: Erhard Oeglin
 languages: [German, Western Europe]
 periods: [16th Century]
 genres: [Lyric Verse / Song]
-textcollections: "Love Songs of the Medieval World: Lyrics from Europe and Asia"
+textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/help-our-lady-aachen.jpg
-imagesource: Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v [http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00082229]'
-fulltext: '  Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript. Hilf fraw von Ach Help, our lady of Aachen! Hilf fraw von Ach / wie schwach / on masz ich armer sünder bin / und pald ist hyn / mein syn / on gwyn / zů verfüren / spüren / mag ich grüntlich / das got misfelt / der welt / undanckparkait / O rayne mayt / Maria zart / wie hart / mir das zů hertzen / will dringen zwar / gnad mir nit spar / vnnd nymb meinn war / fraw durch dein syben schmertzen. Help, our lady of Aachen! How immeasurably weak I, poor sinner, am! Soon I will lose my senses in vain, I’m being led astray. I can definitely tell that God is displeased at the world's ingratitude Oh, immaculate maiden, tender Mary! How hard this weighs on my heart. Don't spare me your mercy and hear me, My Lady, by your seven sorrows! O iungkgfraw rayn / on nayn / alzeit der sunder trösterinn / was ich begynn / dennck synn / von hynn / müß ich mich wenden / enden sol sich / umb mich / der welde lust / umb sust / ist aller můt / unnd hilfft kain gůt / ich muß daran / unnd kann / den tod nit fliechenn / dan das ich bitt / versag mit nit / und tayl mir mit / dein gnad on alls verziechen. Oh, immaculate virgin, who without doubt always consoles sinners. Whatever I start, think or come up with, I have to turn myself away from it; around me the world’s pleasure has to come to an end. All bravery is in vain, no wealth can help, I must face it and I can’t flee from death, so I ask you: don’t deny me, and impart on me your grace without delay. Der welde hayl / on mayl bistu Maria ewiklich / und frew auch mich / der täglich dich / mit fleiß thůt eren / geren / ertzaygst / und naygst / dich gottes arch / und sarch / dem sünder zůe / O fraw das thůe / ytz in der nott / zum todt / vill kranckhait schweben / erwirb mir huld / das ich mein schuld / mit rew und duld / müg püssen hye in leben. You, Mary, are forever the immaculate salvation of the world, and bring joy to me, who diligently honors you each day. You, the ark and casket of God gladly appear and tend to the sinner. to the sinner. Oh, my lady, do this now in my distress, for illness will hover over death. Grant me favor, so that I might atone for my guilt with repentance and forbearance while I’m alive. '
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v [http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00082229]
+fulltext: |
+    Abbreviations in the Old High German text are expanded, spelling and punctuation otherwise follow the manuscript. Hilf fraw von Ach Help, our lady of Aachen! Hilf fraw von Ach / wie schwach / on masz ich armer sünder bin / und pald ist hyn / mein syn / on gwyn / zů verfüren / spüren / mag ich grüntlich / das got misfelt / der welt / undanckparkait / O rayne mayt / Maria zart / wie hart / mir das zů hertzen / will dringen zwar / gnad mir nit spar / vnnd nymb meinn war / fraw durch dein syben schmertzen. Help, our lady of Aachen! How immeasurably weak I, poor sinner, am! Soon I will lose my senses in vain, I’m being led astray. I can definitely tell that God is displeased at the world's ingratitude Oh, immaculate maiden, tender Mary! How hard this weighs on my heart. Don't spare me your mercy and hear me, My Lady, by your seven sorrows! O iungkgfraw rayn / on nayn / alzeit der sunder trösterinn / was ich begynn / dennck synn / von hynn / müß ich mich wenden / enden sol sich / umb mich / der welde lust / umb sust / ist aller můt / unnd hilfft kain gůt / ich muß daran / unnd kann / den tod nit fliechenn / dan das ich bitt / versag mit nit / und tayl mir mit / dein gnad on alls verziechen. Oh, immaculate virgin, who without doubt always consoles sinners. Whatever I start, think or come up with, I have to turn myself away from it; around me the world’s pleasure has to come to an end. All bravery is in vain, no wealth can help, I must face it and I can’t flee from death, so I ask you: don’t deny me, and impart on me your grace without delay. Der welde hayl / on mayl bistu Maria ewiklich / und frew auch mich / der täglich dich / mit fleiß thůt eren / geren / ertzaygst / und naygst / dich gottes arch / und sarch / dem sünder zůe / O fraw das thůe / ytz in der nott / zum todt / vill kranckhait schweben / erwirb mir huld / das ich mein schuld / mit rew und duld / müg püssen hye in leben. You, Mary, are forever the immaculate salvation of the world, and bring joy to me, who diligently honors you each day. You, the ark and casket of God gladly appear and tend to the sinner. to the sinner. Oh, my lady, do this now in my distress, for illness will hover over death. Grant me favor, so that I might atone for my guilt with repentance and forbearance while I’m alive. 
 ---
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks, from the Bayerische StaatsBibliothek in Munich, are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini'
-engtitle: 'Joke 57: The elegant reply of the Florentine poet Dante'
-origtitle: 'Facetia LVII: Responsio elegans dantis poete florentini'
+title: |
+  Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini
+engtitle: |
+  Joke 57: The elegant reply of the Florentine poet Dante
+origtitle: |
+  Facetia LVII: Responsio elegans dantis poete florentini
 breadcrumb: true
 permalink: "text/joke-57-elegant-reply-florentine-poet-dante"
-identifier: joke-57-elegant-reply-florentine-poet-dante
+identifier: "joke-57-elegant-reply-florentine-poet-dante"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-57-elegant-reply-florentine-poet-dante.jpg
-imagesource: Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]'
-fulltext: '  Facetia LVII Joke 57 Dantes Alligerius, poeta noster Florentinus, aliquamdiu sustentatus est Veronae opibus Canis veteris Principis de la Scala, admodum liberalis. Our Florentine poet Dante Alighieri dwelled for a while in Verona, sustained by the older Cangrande della Scala, a very noble ruler. Erat autem et alter penes Canem Florentinus, ignobilis, indoctus, imprudens, nulli rei praeterquam ad iocum risumque aptus, However, there was also another Florentine at Cangrande’s, an ignoble, unlearned, and ignorant man, not fit for anything excepts for jokes and laughter. cuius ineptiae, ne dicam facetiae, Canem perpulerant ad se ditandum. His fooleries (I will not call them jokes!) had made Cangrande enrich him. Cum illum veluti belluam insulsam, Dantes, vir doctissimus, sapiens ac modestus, ut aequum erat, contemneret: When Dante, who is most learned, wise, and modest, showed contempt for this inelegant beast of a man, which was just, he said: 'Quid est' inquit ille, 'quod tu, cum habearis sapiens ac doctissimus, tamen pauper es et egenus, ego autem stultus et ignarus divitiis praesto?' “How is it that you, who think yourself wise and very learned, still is poor and destitute, while I, who is stupid and ignorant, am very rich?” Tum Dantes: 'Quando ego reperiam dominum,' inquit, 'mei similem et meis moribus conformem, sicuti tu tuis, et ipse similiter me ditabit.' To which Dante replied: “When I have found a lord who is like me and my manners, just as you have, then he will reward me in a similar manner.” Gravis sapiensque responsio! A deep and wise answer! Semper enim domini eorum consuetudine qui sibi sunt similes delectantur. For the lords always find pleasure in the habits of those who are like themselves. '
+imagesource: |
+  Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]
+fulltext: |
+    Facetia LVII Joke 57 Dantes Alligerius, poeta noster Florentinus, aliquamdiu sustentatus est Veronae opibus Canis veteris Principis de la Scala, admodum liberalis. Our Florentine poet Dante Alighieri dwelled for a while in Verona, sustained by the older Cangrande della Scala, a very noble ruler. Erat autem et alter penes Canem Florentinus, ignobilis, indoctus, imprudens, nulli rei praeterquam ad iocum risumque aptus, However, there was also another Florentine at Cangrande’s, an ignoble, unlearned, and ignorant man, not fit for anything excepts for jokes and laughter. cuius ineptiae, ne dicam facetiae, Canem perpulerant ad se ditandum. His fooleries (I will not call them jokes!) had made Cangrande enrich him. Cum illum veluti belluam insulsam, Dantes, vir doctissimus, sapiens ac modestus, ut aequum erat, contemneret: When Dante, who is most learned, wise, and modest, showed contempt for this inelegant beast of a man, which was just, he said: 'Quid est' inquit ille, 'quod tu, cum habearis sapiens ac doctissimus, tamen pauper es et egenus, ego autem stultus et ignarus divitiis praesto?' “How is it that you, who think yourself wise and very learned, still is poor and destitute, while I, who is stupid and ignorant, am very rich?” Tum Dantes: 'Quando ego reperiam dominum,' inquit, 'mei similem et meis moribus conformem, sicuti tu tuis, et ipse similiter me ditabit.' To which Dante replied: “When I have found a lord who is like me and my manners, just as you have, then he will reward me in a similar manner.” Gravis sapiensque responsio! A deep and wise answer! Semper enim domini eorum consuetudine qui sibi sunt similes delectantur. For the lords always find pleasure in the habits of those who are like themselves. 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

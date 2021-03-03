@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 273: The obscene comparison of the teeth that threatened to fall out | Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena'
-engtitle: 'Joke 273: The obscene comparison of the teeth that threatened to fall out'
-origtitle: 'Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena'
+title: |
+  Joke 273: The obscene comparison of the teeth that threatened to fall out | Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena
+engtitle: |
+  Joke 273: The obscene comparison of the teeth that threatened to fall out
+origtitle: |
+  Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena
 breadcrumb: true
 permalink: "text/joke-273-obscene-comparison-teeth-threatened-fall-out"
-identifier: joke-273-obscene-comparison-teeth-threatened-fall-out
+identifier: "joke-273-obscene-comparison-teeth-threatened-fall-out"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-273-obscene-comparison-teeth-threatened-fall-out.jpg
-imagesource: Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]'
-fulltext: '  Facetia CCLXXIII Joke 273 Episcopus mihi notus senior querebatur quosdam dentes sibi cecidisse, quosdam ita labare, ut eorum casum timeret. An older bishop I know used to complain that some of his teeth had fallen out, and that others were so loose that he feared they would fall out. Tum unus e familia: Then one of his kin said: Tum unus e familia: ‘Ne timeatis’ inquit ‘dentum casum’. “Don’t be afraid that they’ll fall out!” Petenti causam episcipo: When the bishop asked why, he replied: ‘Quia testiculi mei’ respondit ‘iam quadraginta annis pependerunt, casuro similes, et tamen nunquam ceciderunt’. “For forty years my testicles have already been hanging like they are about to fall off, but they have still never fallen off.” '
+imagesource: |
+  Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]
+fulltext: |
+    Facetia CCLXXIII Joke 273 Episcopus mihi notus senior querebatur quosdam dentes sibi cecidisse, quosdam ita labare, ut eorum casum timeret. An older bishop I know used to complain that some of his teeth had fallen out, and that others were so loose that he feared they would fall out. Tum unus e familia: Then one of his kin said: Tum unus e familia: ‘Ne timeatis’ inquit ‘dentum casum’. “Don’t be afraid that they’ll fall out!” Petenti causam episcipo: When the bishop asked why, he replied: ‘Quia testiculi mei’ respondit ‘iam quadraginta annis pependerunt, casuro similes, et tamen nunquam ceciderunt’. “For forty years my testicles have already been hanging like they are about to fall off, but they have still never fallen off.” 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

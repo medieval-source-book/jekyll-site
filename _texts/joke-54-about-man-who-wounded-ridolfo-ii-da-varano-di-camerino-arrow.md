@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit'
-engtitle: 'Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow'
-origtitle: 'Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit'
+title: |
+  Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
+engtitle: |
+  Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow
+origtitle: |
+  Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
 breadcrumb: true
 permalink: "text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow"
-identifier: joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow
+identifier: "joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow.png
-imagesource: Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]'
-fulltext: '  Facetia LIV Joke 54 Viri nonnulli Camerinenses extra urbem exercitii causa sagittando tempus terebant. Some men from Camerino were passing the time outside of the city by practicing archery. Cum quispiam sagittam incautius emisisset, astantem procul Redolphum leviter vulneravit. When one of them fired an arrow carelessly, it happened to lightly wound Ridolfo, who was standing nearby. Capto illo, cum variae de poena inferenda sententiae dicerentur, et, ut quisque acerrime sentiret, ita se maxime Principi gratificaturum putaret, unus censuit manum illi esse amputandum, ne amplius arcu uteretur. The man was captured and different punishments were discussed, some thought it had to be very harsh so that it would be most pleasing to the prince, and one man even thought that the archer’s hand should be amputated so that he could never use a bow again. Redolphus liberum hominem dimitti iussit, dicens, illam futuram fuisse utilem sententiam, si id ante acceptum vulnus consilium dedisset. But Ridolfo ordered the archer to be set free and said that this would have been a useful punishment, if the man had given the advice before he was wounded. Plena prudentiae et humanitatis responsio. An answer full of wisdom and humanity. '
+imagesource: |
+  Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]
+fulltext: |
+    Facetia LIV Joke 54 Viri nonnulli Camerinenses extra urbem exercitii causa sagittando tempus terebant. Some men from Camerino were passing the time outside of the city by practicing archery. Cum quispiam sagittam incautius emisisset, astantem procul Redolphum leviter vulneravit. When one of them fired an arrow carelessly, it happened to lightly wound Ridolfo, who was standing nearby. Capto illo, cum variae de poena inferenda sententiae dicerentur, et, ut quisque acerrime sentiret, ita se maxime Principi gratificaturum putaret, unus censuit manum illi esse amputandum, ne amplius arcu uteretur. The man was captured and different punishments were discussed, some thought it had to be very harsh so that it would be most pleasing to the prince, and one man even thought that the archer’s hand should be amputated so that he could never use a bow again. Redolphus liberum hominem dimitti iussit, dicens, illam futuram fuisse utilem sententiam, si id ante acceptum vulnus consilium dedisset. But Ridolfo ordered the archer to be set free and said that this would have been a useful punishment, if the man had given the advice before he was wounded. Plena prudentiae et humanitatis responsio. An answer full of wisdom and humanity. 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

@@ -8,8 +8,8 @@ engtitle: |
 origtitle: |
   ولو لا الشعر بالعلماء يزري
 breadcrumb: true
-permalink: "text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D"
-identifier: "%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D"
+permalink: "text/were-it-not-poesy-tarnished-scholars"
+identifier: "were-it-not-poesy-tarnished-scholars"
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
 languages: [Arabic, Middle East and North Africa]
 periods: [8th Century, 9th Century]
@@ -17,7 +17,7 @@ genres: [Poetry]
 textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
-image: /assets/img/text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D.jpg
+image: /assets/img/text/were-it-not-poesy-tarnished-scholars.jpg
 imagesource: |
   Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]
 fulltext: |

@@ -30,7 +30,7 @@ format: page
 
 			{% assign texts = site.texts | sort: 'title' %}
 			{% for text in texts limit:1000 %}
-			{% if text.languages contains page.tag %}
+			{% if text.periods contains page.tag %}
 				<div id="text_{{ text.identifier }}" class="large-4 medium-6 columns projectbox">
 					<a href="/{{ text.permalink }}"><img src="{{ text.image }}" class="videothumbnail"></a>
 					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:45 }}</h4></a>

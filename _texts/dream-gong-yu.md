@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'The Dream of Gong Yu | 龔輿夢'
-engtitle: 'The Dream of Gong Yu'
-origtitle: '龔輿夢'
+title: |
+  The Dream of Gong Yu | 龔輿夢
+engtitle: |
+  The Dream of Gong Yu
+origtitle: |
+  龔輿夢
 breadcrumb: true
 permalink: "text/dream-gong-yu"
-identifier: dream-gong-yu
+identifier: "dream-gong-yu"
 textauthor: Hong Mai 洪邁
 languages: [Chinese, Asia]
 periods: [12th Century]
 genres: [History]
-textcollections: "Writing History: Chronicles, Legends and Anecdotes"
+textcollections: [Writing History: Chronicles, Legends and Anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/dream-gong-yu.jpg
-imagesource: Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]'
-fulltext: '  龔輿夢 The Dream of Gong Yu 潭州士人龔輿, There is a literatus from Tanzhou named Gong Yu. 乾道四年冬, In the winter of the fourth year of the Dao Qian reign, 與鄉里六七人偕赴省試. he went with six or seven people from his hometown to participate in the provincial exam. 過宜春, When they passed Yi Chun, 謁仰山廟祈夢. they paid their respects to the Yangshan Monastery and prayed for dreams. 輿夢至官府, 見柱上掲紙一片, Gong Yu dreamt that he went into the government building and saw a piece of paper on the pillar of the building. 書[龔輿不得]四字, On the paper were the four characters: “Gong Yu Bu De” Meaning, “Gong Yu will not get it” were written. 而[不]字上下稍不聨接. But the upper part and the lower part of the character “Ge” were not connected. 既覺, 殊不樂, 自意必下第. When Gong Yu woke up, he was quite unhappy and thought he would fail the exam. 及春榜至, 輿中選, 餘人盡黜, When the results came out in the spring, Gong Yu was selected and the rest of his group were rejected. 始以語人, 謂夢不驗. Gong Yu began to tell people [what had happened], saying that the dream was not accurate. 好事者曰: “不字斷續如此, 乃一个也. 神言龔輿一个得耳, 豈不昭然?” His acquaintances said: “When the character ‘Ge’ is disconnected like that, it should be read as two characters ‘Yi Ge.’ The deity was saying that only Gong Yu himself could do it, isn’t that obvious?” '
+imagesource: |
+  Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
+fulltext: |
+    龔輿夢 The Dream of Gong Yu 潭州士人龔輿, There is a literatus from Tanzhou named Gong Yu. 乾道四年冬, In the winter of the fourth year of the Dao Qian reign, 與鄉里六七人偕赴省試. he went with six or seven people from his hometown to participate in the provincial exam. 過宜春, When they passed Yi Chun, 謁仰山廟祈夢. they paid their respects to the Yangshan Monastery and prayed for dreams. 輿夢至官府, 見柱上掲紙一片, Gong Yu dreamt that he went into the government building and saw a piece of paper on the pillar of the building. 書[龔輿不得]四字, On the paper were the four characters: “Gong Yu Bu De” Meaning, “Gong Yu will not get it” were written. 而[不]字上下稍不聨接. But the upper part and the lower part of the character “Ge” were not connected. 既覺, 殊不樂, 自意必下第. When Gong Yu woke up, he was quite unhappy and thought he would fail the exam. 及春榜至, 輿中選, 餘人盡黜, When the results came out in the spring, Gong Yu was selected and the rest of his group were rejected. 始以語人, 謂夢不驗. Gong Yu began to tell people [what had happened], saying that the dream was not accurate. 好事者曰: “不字斷續如此, 乃一个也. 神言龔輿一个得耳, 豈不昭然?” His acquaintances said: “When the character ‘Ge’ is disconnected like that, it should be read as two characters ‘Yi Ge.’ The deity was saying that only Gong Yu himself could do it, isn’t that obvious?” 
 ---
 ## Introduction to the Source 
 <p>The corpus of the <em>Record</em> originally consisted of 420 chapters. What we have today is a small fraction of the original text. The <em>Record</em> shows a remarkable degree of accuracy when we compare it with official documents and other texts from the same period. Nevertheless, many stories in the <em>Record</em> are fictitious or based on highly unreliable sources.</p>

@@ -1,77 +1,65 @@
 <aside id="sidenav">
 	<div class="panel">
-		<p class="morse">{% if page.title == "Project Videos" %}projects{% endif %}{% if page.title == "Topics in DH" %}topics{% endif %}</p>
-		<h3 id="tocheader">Table of Contents</h3>
-		<p>PARASTUFF</p>
-		<p>PARASTUFF</p>
-		<p>PARASTUFF</p>
-		<p>PARASTUFF</p>
-<p>PARASTUFF</p>
-<p>PARASTUFF</p>
-<p>PARASTUFF</p>
+		<p class="morse"></p>
+		<h3 id="tocheader">Text Info</h3>
 		<ul id="toc">
-		{% if page.title == "Project Videos" %}
-			{% assign projects = site.projects | sort: 'title' %}
-			{% for project in projects limit:1000 %}
-				<li data-projectid="{{ project.identifier }}">{{ project.title }}</li>
-			{% endfor %}
-		{% endif %}
-		{% if page.title == "Topics in DH" %}
-			{% assign topics = site.topics | sort: 'title' %}
-			{% for topic in topics limit:1000 %}
-				<li data-topicid="{{ topic.identifier }}">{{ topic.title }}</li>
-			{% endfor %}
-		{% endif %}
+			
+			{% if page.authors And page.authors != "" And page.authors != nil %}
+			{% assign textauthors = page.authors %}
+			<li><strong>Author:</strong> 
+			  {% for author in textauthors %}
+	    	  {% for author in site.authors %}
+			  {% if textauthors contains author.title %}<a href="{{site.baseurl}}{{author.url}}">{{author.title}}</a>
+			  {% endif %}
+			  {% endfor %}
+			  {% unless forloop.last %}&nbsp;{% endunless %}
+			  {% endfor %}</li>
+			  {% endif %}
+			 
+			 {% if page.languages != '' %} 
+			{% assign textlanguages = page.languages %}
+			<li><strong>Languages:</strong> 
+			  {% for textlanguage in textlanguages %}
+	    	  {% for language in site.languages %}
+			  {% if textlanguage contains language.title %}<a href="{{site.baseurl}}{{language.url}}">{{language.title}}</a>
+			  {% endif %}
+			  {% endfor %}
+			  {% unless forloop.last %}&nbsp;{% endunless %}
+			  {% endfor %}</li>
+			  {% endif %}
 		
 		
-		{% assign authors = page.authors %}
-	  {% for author in authors %}
-	  <li><strong>Author:</strong><a href="{{site.baseurl}}/authors/#{{author|slugize}}">{{author}}</a>
-	  {% unless forloop.last %}&nbsp;{% endunless %}
-	  {% endfor %}</li>
-		
-		
-		{% assign languages = page.languages %}
-  	  {% for language in languages %}
-  	  <li><strong>Language:</strong> <a href="{{site.baseurl}}/languages/{{language|slugize}}">{{language}}</a>
-  	  {% unless forloop.last %}&nbsp;{% endunless %}
-  	  {% endfor %}</li>
-		
-		
-		{% assign periods = page.periods %}
-    	  {% for period in periods %}
-    	  <li><strong>Period:</strong> <a href="{{site.baseurl}}/periods/{{period|slugize}}">{{period}}</a>
-    	  {% unless forloop.last %}&nbsp;{% endunless %}
+		{% assign textperiods = page.periods %}
+		<li><strong>Period:</strong> 
+		  {% for textperiod in textperiods %}
+    	  {% for period in site.periods %}
+		  {% if textperiod contains period.title %}<a href="{{site.baseurl}}{{period.url}}">{{period.title}}</a>
+		  {% endif %}
+		  {% endfor %}
+		  {% unless forloop.last %}&nbsp;{% endunless %}
 		  {% endfor %}</li>
 		  
-		{% assign genres = page.genres %}
-    	  {% for genre in genres %}
-    	  <li><strong>Genre: </strong> <a href="{{site.baseurl}}/genre/{{genre|slugize}}">{{genre}}</a>
-    	  {% unless forloop.last %}&nbsp;{% endunless %}
+		{% assign textgenres = page.genres %}
+		<li><strong>Genres:</strong> 
+		  {% for genre in textgenres %}
+    	  {% for genre in site.genres %}
+		  {% if textgenres contains genre.title %}<a href="{{site.baseurl}}{{genre.url}}">{{genre.title}}</a>
+		  {% endif %}
 		  {% endfor %}
-
-		{% if page.textcollection != '' %}<li><strong>Collection:</strong> <a href="{{site.baseurl}}/collections/{{page.textcollections|slugize}}">{{page.textcollections}}</li></a>{% endif %}
+		  {% unless forloop.last %}&nbsp;{% endunless %}
+		  {% endfor %}</li>
 		
-		
-		
-		
-		
-		<li>STUFF</li>
-		<li>STUFF</li>
-		<li>STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
-<li data-topicid="1">STUFF</li>
+		{% if page.textcollections And page.textcollections != "" And page.textcollections != nil %}
+		{% assign listtextcollections = page.textcollections %}
+		<li><strong>Collection:</strong> 
+		  {% for listtextcollection in listtextcollections %}
+    	  {% for textcollection in site.textcollections %}
+		  {% if listtextcollection contains textcollection.title %}<a href="{{site.baseurl}}{{textcollection.permalink}}">{{textcollection.title}}</a>
+		  {% endif %}
+		  {% endfor %}
+		  {% unless forloop.last %}&nbsp;{% endunless %}
+		  {% endfor %}</li>
+{% endif %}
 		</ul>
 	</div>
 </aside>

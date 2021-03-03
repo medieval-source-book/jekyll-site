@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 27: The pregnant sister of the citizen of Constance | Facetia XXVII: Civis Constantiae Soror Gravida Facta'
-engtitle: 'Joke 27: The pregnant sister of the citizen of Constance'
-origtitle: 'Facetia XXVII: Civis Constantiae Soror Gravida Facta'
+title: |
+  Joke 27: The pregnant sister of the citizen of Constance | Facetia XXVII: Civis Constantiae Soror Gravida Facta
+engtitle: |
+  Joke 27: The pregnant sister of the citizen of Constance
+origtitle: |
+  Facetia XXVII: Civis Constantiae Soror Gravida Facta
 breadcrumb: true
 permalink: "text/joke-27-pregnant-sister-citizen-constance"
-identifier: joke-27-pregnant-sister-citizen-constance
+identifier: "joke-27-pregnant-sister-citizen-constance"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-27-pregnant-sister-citizen-constance.jpg
-imagesource: Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v'
-fulltext: '  Facetia XXVII Joke 27 Nobilis Episcopus ex Britanniis, ad ostendendam quam tunc multi requirebant Concilii Constantiensis libertatem, in magno Praelatorum conventu hoc attulit testimonium. A noble bishop from Britain gave this testimony at a big meeting of the prelates as a demonstration of the liberty that many then sought at the Council of Constance. Fuisse ait Constantiae civem, cuius soror innupta gravida facta erat. He said that there was a citizen in Constance whose unmarried sister had become pregnant. Cum fratri tumor ventris innotuisset, accepto gladio, quid id esset, aut unde id prodisset, quaesivit, percussori similis. When he discovered her swelling belly, he grabbed his sword like a murderer and demanded to know what this was and who had caused it. Tum iuvenis exterrita, id esse Concilii opus, seque ex Concilio praegnantem. The young terrified woman then said that this was the Council’s doing and that she had become pregnant from the Council. Hoc intellecto frater, Concilii metu ac reverentia, sororem impunitam reliquit. When the brother realised this, he let the sister off unpunished out of fear and respect for the Council. Cum ceteri aliarum rerum libertatem quaererent, ille praetulit licentiam futuendi. When some would seek liberty with regard to other things, he preferred the liberty to fuck. '
+imagesource: |
+  Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v
+fulltext: |
+    Facetia XXVII Joke 27 Nobilis Episcopus ex Britanniis, ad ostendendam quam tunc multi requirebant Concilii Constantiensis libertatem, in magno Praelatorum conventu hoc attulit testimonium. A noble bishop from Britain gave this testimony at a big meeting of the prelates as a demonstration of the liberty that many then sought at the Council of Constance. Fuisse ait Constantiae civem, cuius soror innupta gravida facta erat. He said that there was a citizen in Constance whose unmarried sister had become pregnant. Cum fratri tumor ventris innotuisset, accepto gladio, quid id esset, aut unde id prodisset, quaesivit, percussori similis. When he discovered her swelling belly, he grabbed his sword like a murderer and demanded to know what this was and who had caused it. Tum iuvenis exterrita, id esse Concilii opus, seque ex Concilio praegnantem. The young terrified woman then said that this was the Council’s doing and that she had become pregnant from the Council. Hoc intellecto frater, Concilii metu ac reverentia, sororem impunitam reliquit. When the brother realised this, he let the sister off unpunished out of fear and respect for the Council. Cum ceteri aliarum rerum libertatem quaererent, ille praetulit licentiam futuendi. When some would seek liberty with regard to other things, he preferred the liberty to fuck. 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

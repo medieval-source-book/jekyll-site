@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit'
-engtitle: 'Joke 70: The greedy man who tasted urine'
-origtitle: 'Facetia LXX: De Avaro Qui Urinam Degustavit'
+title: |
+  Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit
+engtitle: |
+  Joke 70: The greedy man who tasted urine
+origtitle: |
+  Facetia LXX: De Avaro Qui Urinam Degustavit
 breadcrumb: true
 permalink: "text/joke-70-greedy-man-who-tasted-urine"
-identifier: joke-70-greedy-man-who-tasted-urine
+identifier: "joke-70-greedy-man-who-tasted-urine"
 textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: "Facetiae: A Collection of Early Modern Jokes"
+textcollections: [Facetiae: A Collection of Early Modern Jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-70-greedy-man-who-tasted-urine.jpg
-imagesource: A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]'
-fulltext: '  Facetia LXX Joke 70 Curialis unus e nostris notae avaritiae, saepe mensam familiae accedebat, dum comederet, degustans vinum, an satis aquatum esset: A colleague of ours in the curia, known for his greed, would often come to the servants’ table while taking his dinner to taste the wine to see if it was watered enough. simulabat autem se id agere, ut bono vino uterentur. However, he only pretended to do this so that they would use the good wine. Hoc cum animadvertissent nonnulli, tandem communicato consilio recentem quandoque urinam pro vino in mensa supposuere, qua hora venturum hominem suspicabantur. When some servants noticed this, they made a plan and at the hour they suspected the man would attend, they placed fresh urine on the table instead of wine. Accessit ille more suo, et cum urinam bibisset, nauseans ac semieructans, magno clamore abscessit, minatus multa illis qui haec conati essent. He arrived in his usual way and when he had drunk the urine, he got nauseous and almost threw up, he left the place with loud shouts and made great threats against the ones who had planned this. Illi vero risu cenam finierunt. The servants then finished their meal with laughter. Hoc eius rei machinator mihi postmodum retulit multo cum risu. All of this was told to me later with much laughter by the perpetrator of the act. '
+imagesource: |
+  A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]
+fulltext: |
+    Facetia LXX Joke 70 Curialis unus e nostris notae avaritiae, saepe mensam familiae accedebat, dum comederet, degustans vinum, an satis aquatum esset: A colleague of ours in the curia, known for his greed, would often come to the servants’ table while taking his dinner to taste the wine to see if it was watered enough. simulabat autem se id agere, ut bono vino uterentur. However, he only pretended to do this so that they would use the good wine. Hoc cum animadvertissent nonnulli, tandem communicato consilio recentem quandoque urinam pro vino in mensa supposuere, qua hora venturum hominem suspicabantur. When some servants noticed this, they made a plan and at the hour they suspected the man would attend, they placed fresh urine on the table instead of wine. Accessit ille more suo, et cum urinam bibisset, nauseans ac semieructans, magno clamore abscessit, minatus multa illis qui haec conati essent. He arrived in his usual way and when he had drunk the urine, he got nauseous and almost threw up, he left the place with loud shouts and made great threats against the ones who had planned this. Illi vero risu cenam finierunt. The servants then finished their meal with laughter. Hoc eius rei machinator mihi postmodum retulit multo cum risu. All of this was told to me later with much laughter by the perpetrator of the act. 
 ---
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or ‘conversations’ were translated to several other languages, either the entire collection (to Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

@@ -1,22 +1,27 @@
 ---
 layout: text
 sidebar: left
-title: 'On the Explanation of Dreams (Somniale Ioseph) | Ad explanandum sompnium'
-engtitle: 'On the Explanation of Dreams (Somniale Ioseph)'
-origtitle: 'Ad explanandum sompnium'
+title: |
+  On the Explanation of Dreams (Somniale Ioseph) | Ad explanandum sompnium
+engtitle: |
+  On the Explanation of Dreams (Somniale Ioseph)
+origtitle: |
+  Ad explanandum sompnium
 breadcrumb: true
 permalink: "text/explanation-dreams-somniale-ioseph"
-identifier: explanation-dreams-somniale-ioseph
+identifier: "explanation-dreams-somniale-ioseph"
 textauthor: Anonymous
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [13th Century]
 genres: [Handbook]
-textcollections: ""
+textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/explanation-dreams-somniale-ioseph.jpg
-imagesource: Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]'
-fulltext: '  Pilcrows, other punctuation, line-breaks, and spacing follow the manuscript. ¶ In .A. significat adiutorium domini. ¶ An .A. signifies the help of the Lord. ¶ In .B. significat aliquod bonum. ¶ A .B. signifies something good. ¶ In .C. significat sanguinem. ¶ A .C. signifes blood. ¶ In .D. significat inimicum. ¶ A .D. signifies an enemy. ¶ In .E. significat noua uidere uel audire. ¶ An .E. signifies hearing or seeing strange things. ¶ In .F. significat malum prope esse. ¶ An .F. signifies that evil is near. ¶ In .G. significat gaudium. ¶ A .G. signifies delight. ¶ In .H. significat ad esse gaudium. ¶ An .H. signifies a coming delighted. ¶ In .I. significat alibi ire. ¶ An .I. signifies going somewhere. ¶ In .K. significat in eodem loco stare. ¶ A .K. signifies staying put. ¶ In .L. significat leticiam ed esse. ¶ An .L. signifies being happy. ¶ In .M. significat aliquod magnum. ¶ An .M. signifies something large. ¶ In .N. significat aloquod contrarium. ¶ An .N. signifies something conflicting. ¶ In .O. significat elemosinam facere. ¶ An .O. signifies giving alms. ¶ In .P. significat pietatem exercere. ¶ A .P. signifies working dutifully. ¶ In .Q. significat ad deum curere. ¶ A .Q. signifies attending to God. ¶ In .R. significat fossa mortis. ¶ An .R. signifies grave peril. ¶ In .S. significat salutem domini. ¶ An .S. signifies deliverance by the Lord. ¶ In .T. significat tristiciam ad esse. ¶ A .T. signifies being sad. ¶ In .V. Significat uenire adorare. ¶ A .V. signifies coming to worship. ¶ In .X. significat saluatorem ad esse. ¶ An .X. signifies the coming of the savior. ¶ In .Y. significat id adiuuare. ¶ A .Y. signifies His aid. As in divine aid. ¶ In .Ç. significat mortem adesse. ¶ A .Ç. Signifies a coming death. '
+imagesource: |
+  Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]
+fulltext: |
+    Pilcrows, other punctuation, line-breaks, and spacing follow the manuscript. ¶ In .A. significat adiutorium domini. ¶ An .A. signifies the help of the Lord. ¶ In .B. significat aliquod bonum. ¶ A .B. signifies something good. ¶ In .C. significat sanguinem. ¶ A .C. signifes blood. ¶ In .D. significat inimicum. ¶ A .D. signifies an enemy. ¶ In .E. significat noua uidere uel audire. ¶ An .E. signifies hearing or seeing strange things. ¶ In .F. significat malum prope esse. ¶ An .F. signifies that evil is near. ¶ In .G. significat gaudium. ¶ A .G. signifies delight. ¶ In .H. significat ad esse gaudium. ¶ An .H. signifies a coming delighted. ¶ In .I. significat alibi ire. ¶ An .I. signifies going somewhere. ¶ In .K. significat in eodem loco stare. ¶ A .K. signifies staying put. ¶ In .L. significat leticiam ed esse. ¶ An .L. signifies being happy. ¶ In .M. significat aliquod magnum. ¶ An .M. signifies something large. ¶ In .N. significat aloquod contrarium. ¶ An .N. signifies something conflicting. ¶ In .O. significat elemosinam facere. ¶ An .O. signifies giving alms. ¶ In .P. significat pietatem exercere. ¶ A .P. signifies working dutifully. ¶ In .Q. significat ad deum curere. ¶ A .Q. signifies attending to God. ¶ In .R. significat fossa mortis. ¶ An .R. signifies grave peril. ¶ In .S. significat salutem domini. ¶ An .S. signifies deliverance by the Lord. ¶ In .T. significat tristiciam ad esse. ¶ A .T. signifies being sad. ¶ In .V. Significat uenire adorare. ¶ A .V. signifies coming to worship. ¶ In .X. significat saluatorem ad esse. ¶ An .X. signifies the coming of the savior. ¶ In .Y. significat id adiuuare. ¶ A .Y. signifies His aid. As in divine aid. ¶ In .Ç. significat mortem adesse. ¶ A .Ç. Signifies a coming death. 
 ---
 ## Introduction to the Source 
 <p>Eighty-eight similar <em>Somniale Ioseph</em> texts survive in manuscript editions, most from the fifteenth century. This particular copy was written in the thirteenth century in Venice or the Veneto and is preserved in<a href="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN679690611&view=overview-toc&PHYSID=PHYS_0106&DMDID=DMDLOG_0006"> Berlin in Staatsbibliothek, Preußischer Kulturbesitz, MS Ham. 390 f.49v</a> alongside another the mantic alphabet published on the <em>GMS </em>as well as other divinatory and oracular texts.</p> <p>Below the alphabet on the page an illustrator has included a kind of diagram of how the dreambook functions. A small figure is shown asleep and dreaming (labeled <em>iste dormit</em>) and then is shown sitting awake before a group of friends as he excitedly explains his dream with the help of a book open on his lap (labeled <em>hic splanat somnia</em>).</p>
