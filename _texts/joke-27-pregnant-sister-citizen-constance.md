@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-27-pregnant-sister-citizen-constance.jpg
+thumb: /assets/img/text/joke-27-pregnant-sister-citizen-constance-thumb.jpg
 imagesource: |
   Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v
 fulltext: |

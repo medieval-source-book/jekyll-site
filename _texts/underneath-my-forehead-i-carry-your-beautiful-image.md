@@ -14,10 +14,11 @@ textauthor: Jordi di Sant Jordi
 languages: [Catalan, Western Europe]
 periods: [15th Century]
 genres: [Canso]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/underneath-my-forehead-i-carry-your-beautiful-image.jpg
+thumb: /assets/img/text/underneath-my-forehead-i-carry-your-beautiful-image-thumb.jpg
 imagesource: |
   Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]
 fulltext: |

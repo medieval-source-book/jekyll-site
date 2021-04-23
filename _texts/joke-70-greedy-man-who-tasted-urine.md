@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-70-greedy-man-who-tasted-urine.jpg
+thumb: /assets/img/text/joke-70-greedy-man-who-tasted-urine-thumb.jpg
 imagesource: |
   A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]
 fulltext: |

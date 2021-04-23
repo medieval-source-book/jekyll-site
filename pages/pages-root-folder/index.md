@@ -5,10 +5,12 @@ meta_title: "Global Medieval Sourcebook"
 breadcrumb: false
 permalink: "/"
 callforaction:
-  url: /what-are-dh/
-  text: What are DH? ›
+  url: /about/
+  text: Learn more ›
 navigation_type: none
 ---
 
-# Getting Started
-For newcomers, there’s a lot to be excited about at the intersection of technology and the humanities. The DHLG is your slim guidebook into this world, like the tourist map they give you when you check in at a hotel. Use it to get your bearings, plot your course, and find the resources that will help you explore further.
+# Welcome
+The Global Medieval Sourcebook (GMS) is an open access teaching and research tool. It offers a flexible online display for the parallel viewing of medieval texts in their original language and in new English translations, complemented by new introductory materials.
+
+The GMS spans one thousand years (600-1600) of literary production around the world. It contains short texts of broad interdisciplinary interest in a variety of genres, almost all of which have not previously been translated into English.

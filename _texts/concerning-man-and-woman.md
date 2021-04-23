@@ -14,10 +14,11 @@ textauthor: Nicolaus Pergamenus
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [14th Century]
 genres: [Dialogue]
-textcollections: [Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues, Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [fantastic-fables-14th-century-book-moral-tales-and-dialogues, gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/concerning-man-and-woman.jpeg
+thumb: /assets/img/text/concerning-man-and-woman-thumb.jpeg
 imagesource: |
   Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.99v [Public Domain]
 fulltext: |

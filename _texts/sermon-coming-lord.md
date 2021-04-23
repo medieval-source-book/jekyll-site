@@ -14,10 +14,11 @@ textauthor: Meister Eckhart
 languages: [German, Western Europe]
 periods: [13th Century]
 genres: [Devotional Prose]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/sermon-coming-lord.png
+thumb: /assets/img/text/sermon-coming-lord-thumb.png
 imagesource: |
   British Library MS Additional 18856 f. 3 [Public Domain]
 fulltext: |

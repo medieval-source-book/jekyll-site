@@ -14,10 +14,11 @@ textauthor: André de Coutances
 languages: [German, Western Europe]
 periods: [12th Century]
 genres: [Satire]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/romance-french-alfred.jpg
+thumb: /assets/img/text/romance-french-alfred-thumb.jpg
 imagesource: |
   London, British Library, MS Add. 10289 f.129r [Public Domain]
 fulltext: |

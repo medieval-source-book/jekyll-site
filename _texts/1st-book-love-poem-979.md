@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/1st-book-love-poem-979.jpg
+thumb: /assets/img/text/1st-book-love-poem-979-thumb.jpg
 imagesource: |
   Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]
 fulltext: |

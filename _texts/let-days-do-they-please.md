@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/let-days-do-they-please.jpg
+thumb: /assets/img/text/let-days-do-they-please-thumb.jpg
 imagesource: |
   Folio from a Qur'an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]
 fulltext: |

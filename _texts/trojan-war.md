@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Western Europe]
 periods: [15th Century]
 genres: [Narrative Verse]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/trojan-war.png
+thumb: /assets/img/text/trojan-war-thumb.png
 imagesource: |
   British Library MS Harley 4376 f.90 [Public Domain]
 fulltext: |

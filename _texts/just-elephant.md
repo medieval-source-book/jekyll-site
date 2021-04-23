@@ -14,10 +14,11 @@ textauthor: Rigaut de Berbezilh
 languages: [Occitan, Western Europe]
 periods: [12th Century]
 genres: [Canso]
-textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/just-elephant.jpg
+thumb: /assets/img/text/just-elephant-thumb.jpg
 imagesource: |
   Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan Songbook K) [Public Domain]
 fulltext: |

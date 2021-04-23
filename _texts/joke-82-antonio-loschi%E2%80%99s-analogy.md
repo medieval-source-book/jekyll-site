@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-82-antonio-loschi%E2%80%99s-analogy.jpg
+thumb: /assets/img/text/joke-82-antonio-loschi%E2%80%99s-analogy-thumb.jpg
 imagesource: |
   Simon Marmion, Images from the Song of Roland, Grandes Chroniques de France, St. Petersburg, Ms. Hermitage. fr. 88: (Niederl. Burgund, Mitte 15. Jh., Exemplar Philipps des Guten), folio. 154v [Public Domain]]
 fulltext: |

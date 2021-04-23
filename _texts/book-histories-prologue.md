@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [French, Western Europe]
 periods: [13th Century]
 genres: [History]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/book-histories-prologue.png
+thumb: /assets/img/text/book-histories-prologue-thumb.png
 imagesource: |
   British Library MS Additional 12029 f.22v [Public Domain]
 fulltext: |

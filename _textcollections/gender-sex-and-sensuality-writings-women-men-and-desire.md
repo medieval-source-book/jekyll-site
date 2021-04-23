@@ -1,10 +1,9 @@
 ---
 layout: collection
-sidebar: left
 title: 'Gender, Sex and Sensuality: Writings on Women, Men and Desire'
 breadcrumb: true
 permalink: "/collections/gender-sex-and-sensuality-writings-women-men-and-desire/"
-identifier: 'Gender, Sex and Sensuality: Writings on Women, Men and Desire'
+identifier: gender-sex-and-sensuality-writings-women-men-and-desire
 image: manwoman.png
 ---
 

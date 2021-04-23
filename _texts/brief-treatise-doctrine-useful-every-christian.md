@@ -14,10 +14,11 @@ textauthor: Juan Perez de Piñeda
 languages: [Spanish, Western Europe]
 periods: [16th Century]
 genres: [Devotional Prose]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/brief-treatise-doctrine-useful-every-christian.jpg
+thumb: /assets/img/text/brief-treatise-doctrine-useful-every-christian-thumb.jpg
 imagesource: |
   Luis de Vargas, "Saint John the Evangelist," ca. 1561; Pen and ink and wash on paper; Collection of the Hispanic Society of America
 fulltext: |

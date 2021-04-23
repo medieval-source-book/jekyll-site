@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [13th Century]
 genres: [Parody, Satire]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/sermon-st-nobody.jpg
+thumb: /assets/img/text/sermon-st-nobody-thumb.jpg
 imagesource: |
   London, British Library, Additional MS 18720, f. 217 (detail). [Public Domain]
 fulltext: |

@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Western Europe]
 periods: [9th Century]
 genres: [Devotional Verse]
-textcollections: [Hymns and Histories: Early German Writings, 800-1000 CE, Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [hymns-and-histories-early-german-writings-800-1000-ce, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/wessobrunn-prayer.jpg
+thumb: /assets/img/text/wessobrunn-prayer-thumb.jpg
 imagesource: |
   Image in Public Domain
 fulltext: |

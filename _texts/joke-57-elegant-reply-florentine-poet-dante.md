@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-57-elegant-reply-florentine-poet-dante.jpg
+thumb: /assets/img/text/joke-57-elegant-reply-florentine-poet-dante-thumb.jpg
 imagesource: |
   Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]
 fulltext: |

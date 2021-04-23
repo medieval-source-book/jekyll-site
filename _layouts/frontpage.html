@@ -4,11 +4,7 @@ format: frontpage
 ---
 <div class="row" id="frontpage">
 	<div class="medium-8 large-7 large-offset-1 columns">
-		<div class="row">
-			<div class="medium-10 medium-offset-1 large-12 columns">
-				<img src="{{ '/assets/img/marks/dhlg_logotype_full.png' | relative_url }}" id="frontpage_logo">
-			</div>
-		</div>
+		
 		<div class="row">
 			<div class="medium-10 medium-offset-1 large-8 large-offset-2 columns" id="frontcontents">
 				{{ content }}
@@ -19,10 +15,17 @@ format: frontpage
 				{% endif %}
 			</div>
 		</div>
+		
+		<div class="row">
+			<div class="medium-10 medium-offset-1 large-12 columns">
+				<!-- Can put something here-->
+			</div>
+		</div>
+		
 	</div>
 	<div class="medium-4 columns">
   	<div id='frontpage_cmu_logo_wrap'>
-		  <a id='frontpage_cmu_logo' href="https://www.cmu.edu" target="_blank"><img src="{{ 'assets/img/CMU_wordmark_stack.png' | relative_url }}"></a>
+		  <img src="{{ 'assets/img/logo.png' }}"></a>
   	</div>
 		<ul id="frontmenu" class="left">
 			{% for link in site.data.navigation %}

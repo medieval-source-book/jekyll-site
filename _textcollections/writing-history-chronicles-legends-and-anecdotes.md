@@ -1,10 +1,9 @@
 ---
 layout: collection
-sidebar: left
-title: 'Prayer, Spirituality, and Life after Death: Global Medieval Perspectives'
+title: 'Writing History: Chronicles, Legends and Anecdotes'
 breadcrumb: true
-permalink: "/collections/writing-history-chronicles-legends-and-anecdotes/"
-identifier: 'Prayer Spirituality and Life after Death: Global Medieval Perspectives'
+permalink: "/collections/writing-history-chronicles-legends-and-anecdotes"
+identifier: writing-history-chronicles-legends-and-anecdotes
 image: 
 ---
 

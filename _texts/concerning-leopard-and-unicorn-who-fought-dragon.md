@@ -14,10 +14,11 @@ textauthor: Nicolaus Pergamenus
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [14th Century]
 genres: [Dialogue]
-textcollections: [Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues]
+textcollections: [fantastic-fables-14th-century-book-moral-tales-and-dialogues]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/concerning-leopard-and-unicorn-who-fought-dragon.jpeg
+thumb: /assets/img/text/concerning-leopard-and-unicorn-who-fought-dragon-thumb.jpeg
 imagesource: |
   Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.73r [Public Domain]
 fulltext: |

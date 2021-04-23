@@ -14,10 +14,11 @@ textauthor: Alcuin
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [8th Century]
 genres: [Letter]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/song-iv-go-quickly-little-letter.jpg
+thumb: /assets/img/text/song-iv-go-quickly-little-letter-thumb.jpg
 imagesource: |
   Paris BNF MS Latin 528 f.140v [Public Domain]
 fulltext: |

@@ -14,10 +14,11 @@ textauthor: Rabanus Maurus
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [9th Century]
 genres: [Devotional Verse]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/honor-holy-cross.png
+thumb: /assets/img/text/honor-holy-cross-thumb.png
 imagesource: |
   Copyright Biblioteca Apostolica Vaticana. http://digi.vatlib.it/view/MSS_Reg.lat.124/0078
 fulltext: |

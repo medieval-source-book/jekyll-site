@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-273-obscene-comparison-teeth-threatened-fall-out.jpg
+thumb: /assets/img/text/joke-273-obscene-comparison-teeth-threatened-fall-out-thumb.jpg
 imagesource: |
   Cuthbert with the elderly Hildmaer and his wife. London, British Library, Yates Thompson MS 26, fol. 33v [Public Domain]
 fulltext: |

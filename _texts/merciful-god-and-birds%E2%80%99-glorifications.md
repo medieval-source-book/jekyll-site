@@ -14,10 +14,11 @@ textauthor: Sanā’ī of Ghazna
 languages: [Persian, Middle East and North Africa]
 periods: [12th Century]
 genres: [Devotional Verse]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/merciful-god-and-birds%E2%80%99-glorifications.jpg
+thumb: /assets/img/text/merciful-god-and-birds%E2%80%99-glorifications-thumb.jpg
 imagesource: |
   Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]
 fulltext: |

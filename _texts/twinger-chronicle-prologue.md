@@ -14,10 +14,11 @@ textauthor: Jakob Twinger von Königshofen
 languages: [German, Western Europe]
 periods: [14th Century]
 genres: [History]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/twinger-chronicle-prologue.jpeg
+thumb: /assets/img/text/twinger-chronicle-prologue-thumb.jpeg
 imagesource: |
   Stanford University Library MS CODEX 1061, f.1 [Copyright Stanford University]
 fulltext: |

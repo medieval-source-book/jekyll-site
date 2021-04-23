@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/explanation-dreams-somniale-ioseph.jpg
+thumb: /assets/img/text/explanation-dreams-somniale-ioseph-thumb.jpg
 imagesource: |
   Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]
 fulltext: |

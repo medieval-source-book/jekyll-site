@@ -14,10 +14,11 @@ textauthor: Fesneau/Agricola [att.]
 languages: [French, Western Europe]
 periods: [15th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/oh-how-it-troubles-me.png
+thumb: /assets/img/text/oh-how-it-troubles-me-thumb.png
 imagesource: |
   British Library MS King's 322 f.1 [Public Domain]
 fulltext: |

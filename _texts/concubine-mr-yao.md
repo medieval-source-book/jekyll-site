@@ -14,10 +14,11 @@ textauthor: Hong Mai 洪邁
 languages: [Chinese, Asia]
 periods: [12th Century]
 genres: [History]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire, Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire, writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/concubine-mr-yao.jpg
+thumb: /assets/img/text/concubine-mr-yao-thumb.jpg
 imagesource: |
   Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |

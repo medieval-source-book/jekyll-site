@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/virgin-marys-lament.png
+thumb: /assets/img/text/virgin-marys-lament-thumb.png
 imagesource: |
   Bordesholmer Marienklage, f.1r [http://dibiki.ub.uni-kiel.de/viewer/image/PPN379967243/2/]
 fulltext: |

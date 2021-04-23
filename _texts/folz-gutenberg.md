@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/folz-gutenberg.jpg
+thumb: /assets/img/text/folz-gutenberg-thumb.jpg
 imagesource: |
   Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]
 fulltext: |

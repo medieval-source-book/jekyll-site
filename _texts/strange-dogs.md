@@ -14,10 +14,11 @@ textauthor: Hong Mai 洪邁
 languages: [Chinese, Asia]
 periods: [12th Century]
 genres: [History]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/strange-dogs.jpg
+thumb: /assets/img/text/strange-dogs-thumb.jpg
 imagesource: |
   Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |

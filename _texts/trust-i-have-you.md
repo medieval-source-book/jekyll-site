@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [French, Western Europe]
 periods: [15th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/trust-i-have-you.png
+thumb: /assets/img/text/trust-i-have-you-thumb.png
 imagesource: |
   British Library MS Burney 275 f.120 [Public Domain]
 fulltext: |

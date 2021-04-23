@@ -14,10 +14,11 @@ textauthor: von Schondoch
 languages: [German, Western Europe]
 periods: [15th Century]
 genres: [Narrative Verse]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/queen-france.jpg
+thumb: /assets/img/text/queen-france-thumb.jpg
 imagesource: |
   Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]
 fulltext: |

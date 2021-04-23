@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/introduction-so-rivals-do-not-slander-collection-jokes-its-inelegance.jpg
+thumb: /assets/img/text/introduction-so-rivals-do-not-slander-collection-jokes-its-inelegance-thumb.jpg
 imagesource: |
   Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]
 fulltext: |

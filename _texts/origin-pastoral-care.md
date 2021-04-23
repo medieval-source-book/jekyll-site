@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [7th Century, 8th Century, 9th Century]
 genres: [History]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/origin-pastoral-care.jpg
+thumb: /assets/img/text/origin-pastoral-care-thumb.jpg
 imagesource: |
   Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John's College Oxford]
 fulltext: |

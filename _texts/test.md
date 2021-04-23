@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/test.jpg
+thumb: /assets/img/text/test-thumb.jpg
 imagesource: |
   TEST
 fulltext: |

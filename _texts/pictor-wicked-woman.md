@@ -14,10 +14,11 @@ textauthor: Petrus Pictor
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [11th Century, 12th Century]
 genres: [Didactic Verse]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/pictor-wicked-woman.jpg
+thumb: /assets/img/text/pictor-wicked-woman-thumb.jpg
 imagesource: |
   British Library MS Additional 47682, f. 4 [Public Domain]
 fulltext: |

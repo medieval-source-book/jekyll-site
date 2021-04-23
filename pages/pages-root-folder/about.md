@@ -1,71 +1,35 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
 layout: page
-title: "About The DHLG"
-meta_title: "About The DHLG"
+title: "About"
+meta_title: "About"
 breadcrumb: true
-permalink: "about/"
+permalink: "/about/"
 header:
   image_fullwidth: header_unsplash_12.jpg
-authors:
-- name: Scott B. Weingart
-  bio:
-  affiliation: Carnegie Mellon University
-  uri:
-date_updated: 2019-10-31
+date_updated: 2021-04-30
 ---
-The Digital Humanities Literacy Guidebook (DHLG) was first developed in the summer of 2019 as part of a 5-year A.W. Mellon Foundation grant to Carnegie Mellon University for the advancement of digital humanities and technology-enhanced learning on campus. Its goal is to offer its audience, newcomers to DH, a broad sense of the landscape of digital humanities, and a map to chart their course through it.
 
-The DHLG is inspired by a series of five week-long summer workshops offered at CMU in [2015](http://www.andrew.cmu.edu/user/sbweinga/), [2016](http://www.andrew.cmu.edu/user/sbweinga/2016.html), [2017](http://www.andrew.cmu.edu/user/sbweinga/2017.html), [2018](https://scottbot.github.io/DH-Literacy-Workshop-at-CMU/schedule), and [2019](https://dsharp-cmu.github.io/DH-Literacy-Workshop-at-CMU-2019/). Lessons learned in these workshops helped shape the site into its current structure.
+<p>The Global Medieval Sourcebook (GMS) is an open access teaching and research tool. It offers a flexible online display for the parallel viewing of medieval texts in their original language and in new English translations, complemented by new introductory materials.</p>
+<p>The GMS spans one thousand years (600-1600) of literary production around the world. It contains short texts of broad interdisciplinary interest in a variety of genres, almost all of which have not previously been translated into English.</p>
+<p>For teachers, the project provides curated collections of medieval texts, which may be assigned as course reading or used in the classroom. For students, the project allows for an immersive engagement in medieval text culture and the possibility to practice translation and transcription skills through the selective display of text and image modules. For researchers, all texts in the compendium are downloadable as TEI-XML files to allow for computational or other analysis.</p>
+<p>The GMS was made possible by funding from the Roberta Bowman Denning Fund for Humanities and Technologies and funding and support from Stanford’s Center for Spatial and Textual Analysis (CESTA). In 2018, we receive an Advancement (Level II) Grant from the Office of Digital Humanities (ODH) at the National Endowment for the Humanities (NEH).</p>
+<p>The transcriptions, translations, and commentaries in the GMS are produced and reviewed by scholars of medieval studies. We invite scholars from around the world to submit texts and translations for inclusion in the GMS. For more information on the submission process, click <a href="http://sourcebook.stanford.edu/content/submissions">here</a>.</p>
+<h2>Texts</h2>
+<p>The GMS seeks to make available a broad, and representative variety of texts along with information to help users situate these texts in a wider global literary and cultural context. By presenting curated texts from a panoply of medieval cultures, the GMS seeks to help scholars and students broaden their understanding of medieval culture.</p>
+<p>Groups of texts have been selected with an eye to thematic, generic or linguistic units. We will continue to develop and expand these collections according to traditional and emerging teaching and research areas. Topics for collections are proposed by team members and external scholars, and approved by the Primary Investigator and General Editor.</p>
+<p>The GMS also provides scholars at all levels with the opportunity to publish primary material that pertains to their research projects. For information about how to submit a text, click <a href="http://sourcebook.stanford.edu/content/submissions">here</a>.</p>
+<h2>How to Use the GMS</h2>
+<p>For each text in the compendium, the GMS offers a brief introduction, a transcription from a manuscript, incunabulum or modern edition of the premodern source, and a new English translation. Users can choose to display transcriptions, translations, and critical notes in whichever combination and positioning they prefer. We hope that this will facilitate use of the site for translation practice.</p>
+<p>The introduction to each text is written by a researcher in the field and aims to be scholarly yet accessible, providing a commentary on the text's cultural context and transmission history as well as its content and the scholarly conversation around it. We provide brief bibliographies as a starting point to further research. In order to reach non-specialists we have focused our selected bibliographies on English-language literature. In many cases, however, the majority of scholarship on the texts featured in the GMS is not in English. We have not attempted to cover or synthesize this scholarship comprehensively.</p>
+<p>Texts may be filtered by genre, author, period, language, and keyword, to allow users to both find specific material and browse areas of interest to discover new material.</p>
+<h2>Technology</h2>
+<p>The GMS uses open source software that has been customized for the project’s purposes. The main web page where users can browse texts, read about the project, and send submissions, uses the <a href="https://www.drupal.org/">Drupal</a> Content Management System. The reading environment uses <a href="http://v-machine.org/">Versioning Machine</a>, “a framework and an interface for displaying multiple versions of text encoded according to the Text Encoding Initiative (TEI) Guidelines.” Our team has developed a custom Drupal module that allows texts uploaded to Drupal to work in Versioning Machine. We have also modified Versioning Machine to support a greater range of the TEI guidelines. All software used in the GMS is freely available in our <a href="https://github.com/medieval-source-book/website">Github repository</a>.</p>
+<p><span style="font-size:24px;"><strong>Accuracy</strong></span></p>
+<p>Transcriptions and translations published by The Global Medieval Sourcebook are vetted for accuracy by our editorial team, and many translations have undergone peer review. However, errors in translation or typographical errors are possible. If you spot an error please <a href="https://sourcebook.stanford.edu/contact">report it to us</a>.</p>
 
-# Scope, Timeliness, and Digital Decay
 
-The DHLG is built with the future in mind. 
 
-We use the static site generator jekyll atop github in order to ensure long-term preservability, as well as the site's use in areas with limited internet access. The responsive design complies with HTML5, CSS3, ECMAScript 6, and AODA-WCAG accessibility standards, ensuring visitors of any ability or device will be able to access the page.
 
-Because a resource like this will necessarily always be incomplete, out of date, and limited in perspective, the site's architecture allows for community contributions from anyone with a github account. We hope this will help keep the resource as relevant as possible for years to come.
+<!--Cite the DHLG as:
 
-Dead links, out-of-date information, and other issues will inevitably accrue. The site's caretaker, Scott B. Weingart, will to keep on top of these, but the DHLG also needs your help to keep it fresh and useful for the next cohort of digital humanists.
-
-A locally-viewable version of this website as of 2019-11-04, including all the project video files, has been deposited in CMU's institutional repository: https://doi.org/10.1184/R1/10250381
-
-Please see the [contributing](#contributing) section below for details on how to give back to this resource.
-
-# Core vs. Community Content
-
-As the DHLG began as a Carnegie Mellon University project, the majority of its early content was created by employees or affiliates of the university. On account of some legal complexities, we need to separate this original "CMU" content from "Community" content, which is why the former is marked in amber, and the latter in blue. As the guidebook grows, our hope is majority of content will come from you, the community, and thus appear in blue.
-
-# Core Contributors
-
-The Digital Humanities Literacy Guidebook was conceived and orchestrated by **Scott B. Weingart**, Program Director of Digital Humanities at Carnegie Mellon University. 
-
-Much of the original content was written or edited by Online Workshop Coordinator **Susan Grunewald**, CMU History Ph.D. and the Digital History Postdoctoral Associate at the University of Pittsburgh World History Center.
-
-**Matthew Lincoln**, a research software engineer and digital humanities developer at Carnegie Mellon University Libraries, oversaw the technical components of the DHLG. The majority of the technical implementation itself was contracted to **Agile Humanities Agency**. Their team included **Dean Irvine**, **Bill Kennedy**, and **Matt Milner**.
-
-Other core contributors include Dominique Luster, Tatyana Gershkovich, AmyJo Brown, Bob Gradeck, Emma Slayton, David Kaufer, Elaine Frantz, Ruth Mostern, Elisa Beshero-Bondar, Michael Christel, Matthew J. Lavin, Simon DeDeo, Benjamin Miller, Elizabeth Archibald, Stephen Wittek, Nico Slate, S.E. Hackney, Patrick Juola, Kathy Newman, Steven Gotzler, Felipe Gómez, and Chloe Perry.
-
-# Community Contributors
-
-The majority of the list content on the site as of September 2019 originated with permission from [DHNotes](https://github.com/dh-notes/dhnotes), a Columbia University project by **Dennis Tenen** (Columbia University) and **Alex Gil** (Columbia University), among others.
-
-The job resources section includes editorial advice written by **Matthew Hannah** (Purdue University), slightly modified on import to the DHLG. **Lauren Tilton** (University of Richmond) offered the initial list of DH organizations. **Zoe LeBlanc** (Princeton University) and **Scott B. Weingart** collaborated on curating the hiring interviews.
-
-Although the majority of DH topic descriptions were written by **Susan Grunewald**, some were written by **Hannah Alpert-Abrams** (Program Officer in DH). More details on who contributed what content is available in the [markdown files on github](https://github.com/cmu-lib/dhlg/tree/master/_topics) and the github [list of contributors](https://github.com/cmu-lib/dhlg/graphs/contributors).
-
-# Contributing
-
-Because DH is always growing and changing, we welcome changes and contributions to this resource via pull requests to the github repository. You'll find links at the bottom of each page for its home on github, which can be used for editing pre-existing pages. More details on how to contribute can be found at the README.md file in the [github root directory](https://github.com/cmu-lib/dhlg). 
-
-If you'd like to contribute a video, a new topic description for the glossary, or entirely new pages, the process is a little more complicated than a simple edit of a github page, unless you're a seasoned jekyll user. Feel free to get in touch with Scott B. Weingart if you'd like more information.
-
-# Cite the DHLG
-
-Cite the DHLG as:
-
-Weingart, Scott B., Susan Grunewald, Matthew Lincoln et al. (eds.). <i>The Digital Humanities Literacy Guidebook</i>. Carnegie Mellon University, Updated {{ site.time | date: '%B %d, %Y' }}. https://cmu-lib.github.io/dhlg/.
+Weingart, Scott B., Susan Grunewald, Matthew Lincoln et al. (eds.). <i>The Digital Humanities Literacy Guidebook</i>. Carnegie Mellon University, Updated {{ site.time | date: '%B %d, %Y' }}. https://cmu-lib.github.io/dhlg/.-->

@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/wino.png
+thumb: /assets/img/text/wino-thumb.png
 imagesource: |
   British Library MS Additional 21114 f.1 [Public Domain]
 fulltext: |

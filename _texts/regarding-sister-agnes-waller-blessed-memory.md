@@ -14,10 +14,11 @@ textauthor: Various
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [13th Century, 14th Century]
 genres: [Vita]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/regarding-sister-agnes-waller-blessed-memory.jpg
+thumb: /assets/img/text/regarding-sister-agnes-waller-blessed-memory-thumb.jpg
 imagesource: |
   Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61r (CC BY-NC 3.0)
 fulltext: |

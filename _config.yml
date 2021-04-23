@@ -64,7 +64,7 @@ collections:
     permalink: /collections/:path/
   languages:
     output: true
-    permalink: /languages/:path/
+    permalink: /regions/:path/
     layout: langpage
   textauthor:
     output: true
@@ -73,10 +73,6 @@ collections:
     output: true
     permalink: /genres/:path/
     layout: genrepage
-  keywords:
-    output: true
-    permalink: /keywords/:path/
-    layout: keywordpage
   periods:
     output: true
     permalink: /periods/:path/
@@ -257,7 +253,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-148157120-1
+google_analytics_tracking_id: #UA-148157120-1
 
 
 

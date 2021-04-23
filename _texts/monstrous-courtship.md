@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/monstrous-courtship.jpg
+thumb: /assets/img/text/monstrous-courtship-thumb.jpg
 imagesource: |
   Detail from "Isfandiyar's Third Course: He Slays a Dragon", Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]
 fulltext: |

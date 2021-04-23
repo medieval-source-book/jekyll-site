@@ -14,10 +14,11 @@ textauthor: Hermann Greven (Hermannus Gresgenius)
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Vita]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/regarding-blessed-haseka-virgin-recluse-westphalia.jpg
+thumb: /assets/img/text/regarding-blessed-haseka-virgin-recluse-westphalia-thumb.jpg
 imagesource: |
   A king consults an anchoress, Rothschild Canticles, Yale Bienecke MS 404 [Public Domain]
 fulltext: |

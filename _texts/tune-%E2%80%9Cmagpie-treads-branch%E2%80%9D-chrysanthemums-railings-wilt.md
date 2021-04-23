@@ -14,10 +14,11 @@ textauthor: Yan Shu 晏殊
 languages: [Chinese, Asia]
 periods: [11th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [songs-love-and-loss-lyrics-chinese-song-dynasty, love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D-chrysanthemums-railings-wilt.jpg
+thumb: /assets/img/text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D-chrysanthemums-railings-wilt-thumb.jpg
 imagesource: |
   宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]
 fulltext: |

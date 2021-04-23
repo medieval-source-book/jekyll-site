@@ -14,10 +14,11 @@ textauthor: Yan Shu 晏殊
 languages: [Chinese, Asia]
 periods: [11th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia, Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [songs-love-and-loss-lyrics-chinese-song-dynasty, love-songs-medieval-world-lyrics-europe-and-asia, gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D-singer.jpg
+thumb: /assets/img/text/tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D-singer-thumb.jpg
 imagesource: |
   Detail from 宋人枯木竹石(Bird on Branch)軸, Anonymous, National Palace Museum, Accesion Number: K2A000155N000000000PAA [Public Domain]
 fulltext: |

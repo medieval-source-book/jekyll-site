@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/rabbinic-rites-suspected-adulteress-babylonian-talmud-tractate-sotah-7a-8b.jpeg
+thumb: /assets/img/text/rabbinic-rites-suspected-adulteress-babylonian-talmud-tractate-sotah-7a-8b-thumb.jpeg
 imagesource: |
   "Plechtigungen van het yver-water [Rites of the Bitter Water]," Matthijs Pool (Amsterdam, 1686-1727), Engraving, Rijksmuseum, Gift of J.A. Saurel, The Hague, 1916. [Public Domain]
 fulltext: |

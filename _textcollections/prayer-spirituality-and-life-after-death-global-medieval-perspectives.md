@@ -1,6 +1,5 @@
 ---
 layout: collection
-sidebar: left
 title: 'Prayer, Spirituality, and Life after Death: Global Medieval Perspectives'
 breadcrumb: true
 permalink: "/collections/prayer-spirituality-and-life-after-death-global-medieval-perspectives/"

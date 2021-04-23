@@ -14,10 +14,11 @@ textauthor: Jacopo Passavanti
 languages: [Italian, Western Europe]
 periods: [14th Century]
 genres: [Exemplum]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire, Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/charcoal-burner-nevers.png
+thumb: /assets/img/text/charcoal-burner-nevers-thumb.png
 imagesource: |
   British Library MS Royal 15 E II f.38 [Public Domain]
 fulltext: |

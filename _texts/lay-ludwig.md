@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Western Europe]
 periods: [9th Century]
 genres: [History, Narrative Verse]
-textcollections: [Hymns and Histories: Early German Writings, 800-1000 CE]
+textcollections: [hymns-and-histories-early-german-writings-800-1000-ce]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/lay-ludwig.jpg
+thumb: /assets/img/text/lay-ludwig-thumb.jpg
 imagesource: |
   Image in Public Domain
 fulltext: |

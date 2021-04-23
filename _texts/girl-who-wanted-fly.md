@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [French, Western Europe]
 periods: [13th Century]
 genres: [Narrative Verse]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/girl-who-wanted-fly.jpeg
+thumb: /assets/img/text/girl-who-wanted-fly-thumb.jpeg
 imagesource: |
   Bibliothèque nationale de France, Département des manuscrits, Français 25545
 fulltext: |

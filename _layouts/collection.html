@@ -3,6 +3,8 @@ layout: default
 format: page
 ---
 <div class="row" id="main">
+		
+	<div class="large-offset-2">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header class="row">
 				<div itemprop="name" class="large-8 columns">
@@ -17,9 +19,6 @@ format: page
 			<div itemprop="articleSection">
 				{{ content }}
 			</div>
-			
-			
-			
 			<div class="row">
 	<div class="small-12 columns t30">
 		<div class="row" id="listprojects">
@@ -28,10 +27,10 @@ format: page
 			{% for text in texts limit:1000 %}
 			{% if text.textcollections contains page.identifier %}
 				<div id="text_{{ text.identifier }}" class="large-4 medium-6 columns projectbox">
-					<a href="/{{ text.permalink }}"><img src="{{ text.image }}" class="videothumbnail"></a>
-					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle }}</h4></a>
+					<a href="/{{ text.permalink }}"><img src="{{ text.thumb }}" class="videothumbnail"></a>
+					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:45 }}</h4></a>
 					<p class="strong">
-						{{ text.origtitle }}</p>
+						{{ text.origtitle | truncate:80}}</p>
 						<!--
 					{% if project.teaser %}<p>{{ project.teaser | truncate: 80 }}</p>{% endif %}
 					<p class="source_disciplines">{% if project.source == 'community' %}<img src="{{ 'assets/img/circle-cobalt.svg' | relative_url }}">{% else %}<img src="{{ 'assets/img/circle-brilliant-amber.svg' | relative_url }}">{% endif %}
@@ -55,8 +54,10 @@ format: page
 	</div><!-- /.small-8 small-offset-2.columns -->
 </div><!-- /.row -->
 
+
 			
 			
 			
 		</article>
+	</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

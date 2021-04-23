@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [Spanish, Western Europe]
 periods: [14th Century]
 genres: [Dialogue]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/filberts-vision.png
+thumb: /assets/img/text/filberts-vision-thumb.png
 imagesource: |
   Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.bne.es/viewer.vm?id=0000051820]
 fulltext: |

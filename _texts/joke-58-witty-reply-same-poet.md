@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-58-witty-reply-same-poet.jpg
+thumb: /assets/img/text/joke-58-witty-reply-same-poet-thumb.jpg
 imagesource: |
   Andrea del Castagno, Dante from the Cycle of Famous Men and Women, Galleria degli Uffizi, Florence [Image in Public Domain]
 fulltext: |

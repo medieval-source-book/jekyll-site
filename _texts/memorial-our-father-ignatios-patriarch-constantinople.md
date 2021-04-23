@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [Greek, Eastern Europe]
 periods: [10th Century, 11th Century]
 genres: [Vita]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/memorial-our-father-ignatios-patriarch-constantinople.jpg
+thumb: /assets/img/text/memorial-our-father-ignatios-patriarch-constantinople-thumb.jpg
 imagesource: |
   Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]
 fulltext: |

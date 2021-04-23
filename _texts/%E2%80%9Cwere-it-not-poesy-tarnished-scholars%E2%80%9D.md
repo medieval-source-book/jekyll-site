@@ -14,10 +14,11 @@ textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
 languages: [Arabic, Middle East and North Africa]
 periods: [8th Century, 9th Century]
 genres: [Poetry]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D.jpg
+thumb: /assets/img/text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D-thumb.jpg
 imagesource: |
   Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]
 fulltext: |

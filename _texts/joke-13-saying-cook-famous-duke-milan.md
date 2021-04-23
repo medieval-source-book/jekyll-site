@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-13-saying-cook-famous-duke-milan.png
+thumb: /assets/img/text/joke-13-saying-cook-famous-duke-milan-thumb.png
 imagesource: |
   The Temperate and the Intemperate, Master of the Dresden Prayer Book, miniature from Valerius Maximus, The Memorable Deeds and Sayings of the Romans, Bruges, about 1470-80. The J. Paul Getty Museum, Ms. 43, recto
 fulltext: |

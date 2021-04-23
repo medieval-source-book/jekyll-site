@@ -14,10 +14,11 @@ textauthor: Nicolaus Pergamenus
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [14th Century]
 genres: [Dialogue]
-textcollections: [Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues]
+textcollections: [fantastic-fables-14th-century-book-moral-tales-and-dialogues]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/moral-dialogue-creatures-preface.jpeg
+thumb: /assets/img/text/moral-dialogue-creatures-preface-thumb.jpeg
 imagesource: |
   Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.1r [Public Domain]
 fulltext: |

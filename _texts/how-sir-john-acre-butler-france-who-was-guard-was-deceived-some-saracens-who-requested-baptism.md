@@ -14,10 +14,11 @@ textauthor: Guillaume de Nangis
 languages: [French, Western Europe]
 periods: [13th Century, 14th Century]
 genres: [Chronicles]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/how-sir-john-acre-butler-france-who-was-guard-was-deceived-some-saracens-who-requested-baptism.jpg
+thumb: /assets/img/text/how-sir-john-acre-butler-france-who-was-guard-was-deceived-some-saracens-who-requested-baptism-thumb.jpg
 imagesource: |
   London, British Library Royal MS 16 G VI, f.442r
 fulltext: |

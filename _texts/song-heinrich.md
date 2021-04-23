@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Latin]
 periods: [9th Century]
 genres: [Narrative Verse]
-textcollections: [Hymns and Histories: Early German Writings, 800-1000 CE, Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [hymns-and-histories-early-german-writings-800-1000-ce, writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/song-heinrich.png
+thumb: /assets/img/text/song-heinrich-thumb.png
 imagesource: |
   British Library MS Additional 24199 f.12 [Public Domain]
 fulltext: |

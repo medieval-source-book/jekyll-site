@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-5-about-stupid-man-who-thought-his-wife-had-two-pussies.jpg
+thumb: /assets/img/text/joke-5-about-stupid-man-who-thought-his-wife-had-two-pussies-thumb.jpg
 imagesource: |
   London, British Library Royal 15 E VI, fol. 6r. [Public Domain]
 fulltext: |

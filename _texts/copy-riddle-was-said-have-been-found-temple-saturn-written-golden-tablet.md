@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/copy-riddle-was-said-have-been-found-temple-saturn-written-golden-tablet.jpg
+thumb: /assets/img/text/copy-riddle-was-said-have-been-found-temple-saturn-written-golden-tablet-thumb.jpg
 imagesource: |
   Hill Museum and Manuscript Library GAMS 00900
 fulltext: |

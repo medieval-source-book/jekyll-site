@@ -54,7 +54,7 @@
 		<li><strong>Collection:</strong> 
 		  {% for listtextcollection in listtextcollections %}
     	  {% for textcollection in site.textcollections %}
-		  {% if listtextcollection contains textcollection.title %}<a href="{{site.baseurl}}{{textcollection.permalink}}">{{textcollection.title}}</a>
+		  {% if listtextcollection contains textcollection.identifier %}<a href="{{site.baseurl}}{{textcollection.permalink}}">{{textcollection.title}}</a>
 		  {% endif %}
 		  {% endfor %}
 		  {% unless forloop.last %}&nbsp;{% endunless %}

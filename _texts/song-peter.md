@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Western Europe]
 periods: [9th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Hymns and Histories: Early German Writings, 800-1000 CE, Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [hymns-and-histories-early-german-writings-800-1000-ce, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/song-peter.png
+thumb: /assets/img/text/song-peter-thumb.png
 imagesource: |
   Detail from BSB MS Clm 6260, fol.158v
 fulltext: |

@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [French, Western Europe]
 periods: [15th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/two-or-three-days-ago.png
+thumb: /assets/img/text/two-or-three-days-ago-thumb.png
 imagesource: |
   Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v).
 fulltext: |

@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [German, Western Europe]
 periods: [13th Century]
 genres: [Narrative Verse]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/gosling.png
+thumb: /assets/img/text/gosling-thumb.png
 imagesource: |
   British Library MS Harley 4399 f.37 [Public Domain]
 fulltext: |

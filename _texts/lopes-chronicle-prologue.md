@@ -14,10 +14,11 @@ textauthor: Fernão Lopez
 languages: [Portuguese, Western Europe]
 periods: [15th Century]
 genres: [History]
-textcollections: [Writing History: Chronicles, Legends and Anecdotes]
+textcollections: [writing-history-chronicles-legends-and-anecdotes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/lopes-chronicle-prologue.png
+thumb: /assets/img/text/lopes-chronicle-prologue-thumb.png
 imagesource: |
   Biblioteca Nacional de Portugal MS IL. 123, f.i r [Public Domain]
 fulltext: |

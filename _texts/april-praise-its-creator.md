@@ -14,10 +14,11 @@ textauthor: Bar ‘Ebroyo
 languages: [Syriac, Middle East and North Africa]
 periods: [13th Century]
 genres: [Devotional Verse]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/april-praise-its-creator.JPG
+thumb: /assets/img/text/april-praise-its-creator-thumb.JPG
 imagesource: |
   Star-Shaped Tile, second half 13th–14th century, Stonepaste; molded, overglaze painted and leaf gilded (lajvardina), Metropolitan Museum of Art 40.181.16, H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940 [Public Domain]]
 fulltext: |

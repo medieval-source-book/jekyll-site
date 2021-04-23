@@ -18,6 +18,7 @@ textcollections: []
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/legend-damsel-carcay%C3%A7iona.jpg
+thumb: /assets/img/text/legend-damsel-carcay%C3%A7iona-thumb.jpg
 imagesource: |
   Consejo Superior de Investigaciones Científicas, MS Junta 57, f.1v [Public Domain]
 fulltext: |

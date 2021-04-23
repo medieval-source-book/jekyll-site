@@ -14,10 +14,11 @@ textauthor: Abū Nuʻaym al-Iṣbahānī [att.]
 languages: [Arabic, Middle East and North Africa]
 periods: [11th Century]
 genres: [Devotional Prose, Vita]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing.jpg
+thumb: /assets/img/text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing-thumb.jpg
 imagesource: |
   Khalidi Library (Jerusalem) MS 214, fol. 59v-60r [Courtesy of the Hill Museum and Manuscript Library]
 fulltext: |

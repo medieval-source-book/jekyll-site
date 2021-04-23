@@ -14,10 +14,11 @@ textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
 languages: [Arabic, Middle East and North Africa]
 periods: [8th Century, 9th Century]
 genres: [Poetry]
-textcollections: [Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/your-friend-contests-whomever-you-contest.png
+thumb: /assets/img/text/your-friend-contests-whomever-you-contest-thumb.png
 imagesource: |
   Page from a manuscript on horsemanship, Hegira 9th century / AD 15th century, Paper with watercolour painting and writing in black and red ink. Museum of Islamic Art, Cairo [Image in Public Domain]
 fulltext: |

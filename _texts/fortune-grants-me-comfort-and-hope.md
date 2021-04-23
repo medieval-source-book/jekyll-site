@@ -14,10 +14,11 @@ textauthor: Erhard Oeglin
 languages: [German, Western Europe]
 periods: [16th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/fortune-grants-me-comfort-and-hope.jpg
+thumb: /assets/img/text/fortune-grants-me-comfort-and-hope-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15r
 fulltext: |

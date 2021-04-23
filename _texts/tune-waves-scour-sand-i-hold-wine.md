@@ -14,10 +14,11 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [Chinese, Asia]
 periods: [11th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [songs-love-and-loss-lyrics-chinese-song-dynasty, love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-waves-scour-sand-i-hold-wine.jpg
+thumb: /assets/img/text/tune-waves-scour-sand-i-hold-wine-thumb.jpg
 imagesource: |
   Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) 軸 , Anonymous,  National Palace Museum, Accession Number: K2A000173N000000000PAA [Public Domain]]
 fulltext: |

@@ -14,10 +14,11 @@ textauthor: Anonymous
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [12th Century]
 genres: [Devotional Prose, Narrative Prose]
-textcollections: [Gender Sex and Sensuality: Writings on Women Men and Desire, Prayer Spirituality and Life after Death: Global Medieval Perspectives]
+textcollections: [gender-sex-and-sensuality-writings-women-men-and-desire, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/passion-holy-virgins.png
+thumb: /assets/img/text/passion-holy-virgins-thumb.png
 imagesource: |
   Cambridge, Corpus Christi College, MS 462, f.136r
 fulltext: |

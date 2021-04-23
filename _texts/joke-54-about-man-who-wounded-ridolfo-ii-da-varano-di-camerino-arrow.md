@@ -14,10 +14,11 @@ textauthor: Poggio Bracciolini
 languages: [Latin, The Americas, Western Europe, Eastern Europe]
 periods: [15th Century]
 genres: [Humor]
-textcollections: [Facetiae: A Collection of Early Modern Jokes]
+textcollections: [facetiae-collection-early-modern-jokes]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow.png
+thumb: /assets/img/text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow-thumb.png
 imagesource: |
   Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]
 fulltext: |

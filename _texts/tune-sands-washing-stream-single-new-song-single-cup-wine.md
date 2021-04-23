@@ -14,10 +14,11 @@ textauthor: Yan Shu 晏殊
 languages: [Chinese, Asia]
 periods: [11th Century]
 genres: [Lyric Verse / Song]
-textcollections: [Songs of Love and Loss: Lyrics from the Chinese Song Dynasty, Love Songs of the Medieval World: Lyrics from Europe and Asia]
+textcollections: [songs-love-and-loss-lyrics-chinese-song-dynasty, love-songs-medieval-world-lyrics-europe-and-asia]
 sdr: https://library.stanford.edu/research/stanford-digital-repository 
 doi: example-doi 
 image: /assets/img/text/tune-sands-washing-stream-single-new-song-single-cup-wine.jpg
+thumb: /assets/img/text/tune-sands-washing-stream-single-new-song-single-cup-wine-thumb.jpg
 imagesource: |
   Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]
 fulltext: |
