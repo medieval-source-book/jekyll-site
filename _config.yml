@@ -62,7 +62,7 @@ collections:
   textcollections:
     output: true
     permalink: /collections/:path/
-  languages:
+  regions:
     output: true
     permalink: /regions/:path/
     layout: langpage
