@@ -29,9 +29,9 @@ contributedcontent: 'Content marked in blue is contributed by the community and 
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://cmu-lib.github.io'
+url: 'https://medieval-source-book.github.io/'
 baseurl: ''
-repositoryurl: 'https://github.com/cmu-lib/dhlg'
+repositoryurl: 'https://github.com/medieval-source-book/medieval-source-book.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

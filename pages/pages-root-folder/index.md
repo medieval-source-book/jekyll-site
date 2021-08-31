@@ -1,13 +1,9 @@
 ---
-layout: frontpage
+layout: page
 title: "Global Medieval Sourcebook"
 meta_title: "Global Medieval Sourcebook"
 breadcrumb: false
 permalink: "/"
-callforaction:
-  url: /about/
-  text: Learn more ›
-navigation_type: none
 ---
 
 # Welcome
