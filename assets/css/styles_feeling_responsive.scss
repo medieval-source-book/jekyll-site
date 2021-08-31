@@ -208,9 +208,9 @@ code{
     }
   }
   ul{
-    background-color: $pale-amber;
+    background-color: $white;
     li{
-      background-color: $pale-amber;
+      background-color: $white;
       &.divider:last-of-type {
         width: 0!important;
       }
@@ -237,7 +237,7 @@ code{
   }
   .dropdown{
     li{
-      background-color: $pale-amber;
+      background-color: $white;
       a{
         padding: 15px 0 15px 1.0416666667rem;
       }
@@ -353,7 +353,7 @@ code{
 .morse{
   font-size: 2.7rem;
   font-family: "Raleway";
-  color: $brilliant-amber !important;
+  color: $white !important;
   margin-top: 0;
   line-height: 2.6rem;
   margin-bottom: 4rem;
@@ -474,11 +474,7 @@ code{
 }
 
 .circlebg{
-  background: url(#{$baseurl}/assets/img/circle-pale-amber.svg) no-repeat -10px -10px;
-  background-size: 320px 320px;
   &.contribution{
-    background: url(#{$baseurl}/assets/img/circle-cobalt-large.svg) no-repeat -10px -10px;
-    background-size: 320px 320px;
   }
 }
 
@@ -622,7 +618,7 @@ blockquote {
   }
 }
 blockquote.tip {
-  background-color: $light-amber;
+  background-color: $white;
   margin: 1rem;
   padding: 2rem 1.5rem;
   >*:first-child{
@@ -640,7 +636,7 @@ blockquote.tip {
     margin: 1rem 0;
     &.morse{
       width: 100%;
-      color: $brilliant-amber;
+      color: $white;
       font-size: 2rem;
       line-height: 2rem;
     }
@@ -683,8 +679,6 @@ body.frontpage{
         background-position: -140px;
         height: 140px;
         width: 140px;
-        background-image: url(#{$baseurl}/assets/img/circle-pale-amber.svg);
-        background-size: 100% 100%;
         left: -35px;
         z-index:-2;
       }
@@ -754,11 +748,9 @@ body.frontpage{
     margin: 0;
     list-style: none;
     &>li{
-      background: url(#{$baseurl}/assets/img/circle-pale-amber.svg) no-repeat -2px 2px;
       padding-left: 1rem;
       &:hover{
         transition: none;
-        background: url(#{$baseurl}/assets/img/circle-brilliant-amber.svg) no-repeat -2px 2px;
         line-height: 1rem;
       }
       & > a {
@@ -936,7 +928,7 @@ body.frontpage{
     overflow: hidden;
     display: block;
     .morse{
-      color: $pale-amber !important;
+      color: $white !important;
       text-align: right;
       width: 55%;
       float: right;
@@ -993,14 +985,12 @@ body.frontpage{
     display:inline-block;
   }
   #navigation {
-    background-color: $white;
     &.fixed {
       border-bottom: solid 2px $grey-5;
     }
   }
   .top-bar-section {
     ul{
-      background-color: $white;
       &.right{
         margin-right: 0.75rem;
       }
@@ -1014,7 +1004,6 @@ body.frontpage{
       }
     }
     ul li{
-      background-color: $white;
       &:not(.has-dropdown):not(.logo):not(.alternateprefix){
         & > a {
           &:before {
@@ -1036,7 +1025,6 @@ body.frontpage{
     }
     & > ul{
       & > li:not(.logo):not(.divider){
-        background: $white url('#{$baseurl}/assets/img/circle-10pblack.svg') no-repeat -2px 2px;
       }
       &.right{
         &>li.logo{
@@ -1081,7 +1069,7 @@ body.frontpage{
   }
 }
 @media #{$middlebar-up} {
-  
+
 }
 
 @media #{$xlarge-up} {

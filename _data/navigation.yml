@@ -41,7 +41,7 @@
     url: "/regions/middle-east-and-north-africa"
   - title: "Asia"
     url: "/regions/asia"
-- title: "By Period"
+- title: "By Century"
   url: "/periods/"
   side: left
 - title: "Translators"
