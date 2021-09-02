@@ -8,9 +8,8 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Global Medieval Sourcebook'
+title: Global Medieval Sourcebook
 sitetitle: 'Global Medieval Sourcebook'
-
 
 permissions: 'Stanford strives to post only content for which we have licensed permission or that is otherwise permitted by copyright law. If you have a concern that your copyrighted material is posted here without your permission, please contact us and we will work with you to resolve your concern.'
 concept: 'The Global Medieval Sourcebook is an open-access online repository seeking to showcase the vibrant diversity of text production worldwide between 600 and 1600 CE.'
@@ -32,7 +31,7 @@ contributedcontent: 'Content marked in blue is contributed by the community and 
 #
 url: 'https://medieval-source-book.github.io/'
 baseurl: ''
-repositoryurl: 'https://github.com/medieval-source-book/'
+repositoryurl: 'https://github.com/medieval-source-book/medieval-source-book.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -279,4 +278,3 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
-emptyArray: []
