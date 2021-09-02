@@ -278,3 +278,4 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+emptyArray: []
