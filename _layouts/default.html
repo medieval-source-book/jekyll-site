@@ -8,6 +8,11 @@ layout: compress
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_navigation %}
+	
+		<h1 class="site_title">{{ site.sitetitle }}
+			<small>{{ site.slogan }}</small>
+		</h1>
+
 	{% include _navigation.html %}
 	{% endunless %}
 

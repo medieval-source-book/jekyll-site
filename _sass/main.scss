@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
+
+$navfont: 'Roboto', sans-serif;
+
+// getting rid of circles 
+
+.circlebg, .circlebg.contribution {
+  background: none;
+}
+
+// Changing nav colors 
+
+.top-bar-section>ul>.divider,
+.top-bar-section>ul>[role="separator"],
+.top-bar, #navigation, .top-bar-section ul li, .top-bar-section ul,
+.top-bar-section .dropdown li {
+  background: $gray;
+  border-color: $gray;
+}
+
+.top-bar-section ul li {
+
+  &.active:not(.has-form) > a:not(.button) {
+    background-color: $black;
+    color: $white;
+  }
+
+  &:hover:not(.has-form):not(.logo):not(.divider) > a {
+    background-color: $blue;
+    color: $white;
+  }
+
+  a {
+    color: $white;
+    font-family: $navfont;
+
+    &:hover {
+      color: $white;
+    }
+  }
+
+  .dropdown li:not(.has-form):not(.active)>a:not(.button) {
+    color: $white;
+  }
+
+  .dropdown li:not(.has-form):not(.active):hover>a:not(.button) {
+    color: $white;
+  }
+}
+
+.top-bar-section>ul>li>a {
+  text-transform: none;
+}
+
+// Turned off transitions because they looked weird
+*:target, 
+a,
+a:link {
+  transition:none;
+}
+
+#footer {
+  background-color: $gray;
+}
+
+.site_title {
+  margin: .5em 1.5em;
+}
+
