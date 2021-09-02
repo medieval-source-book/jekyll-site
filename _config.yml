@@ -8,7 +8,8 @@
 #                                                 /____/
 #
 # Title of your website
-title: Global Medieval Sourcebook
+title: 'Global Medieval Sourcebook'
+sitetitle: 'Global Medieval Sourcebook'
 
 
 permissions: 'Stanford strives to post only content for which we have licensed permission or that is otherwise permitted by copyright law. If you have a concern that your copyrighted material is posted here without your permission, please contact us and we will work with you to resolve your concern.'
@@ -17,7 +18,7 @@ license: 'Global Medieval Sourcebook by <a href="/">http://sourcebook.stanford.e
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'something'
+slogan: 'A Digital Repository of Medieval Texts'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 
