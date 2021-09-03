@@ -24,6 +24,9 @@ slogan: 'A Digital Repository of Medieval Texts'
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>A <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> site designed by <a href="http://www.agilehumanities.ca">Agile Humanities</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
+corecontent: 'Content marked in amber is contributed by CMU and is offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
+contributedcontent: 'Content marked in blue is contributed by the community and offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
+
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://medieval-source-book.github.io/'
@@ -44,6 +47,15 @@ plugins:
     - jekyll-paginate
 
 collections:
+  topics:
+    output: false
+    permalink: /topics/:path/
+  projects:
+    output: true
+    permalink: /project-videos/:path/
+  interviews:
+    output: true
+    permalink: /getting-hired/:path/
   texts:
     output: true
     permalink: /text/:path/
