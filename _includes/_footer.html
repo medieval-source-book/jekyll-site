@@ -8,35 +8,18 @@
 <footer id="footer-content" class="bg-grau">
       <div id="footer">
         <div class="row">
-            <div id="dhlogobox" class="large-2 small-4 columns">
-              <img src="{{ '/assets/img/LogoPrint_trans.png' |relative_url }}" id="dhlg-logo">
-              <img src="{{ '/assets/img/SU_Seal_Black_darkbgrd_footer.png' |relative_url }}" id="dhlg-logo">
-              <img src="{{ '/assets/img/dlcl-logo-new.png' |relative_url }}" id="dhlg-logo">
-              <img src="{{ '/assets/img/neh_transparent.png' |relative_url }}" id="dhlg-logo">
+			<div id="dhlogobox" class="large-12 columns">
+              <img src="{{ '/assets/img/LogoPrint_trans.png' |relative_url }}" id="dhlg-logo" style="max-height:150px; max-width:200px">
+              <img src="{{ '/assets/img/SU_Seal_Black_darkbgrd_footer.png' |relative_url }}" id="dhlg-logo" style="max-height:150px; max-width:200px">
+              <img src="{{ '/assets/img/dlcl-logo-new.png' |relative_url }}" id="dhlg-logo" style="max-height:150px; max-width:200px">
+              <img src="{{ '/assets/img/neh_transparent.png' |relative_url }}" id="dhlg-logo" style="max-height:150px; max-width:200px">			
+		               <h5>Permissions and License</h5>
+		   <p>{{ site.permissions }}</p>
+		   <p>{{ site.license}}</p>
 
             </div><!-- /.large-6.columns -->
 
-          <div class="large-3 small-8 columns">
-            <h5>Global Medieval Sourcebook</h5>
-<p>{{ site.concept}}</p>          </div>
-
-          <div class="large-3 small-8 columns">
-            <h5>Permissions and License</h5>
-<p>{{ site.permissions }}</p>
-<p>{{ site.license}}</p>
-          </div>
-
-          <div class="large-3 small-8 columns">
-<h5>Links</h5>
-<ul class="no-bullet">
-{% for link in site.data.footerlinks %}
-  {% if link.url contains 'http' %}{% assign domain = '' %}{% else %}{% capture domain %}{{ site.url }}{{ site.baseurl }}{% endcapture %}{% endif %}
-    <li>
-      <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %} title="{{ link.title }}">{{ link.name }}</a>
-    </li>
-{% endfor %}
-</ul>
-          </div>
+         
         </div><!-- /.row -->
 
       </div><!-- /#footer -->

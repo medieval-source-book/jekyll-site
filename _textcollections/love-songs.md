@@ -2,8 +2,8 @@
 layout: collection
 title: 'Love Songs of the Medieval World: Lyrics from Europe and Asia'
 breadcrumb: true
-permalink: "/collections/love-songs-medieval-world-lyrics-europe-and-asia/"
-identifier: love-songs-medieval-world-lyrics-europe-and-asia
+permalink: "/collections/love-songs/"
+identifier: love-songs
 image: 
 ---
 

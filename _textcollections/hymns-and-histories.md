@@ -2,8 +2,8 @@
 layout: collection
 title: 'Hymns and Histories: Early German Writings, 800-1000 CE'
 breadcrumb: true
-permalink: "/collections/hymns-and-histories-early-german-writings-800-1000-ce/"
-identifier: hymns-and-histories-early-german-writings-800-1000-ce
+permalink: "/collections/hymns-and-histories/"
+identifier: hymns-and-histories
 image: john_evangelist_plaque.jpg
 ---
 
