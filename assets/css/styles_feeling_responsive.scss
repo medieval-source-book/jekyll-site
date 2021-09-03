@@ -331,9 +331,9 @@ code{
   color: $black;
 }
 #dhlg-logo {
-  display: block;
+  display: inline-block;
   margin: auto;
-  max-width: 80%;
+  max-width: 200px;
 }
 .dhlg-menu-logo {
   height: 100%;
