@@ -65,5 +65,29 @@ a:link {
 
 .site_title {
   margin: .5em 1.5em;
+  font-family: $navfont;
 }
 
+h1 {
+  font-family: $navfont;	
+}
+
+#footer h5 {
+  font-family: $navfont;	
+}
+
+.panel {
+	background: $lightgray;
+}
+
+.projectbox h4 {
+	text-transform:none;
+}
+
+.projectbox .videothumbnail {
+    margin-left: 0px;
+}
+
+.dhlg-menu-logo {
+	display:none;
+}

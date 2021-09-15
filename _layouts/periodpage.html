@@ -8,7 +8,7 @@ format: page
 		{% include _text-metadata.html %}
 	</div><!-- /.medium-4.columns -->
 	{% endif %}
-		
+
 	<div class="large-offset-2">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header class="row">
@@ -33,7 +33,7 @@ format: page
 			{% if text.periods contains page.tag %}
 				<div id="text_{{ text.identifier }}" class="large-4 medium-6 columns projectbox">
 					<a href="/{{ text.permalink }}"><img src="{{ text.thumb }}" class="videothumbnail"></a>
-					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:45 }}</h4></a>
+					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:75 }}</h4></a>
 					<p class="strong">
 						{{ text.origtitle | truncate:80}}</p>
 						<!--
@@ -60,9 +60,9 @@ format: page
 </div><!-- /.row -->
 
 
-			
-			
-			
+
+
+
 		</article>
 	</div><!-- /.medium-8.columns -->
 </div><!-- /.row -->

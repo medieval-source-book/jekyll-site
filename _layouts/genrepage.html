@@ -29,7 +29,7 @@ format: page
 			{% if text.genres contains page.tag %}
 				<div id="text_{{ text.identifier }}" class="large-4 medium-6 columns projectbox">
 					<a href="/{{ text.permalink }}"><img src="{{ text.thumb }}" class="videothumbnail"></a>
-					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:45 }}</h4></a>
+					<a href="/{{ text.permalink }}"><h4>{{ text.engtitle | truncate:75 }}</h4></a>
 					<p class="strong">
 						{{ text.origtitle | truncate:80}}</p>
 						<!--
