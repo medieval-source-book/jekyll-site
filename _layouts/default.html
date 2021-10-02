@@ -8,10 +8,12 @@ layout: compress
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_navigation %}
-	
+	<div class="title-surround">
+	  <img src="{{ '/assets/img/LogoPrint_trans.png' |relative_url }}" id="main-logo">
 		<h1 class="site_title">{{ site.sitetitle }}
 			<small>{{ site.slogan }}</small>
 		</h1>
+	</div>
 
 	{% include _navigation.html %}
 	{% endunless %}
