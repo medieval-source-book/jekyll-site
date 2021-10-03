@@ -8,12 +8,44 @@ $navfont: 'Roboto', sans-serif;
   background: none;
 }
 
+// Title and Logo
+
+.title-surround {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px 0 0 30px;
+
+  img {
+    margin: 0 .3em 20px 0;
+    max-height: 100px;
+    max-width: 100%;
+  }
+
+  .site_title {
+    font-size: 2.7em;
+    font-weight: 900;
+    line-height: 1em;
+    margin: 27px 0 .5em 0;
+    padding: 0;
+
+    small {
+      color: #000;
+      display: block;
+      font-size: .5em;
+      font-weight: 100;
+      margin-top: .5em;
+    }
+  }
+}
+
 // Changing nav colors 
 
 .top-bar-section>ul>.divider,
 .top-bar-section>ul>[role="separator"],
 .top-bar, #navigation, .top-bar-section ul li, .top-bar-section ul, .dropdown li,
-.top-bar-section .dropdown li {
+.top-bar-section .dropdown li,
+.dropdown .dropdown li:not(.has-form):not(.active)>a:not(.button) 
+{
   background: $gray;
   border-color: $gray;
 }
