@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Persian
-tag: Persian
+tag: persian
 ---

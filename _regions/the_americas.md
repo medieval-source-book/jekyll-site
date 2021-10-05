@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: The Americas
-tag: The Americas
+tag: the_americas
 ---

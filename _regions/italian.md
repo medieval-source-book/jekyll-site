@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Italian
-tag: Italian
+tag: italian
 ---

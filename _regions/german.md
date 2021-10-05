@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: German
-tag: German
+tag: german
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Japanese
-tag: Japanese
+tag: japanese
 ---

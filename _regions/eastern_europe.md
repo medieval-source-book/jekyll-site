@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Eastern Europe
-tag: Eastern Europe
+tag: eastern_europe
 ---

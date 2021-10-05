@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Portuguese
-tag: Portuguese
+tag: portuguese
 ---

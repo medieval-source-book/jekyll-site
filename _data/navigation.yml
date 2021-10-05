@@ -25,8 +25,6 @@
     url: "/collections/prayer-spirituality-life-after-death/"
   - title: "What Makes A Good Life? Poetic Reflections from Imperial China"
     url: "/collections/what-makes-a-good-life/"
-  - title: "Writing History: Chronicles, Legends and Anecdotes"
-    url: "/collections/writing-history-chronicles-legends-and-anecdotes/"
 - title: "By Region"
   url: "/regions/"
   side: left
@@ -41,8 +39,6 @@
          url: "/regions/latin"
        - title: "Spanish"
          url: "/regions/spanish"
-       - title: "Quechua"
-         url: "/regions/quechua"
   - title: "Western Europe"
     url: "/regions/western-europe"
   - title: "Eastern Europe"

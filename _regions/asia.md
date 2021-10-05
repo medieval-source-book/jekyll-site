@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Asia
-tag: Asia
+tag: asia
 ---

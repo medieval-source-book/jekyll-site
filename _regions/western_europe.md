@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Western Europe
-tag: Western Europe
+tag: western_europe
 ---

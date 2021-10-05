@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Chinese
-tag: Chinese
+tag: chinese
 ---

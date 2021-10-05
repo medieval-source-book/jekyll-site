@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: Occitan
-tag: Occitan
+tag: occitan
 ---

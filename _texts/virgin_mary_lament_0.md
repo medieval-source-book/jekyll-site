@@ -1,0 +1,2147 @@
+---
+layout: text
+sidebar: left
+title: 'The Virgin Mary's Lament | Marienklage'
+breadcrumb: true
+permalink: "text/virgin_mary_lament_0"
+redirect_from: /text/virgin-marys-lament
+identifier: virgin_mary_lament_0.md
+textauthor: Anonymous
+language: [german]
+period: [15th_century]
+textcollection: []
+sdr: https://purl.stanford.edu/druid 
+image: /assets/img/text/virgin_mary_lament_0.png
+thumb: /assets/img/text/virgin_mary_lament_0-thumb.png
+imagesource: "Bordesholmer Marienklage, f.1r [http://dibiki.ub.uni-kiel.de/viewer/image/PPN379967243/2/]"
+fulltext: |
+  Marienklage
+The Virgin Mary's Lament
+Planctum istum facit beata virgo Maria cum quattor personis deuotis deuotissime bona sexta feria ante prandium in ecclesia ante chorum in loco aliquantaum eleuato vel extra ecclesiam, si bona est aura.
+Here begins the most devout lamentation of the Blessed Virgin Mary in a compassionate and devout exposition.
+Planctus iste non est ludus nec ludibrium, sed est planctus et fletus et pia compassio Marie virginis gloriose.
+This lamentation is neither a play nor a funny joke, but is a lamenting and a wailing and devout compassion for the glorious Virgin Mary.
+Et cuandocunque fit a bonis et deuotis hominibus, in genere siue in specie valde prouocat homines circumstantes ad pium fletum et ad compassionem, sicut facit sermo deuotus bona sexta feria de passione domini nostri Jhesu Cristi.
+And in general or in particular, whenever it is performed by good and devout people it will
+Si non potest fieri bona sexta feria commodose propter sermonem de passione domini, tunc beata virgo faciat istum planctum antea cum suis, sicut feria secunda post dominicam palmarum ante prandium.
+If, because of the sermon on the Lord’s passion, it is not possible to perform on Good Friday, at the time when the Blessed Virgin together with her confidantes once broke out into this lamentation, [it shall be performed] on the Monday of the Holy Week before lunch.
+Iste planctus fit commodose in duabus horis et media.
+This lamentation can be conveniently performed in two and a half hours.
+Et omnia, que tunc fiunt ab illis quinque personis, non debent fieri cum festinacione nec nimia mora, sed medio et bono modo.
+And everything which was once done by these five persons shall not be performed in a hurry or exaggeratedly slow, but medium-fast and in a good way.
+Ille, qui est Jhesus, est deuotus sacerdos.
+The actor playing Jesus is a devout priest.
+Maria iuuenis.
+Mary is a young man.
+Johannes ewangelista sacerdos.
+John the Evangelist is a priest.
+Maria Magdalena et mater Johannes ewangelista iuuenis.
+Mary Magdalene and the mother of John are young men.
+Jhesus debet se preparare cum casula rubra.
+Jesus must wear a red vestment.
+Johannes simili modo.
+John must do the same.
+Jhesus et Johannes debent habere dyademata de papiro; dyadema Jhesu habeat rubram crucem ante et retro.
+Jesus and John are wearing crowns made of paper; Jesus’ crown shows a red cross at the front and the back.
+Maria debet se preparare cum vestibus, sicut Maria Magdalena in nocte pasche.
+Mary must wear a garment like that of Mary Magdalene for the Easter vigil.
+Johannes habeat gladium de ligno cum vagina, quem tenet in manu, quum exit cum rigmo suo.
+John has a wooden sword with a sheath which he holds in his hand and with
+Et Johannes debet sepius tangere cor Marie vel pectus eius.
+And John has to touch Mary’s heart or
+Et quum facit actum suum, statim deponit gladium.
+And when he has performed his part, he immediately lays down the sword.
+Iuuenis quidam bene vestitus potest postea lumbos crucifixi.
+Well-costumed young men may take away the sword together with the cloth of silk with which the Blessed Virgin before had covered the loins of the Crucified.
+Dominus Jhesus cum primo exit cum alijs quattuor personis, deuote portat crucem in manibus suis.
+In the beginning, the Lord Jesus enters the stage with the four other characters, devoutly carrying the cross in his hands.
+Et quum cantauit versum "Quoniam tribulacio proxima est", statim deponit crucem.
+And when he has sung the verse “For tribulation is near,” he immediately lays down the cross.
+Et quum faciunt planctum, dominus Jhesus debet habere crucifixum ante se.
+And when they perform the lamentation, the Lord Jesus must hold the cross in front of him.
+Et cuandocunque facit actum, tunc crucem deponit et intrudit crucifixum.
+And as soon as he has performed this act, he puts down the cross and rams the crucifix into the ground.
+Beata virgo stat a dextris Jhesu Cristi cum Maria Magdalena.
+Together with Mary Magdalene, the Blessed Virgin stands on the right side of Jesus.
+Johannes a sinistris cum matre sua.
+John and his mother stand on the left.
+Virgo Maria quum facit actum suum, vadit ad medium et aliquando vertit se ad filium ad orientum, aliquando ad occidentem, aliquando ad aquilones, aliquando ad meridiem cum gladio Symeonis, quem tenet beatus Johannes ante pectus eius.
+When the Virgin Mary performs her part, she steps into the center and at one point turns east towards her son, at one point to the west, at another point to the north, and at one point to the south and towards the sword of Simeon, which St. John holds to her chest.
+Aliquando beata virgo expandit brachia sua, aliquando leuat manus suas ad filium cum oculis: omnia cum moderamine.
+At one point, the Blessed Virgin reaches out her arms,
+Quandocunque fecit actum suum, vadit at locum suum et stat a dextris.
+As soon as she has performed her part, she steps back to her place and stands on the right.
+Simili modo faciunt alij.
+The others do the same.
+Quum exeunt et quum intrant, faciunt tria paria: primo exit dominus Jhesus cum cruce cum Johanne ewangelista, post hos beata virgo cum Maria Magdalena, vltimo mater Johannes cum rectore, et ille incipit psalmum "Circumdederunt me viri mendaces" vsque ad locum preparatum.
+When they enter and exit the stage, they make up three pairs: first of all, the Lord Jesus
+Ffinito psalmo dominus Jhesus cantat solus versum "Quoniam tribulacio proxima est" et vertit faciem ad occidentem semper.
+After the end of the psalm, Jesus alone sings the verse “For tribulation is near,” turns his face westwards and stays this way.
+Vnusquisque dicat rigmum suum cum deuocione plangendo in eadem et nota et dono discreto.
+Everyone recites his rhymed
+Quum Jhesus finiuit versum "Quoniam tribulacio", Johannes ewangelista statim dicit ad omnem populum plangendo:
+When Jesus has finished the verse “For tribulation is near,” John the Evangelist immediately turns to all the people and sorrowfully says:
+Johannes ewangelista
+John the Evangelist:
+Horet, gij salighen lude,
+Listen, you blessed people,
+Vnde latet juw beduden,
+and let it be shown to you
+Wo vnse leue here Jhesu Crist,
+how our dear Lord Jesus Christ,
+De eyn schepper hemmels vnde eerden ist,
+Creator of Heaven and Earth,
+Huden vmme vnsen wyllen heft geleden de marter grot,
+today suffered great torture for our sake,
+Dar tho ok den bytteren dot!
+and, in addition to that, bitter death!
+  Horet ersten, wo vnse leue here an der tijt to completen
+ Hear, first of all, how our dear Lord at the time of Compline
+Vmme vnsen wyllen blodich sweet wolde sweten;
+sweated bloody sweat for our sake,
+Dat he alwyllynges ok wolde ga&esup;n,
+and how he also went voluntarily
+Dar en syne vygende wolden va&esup;n;
+to where his enemies caught him,
+Dat he Judam, synen valschen vrund,
+and how he kissed Judas, his disloyal friend,
+Kussen wolde vor syne munt
+on the mouth,
+Vnde valsklyken wolde vorraden werden,
+when he was about to be betrayed as treacherously
+Alse gy eyn mynsche vp dusser erden.
+as any man who ever walked the earth.
+De yoden, de he hadde van herten leeff,
+The Jews, whom he loved with all his heart,
+Venghen ene alse eynen morder vnde deeff.
+took him captive as if he were a murderer or a thief.
+He wart ok in den suluen stunden
+In the same hour,
+Vor Annas ghetoghen vnde gebunden;
+he was also dragged before Annas and bound;
+De beghunde en vmme syne lere tho vragen.
+he [Annas] began to question him about his teachings
+Do wart he in syne hilgen wanghen geslagen.
+There he was struck on his holy cheeks.
+  Horet, wo vnse leue here in der nachtstunde
+ Hear how our dear Lord on that night
+Vmme vnsen wyllen wart gevangen vnde gebunden
+was taken captive and bound for our sake
+Vnde wort vor byschop Cayphas getoghen!
+and was dragged before bishop Cayphas!
+Dar wart he so rechte ouele beloghen:
+There he truly was basely slandered:
+Syne vygende, de yoden, dar to rade gynghen,
+his enemies, the Jews, took counsel
+Wo se ene mochten to deme dode bryngen.
+there about how they might put him to death.
+Dar horde vnse leue here mennich smelyk word:
+There our dear Lord heard many scornful words:
+Se staffeden syne werden hylgen bord,
+they insulted his worthy, holy birth,
+Se seden, dat he nicht were godes kynd,
+they said that he wasn’t the son of God;
+Also deger weren se vorblynd.
+that is how very blind they were.
+Syne gotlyken ogen see vorbunden;
+They bound his godly eyes;
+Alumme en de grymmighen yoden stunden
+all around him stood the grim Jews
+Vnde hadden en vor enen doren
+who took him for a fool
+Vnde slogen en to synen gotlyken oren.
+and struck him around his godly ears.
+Se spreken smelyken: bystu Crist,
+They spoke mockingly: if you are Christ
+So entrade, van weme du geslagen byst!
+then tell us who hit you!
+Se bespygeden syn gotlyke antlat,
+They spat on his godly countenance,
+Se makeden dat vul vnreyne vnde nat, -
+they sullied and drenched it completely –
+O leuen vrundes, wat groter smaheyt was em dat!
+O dear friends, what a terrible offence this was to him!
+ Horet, wo vnse leue here wart vor Pylatum gebracht!
+ Hear, how our dear Lord was brought before Pilot!
+Dar wart he so rechte ouele bedacht:
+There he was truly mistreated:
+Se seden, dat vnse here were eyn droghenere
+they said that our Lord was a deceiver
+Vnde lerede deme volke ok valsche lere.
+and also that he taught the people false teachings.
+Pylatus sende vnsen heren hen to herodes;
+Pilot sent our Lord to Herod
+De wart sere gevrowet des:
+who was very pleased about this:
+He me&esup;nde, dat he were eyn to&esup;uerer
+he thought that he [our Lord] was a conjurer
+Vnde ok der lude gokeler.
+and also a misleader of the people.
+Herodes hadde gerne wunder van em geseen;
+Herod would have gladly seen some of his miracles;
+Des enmochte em doch nicht bescheen.
+but that was not to happen for him.
+He began vnsen heren vele to vraghen,
+He began to ask our Lord many questions
+Vnde de yoden begunden ouer em sere to klaghen:
+and the Jews began to complain greatly about him;
+Vnse here sweech al stylle vnde wolde em nicht berichten,
+and our Lord kept completely silent and would not tell him anything;
+Do bespottede Herodes Jhesum Cristum myt alle synen knechten,
+then Herod, with all his men, mocked Jesus Christ.
+He to&esup;ch em eyn do&esup;ren kleyt an
+He dressed him in a fool’s costume
+Vnde let en also wedder to Pylatum gan.
+and sent him back to Pilot like that.
+Dat le&esup;et vnse leue here myt groder dult
+Our dear Lord endured this with great patience
+Vor vnse sundychlyken schult.
+for our guilty sins.
+Horet, wo vnse leue here vmme vnse sunde
+Hear, how our beloved Lord was pitifully bound
+Yamerliken vmme eyne zule wart gebunden!
+to a column for the sake of our sins!
+Also mortlyken sere
+Thus was our dear,
+Wart do geslagen vnse werde truten here,
+worthy Lord murderously beaten.
+Lat an al synem lychamme nicht heles enbleeff
+No part of his body was left intact
+Vnde syn dure blo&esup;d ouer alle syn leuent dreff.
+and his precious blood ran all over his living body.
+Se vlechteden eyne scharpe do&esup;rne krone;
+They wove a sharp crown of thorns
+De druckeden se an syn houet schone,
+and pressed it down upon his fair head
+Dat syn hylge dure blo&esup;t
+so that his holy, precious blood
+Ouer syn hilge antlat vlo&esup;t.
+flowed down over his blessed countenance.
+Dar worpen se vort ere vule spekelen an,
+They spat foully [upon him]
+Dat he wart gestalt alse eyn spyttels man.
+so that he looked like he was made of spit.
+Se slogen syn hilge houet myt enem rore
+They beat his blessed head with a rod
+Vnde belacheden Marien kynt alse enen doren;
+and laughed at Mary’s child as if he were a fool.
+Se togen em eyn purpuren kleyt an vnde vyllen vp ere knee
+They dressed him in purple and fell to their knees:
+Ghegrutet systu, der yoden koningh! ho&esup;nlyken spreken see.
+“Hail to you, King of the Jews!”, they said disdainfully.
+ Dar negest wart vnse leue here vor gherichte getogen
+ After that our dear Lord was dragged before the court
+Vnde menniger hande wijs valschlyken beloghen.
+and was treacherously slandered in many different ways.
+Eyn valsch ordel wart ouer em geda&esup;n,
+A false verdict was passed on him so
+Dat me ene scholde an eyn krutze sla&esup;n.
+that they crucified an innocent man.
+He droch synes sulues crutze vth der stat;
+He dragged his cross of beams out of the city.
+Tho groter smaheyt schach em dat.
+It was a great disgrace that this happened to him.
+Se hangeden en daran lyk enem mysdedegen deue.
+They hanged him on it like a scurrilous thief.
+Do bewysede he vns syne groten leue,
+There he showed us his great love
+In deme dat he vor syne vygende bat,
+by praying for his enemies;
+Dar he af geleden hadde pyne vnde groten hat.
+there he had cast off pain and great hatred.
+Syner drofnysse was noch vele mere:
+His suffering was yet even greater:
+He leyt bynnenwendych alto grot herte swere,
+inside, he suffered great and unbearable anguish
+Do he syne werden moder Marien
+when he heard his worthy mother Mary
+Horde bytterlyken sere wenen vnde scrygen.
+very bitterly weeping and crying.
+Dar weren ok twe mo&esup;ordere gevangen;
+Two murderers had also been caught; disgracefully,
+Dar wart he smelyken twyschen gehanghen.
+he was hung between them.
+Deme enen vorgaff he in der latesten stunde
+He forgave one of them in his final hour
+Vmme eyne korte ruwe al syne sunde.
+after he had done brief penance for all his sins.
+ Vnse leue here rep ok eynen yamerlyken schrey:
+ Our beloved Lord let out a woeful cry:
+Hely, hely, lamazabathani!
+“Hely, hely, lamazbathani!”
+Dat ys: myn got, myn got, worvmme hestu my vorgeten?
+That is to say: “my God, my God, why have you forsaken me?”Matthew 27:46
+Do bespotteden en de yoden vnde dar entyegen repen:
+Then the Jews mocked him and shouted back at him:
+Kum hijr nedder van deme crutze, bystu Crist,
+“Come down here from the cross if you are Christ
+So wyl wij louen, dattu godes sone byst!
+then we will believe that you are God’s son!”
+Dar negest eschede vnse leue here drynken;
+Thereafter our beloved Lord asked for a drink;
+Do leten se em etyk vnde gallen schenken.
+then they had vinegar and gall brought to him.
+Dar neghest sprak he: consummatum est!
+Thereafter he spoke: “it is finished!"
+Vnde ok: in dyne hende bevole ik, vader, mynen geyst!
+And also: “In your hands father, I command my spirit!”
+Also leyt do den bytteren dot vnse leue here.
+Thus our lord suffered bitter death.
+Ok wart syne hilghe syde doresteken myt enem spere;
+Thus his holy side was pierced with a lance;
+Dar vlo&esup;t vth water vnde blot.
+water and blood flowed out of it.
+Dar sach me do an den creaturen yammer grot:
+Then the creatures were seen to suffer great sorrow:
+De harden steyne toreten van synen pynen,
+The hard stones shattered for his pain,
+Der sune let van groter dro&esup;fnisse ere schynent,
+The sun stopped shining for great distress,
+De erde began van grotem yammer to beuen,
+The earth began to quake for great sorrow,
+De doden in den grauen begunden ok wedder to leuen. -
+The dead in the graves came back to life again.
+Leue vrunde, gy hebben hort, wat leden het Jhesus Cristus vnse
+Dear friends, you have heard what our dear Lord Jesus Christ has suffered.
+Nu wyl ik juw lesen noch vuste mere:
+Now I want to read much more to you:
+Dat lydent sunte Marien, dat wyl wij hijr nu anheuen.
+We now want to start telling what St. Mary suffered.
+God late juw so lange leuen,
+May God let you live so long
+Dat dij syne hulde vordenen, -
+that you earn his grace,
+Vnde helpet huden sunte Marien wenen!
+and, today, help to mourn St. Mary!
+Betrachtet huten myt vlyte ere byttercheyt,
+Consider carefully today her bitterness
+De se so swarlyken leyt
+that she suffered so deeply
+Vmme eres leuen kyndes dot,
+for the death of her beloved child,
+Dar he vns mede geloset heft vth aller not!
+by which he delivered us from all our misery!
+Hijr vmme, gij vrowen vnde ok gij man,
+For that reason, all you women and men,
+Latet juw ere lydent to herten ga&esup;n!
+let her suffering enter your heart!
+Bewenet dat van herten ynnichliken,
+Lament this profoundly from the heart,
+Dat gij mogen myt vrowden ewychlyken
+so that you can be joyfully and eternally
+Myt gode vnde myt Marien wesen
+with God and with Mary
+Vnde vor der ewygen helle genesen!
+and be saved from eternal Hell!
+Dat vns dat allen beschee,
+For this, which is happening to all of us,
+So gat sytten vp juwe knee,
+go down on your knees,
+Spreket eyn Pater noster myt ynnicheyt
+say a heart-felt pater noster
+Vnde ok Aue Maria to juwer selen salycheyt!
+and an Ave Maria for the salvation of your soul!
+Johannes post Pater noster dicit ad omnem populum
+Following the paternoster, John says to all of the people:
+Ghat sytten, gy leuen kynder, an dessen guden daghe,
+Be seated, dear children on this fine day,
+Horet der reynen junckfrowen Marien weynent vnde klaghe!
+hear the weeping and lament of the pure virgin Mary!
+Beata virgo Maria iucipit hic planctum suum dolorosissimum deuotissime. Psalmus:
+St. Virgin Mary here piously begins her most sorrowful lamentation. Psalm:
+*Anxiatus est in me spiritus meus,
+*My spirit is afraid,
+*In me turbatum est cor meum!
+*My heart is restless!
+*Nu bedrouet sik myn geyst an mynem herten sere,
+*Now the spirit in my heart becomes very sad,
+*Noch mer wen gy wyf gewan dorch mynes kyndes ere.
+*exceeding even what you, women, gained through my child’s honor.
+Sancta Maria dicit et vertit se ad populum
+St. Mary speaks and turns toward the audience.
+O aller barmhertigeste god,
+Oh most merciful God,
+Wo grot ys myne klaghe vnde myn not
+how great is my lament and my suffering
+Vmme Jhesus Cristum, den leuen sone myn!
+because of Jesus Christ, my beloved son!
+Ik vruchte, he mot in groten noden syn.
+I fear he may be in great peril.
+Ach woste yk, wor yk mochte
+Alas, if I only knew where I could
+Ghan, dar yk ene sochte!
+go to search for him!
+Dar gynge yk myt wyllen gerne hyn,
+Gladly and willingly I’d go there
+Scholdet ok kosten dat leuent myn.
+even if it would cost my life.
+Beata virgo cautat hoc
+The blessed virgin sings this:
+Conturbata sunt omnia ossa mea, et anima mea turbata est valde.
+All my bones are disquieted, and my soul is in great turmoil.
+Sancta Maria statim dicit ad Johannem:
+St. Mary immediately says to John:
+Johannes, myn leue o&esup;m, wat mach dat beduden?
+John, my dear nephew, what may that mean?
+Ghynnert synt gesammelt vele lude,
+Many people have gathered,
+Se ropen lude und beren swar.
+they are grieving loudly and behaving sadly.
+Eya nu gha myt my alda&esup;r
+Come on, go there with me,
+La&esup;t vns beseen, wat see bedryuen!
+let us have a look at what they are doing!
+Sanctus Johannes respondet
+St. John responds:
+Neen, Maria leue medder wij moget leuer blyuen!
+No, dear mother Mary, we would rather stay here!
+De yoden synt eres ouermodes also vil,
+The Jews are so full of arrogance,
+Vor war ik dy dat saghen wyl.
+in truth I want to tell you this!
+Se brochten sunte Peter darto in desser nacht,
+They made St. Peter this night,
+Dat he synes heren vorso&esup;k vnde syner macht;
+forsake his lord and his power;
+Schege my armen manne ok also,
+if the same thing happened to me, a mere man,
+Des worde yk nummer vro.
+I would never be happy again.
+Sancta Maria respondit
+St. Mary responds:
+Johannes, myn vil leue vrund,
+John, my very dear friend,
+Twyde my an desser stund,
+listen to me at this hour
+Vnde ga myt my aldar,
+and go with me there,
+Wente yd ys dar mennich var!
+because there are many dangers!
+Lat vns beseen, wat se bedryuen!
+Let us see what they are doing!
+Ik wyl stede by dy blyuen;
+I will remain ever by your side;
+Myt der warheyt schaltu dat beseen:
+in truth, you shall see this:
+Ik wyl vaste sta&esup;n vnde ok nicht van dy vleen
+I will remain steadfast and not leave your side.
+Sume nicht! wij mogen nu nicht lenger stan.
+Don’t delay! Let’s not stay here any longer.
+Sanctus Johannes respondet
+St. John responds:
+Maria, leue medder, yk wyl gerne myt dy ga&esup;n.
+Mary, dear mother, I will gladly go with you.
+Scholde yk ok darvmme lyn den bytteren dot,
+Even if I suffer a bitter death,
+Ik vorlate dy nicht in desser groten not.
+I will not abandon you in this great peril.
+Valde modicum transeunt, silicet, si est opus, usque ad medium circuli. Et sancta Maria statim incipit cantare
+Quickly they move over, if necessary; namely, up into middle of the circle. And St. Mary immediately begins to sing:
+*Owe des ghandes, des yk gha
+*Alas that I walk
+*Myt yamer vnde myt ruwen!
+*With pain and sorrow!
+*Myn kynt an deme crutze steyt,
+*My child is standing with the cross,
+*Myn leyt wil sik vornuwen.
+*My suffering begins again.
+(Hic imponit gladium)
+(Here she picks up the sword)
+*Owe, owy, owe
+*Alas, alas, alas
+*Des gandes, des yk nu ghe!
+*That I must walk this path!
+*Ik mot scrygen yummermer:
+*I must wail now and forever:
+*Owe, owy, owe!
+*Alas, alas, alas!
+*Bedrouet synt de synne myn,
+*My senses are defeated,
+*Went de heylant ys in pyn,
+*because the Saviour is in pain
+*De myn kynt ys vnde ok myn god
+*who is my child and also my God,
+*Vnde der enghel sabaoth.
+*and the lord of angels.
+*Owy, owe!
+*Alas, alas!
+*Owe, leyder wat ik nu vynde
+*Alas, more painful still is what I see
+*An mynem herten truwen kynde!
+*in the child dear to my heart!
+(Hic deponit gladium)
+(Here she puts down the sword.)
+*Wor schal ik arme maget blyuen?
+*Where shall I, poor maiden remain?
+*Dot, kum her vnde my vorswynde!
+*Death, come here and claim me!
+Sancta Maria extendit manum ad filium hic et dicit ad sanctum Johannes
+Here St. Mary extends her hand to her son and says to St. John:
+See, Johannes leue o&esup;m,
+See, John, dear nephew,
+Wat ys gehanget vor vns an den bo&esup;m,
+what is hanging before us on the tree,
+Ys yd eyn mynsche edder eyn worm?
+is it a man or a serpent?
+Id wyndet sik in den neghelen vnde drift groten storm;
+It twists itself on the nails and is in the great throes of death;
+Id mot in groten bytteren pynen syn.
+it must be in great and bitter pain.
+Sanctus Johannes respondet plangendo
+St. John responds, mourning:
+Owe, Maria, dat ys dat leue kynt dyn!
+Alas Mary, that is your beloved child!
+See, wo yd gevyllet sta&esup;t
+See, how he hangs there tormented
+Vnde ok vp synem hilgen houede ha&esup;t
+and around his holy head
+Van scharpen do&esup;rne eyne krone!
+he has a crown of sharp thorns!
+Dat hilge blot vlut ouer syn antlat schone,
+Holy blood flows over his lovely face
+Ok ouer syne ogen bet in syne munt.
+Tand over his eyes and into his mouth.
+O Maria, see, wo yd steyt gewund:
+O Mary, see how he hangs there tortured:
+Dat mochte eynem stene entfarmen!
+that even a stone could be moved by it!
+O leuen kyndere, helpet dat altomale bekarmen!
+O dear children, now all help to lament him!
+Sancta Maria respondet:
+Saint Mary responds:
+Owe, ys dat myn leue truten sone?
+Alas, is that my dear beloved son?
+Ik wolde, dat syne scharpen dornekrone
+I wish that his sharp crown of thorns
+Vp mynem houede sete an dessen stunden,
+sat on my head in this hour,
+Vnde syne mennichualdigen depen wunden
+and his many deep wounds
+Vor em weren an mynem lyue,
+were on my body
+Vppe dat he mochte leuendich blyuen.
+instead of his so that he could stay alive.
+Et cantat:
+And she sings:
+*Owe, yamer vnde not!
+*Alas, pain and misery!
+*Owe, mynes leuen kyndes dot,
+*Alas, the death of my dear child
+*Den ik an herten drage
+*that I carry in my heart
+*Vnde so yamerliken klaghe!
+*and lament so sorrowfully!
+*Yo gha ik wedder vnde dort,
+*Now I go here and there,
+*Noch entret hijr nemant vort,
+*and still no one here steps forward
+*De desse martere beweynede!
+*to mourn this suffering!
+*Owe, elende!
+*Alas, miserable ones!
+(Hic plangit cum manibus.)
+(Now she gestures mournfully with her hands.)
+*Owy, owe my huten vnde jummermer
+Alas, woe is me today and forevermore
+*Vmme mynes kyndes do&esup;t!
+*because of my child’s death!
+*Myn kummer ys so rechte grot.
+*My sorrow is so very great.
+*Owy, owe!
+*Alas, woe is me!
+Et dicit vlterius
+And continues:
+Eya, moderlyke herte,
+Oh, motherly heart,
+Wat lydestu pyne vnde smerte!
+how you are suffering misery and pain!
+Dominus Jhesus dicit habens crucifixum ante se
+Holding the cross in front of him, Lord Jesus says:
+Myn volk, wo seer hestu dy an my gewraken!
+My people, how much you have tormented me!
+Ik hebbe dy doch nicht to leyde gedan edder gespraken?
+I didn’t do or say anything to harm you.
+Myn volk, yk vorede dy ouer dat wylde meer
+My people, I lead you over the wild sea
+Vnde vordruckede Pharaonis heer;
+and I swallowed Faroah’s army;
+Ik reghende dy enghelsch brod
+I made the angels’ bread rain down
+Yn der wo&esup;stenyge to dyner no&esup;t:
+in the desert to relieve your hardship:
+Darvmme hestu my ghevanghen
+this is why you captured me
+Vnde darto an dat crutze gehanghen!
+and hung me on the cross!
+De vosse hebben ere kulen,
+Foxes have their dens
+Dar se ynne schulen,
+where they hide,
+De vogele hebben ere neste,
+birds have their nests,
+De heren hebben ere gheveste, -
+lords have their strongholds,
+Des mynschen sone leyder nicht enha&esup;t,
+-- the son of man sadly doesn’t have any place
+Dar syn kranke houet ane sta&esup;t.
+where his poor head may rest.
+Owy vnde we, wart doch ny mynschen so we!
+Alas and alas, never did anyone suffer so much!
+Sancta Maria cantat post hoc
+Then St. Mary sings:
+*Ik horede enen ro&esup;p:
+*I heard a cry:
+*Dat ys mynt kynt Jhesus, de myr geschop
+*that is my child Jesus, who created me
+*Vnde al de werlt gemeyne;
+*and all the world together;
+*Des mot yk arme schrygen vnde weynen.
+*because of that I must weep and cry.
+*Van Jherusalem gy vrowen,
+*You women of Jerusalem,
+*Nu helpet huden schowen
+*now join me in watching
+*Mynes leuen kyndes dot,
+*the death of my beloved child,
+*Dat hyr hanget naket vnde blot!
+*who hangs here naked and stripped.
+*Owy, owe!
+*Alas, alas!
+Sancta Maria dicit post hoc ricmum
+After these rhymes, St. Mary says:
+Ach wo grote pyne vnde smerte
+Oh, what great pain and sorrow
+Lydet myn arm bedrouede herte
+my poor afflicted heart suffers
+Vmme mynes leuen kyndes byttercheyt,
+Because of the torment of my dear child,
+Dat in so groter not an deme hilgen crutze steyt!
+who hangs on the holt cross in such great misery!
+Weren vnse herte ok van steynen,
+Even if our hearts were of stone,
+Se mosten doch nu mede weynen.
+They would still have to weep with us.
+Sancta Maria vertit se ad filias Jerusalem dicens vel cantans
+St. Mary turns to the daughters of Jerusalem, saying, or rather singing:
+*Weynet gij truwen susteren myn,
+*Weep you loyal sisters of mine,
+*Helpet my armen drouych syn
+*join me in my sadness
+*Vnde klagen mynen not!
+*and lament my misery!
+*Myn kummer ys worden grot
+*My grief has grown and grown
+*Vmme mynes kyndes do&esup;t.
+*at the death of my child.
+Et dicit vltra ad filias Jherusalem
+And she says, continuing, to the daughters of Jerusalem:
+Gij leuen sustere, latet juw entbarmen
+You dear sisters,
+Huden ouer my vyl armen!
+have pity today for poor me!
+Seet an myne smerte vnde grote byttercheyt,
+Look at my pain and my great torment,
+De yk an mynem herten drage vmme mynes kyndes leyt!
+that I carry in my heart because of my child’s suffering!
+Sancta Maria Magdalena
+St. Mary Magdalene:
+*O quantus luctus
+*Oh, what great grief
+*Nobis est inductus
+*is laid upon us
+*Pre hac tristicia!
+*by this sadness!
+*Owe vns armen!
+*Alas, poor us!
+*Got late sik irbarmen
+*God have mercy
+*Ouer vnse grote leyt!
+*on our suffering!
+Sancta Maria Magdalena vadit ad medium et dicit ricmum
+St. Mary Magdalene goes to the center and says in rhyme:
+Owe, wo grote yamercheyt
+Alas, how great sorrow
+Vns armen vrowen nu besteyt
+affects us poor women now
+Dorch de bytteren martere vnses leuen heren,
+because of the bitter martyrdom of our dear Lord,
+Den huten de yoden myt groten vneren
+whom today the Jews, with great dishonor,
+Vnde myt vnschult hebben to deme dode bracht!
+put to death, an innocent man!
+Eya, dyt ys wol eyn bedrouet dach,
+Oh, this is indeed a sorrowful day,
+Dat wij ene vor vns hanghen seen!
+on which we see him hanging before us!
+Wo mochte vns groter leyt bescheen!
+How could any greater sorrow befall us!
+O leue here Jhesu Criste, wo gherne stoure yk vmme dy,
+O, beloved lord Jesus Christ, how gladly I would die in your place,
+Wente van groten sunden hestu gheloset my.
+because you have delivered me from great sins.
+Et cantat vlterius pro gratiarum actione
+And she continues in song, as an act of gratitude:
+*Ghelauet systu, here Jhesu Crist,
+*Praise be unto you, lord Jesus Christ
+*Went du also barmehertich byst,
+*because you are so merciful,
+*Dattu dy yo wult irbarmen
+*that you show mercy
+*Ouer my vyl armen!
+*to poor me!
+*Du hest geloset my,
+*you have saved me;
+*Des wyl yk jummer lauen dy.
+*for that I will always praise you.
+Maria Magdalena dicit statim ad beatam virginem
+Mary Magdalene immediately says to the Blessed Virgin:
+O Maria, eddele, reyne maghet,
+Oh Mary, noble and pure maiden,
+Dyn grote lydent sij deme leuen gode gheklaghet.
+your great suffering shall be mourned before God.
+Mater Johannis ewangeliste cantat post hoc
+Then the mother of John the Evangelist sings:
+*Jam auctor lucis
+*Now the creator of light
+*Nunc in ligno crucis
+*hangs constrained
+*Stat in angustia.
+*on the wood of a cross.
+*Nu sy wij myt sorgen
+*Now, today, we are
+*Huten gar vorborgen
+*laden with troubles
+*Vnde in der yamercheyt.
+*and in sorrow.
+Mater Johannis dicit
+The mother of John says:
+O wo grote not vnde smerte
+Oh what great misery and pain
+Lyden nu vnse bedroueden herte,
+our saddened hearts suffer now
+Wente wij Jhesum Cristum, der waren sunnen schyn,
+because we see Jesus Christ, the true light of the sun,
+In groter yamercheyt vor vns hangen seen!
+hanging in front of us in great sorrow!
+O leuen kyndere, bewenet nu vnses heren dot,
+Oh dear children, now weep for our lord’s death
+Vppe dat he vns mote losen vth aller no&esup;t!
+so that he might deliver us from all hardship!
+O leue here Jhesu Criste, mochte yk nu myt dy steruen
+O dear lord Jesus Christ, if I could die with you now,
+Vnde also dyne hulde vorweruen,
+and with that procure your grace,
+Ik sumede nicht bet tho morghen
+I would not wait until tomorrow
+Vnde wolde dar ok nicht vore sorghen.
+and also would not think twice about it.
+Maria, leue suster, dyn grote lydent vnde weynen
+Mary, dear sister, your great suffering and weeping
+Mochte vntfarmen deme harden steyne.
+would move a hard stone to pity.
+Sancta Maria vertit se ad populum et dicit
+St. Mary turns to the audience and says:
+Ach wo grote pyne vnde smerte
+Oh, what great pain and sorrow
+Lydet myn arme bedrouede herte
+my poor afflicted heart suffers
+Vmme mynes leuen kyndes byttercheyt,
+Because of the torment of my dear child,
+De in so groter not an deme hilgen crutze steyt!
+ho hangs on the holy cross in such great misery!
+Weren vnse herte ok van steynen,
+Even if our hearts were of stone,
+See mosten doch nu mede weynen.
+they would still have to weep with us.
+Maria cantat
+Mary sings:
+Vrunt Johannes, neue gute,
+Friend John, dear nephew,
+Help my armen godes moter
+help me, poor mother of God
+Klagen mynes kyndes leuent,
+to lament the life of my child
+Dat deme dode ys gegeuen!
+who has been put to death!
+O wat Cristus duldet
+Oh what Christ suffers,
+Vnde an deme crutze sweuet
+hanging on the cross,
+Gar al vnuorschuldt!
+free of guilt!
+Sancta Maria ad filium suum benedictum dicit hoc et ad sanctum Johannem ewangelistam
+St. Mary says this to her blessed son and to St. John the Evangelist:
+O wy vnde we, wo grot herteleyt
+Oh, alas and alack, what great heartache
+Ys my armen bedroueden moder nu bereyt,
+now afflicts me, a poor wretched mother,
+O leue kynt, vmme de bytteren marter dyn!
+O dear child, because of your bitter torment!
+Hijr vmme, Johannes, leue neue myn,
+Therefore John, my dear nephew,
+Help my armen moder beklagen vnde beweynen
+help this poor mother to lament and bewail
+Jhesum Cristum den vyl reynen,
+Jesus Christ, in his purity
+Den de yoden hebben gevanghen
+whom the Jews took captive
+Vnde ok an dat hilge crutze ghehangen!
+and hanged on that holy cross!
+Leue o&esup;m, lat dy dit to herten ga&esup;n,
+Dear nephew, let this enter your heart,
+Wente he dy alle gud heft geda&esup;n!
+Tbecause he has only done good things for you!
+Sanctus Johannes cantat et vertit se ad populum
+Saint John sings and turns to the people:
+Tristor et cuncti tristantur
+I am saddened and all are saddened
+De tua tristicia;
+because of your misery;
+[Omnes] Tecum lacrimantur,
+all are crying with you,
+Eructant suspiria.
+they are breaking out in loud sighs.
+Hic rubescit oculus,
+These eyes are becoming red,
+Flet fidelis populus
+the faithful people cry
+De Cristi mesticia.
+over Christ’s torments.
+Maria, moder vnde maget reyne,
+Mary, mother and pure virgin,
+Yk byn dyner suster kynt.
+I am your sister’s child.
+Dyn grote scrygent vnde dyn weynent
+Your great crying and wailing
+Klagen alle, de hijr synt.
+is lamented by all who are present.
+Hijr wert vyl mennich oge rot
+Here many eyes are turning red
+Vmme dynes kyndes dot,
+because of the death of your child
+Dat hijr hanget ver vns blot.
+who hangs here in front of us naked.
+Johannes vltra dicit ad Mariam, matrem Cristi
+John then says to Mary, mother of Christ:
+Maria, leue medder, he scholde eyn steynen herte dragen,
+Mary, dear mother, he would have to have a heart of stone,
+De dynes kyndes dot nicht kunde helpen beklagen;
+who could refrain from helping lament the death of your child.
+Wart gy mynsche so steynen,
+Are you people made of stone
+De nu myt vns nicht kunde weynen?
+that you cannot cry with us?
+Maria, leue medder, we nu wyl rechte ouerdencken
+Mary, dear mother, the one who will now rightly consider
+Vnde ok in syn herte sencken
+and take into his heart your crying,
+Dyn weynent, den scrygent, dynes reynen herten not
+Tyour wailing, the grief of your pure heart
+Vnde dynes leuen kyndes bytter dot,
+and the bitter death of your dead child,
+De mot myt dy trurent han
+can share your sorrow
+Vnde aller werlde valsche vrowde la&esup;n.
+and relinquish the false joy of all the world.
+Sancta Maria Magdalena et mater Johannis ewangeliste simul cantat
+St. Mary Magdalene and the mother of John the Evangelist sing together:
+O quam tristis et afflicta
+Oh, how sad and afflicted
+Fuit illa benedicta
+was the blessed
+Mater vnigeniti!
+mother of the incarnated!
+Quis est homo, qui non fleret,
+Who is the man who does not cry,
+Matrem Cristi si videret
+when he sees the mother of Christ
+In tanto supplicio?
+in such great anguish?
+Mater Johannis dicit ricmum
+The mother of John says in rhyme:
+Ach, ach, wo sere lyde wy grote swere
+Alas, alas, how greatly we bear an immense burden
+Vmme dy, o leue truten here!
+for your sake, oh dear beloved lord!
+Sancta Maria cantat et vertit se ad occidentem
+St. Mary sings and turns to the west:
+We helpet klagen myn grote leyt?
+Who will help lament my great pain?
+Myn yamer de ys worden breyt.
+My sorrow has become immense.
+Wo kan ik arme dat nu dragen,
+How can I, poor me, now bear that
+Went yk in alle mynen dagen
+when, in all of my days,
+Ny vornam sulke swere!
+I have never experienced such a burden!
+Horen noch seen yk enkan;
+I can neither hear nor see:
+So grot leyt ny wyf gewan,
+such great suffering no woman has ever endured
+So yk arme nu dulde,
+as I - poor me - now do,
+Went he steruet ane schulde;
+since he dies without guilt:
+Dat komet van syner lere.
+that results from his teaching.
+Hic Maria virgo inspicit filium et eleuat manus ita cantans:
+Here the Virgin Mary looks at her son and raises her hands, singing thus:
+Trut sone myn,
+My beloved son,
+De moder dyn
+your mother
+An desser stunt
+at this hour
+Vt herten grunt
+from the bottom of her heart
+(Hic subtrahit manus.)
+(She lowers her hands.)
+Dy byddet ynnichliken:
+prays fervently:
+Giff my dynen dot
+Grant me death
+In desser not!
+in my peril!
+(Hic tangit pectus.)
+(She strikes her chest.)
+Myn herte, brich,
+Break my heart,
+Went ik see dich
+for I see you
+Hangen so yamerlyken!
+hanging so wretchedly!
+Hertenkynt, sprych,
+Child of my heart, speak,
+Myn not ys so bytterlich!
+my sorrow is so bitter!
+Hic Johannes capit gladium ambabus manibus, cum eo tangens virginis pectus genebus flexis. Et Maria cantat vlterius
+Here John grasps the sword with both hands and with it touches the chest of the kneeling Virgin. Mary continues, singing:
+Trut sone wert,
+Beloved worthy son,
+My geyt eyn swert
+a sword of misery
+Van yamer dorch myn herte!
+pierces my heart!
+(Hic vertit se ad occidentem et tangit pectus)
+(Here she raises her eyes to her son.)
+Do vp dyne ogen, see my an,
+Raise your eyes, look at me,
+Lose myner sorgen bant!
+release the binds of my suffering!
+Trut sone, kynt,
+Beloved son, child,
+Blodich dyne lede synt,
+your limbs are bloody,
+Dat gift my grote smerte!
+that causes me great pain.
+(Hic vertit se ad occidentum et tangit pectus.)
+(Here she turns her head and beats her breast.)
+Brich, herte myn, brich,
+Break my heart, break,
+Went yk hijr sta so bytterlich!
+since I stand her so wretchedly!
+So enmach nemant trosten mych,
+Nothing may console me
+Men de dot alleyne.
+but death alone
+Ik bydde dy, dot,
+I beg you, death,
+Kum, lose my vth desser not!
+come, release me from this grief!
+My ys worden myn herte dot,
+My heart has died,
+Ik enmach nicht mer weynen.
+I cannot cry anymore.
+Eya valsche yodenkynt,
+Alas, duplicitous Jew-children,
+(Hic vertit se ad aquilonem.)
+(Here she turns to the north.)
+Wo synt gy myt synnen blynt,
+How could you be so senseless
+Dat gy myn trut leue kynt
+as to destroy my dear beloved,
+Aldus ane schult vorderuen!
+innocent child thus!
+Wat han ik arme ju gedan,
+What have I, so wretched, done to you,
+Dat gy myn leuent lan
+that you let my life continue
+In so groter swere stan?
+in such great misery?
+Yk wunsche myt em to steruen.
+I wish to die with him.
+Hic Maria Magdalena et mater Johannis cantant secundo simul sicut prius canticum "O quam tristis et afflicta" s. et mater Johannis dicit ricmum "Ach ach, wo sere" vt prius
+Here Mary Magdalene and the mother of John sing together for the second time the earlier song “How sad and afflicted”. The mother of John says the rhyme “Alas, alas how greatly”
+Post hoc statim beata virgo Maria, si potest hoc commodose fieri.
+Immediately after this, the Blessed Virgin Mary, if it can be done conveniently,
+incipit secundo cum omni deuocione canticum "We helpet klagen myn grot leyt? Myn yamer de ys worden breyt" vt prius.
+begins for the second time with great devotion “Who will help to lament my great pain? My sorrow has become so immense" as before
+Et cantat ex integro cum omnibus gestibus sicut prius.
+and she sings with all her heart with all the gestures just as before.
+Sancta Maria quando finiat canticum istud secundo dicit ricmum
+When Saint Mary finishes this song for the second time, she says this rhyme:
+Eya schone bouen alle schone
+Alas, beauty above all beauty,
+Eya herteleue sone,
+alas, son, dear to my heart,
+Wor ys dyne schone hengevaren?
+where has your beauty disappeared to?
+Du werest de allerschoneste gebaren,
+You were the most beautiful child
+De gy van moderlyue gebaren wart,
+ever born of a mother's womb,
+Also wunnychlyck vnde tzart!
+so delightful and tender!
+Dy weren dyne wanghen,
+Your cheeks were
+Oft se myt rosen weren behanghen;
+as if they were garlanded with roses,
+Dyn antlat scheen also de sunne,
+your face shone like the sun,
+Dyn ogenblyk was also eyn vrolyk wunne.
+your gaze was joyful bliss.
+>O leue sone Jhesu Crist,
+Oh, beloved son Jesus Christ,
+Wo sere du nu gewundet byst!
+how terribly you are wounded now!
+Dy synt dyne lede van blode rot,
+Your limbs are red with blood
+Wentu an deme crutze lydest grote not.
+since you are suffering great anguish on the cross.
+Eya, du valsche yoden deyt,
+Oh you false deed of the Jews,
+Du werest dar sere to bereyt
+which was well built
+Dattu myn leue kynt mochtest bevlecken!
+to stain my beloved child!
+Ik wyl dat wedder bedecken:
+I want to cover him again:
+Id schal nicht lengher naket stan,
+He shall not remain naked any longer,
+Mynen do&esup;k wyl yk em vmme sla&esup;n,
+wrap my shawl around around him.
+Wente yk arme moder Marie
+and I, poor mother Mary,
+Eynen anderen doek wedder lye.
+will borrow another shawl later.
+Sancta Maria accipit hic pannum de serico album, cum quo tegit lumbos crucifixi, quem iuuenis quidam tenet cum galdio Symeonis et statim subdit.
+Saint Mary takes a shawl of white silk and with it covers the loins of the Crucified, the young man takes it with the sword of Simeon and immediately pulls it down again.
+Leuen kyndere, my ys grot not, day yk weyne.
+Dear children, my suffering is so great that I cry!
+O Maria Magdalene,
+Oh Mary Magdalene,
+O wat lydet nu dat leue kynd myn
+Oh how my dear child is now suffering,
+Vnde ok de werde truten meyster dyn!
+and also your beloved and worthy master.
+Maria Magdalena respondet
+Mary Magdalene replies:
+Maria, aller junckfrowen eyn ere,
+Mary, glory of all virgins,
+Ik bekenne wol, wat myn leue truten here
+I understand well what my dear beloved Lord suffers
+Nu lydet vor vns allen;
+now before us all;
+Ik mot van ruwen nedder vallen
+I cannot help but fall to the ground in pain
+Vnde beweynen syne grot herteleyt.
+and lament his great and heartfelt sorrow.
+O, wo he nu an deme crutze steyt!
+Oh, how he now hangs on the cross!
+(Eleuat oculus)
+(she raises her eyes)
+Eya Maria, neen mynslik herte
+Oh Mary, no human heart
+Kan begrypen syn lydent vnde grote smerte!
+can understand his suffering and great pain!
+O du valsche yodendeyt,
+Oh, you false deed of the Jews,
+Du makest, dat yk mot syngen eyn klagheleyt!
+it is your fault, that I must sing a lament!
+Maria plangit in medio circulo (Maria scilicet Magdalena)cantando vt sequitur
+Mary, that is to say, Mary Magdalene, mourns with song in the middle of the stage and continues:
+Maria, moder, reyne schryn,
+Mary, mother, shrine of purity,
+Dyn klagent wundet sere myn,
+your lamenting wounds me sorely,
+Darto de pyn
+as does the pain
+Des leuen truten heren myn!
+of my dear beloved Lord!
+Here, wo grot ys nu dyn not!
+Lord, how great your misery is now!
+Beweynen mot yk dynen dot.
+I must mourn your death.
+Der gnaden sot
+The fountain of grace
+Lyt den starken, swaren stot.
+is dealt a strong and heavy blow.
+Ik laue dy, leue here,
+I praise you greatly, dear Lord,
+An mynem herten sere
+in my heart,
+Nu vnde jummermere;
+now and forever more.
+Wo gud was dyne lere!
+How great were your teachings!
+Des lyde yk grote swere,
+For this I endure great anguish,
+Wor yk my henne kere,
+wherever I turn,
+O koningk aller eren!
+o king of honour.
+Maria Magdalena dicit
+Mary Magdalene says:
+O du arme yodenkynt,
+Oh you poor Jew child,
+Wo sere bystu nu vorblynt,
+how blind you are now,
+Dattu mynem leuen truten heren
+that you bound and captured
+Myt so groten vneren
+with such great dishonour
+Ghebunden hefst vnde ghevanghen,
+my dear beloved Lord
+Dartho in dat crutze ghehanghen!
+and hung him on the Cross!
+O Maria, syn lydent heft vnse herte do&esup;rgesteken,
+Oh Mary, his suffering has pierced our hearts,
+Also dat wij alle nicht vele mer konen spreken!
+so that all of us can hardly speak anymore!
+Alle gij leuen vrunde, de gij hijr nu vmme sta&esup;n,
+All you dear friends, who now are gathered here,
+Latet juw vnses heren lydent to herten ga&esup;n!
+let the suffering of our Lord enter your hearts.
+Wylle gij na dessem leuende myt vrowden syn,
+If you want to be joyful after this life,
+So danket em vor desse grote sware pyn!
+then be thankful to him for this great and heavy pain!
+Sancta Maria planctum istum cantat bis et eleuat brachia et plangit cum manibus et hoc quando pausat et tacet.
+St. Mary sings the following lament twice and raises her arms and mourns with her hands and then stops speaking and is silent:
+Owy, owe, wat lydet nu myn herte?
+Alas, alas, what is my heart now suffering?
+Owy, owe, dat lydet grote smerte!
+Alas, alas, it suffers great pain!
+Owy, owe, myr ys rechte, so en swert
+Alas, alas, I feel as if a sword,
+(Hic expandit manus.)
+(Here she extends her hands.)
+Dorch myne zele vnde ok dorch myn herte vert!
+were piercing my soul and my heart!
+O, owe, dat ys my nu beschert!
+Oh woe, that this has befallen me!
+O, owe, schach my ny so leyde!
+Oh woe, nothing so painful ever happened to me!
+Virgo Maria dicit vlterius ad populum:
+The Virgin Mary speaks further to the audience:
+Nu schowet, gij salygen lude,
+Now behold, you blessed people,
+Desse groten martere hude!
+the great torment happening today!
+Van yamer vnde van smerte
+My heart has been cut into pieces
+Dorchghesneden ys myn herte.
+by sorrow and by pain.
+Hic tangit cor eius cum gladio dicens sic
+Here she touches his heart with the sword, saying:
+Schowet, wo Symeonis grymmige douendige swert
+Behold how the grim and gruesome sword of Simeon
+Dorch myne sele vnde ok dorch myn herte vert!
+pierces my soul and pierces my heart!
+Gy saligen vrowen vnde man,
+You blessed women and men,
+Latet juw dat seer to herten gan
+let this deeply enter your hearts
+Vnde byddet den ryken got,
+and ask mighty God
+Dat he juw behode vor alsodane not,
+to protect you from this peril
+Dat gij an juwen kynden
+with your own children!
+Nummer alsulken yamer vynden!
+so that you never know such pain
+Mater Johannis ewangeliste cantat post hoc
+The mother of John the Evangelist then sings:
+Ach, wo sere
+Oh, how much
+Lydestu, here,
+you suffer, Lord,
+Grote pyne
+great pain
+Vmme de dynen,
+for your people,
+Borne der barmeherticheyt!
+fountain of charity!
+Ik wyl lauen
+I want to praise
+Allen bauen
+above all,
+Dyne gnade
+your grace
+Vro vnde spade
+morning and night,
+Alle tyt myt ynnicheyt.
+all the time with devotion.
+Et dicit vlterius
+And she continues to speak:
+Jhesu Criste, dyn grote herteleyt
+Jesus Christ, your great and heartfelt suffering,
+Vnde Marien, de so drouich hijr vor vns steyt,
+and Mary, who stands so bereft before us,
+Maket mennighem syne oghen rot.
+make many eyes red with tears.
+Help vns, leue here, vth aller not!
+Deliver us, Lord, from all peril!
+Troste myne leuen susteren Marien
+Comfort my dear sister Mary
+Vnde ok, de nu vmme dy weynen vnde scrygen.
+and also those who are crying and wailing for your sake.
+Hic vertit se ad populum beata virgo Maria
+Now the Blessed Virgin Mary turns to the audience:
+Groter klage ys myr not;
+I must lament greatly:
+Owe, leghe yk vor en dot!
+If only I could die in his place!
+Schypper, vader ys he myn,
+He is my creator and my father,
+Vnde yk syn gebarerin.
+and I gave birth to him.
+Syne wunden dot myr we;
+His wounds cause me pain;
+Myner klage ys noch mer,
+my lament is even greater,
+Dattu herteleue trut
+because you, love of my heart,
+Wedder my nicht machst werden lut!
+cannot speak a word to me!
+(Vertit se ad filium.)
+(She turns to her son.)
+Hertenkynt, nu troste mych,
+Child of my heart, now console me,
+See my nu and vnde sprich,
+look at me and speak
+Wente ik in den sweren sta
+because I am in peril
+Vnde ok nicht weyt, wor yk gha!
+and I also don’t know where to turn!
+Hic Maria virgo leuat oculos ad filium et dicit
+Here the Virgin Mary raises her gaze to her son and says:
+Eya, herteleue kynt, mochtestu my doch tospreken!
+Alas, beloved child, if only you could speak to me!
+Myn herte mot anders mydden entwey breken.
+Otherwise my heart may break in two.
+Inspicit filium cantans
+She looks at her son and sings:
+Spryk, leue kynt myn, an desser stund
+Speak, o dear child, in this hour
+Vth dyner gotliken munt:
+from your divine mouth:
+We schall myn trost werden
+who shall be my consolation
+Hijr vppe desser erden?
+here upon this earth?
+Et dicit
+And she speaks:
+Eya moderlyke herte,
+Alas motherly heart,
+Wat lydestu pyne vnde smerte!
+how you are suffering pain and anguish!
+Ik see mynen leuen sone weynen:
+I see my dear son cry:
+Ja were myn herte ok steynen,
+well, even if I had a heart of stone,
+Id moste doch nu tobreken.
+it would break now.
+Eya leue sone, kondestu spreken!
+Alas dear son, if you could speak!
+(Inspicit filium.)
+(she looks at her son.)
+Spryk my doch nu eyn wort to,
+Speak but one word to me now
+Dat my jummer wol do
+now and that will sustain me
+De wyle dat yk na dy leue!
+however long I live after you’re gone!
+Hijr steyt Johannes, myn leue neue,
+Here stands John, my dear nephew,
+De ys gar eyn drouich man;
+who is in complete despair;
+O leue kynt, sprik, wat schole wij beyde angan?
+O beloved child, speak, what shall the two of us do?
+Dominus Jhesus dicit hic ad matrem suam
+Lord Jesus speaks to his mother:
+Vrowes name, do na myner lere:
+Lady, follow my instruction:
+Weyne vnde scryge nicht so sere!
+Do not weep and wail so much!
+Dyn grot weynent vnde scrygent
+Your great weeping and wailing
+Myne bytter marter vornyget.
+causes my bitter suffering to begin anew.
+Allent, dat an my nu wert gewraken,
+All the punishment that has been brought upon me
+Dat hebben de propheten van my gespraken.
+was predicted by the prophets.
+Et cantat sic
+And he sings thus:
+Hely,
+Father,
+Hely,
+Father
+Lamazabathani?
+why have you forsaken me?
+Dominus Jhesus dicit ricmum
+Lord Jesus says in rhyme:
+Myn god, myn hemmelsche vader, see an myr!
+My God, my heavenly father, look at me!
+Wes hestu my vorlaten hijr
+Why have you forsaken me here
+In so bytterlyker swere,
+in more pain,
+Meer den sandes heft dat mere?
+than the sea has sand?
+Seet altomale an myk:
+All of you look at me once more:
+Wart gy martere des ghelyk,
+were you, o my pain,
+De yk vor den sunder nu lyde?
+the fate that I must now endure for the sinners?
+My aller werlde wyde
+My whole world
+Ys nu worden alto enghe.
+has now become so narrow.
+Ach, myn not ys nu alto strenghe!
+Alas my suffering is now so severe!
+Ik byn eyn worm vnde nenem mynschen gelijk,
+I am a worm and unlike any man,
+Eyn spot der werlde bekenne yk myk.
+I confess that I am an object of derision for all the world.
+Hemmelsche vader, my nicht vorlate,
+Heavenly father, do not forsake me,
+Wente alle dynck sta&esup;n an dynem rate!
+for all things happen according to your will!
+Maria virgo respondet
+The Virgin Mary responds:
+Nu hebbe ik volaren allent, dat yk ha&esup;n,
+Now I have lost everything that I had
+Vnde ok allent, dat yk gy gewan.
+and also everything that I ever gained.
+My deyt not, dat yk drouich byn:
+It hurts me that I am sad:
+O leue sone, wor schal dyne arme moder hin?
+O dear son, where shall your poor mother turn?
+We helpet my, vnde we gift my ra&esup;d
+Who will help me and who will give me counsel
+Van alle den luden, de hijr vmme sta&esup;t?
+of all the people who are gathered here?
+O leue kynt, schal ik nicht myt dy steruen,
+Oh, dear child, if I am not able to die with you,
+Men aldus yamerlyken vorderuen,
+but must fall into bitter ruin,
+So bedenke, leue sone, myn arme elende leuent!
+consider, dear son, my poor, miserable life!
+Myn lijf vnde myne zele hebbe yk dy ghegheuen.
+My body and my soul I have given to you.
+Jhesus cantat et post hoc dicit ad matrem
+Jesus sings and afterwards speaks to his mother:
+Mulier, ecce filius tuus!
+Woman, behold your son!
+Werde magetvnde moder myn,
+Worthy maid and mother of mine,
+Johannes schal dyn hoder syn,
+John shall be your guardian,
+Hebbe ene tho eneme kynde
+accept him as a child
+-- Id wyl sik nu anders nicht vynden --
+—- there is no other way —-
+Vnde lat dyn grote weynent syn:
+and stop your excessive weeping:
+Dyn lydent ys my also grote pyn!
+your suffering also brings me great pain!
+Dar vmme byn yk van dy gebaren,
+For that reason I am born of you,
+Dat myne vrunde nicht werden loren.
+that my friends will not be lost.
+(Sancta Maria plangit semel cum manibus, et Johannes apponit gladium Symeonis)
+(St. Mary gestures once with her hands in mourning and John picks up the sword of Simeon.)
+Owy, owe der wesselingen schicht,
+Alas, alas, the evil deeds
+De huten schut an mych!
+which are being done to me today by the moneylenders!
+Seed, wo dyt scharpe swerd
+See how this sharp sword
+Dorch myne zele verd!
+pierces my soul!
+Et dicit eleuata facie ad filium
+And she speaks to her son with her face raised to look at him:
+Leue kynt, mynem herten ys so banghe,
+Dear child, there is so much fear in my heart,
+Vnde dat mot waren noch so lange, --
+and it will endure,
+Och mochte yk myt dy lyden den bytteren dot!
+oh, if only I could suffer bitter death with you!
+Myn lydent ys nu mer wen to grot.
+My suffering has now become too great.
+O alder leueste, yk mot nu van dy scheyden,
+Oh, most beloved, I must now leave you;
+Sprek, leue kynt, we trostet nu vns beyden?
+speak, dear child, who will now console us both?
+Johannes, leue o&esup;m myn,
+John, my dear nephew,
+Ik wyl dy gerne horsam syn.
+I will gladly obey you.
+Johannes, wij vorlesen an desser stund
+John, I must now leave
+Jhesum Cristum, vnser hertenallerleuesten vrund.
+Jesus Christ, the friend dearest to our hearts.
+Nota: Maria Magdalena et mater Johannis cantant vt prius planctum "O quam tristis et afflicta" sq.
+Note: Mary Magdalene and the mother of John sing the lamentation “Oh, how sad and afflicted”, etc. as they did before.
+Mater Johannis dicit "Ach, ach wo sere" vt prius --
+The mother of John recites “Alas, alas, how greatly” as before.
+Dominus Jhesus cantat et dicit ad Johannem
+Lord Jesus sings and speaks to John:
+Ecce mater tua!
+Behold your mother!
+Et dicit ad Johannem ricmum
+And he says to John in rhymes:
+Johannes, junghere ghute,
+John, good man,
+See nu an dyne leuen moter!
+behold your dear mother!
+Ik mot nu van hynnen varen,
+I must now depart from here,
+Dar vmme schaltu see wol vorwaren.
+therefore, you shall take good care of her.
+Ik mot nu wedder keren
+I must now return
+Tho mynem hemmelschen vader vnde heren;
+to my heavenly father and lord.
+See schal nu wesen de moder dyn,
+She shall now be your mother.
+Plech erer alse myn!
+Care for her as you did for me!
+Johannes, do dorch dyne gote:
+John, for the sake of your god,
+Nym se an dyne hode,
+take her into your care,
+Troste se leflyken in erer not,
+console her lovingly in her misery,
+Wan ik hebbe geleden den bytteren dot.
+because I have suffered bitter death.
+Johannes respondet
+John responds:
+Here vnde meyster, dat schal my ghetemen,
+Lord and master, that is fitting for me;
+Ik wyl se gerne to my nemen
+I’ll happily take her with me
+Vnde vor myne leuen moder vntfa&esup;n;
+and accept her as my dear mother;
+Ik wyl se nummermer vorla&esup;n.
+I will never leave her again.
+Gherne wyl yk se nemen an myne hute.
+Gladly I will take her into my care.
+Wat yk er ok kan do&esup;n to gute,
+Whatever good I can do for her,
+Dat wil ik van herten gerne don de wyle dat ik leue.
+I will do it with an eager heart as long as I live.
+O leue here god, nu gheue
+O beloved Lord God, now give
+Vns beyden den dot,
+death to both of us
+Wente yd ys vns warlyken not!
+because we are truly in peril!
+Ach leyder, de spegel wyl vns entga&esup;n,
+O woe, the mirror is escaping us,
+Dar alle de werlt kan by besta&esup;n!
+and through this the whole world may continue.
+We kan nu syn trurent la&esup;n,
+Who can forget his suffering?
+O hemmelsche god, van allen luden, de hijr vmme sta&esup;n?
+O heavenly God, who of all the people who are gathered here can stop mourning now?
+Jhesus cantat post hoc
+Jesus then sings:
+Pater, dimitte eis!
+Father, forgive them!
+Nu schal ok eyn ende syn
+Now there will be an end
+Der groten, bytter marter myn.
+to my great bitter torment.
+O hemmelsche vader, yk bydde dy,
+O heavenly father, I bid you,
+An mynem ende twyde my:
+grant me this in my final hour:
+Vorgiff nu ghanslyk
+completely forgive
+Den, de my so yamerlyk
+those who so wretchedly
+Myn leuent hebben ghenomen!
+took my life!
+Dat ende mynes leuendes ys nu ghekomen.
+The end of my life has now come.
+Jhesus cantat post hoc
+Jesus then sings:
+Consummatum est.
+It is finished.
+Aller proheten sproke synt nu vullenbracht,
+All the prophesies about the son of man
+De van des mynschen sone gy worden bedacht.
+that were ever conceived by the prophets have now been fulfilled.
+Dominus Jhesus clamat valida voce dicens
+Lord Jesus cries out with a loud voice:
+In manus tuas commendo spiritum meum.
+Into your hands I commend my spirit.
+Ik bevele an de hende dyn
+I commend into your hands
+Mynen geyst, o hemmelsche vader myn!
+my spirit, O my heavenly father!
+Sancta Maria audiens hoc cantat valida et lacrimabili voce prosternendo se ad terram, plangendo manibus
+St. Mary, listening to this, sings with a strong and tearful voice, while prostrating herself on the ground and making gestures of grief with her hands:
+Owy, owe, nu ys he dot!
+Alas, alas, now he is dead.
+Maria Magdalena statim leuat eam
+Mary Magdalene immediately helps her up.
+Sta vp, junckfrowe Maria, vnde wende dynen mo&esup;t!
+Stand up, Virgin Mary and take heart!
+Dynes kyndes martere schal mennighen wesen gu&esup;d.
+The torment of your child will benefit many.
+Sancta Maria cantat secundo prosternendo se ad terram, plangendo
+St. Mary sings, prostrating herself on the ground a second time, lamenting:
+Owy, owe, nu ys he dot!
+Alas, alas, now he is dead!
+Mater Johannis statim leuat cam dicens
+The Mother of John immediately helps her up, saying:
+Maria, leue suster myn,
+Mary, my dear sister,
+Sta vp vnde lat dyngrote weynent syn!
+stand up and stop your excessing crying!
+Dyn scrygent vnde ok dyn weynent
+Your wailing and your lamenting
+Vntfarmen mach den harden steynen.
+could draw pity from the hardest stones.
+Sancta Maria cantat tercio prosternendo se et plangendo manibus
+St. Mary sings and prostrates herself and makes gestures of grief with her hands:
+Owy, owe, nu ys he dot!
+Alas, alas, now he is dead!
+Johannes ewangelista dicit leuando eam
+John the Evangelist says, helping her up:
+Maria, nuew moder vnde leue medder myn,
+Mary, my new mother and dear aunt,
+Sta vp vnde lat dyn frote weynent syn!
+get up and stop your excessive crying!
+Yd mach nu nicht anders wesen, --
+There is no other path,
+Is he dot, he mach wol wedder genesen.
+— if he is dead, he will surely rise again.
+Sancta Maria plangit post hoc et vertit se ad populum
+Then St. Mary laments and turns to the audience:
+Nu vornuwet sik myn not,
+Now my misery begins again
+Den ik yamerlyken drage
+that I bear so bitterly
+Vnde so klegeliken klage.
+and lament so deplorably.
+
+
+Hedde gij em dat leuent la&esup;n
+If only you had let him live
+Vnde genomen myr dat lijff!
+and taken my life!
+Wat schal yk vyl arme wyff?
+what shall I, a poor woman, do?
+Ik byn syner worden anych!
+I have lost him!
+Johannes dicit
+John speaks:
+Maria, nuwe moder vnde leue medder myn,
+Mary, my new mother and dear aunt,
+Och lat dyn grote weynent syn!
+oh, stop your excessive crying!
+Id mochte anders nicht wesen:
+It could not be any different!
+He moste steruen, scholde de werlt ghenesen.
+He had to die for the world to be redeemed.
+Sancta Maria cantat post hoc
+St. Mary then sings:
+Owe, weer
+Oh, woe, who
+Heft syn speer
+readied his lance,
+Dar to bereydet,
+in order to part
+Dat he dich
+you
+Vnde mych
+and me
+So yamerlyken scheydet?
+so wretchedly?
+Johannes dicit ad hoc, tenens gladium in manibus
+John responds to this, holding the sword in his hands:
+O Maria, dyn lydent ys alto grot,
+Oh, Mary, your suffering is so great
+Id maket mennigem mynschen syne oghen rot.
+that it makes many eyes red with tears.
+Johannes cantat post sicut prius "Maria, moder vnde maget reyne."
+Then John sings as before “Mary, mother and pure virgin”.
+Sancta Maria cantat post hoc
+St. Mary then sings:
+Nu ys ok weynent myr beschen,
+Now I must cry again,
+Went yk synen dot moet se&esup;n,
+because I must watch the death of him
+Den ik ane swere ga&esup;r
+whom I, mother and virgin,
+Moder vnde maget geba&esup;r.
+bore without any pain.
+Jhesu Criste, leue kynt, ware mynsche vnde ware god,
+Jesus Christ, dear child, true man and true God,
+Du bekennest, wo grot nu ys myner zelen not
+you know how great is the anguish of my soul
+Vmme dat grote lydent dyn
+because of your great suffering
+Vnde dat yk dyner mo&esup;t anych syn.
+and because I had to lose you.
+Maria Magdalena deuote plangit post hoc
+Mary Magdalene then laments piously:
+De sune de lyt,
+The sun suffers, sun
+De steyn toryt,
+the stones crack, stone
+Dat laken splyt, --
+the curtain tears, —the temple curtain
+Wo we ys myk,
+How sad I am,
+God, vmme dyk!
+God for you!
+De yoden bekeren sik.
+The Jews convert, they change their hearts
+De erde beuet,
+The earth shakes, earth
+De doden leuet.
+TRANSLATION OF SPOKEN LINE GOES HERE
+Myt herten vnde mund
+the dead live again. graves
+An desser stund,
+With heart and mouth, in this hour,
+O werde here,
+my dear Lord,
+Wij dy danken nu so sere!
+we thank you greatly!
+
+
+Wat lyde wij nu vumme dynen bytteren dot!
+how much we suffer now because of your bitter death!
+O allerleueste, troste de armen kyndere dyn,
+O most beloved, now console your poor children,
+Sunderges Marien, de leuen truten moder dyn!
+especially Mary, your dear beloved mother!
+Sancta Maria plangit vlterius cantans
+St. Mary continues her lament, singing:
+Owe, dot
+Alas, death
+Dessen not
+you might be able to avert
+Mochtestu wol wenden,
+his suffering
+Woldestu van dyr
+if you would send
+Hijr to myr
+
+Dynen baden senden!
+here to me!
+Maria dicit
+[St.] Mary speaks:
+Eya, eya moderlyke herte,
+Alas, alas, motherly heart,
+Wat lydestu pyne vnde smerte
+how you are suffering pain and sorrow
+Vmme Jhesum Cristum, den leuen sonen myn,
+for the sake of Jesus Christ, my dear son,
+Wente yk mot nu syner anych syn!
+because I now much be without him!
+Nota. Planctum sequentem beata virgo cantat bis, quia deuotissimus est, si fieri potest commodose.
+Note: If it is possible, the Blessed Virgin sings the following lament twice because it is most pious.
+In isto cantico, eciam in ricmo sequenti, sanctus Johannes tenet gladium Symeonis deuotissime flexis genubus in manibus suis directe ante beatam virginem, cum quo tribus vicibus tangit pectus euis deuote.
+During this song, and also during the following rhymes, St. John holds the sword of Simeon in his hands, kneeling most piously directly before the Blessed Virgin, and piously strikes his chest with it three times.
+Symeonis grymmige swert,
+Grim sword of Simeon,
+(Hic tangit primo.
+(Here he strikes himself for the first time.)
+Du byst my vnvorborghen,
+you are revealed to me;
+Du byst my lange vorbescherd,
+you have long been my destiny;
+Des mot ik sere sorgen.
+I am distressed about that.
+Hic tangit cor eius cum gladio dicens sic
+(Here he takes it [the sword] away.)
+De sunne vorlust eren schyn,
+The sun stops shining
+Alder werld gemeyne,
+all over the world;
+De erde beuet, dar se licht,
+the earth shakes in its place
+Ok klouen syk de steyne.
+and the stones break apart.
+Dot, kum, nym vns beyden,
+Death, come, take both of us,
+Dat ik nicht eyne
+so that I don’t
+Van em enscheyde
+part from him, alone
+So yamerliken!
+and in such misery.
+Syn blot my nu rodet,
+His blood reddens me
+(Tangit secundo.)
+(He strikes himself another time.)
+Syn dot my nu dodet,
+his death deadens me
+Syn not my nu nodet
+his sadness saddens me,
+Myt em ghelyke.
+as is my fate.
+Maria dicit vlterius ad populum
+Mary then speaks further to the audience:
+O gij saligen lute,
+Oh, you blessed people,
+Schowet dessen groten yamer hute
+behold today this great misery
+An moder vnde an kynde!
+of mother and of child!
+Seet, wo rechte swynde
+See, how quickly
+(Hic tangit tercio.)
+(He strikes himself a third time.)
+Symeonis scharpe douendyge swert
+Simeon’s sharp, grim sword
+Dorch myne sele henne verd
+cuts through my soul
+Vnde ok dorch myn bedrouede herte!
+and also through my grieving heart!
+Desse bytterlyke smerte
+The prophecy of this bitter pain
+Propheterede my her Symeon,
+was revealed to me by Simeon,
+Do yk Jhesum Cristum mynen leuen so&esup;n
+when I brought my dear son
+In den tempel godes brachte;
+Jesus Christ into God’s temple.
+He sprak: o maget, nu wachte!
+He spoke: “Oh, virgin, take heed!
+Du byst dynes modes nu so vro --
+You are now so joyful —
+Id schal noch komen also,
+it will come to pass
+Dat eyn scharp swert schal treden
+that a sharp sword will cut
+Dorch dyne sele vnde dyn kynd dar mede!
+through your soul and your child with it!
+Maria Johannis ewangeliste plangit post hoc et cantat
+Mary, mother of John the Evangelist, then laments and sings:
+O godes kynt,
+oh, child of God,
+Wo blodich synt
+how bloody are
+Alle de hilgen lede dyn!
+all your holy limbs!
+Dat gift myneme herten pyn.
+That makes my heart ache.
+O du aller hogeste gud,
+Oh, you highest goodness,
+Ik nu sere beweynen mod
+I must now weep for
+Dynen groten swaren dot!
+your cruel and terrible death!
+Owy vnde owe ouer vnsen not!
+Alas and alack for our peril!
+Gheleden heft den swaren dot
+Jesus Christ, our dear Lord,
+Jhesus Cristus, vnse leue here.
+has suffered a cruel death.
+Leuen kyndere, helpet vns mede weynen sere!
+Dear children, help us to weep!
+Beter were wij vngeboren,
+TIt would be better if we had never been born,
+Worde syn hilge lydent an vns vorloren.
+than that his suffering be wasted on us.
+Sancta Maria cantat post hoc
+Then St. Mary sings:
+Fflecte ramos, arbor alta,
+Bend your branches, tall tree
+Densa laxa viscera,
+relax your broad limbs,
+Et rigor lentescat ille,
+and may your native
+Quem dedit natiuitas,
+stiffness relax,
+Vt superni membra regis
+so that you may spread the limbs of the highest king
+Miti tendas stipite!
+with a gentle trunk!
+Sancta Maria dicit et inspicit crucem
+St. Mary speaks and looks at the cross:
+O du eddele bo&esup;m van hoger werde,
+O noble and worthy tree,
+Boghe dy eyn kleyne to der erde,
+bow down to earth a little
+Dat yk kussen moge den leuen sone myn!
+so that I can kiss my beloved son!
+O wo drouych mot ik lange syn,
+Oh, how sad I will be for a long time
+Dat ik synes nicht kan aflangen!
+since I can’t reach him!
+O leue kynt, wo hoge bystu nu ghehangen!
+O dear child, how high you are hung now!
+Ny quam creature in so grote not,
+No creature was ever in such great peril
+Alse du, Jhesu Criste, o hemmelsche got!
+as you, Jesus Christ, o Heavenly God!
+We kan dy des danken, o ryke godes kynt?
+How can I thank you, child of the Almighty God?
+Troste my vnde alle, de nu vmme dy bedrouet synt!
+Console me and everyone who is wailing for you!
+Johannes respondet
+John responds:
+O eddele junckfrowe Maria vnde reyne maget,
+O noble and pure Virgin Mary,
+Dyn herteleyt sy gode van hemmelryke geklaget!
+your heart’s sorrow shall be lamented to God in Heaven!
+Vnse metelydent wyl sik nu ersten vornygen;
+Our communal suffering will now truly reveal itself;
+Ik mot myt luder stempnen vth mynem herten scrygen
+with a loud voice from my heart
+Vnde ropen myt dy in den hemmel, o Marie!
+I will cry with you into Heaven, o Mary!
+Leuen vrundes, besuchtet vnde beweynet nu mede vnses heren dot,
+Dear friends, now consider and bewail with us our Lord’s death
+Dat he juw behode vnde beware vor der ewygen helle no&esup;t!
+so that he might save and deliver you from the threat of eternal hell!
+Johannes cantat et vertit se ad Mariam virginem
+John sings and turns to the Virgin Mary:
+Maria, moder bystu myn,
+Mary, you are my mother
+Jo byn ik de sone dyn.
+and thus I am your son.
+Cristus myn meyster dy my bevalen hat,
+Christ, my master, has given you into my care
+Went dyn heyl nu an myr stat.
+so that your wellbeing is now responsibility.
+So lat, trud moder, dyn weynent!
+Therefore, dear mother, stop your wailing!
+(Hic apprehendit manum beate virginis)
+(Here he takes the hand of the Virgin Mary)
+Wo grot ys myn herteleyt,
+How great is my heart’s suffering
+(Hic subtrahit.)
+(Here he lets go of it.):
+Went ik see des yamers kleyt
+when I see the the noble virgin
+An der werden junckfrowen schynen
+wearing a veil of sorrow
+Myt so bytterlyken pynen!
+with such bitter pains!
+Wultu doden my enen?
+Do you want to kill me?
+God, here, meyster ys he myn,
+To me he is God, lord and master,
+Jo byn ik de junger syn.
+thus I am his disciple.
+He gaf dy to ener moder my,
+He gave you to me as my mother
+Do toch he my to sone dy,
+and hence chose me to be your son
+De wyle he leuede an deme crutze.
+while he was still alive on the cross.
+Vp synen brusten yk vntsleep,
+I fell asleep on his chest,
+Myn herte syne gotheyt grep:
+my heart yearned for his godhead.
+Ik weyt, he ys van wyllen dot,
+I know that he dies willingly;
+Myt wyllen let he de marter grot.
+willingly he suffered great torment.
+Dat nym an dyn herte, sute!
+Take that to heart, sweet one!
+Sulken trost han nu van myr:
+Take such consolation from me:
+Ik wyl wesen eyn hoder dyn,
+I will be your protector
+Wente my bevalen bist,
+because that is what I was ordered to do,
+Vnde dyn heyl vorstoruen ist.
+and your happiness has died.
+De prophecie ys vullenbracht:
+The prophecy is fulfilled,
+He heft vorvullet des dodes macht.
+he has embraced the power of death.
+(Hic apprehendit iterum manus)
+(Here he takes her hand again.)
+Myt truwen yk dy meyne,
+And faithfully, I have to bid you,
+So lat, trut moder, dyn weynent!
+dear mother, to stop crying.
+Maria, medder vnde moder myn,
+Mary, my aunt and mother,
+Och lat dyn grote weynent syn!
+stop your excessive crying!
+Herteleue benedygede maget,
+Beloved of my heart, Blessed Virgin,
+Hebbe eyn herte vnvorsaghet,
+be courageous in heart
+Wente yd mochte nicht anders syn:
+because it could not have been any other way:
+Dyn leue kynt moste lyden pyn
+your dear child had to suffer pain
+Vor alle mynslyken kunne;
+beyond all human understanding;
+Dar na schal yd myt wunne
+afterward he shall rise blissfully
+Vpstan van dode vnde myt vrowden dy schynen
+from the dead and appear to you
+Vnde alle den leuen jungeren synen;
+and all the disciples in joy.
+Dat schu&esup;t an deme drudden dage.
+That will happen on the third day.
+-- Lat, moder maget, dyne klage! --
+Stop your lamentation, mother!
+Dar negest schal he ok to hemmel varen
+After that, he shall ascend to Heaven
+Myt synen groten hemmelschen scharen;
+together with his great heavenly host;
+In synes hemmelschen vaders trone
+on his heavenly father’s throne
+Blyuet he ewychliken schone.
+he blossoms in eternal beauty.
+Sancta Maria respondet
+St. Mary responds:
+O Johannes, dat grote vnschuldige lydent syn
+Oh, John, his great and innocent suffering
+Wundet so sere lijff vnde sele myn,
+deeply wounds my body and soul,
+Dat yk mot weynen vnde scrygen
+so that I must cry and wail
+Vnde kan des ok nicht vortygen.
+and cannot refrain from it.
+Planctus vltimus beate Marie, quem facit bina vice
+The last lamentation of Mary, which she does twice:
+Johannes, nuwer sone myn,
+John, my new son,
+Ik medder vnde moder dyn
+I am both your aunt and your mother,
+Bydde: help my weynen,
+please, help me bewail
+Vnde klagen Cristum den reynen,
+and lament the pure Christ,
+Synt weynent ys nu worden tijd!
+since the time for lamentation has now come!
+Dorch aller werlde myssedaet
+On account of all the world’s misdeeds,
+De hemmel an drofnissen stat,
+Heaven is in a state of sorrow.
+Steyne, erde van vruchten stoten syk
+Stones and earth tremble in misery
+Vmme Cristus do&esup;t so bytterlyk.
+because of Christ’s bitter death.
+Grote swere an mynem herten lyt.
+Great anguish befalls my heart.
+Maria post hoc dicit lacrimabiliter, vt sequitur
+After that, Mary speaks tearfully as follows:
+O wy vnde we, dat ik gy wart gheboren!
+Alas and alack that I ever was born!
+Ik hebbe myn herteleue truten kynt vorloren!
+I have lost my dear beloved child!
+Dat ys my afgemordet ga&esup;r,
+He has been taken away from me by murder,
+Dat hanget hijr bleek vnde do&esup;tva&esup;r!
+so that he hangs here bleak and deathly pale.
+Leuen kyndere, ik byn van jammer also krank,
+Dear children, I am so sick from anguish
+Dat my benomen ys de ganck!
+that I cannot move anymore.
+Ik mach nu nicht mer ga&esup;n,
+I cannot walk
+Ok nicht vp mynen voten sta&esup;n.
+nor stand on my feet anymore.
+Myn herte wyl van yammer tobreken,
+My heart wants to break from misery
+Myn munt mach ok nicht mer spreken.
+and my mouth is no longer able to speak.
+Johannes, lose nu af den do&esup;k doch,
+John, now loosen the cloth
+Den yk em vmme synen hylgen syden slo&esup;ch!
+that I bound around his hips!
+Dar ys ynne dat hilge dure blot,
+It is stained with the holy blood
+Dat vte synen depen wunden vlot.
+that flowed from his deep wounds.
+Dat mochte noch vp desser erden
+That will become a consolation to
+Mennigen mynschen to troste werden.
+many people in this world.
+Hic Maria cadit ad terram pr&aelig; nimio dolore, et Johannes soluit pannum leuansque matrem domini et dicit amicabiliter et consolatorie
+Here, Mary falls to the ground in unbearable pain, and John unties the cloth and, helping up the Mother of God, speaks sympathetically and consolingly:
+Sta vp, Maria, mynes herten allerleueste trut,
+Get up, Mary, dearest friend of my heart,
+Vnde troste doch dynen gar drouigen mot!
+and find comfort for your despair!
+Dat ys des mynschen salicheyt eyn grot deyl,
+It is of great importance to mankind’s salvation
+Dat gestoruen ys Jhesus Cristus, vnse gantze heyl.
+that Jesus Christ, our saviour, has died.
+De mynsche moste syn vorloren,
+Mankind would have been lost,
+Were vnse leue here van dy nicht geboren;
+if our beloved Lord had not been born of you.
+Vmme vns armen wolde he mynsche werden:
+For the sake of us poor ones he desired to become human:
+Dar to quam he vp erden
+for this he came to earth,
+Nach der propheten sproke allermeyst,
+in perfect accordance with the prophet’s teachings,
+Alse du suluen alderbest weyst.
+as you know well yourself.
+He wolde den mynschen losen
+Because of his benevolence, he wanted to deliver
+Vmme syne gude van der walt der bosen;
+mankind from the power of evil
+Vnde ok vmme syne groten barmherticheyt
+and because of his great munificence
+Heft he vordreuen vnse o&esup;lde leyt,
+he ended our old sorrow
+Dat van vnsen ersten elderen quam,
+that was handed down to us by our first ancestors;
+Alse vns de scrift secht, van Euen vnde van Adam.
+as scripture tells us, it came from Eve and Adam.
+Dat he den dot ok gy gewan,
+Because he has died for this
+Des scholen en louen sere vrowen vnde man.
+he shall be praised by women and men.
+Reyne junckfrowe Maria, lat dyne klaghe!
+Pure Virgin Mary, end your lamentation!
+He wa&esup;rlik wyl vpsta&esup;n in deme drudden daghe:
+He will truly rise on the third day;
+So schaltu en myt groten vrowden seen,
+thus you shall see him with joy greater
+Me&esup;r den mynslik herte kan denken vnde gheen.
+than a human heart can think of or desire.
+Dar an denke, o moder gute
+Think of this, o good mother,
+Vnde ga myt my an myne hute!
+and go with me, in my care!
+Du schalt wesen de leue moter myn,
+You shall be my dear mother;
+Ik wyl dy alle tijd vnderdanich vnde horsam syn;
+I will be obedient and loyal to you for ever.
+De junghere vnses heren scholen dat merken,
+The disciples of our Lord shall know it:
+Dat ik dat bewysen wyl myt wyllen, myt worden vnde ok myt werken.
+I will prove it with my intention, words, and deeds.
+Sancta Maria respondet voce lamcrimabili vltimo dicens
+St. Mary finally responds, speaking in a tearful voice:
+Yohannes, myner leuen suster kynt,
+John, my dear sister’s child,
+Wij altomale sere bedrouet synd,
+all of us are very sad,
+Alse du wol west, vmme vnses leuen heren, mynes leuen kyndes do&esup;t.
+as you well know, because of our dear Lord’s and my dear child’s death.
+Yk weyt dat wol, dat he desse marter grot
+I well know that he has suffer.
+Gheleden heft vor alle de werld gemeyne.
+his torment for all the world
+Hic vertit se ad filium
+Here she turns to her son:
+O leue here Jhesu Criste, ik bevele my dy alleyne
+O dear Lord Jesus Christ, I commend myself to you alone
+Vnde sunte Johanse, deme leuen junghere dyn;
+and to St. John, your dear disciple;
+He mot nu vor dy myn kynt syn.
+he will now be my child in your place.
+Van weynende vnde van suchtende kan ik nicht mer spreken,
+From wailing and from suffering I can no longer speak;
+Myn arme herte wyl mydden entwey breken.
+my poor heart wants to break in half.
+O Jhesu Criste, mynes herten allerleueste kynt,
+O Jesus Christ, dearest child of my heart,
+Troste vns vnde alle, de nu vmme dy bedrouet synt!
+comfort us and everyone who is grieving for you!
+Dyn hilge lydent mote vns syn to vromen,
+Your holy suffering might help us
+Dat wij altomale moten in dat ewyge leuent komen!
+so that we, together, can gain eternal life
+Johannes, leue truten sone myn,
+John, dear beloved son,
+Ik wyl dy to allen tyden horsam vnde vnderdanich syn.
+I will be loyal and obedient to you forever.
+Sanctus Johannes concludit post hoc planctum beate Marie virginis deuotissimum, dicens
+St John then concludes this very pious lamentation of the Blessed Virgin, saying:
+O leuen vrundes, gij hebben gehort an dessem guden dage
+O dear friends, on this good day you have heard
+Vnses heren lydent vnde vnser leuen vrowen klage!
+our Lord’s suffering and the lamentation of our dear lady!
+Ere hilge lydent mote vns allen syn to vromen,
+Her holy suffering may help us all,
+Dat wij altomale moten in dat ewyge leuent komen
+so that we may all gain eternal life
+Vnde myt Marien mogen in deme hemmelryke
+and, together with Mary, we may behold in Heaven
+Beschowen Jhesum Cristum vnsen leuen heren ewychlyken.
+our dear and eternal Lord Jesus Christ.
+Dat vns dat altomale beschee,
+In order for that to happen for us all
+So stat vp vnde gat sytten vppe juwe beyde knee,
+stand up and kneel down,
+Spreket eyn pater noster myt ynnicheyt
+say the Lord’s prayer piously
+Vnde ok aue Maria to juwer selen zalicheyt.
+and also an ave Maria for your salvation.
+Ik bevele juw gode vnde sunte Marien.
+I commend you to God and St. Mary.
+Dar mede wylle wij vnse klagent vortygen.
+With this we want to end our lamentations.
+Post hoc vnusquisque ponit se ad genua cum omnibus circumstantibus deuote, et sanctus Johannes dicit collectam sequentem alta voce pro omnibus: Oremus!
+After this, everyone, together with all the bystanders, devoutly kneels, and in a loud voice, St. John recites the following offertory for everyone: Let us pray!
+Interueniat pro nobis quesumus, domine Jhesu Criste, nunc et in hora mortis nostre apud tuam immensam clemenciam beatissima virgo Maria, cuius felicissimam animam in hora amare passionis tue gladius doloris pertransiuit!
+O Lord Jesus Christ, we beseech you that the blessed Virgin Mary, your mother, whose most holy soul was pierced by the sword of sorrow in the hour of your passion, may appeal for us to your clemency, now and at the hour of our death. 
+Coniunctim
+Together:
+Beati Johannis apostoli tui et ewangeliste nos quesumus tibi votiua commendat oracio. cui moriens in cruce matrem virginem virgini commendasti.
+We beseech St. John, your apostle and our evangelist, to whom you, dying on the cross, have entrusted your mother, the virgin of virgins,
+Qui viuis et regnas cum deo patre in vnitate spiritus sancti, dues per omnia secula seculorum.
+to commit the offered prayer to you, who lives and reigns with the Father in the unity of the Holy Spirit, God for all eternity.
+Omnes dicunt
+All say:
+Amen.
+Amen
+Johannes ewangelista statim extendit manum suam et benedicens omnem populum cum eadem benedictione quam dicit sacerdos finito sermone.
+John the Evangelist immediately reaches out his hand and blesses all the people with the same benediction that the priest says at the end of a sermon.
+Vltimo rector incipit psalmum "Tenebre face sunt", cum quo vadunt usque ad summum altare ordinate et deuote et simul omnes cantant vsque ad versum.
+Finally, the rector strikes up the psalm “Darkness fell,” to which all proceed in an orderly and devout manner to the high altar and sing together up until the verse.
+Quo finito omnes inclinant se ad gloriosissimum sacramentum humiliter.
+When this has ended, they all bow humbly to the glorious Sacrament.
+Post hoc vnusquisque vadit vias cum gratiarum actione.
+After this, everyone exits with displays of gratitude.
+Nota: Quando exeunt primo, cantant psalmum sequens
+Note: When they first enter the stage, they sing the following psalm:
+Circumdederunt me viri mendaces, sine causa flagellis ceciderunt me.
+Lying men surrounded me: without reason they beat me with whips;
+Sed tu, domine defensor, vindica me!
+But you Lord, my defender, avenge me.
+Dominus Jhesus solus cantat versum
+The Lord Jesus Christ alone sings the verse:
+Quoniam tribulacio proxima est et non est, qui adiuvet.
+For tribulation is very near: for there is none to help me.
+Quando intrant, cantant responsorium sequens
+When they exit the stage, they sing the following responsory:
+Tenebre facte sunt, dum crucifixissent Jhesum Judei.
+Darkness fell when the Jews crucified Jesus
+Et circa horam nonam exclamauit Jhesus voce magna: Deus meus, Deus meus, vt quid me dereliquisti?
+And about the ninth hour Jesus cried with a loud voice:“My God, my God, why hast thou forsaken me?”
+Et inclinato capite tradidit spiritum.
+And he bowed his head and gave up the ghost.
+Et sic est finis huius planctus.
+And this is the end of this lamentation.
+
+--- 
+## Credits
+Translation by Björn Buschbeck, Kathryn Starkey, Mae Velloso-Lyons, Robert Forke, Christopher Hutchinson,  and Mareike Reisch, Encoded in TEI P5 XML by Jordan Rosen-Kaplan, Michael Widner,  and Irene Han

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: English
-tag: English
+tag: english
 ---

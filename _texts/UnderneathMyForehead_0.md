@@ -1,0 +1,135 @@
+---
+layout: text
+sidebar: left
+title: '“Underneath my forehead I carry your beautiful image” | "Jus lo front port vostra bella semblança"'
+breadcrumb: true
+permalink: "text/UnderneathMyForehead_0"
+redirect_from: /text/%E2%80%9Cunderneath-my-forehead-i-carry-your-beautiful-image%E2%80%9D
+identifier: UnderneathMyForehead_0.md
+textauthor: Jordi di Sant Jordi
+language: [catalan]
+period: [15th_century]
+textcollection: [gender-sex-and-sensuality]
+sdr: https://purl.stanford.edu/druid 
+image: /assets/img/text/UnderneathMyForehead_0.jpg
+thumb: /assets/img/text/UnderneathMyForehead_0-thumb.jpg
+imagesource: "Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]"
+fulltext: |
+  
+
+
+
+Jus lo front port vostra bella semblança,
+Underneath my forehead I carry your beautiful image,
+de que mon cors nit e jorn fa gran festa;
+That’s why I celebrate you, night and day;
+que, remiran la molt bella figura,
+For, by looking at your beautiful figure,
+de vostre ffaç m’es romassa l’empremta,
+A trace of your face has remained in me.
+que ja per mort no se’n partra la forma,
+Its shape won’t go away when I die,
+ans, quant seray del tot fores d’est segle,
+Instead, when I will have entirely left this earthly life,
+cels qui lo cors portaran al sepulcre,
+Those who will bring my body to the tomb
+sobre me faç, veuran lo vostre signe.
+Will find your sign on my face.
+Si com l’infants quant mira lo retaula
+Like the little kid who watches the altarpiece
+e, contemplant la pintur·ab himatges,
+And contemplates the painting and its images
+ab son net cor, no lo·n poden gens partre
+With a pure heart, and doesn’t want to separate from it
+(tant ha plasser de l’aur qui ll’environa),
+(So much does he enjoy the gold that surrounds it),
+atressi·m pren devan l’amoros sercle
+That’s how I feel when I’m in front of the love circle
+de vostre cors, que de tants bens s’anrama,
+Of your figure, for it’s embellished with so many qualities
+que, mentre·l vey, mas que Deu lo contemple;
+That, while I’m watching it, I contemplate it better than God;
+tant hay de joy per amor qui·m penetre.
+This love that penetrates me brings me so much joy.
+Aixi·m te pres e liatz en son carçre
+That’s how he has me, captive and tied up, in his jail,
+amors ardents, com si·stes en hun coffre,
+This ardent Love, as if I were inside a chest,
+tancat jus claus, e tot mon cors fos dintre,
+Locked in, all of me inside,
+on no pusques mover per null encontre.
+Without a chance to break out.
+Car tant es grans l’amor que us ay, e ferme,
+So big is my love for you, and so steadfast,
+que lo meu cor no·s part punt per angoxa,
+That my heart won’t move away, not one bit, out of anguish,
+bella, de vos, ans es ·say ferm com torres
+From you, beautiful one, but will rather be strong as a tower
+e sol amar a vos, blanxa colomba.
+And will only love you, white dove.
+Bella sens par, ab la pressensa noble,
+Unmatched beauty of noble presence,
+vostre bel cors bell fech Deu sobre totas,
+God made your pretty body superior to any other,
+gays e donos, lluu pus que fina pedre,
+Gay and gentle, brighter than a gemstone,
+amoros, bels, plus penetrans que stella;
+Loving, beautiful, more penetrating than a star;
+d’on, quan vos vey ab les autres en flota,
+For, when I spot you among other people,
+les jusmetetsCorrecting iustametz. si com fay lo carvoncles,
+You subdue them as does the carbuncle,
+que de virtuts les finas pedres passa:
+Which surpasses the qualities of any gemstone;
+vos etz sus ley com l’estors sus l’esmirle.
+You are above them like the goshawk is above the merlin.
+L’amor que us hay en totes les part[s] m’ascle
+My love for you is splintering every part of me
+quan non amech pus coralment nuls homens;
+For no one has ever loved so sincerely;
+ tan fort·amor, com cesta que·l cor m’obre,
+Such a strong love, like this one that opens my heart,
+ne fonchCorrecting fonchs. jamays en nul cors d’hom ne arme.
+Has never been in anyone’s body or soul.
+Mas suy torbats que no fonch Aristotills,
+I am more upset than Aristotle ever was
+d’amor, qui m’art e mos sinch senys desferme.
+For love, which burns me and unleashes my five senses.
+Co·l monjos bos que no·s part de la setla,
+Like the good monk who does not leave his cell,
+no·s part mon cors da vos, tant com dits d’ungle.
+My heart does not move away from you, like the finger from the nail.
+Ho, cors donos, net de frau e delicte,
+Oh, gentle lady, clean of deceit and offenses,
+prenets de me pietats, bela dona,
+Have pity on me, beautiful lady,
+e no suffrats quez aman-vos peresca,
+And don’t allow that I die by loving you,
+pus qu·eu vos am may que nulls homs afferme,
+For I love you more than anyone could affirm;
+per que us suppley a vos, qu·etz le bells arbres
+That is why I beg you—since you are the handsome tree
+de tots bos fruyts, hon valors grans pren s·ombre,
+Of all good fruits, where the high Worth rest on its shade—
+que·m retenyats en vostra valent cambre,
+To keep me in your prized chamber,
+pus vostre suy e seray tant com visque.
+For I am yours, and so will I be for as long as I live.
+Mos richs balays, cert, vos portats le timbre
+My prized spinel, you certainly wear the crown
+sus quantes son e·l mundenal registre,
+Over all women in the worldy registry
+car tots jorns naix en vos cors, e revida,
+For every day are born in you, and revive,
+bondats, virtuts, mes qu·en Pantasilea.
+Goodness and virtue, more than they ever did in Penthesilea.
+
+--- 
+## Introduction to the Source 
+<p>This poem is a <em>unicum</em> copied in Zaragoza, Biblioteca de la Universidad de Zaragoza, MS 210, fol. 98v-99r (the <em>Cançoner de Saragossa</em>). The manuscript has been digitized <a href="http://zaguan.unizar.es/record/535?ln=en">here</a>. It contains a compilation of Catalan verse dating to 1461-1462. It is the oldest known manuscript to transmit Ausiàs March’s poetry, and an important witness to the transmission of the poetry of several other authors, including Pere Torroella and Lleonard de Sors.</p>
+## Introduction to the Text 
+<p>This poem was composed ca. 1410-1424 by Valencian author Jordi de Sant Jordi, a son of a Muslim convert and valet of the chamber of the king of the Crown of Aragon, Alfonso the Magnanimous (1396-1458). It is believed to have been dedicated to the widowed Queen Margarida de Prades (1387-1429). The poem is written in Catalan with Occitan traits. It is in <em>versos estramps</em>, blank verses ending in unique, sonorous, words that are also known as <em>rims fènix</em>. Some of these rhyme words come from the famous <em>sestina</em> by Occitan troubadour Arnaut Daniel. <em>Versos estramps</em> in fact seem to be an evolution or an innovative version of the traditional <em>sestina</em>.</p> <p>This love poem features a sustained and multifaceted praise of the lady with attention to both her physical and moral beauty as well as a declaration of the steadfast love of the lyric voice. A dense, object-oriented imagery pervades each stanza. The text is considered the most remarkable love song of the <em>trobar ric</em> tradition in medieval Catalan poetry.</p>
+## Further Reading 
+<p>de Riquer, Martí and Lola Badia, editors. <em>Les poesies de Jordi de Sant Jordi.</em> Tres i Quatre, 1984.</p> <ul> <li>This is the canonical edition and commentary of Sant Jordi’s works.</li> </ul> <p>Jordi de Sant Jordi. <em>Poesies</em>. Edited by Aniello Fratta. Barcino, 2005.</p> <ul> <li>This edition makes important textual contributions and advances a debated Italianizing interpretation of Sant Jordi’s poetry.</li> </ul> <p>Torró, Jaume. “El cançoner de Saragossa.” <em>Translatar i transferir: La transmissió dels textos i el saber (1200-1500)</em>. Edited by Anna Alberni, Lola Badia i Lluís Cabré. Obrador Edèndum, 2010, pp. 379-415.</p> <ul> <li>This is the most up-to-date study of the songbook containing Sant Jordi’s poem.</li> </ul> <p>Micó, José María. “Translating Medieval Catalan Poetry Today: Jordi de Sant Jordi and Ausiàs March.” <em>Translation Review</em>, vol. 87, 2013, pp. 18-29.</p> <ul> <li>Reflections on translating Sant Jordi’s poetry into Spanish.</li> </ul> <p>Terry, Arthur. “Jordi de Sant Jordi and the Ethics of Chivalry.” <em>Three Fifteenth-Century Valencian Poets</em>. Department of Hispanic Studies, Queen Mary and Westfield College, 2000, pp. 24-38.</p> <ul> <li>Short introduction to Sant Jordi’s work in English. It contains a reading of the poem.</li> </ul> <p>Albert Lloret. “The Space in the Poem (Jordi de Sant Jordi, IX & XIV).” <em>Revealing New Perspectives: Hommages to Stephen G. Nichols from his Colleagues, Friends and Students</em>, edited by Kevin Brownlee and Marina Brownlee, Peter Lang, 2021.</p> <ul> <li>Study of space in two poems by Sant Jordi.</li> </ul>
+## Credits
+Transcription By by Albert Lloret, Translation by Albert Lloret, Encoded in TEI P5 XML by Danny Smith
