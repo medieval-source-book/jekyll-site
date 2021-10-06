@@ -21,57 +21,7 @@ thumb: /assets/img/text/Dearest_Sight_Of_My_Heart-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]
 fulltext: |
-  
-
-Hertz liebstes pyld /
-Dearest sight of my heart,
-beweys dich mild /
-show your gentleness
-mit deiner lieb unnd gunst gen mir /
-through your love and favor for me;
-der gleich will ich /
-and I will do the same,
-wann ich han dich /
-for I have chosen you,
-nach lust und wunsch meins hertzen gier /
-following the want and wish of my heartfelt desire,
-er welt für all /
-above all others
-in disem tall /
-in this valley
-mit reichem schall / frey ich mich dein in erenn.
-I delight in you with honor, and greatly rejoice.
-F Du solt hann /
-F., wherever you go, you deserve my praise
-auff aller pann /
-above all others;
-von mir für ander all den preyß /
-you have no equals
-in disem reich /
-in this realm.
-lebt nit dein gleich mit allem thun zucht perd und weyß /
-no matter their conduct, cultivation, bearing or air.
-da für dich acht /
-So, take care,
-mein hertz das lacht /
-my heart rejoices
-und stätz betracht /
-and always aims
-mein freüd mit dyr zů meren.
-to increase its joy with you.
-Zů dyr ich mich freüntlich versich /
-I am graciously disposed to you,
-dein hertz mir gantz mir trewen sey /
-may your heart be faithfully mine,
-die weyl dir gar an alles gfar / mich findest auch gerecht unnd frey / on all umb stendt
-as you find me to be just and charitable, with no ill intentions, and straightforward.
-von dir nit wendt /
-I will not leave you
-is in mein enndt /
-until my end:
-des thů ich dich geweren.
-This I guarantee you.
-
+    Hertz liebstes pyld / Dearest sight of my heart, beweys dich mild / show your gentleness mit deiner lieb unnd gunst gen mir / through your love and favor for me; der gleich will ich / and I will do the same, wann ich han dich / for I have chosen you, nach lust und wunsch meins hertzen gier / following the want and wish of my heartfelt desire, er welt für all / above all others in disem tall / in this valley mit reichem schall / frey ich mich dein in erenn. I delight in you with honor, and greatly rejoice. F Du solt hann / F., wherever you go, you deserve my praise auff aller pann / above all others; von mir für ander all den preyß / you have no equals in disem reich / in this realm. lebt nit dein gleich mit allem thun zucht perd und weyß / no matter their conduct, cultivation, bearing or air. da für dich acht / So, take care, mein hertz das lacht / my heart rejoices und stätz betracht / and always aims mein freüd mit dyr zů meren. to increase its joy with you. Zů dyr ich mich freüntlich versich / I am graciously disposed to you, dein hertz mir gantz mir trewen sey / may your heart be faithfully mine, die weyl dir gar an alles gfar / mich findest auch gerecht unnd frey / on all umb stendt as you find me to be just and charitable, with no ill intentions, and straightforward. von dir nit wendt / I will not leave you is in mein enndt / until my end: des thů ich dich geweren. This I guarantee you. 
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

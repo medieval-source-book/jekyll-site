@@ -8,44 +8,20 @@ engtitle: |
 origtitle: |
   "Zwischen perg und tieffe tal"
 breadcrumb: true
-permalink: "text/oeglin_between_hill_valley_deep_0"
+permalink: "text/oeglin_between_hill_valley_deep"
 redirect_from: /text/between-hill-and-valley-deep
-identifier: oeglin_between_hill_valley_deep_0.md
+identifier: oeglin_between_hill_valley_deep.md
 textauthor: Erhard Oeglin
 language: [early_new_high_german]
 period: [16th_century]
 textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/oeglin_between_hill_valley_deep_0.jpeg
-thumb: /assets/img/text/oeglin_between_hill_valley_deep_0-thumb.jpeg
+image: /assets/img/text/oeglin_between_hill_valley_deep.jpeg
+thumb: /assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v [Public Domain]
 fulltext: |
-  Zwischen perg und tieffe tal
-Between hill and valley deep
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- = transcription
- = translation
-
-
-
-
-
+  Zwischen perg und tieffe tal Between hill and valley deep                  = transcription  = translation     
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

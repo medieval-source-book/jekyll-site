@@ -8,34 +8,20 @@ engtitle: |
 origtitle: |
   Facetia XXVII: Civis Constantiae Soror Gravida Facta
 breadcrumb: true
-permalink: "text/Facetiae_27"
+permalink: "text/Facetiae7"
 redirect_from: /text/joke-27-pregnant-sister-citizen-constance
-identifier: Facetiae_27.md
+identifier: Facetiae7.md
 textauthor: Poggio Bracciolini
 language: [latin]
 period: [15th_century]
 textcollection: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Facetiae_27.jpg
-thumb: /assets/img/text/Facetiae_27-thumb.jpg
+image: /assets/img/text/Facetiae7.jpg
+thumb: /assets/img/text/Facetiae7-thumb.jpg
 imagesource: |
   Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v
 fulltext: |
-  Facetia XXVII
-Joke 27
-Nobilis Episcopus ex Britanniis, ad ostendendam quam tunc multi requirebant Concilii Constantiensis libertatem, in magno Praelatorum conventu hoc attulit testimonium.
-A noble bishop from Britain gave this testimony at a big meeting of the prelates as a demonstration of the liberty that many then sought at the Council of Constance.
-Fuisse ait Constantiae civem, cuius soror innupta gravida facta erat.
-He said that there was a citizen in Constance whose unmarried sister had become pregnant.
-Cum fratri tumor ventris innotuisset, accepto gladio, quid id esset, aut unde id prodisset, quaesivit, percussori similis.
-When he discovered her swelling belly, he grabbed his sword like a murderer and demanded to know what this was and who had caused it.
-Tum iuvenis exterrita, id esse Concilii opus, seque ex Concilio praegnantem.
-The young terrified woman then said that this was the Council’s doing and that she had become pregnant from the Council.
-Hoc intellecto frater, Concilii metu ac reverentia, sororem impunitam reliquit.
-When the brother realised this, he let the sister off unpunished out of fear and respect for the Council.
-Cum ceteri aliarum rerum libertatem quaererent, ille praetulit licentiam futuendi.
-When some would seek liberty with regard to other things, he preferred the liberty to fuck.
-
+  Facetia XXVII Joke 27 Nobilis Episcopus ex Britanniis, ad ostendendam quam tunc multi requirebant Concilii Constantiensis libertatem, in magno Praelatorum conventu hoc attulit testimonium. A noble bishop from Britain gave this testimony at a big meeting of the prelates as a demonstration of the liberty that many then sought at the Council of Constance. Fuisse ait Constantiae civem, cuius soror innupta gravida facta erat. He said that there was a citizen in Constance whose unmarried sister had become pregnant. Cum fratri tumor ventris innotuisset, accepto gladio, quid id esset, aut unde id prodisset, quaesivit, percussori similis. When he discovered her swelling belly, he grabbed his sword like a murderer and demanded to know what this was and who had caused it. Tum iuvenis exterrita, id esse Concilii opus, seque ex Concilio praegnantem. The young terrified woman then said that this was the Council’s doing and that she had become pregnant from the Council. Hoc intellecto frater, Concilii metu ac reverentia, sororem impunitam reliquit. When the brother realised this, he let the sister off unpunished out of fear and respect for the Council. Cum ceteri aliarum rerum libertatem quaererent, ille praetulit licentiam futuendi. When some would seek liberty with regard to other things, he preferred the liberty to fuck. 
 --- 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

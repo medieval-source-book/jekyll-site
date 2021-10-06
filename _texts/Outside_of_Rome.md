@@ -21,33 +21,7 @@ thumb: /assets/img/text/Outside_of_Rome-thumb.jpg
 imagesource: |
   Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]
 fulltext: |
-  
-
-Partiendo de Roma, passando Marino
-Outside of Rome, crossing Marino,
-fuera del monte, en una grand plana,
-Out of the woods, in a large plain,
-executando tras un puerco espino,
-Chasing a porcupine,
-a muy grandes saltos uenia la serrana.
-The mountain woman came [to me] in big leaps.
-Vestida muy corta de panno de eruage,
-Dressed in a short coarse woolen cloth,
-la rucia cabeça traya tresquilada,
-Her gray hair she had sheared,
-las piernas pelosas bien como saluage,
-Her legs were hairy like those of a savage,
-los dientes muy luengos, la fruente arrugada;
-Her teeth were very long, her forehead was wrinkled,
-las tetas disformes atras las lançaua,
-Her deformed tits were swinging backwards,
-calva, çeiunta et muy nariguda,
-Bald, unibrow, with such a big nose,
-tuerta de un oio, ynbifia, barbuda,
-Blind in one eye, hunchbacked, bearded,
-galindos los pies que diablo semblaua.
-Her feet all twisted, she looked like a devil.
-
+    Partiendo de Roma, passando Marino Outside of Rome, crossing Marino, fuera del monte, en una grand plana, Out of the woods, in a large plain, executando tras un puerco espino, Chasing a porcupine, a muy grandes saltos uenia la serrana. The mountain woman came [to me] in big leaps. Vestida muy corta de panno de eruage, Dressed in a short coarse woolen cloth, la rucia cabeça traya tresquilada, Her gray hair she had sheared, las piernas pelosas bien como saluage, Her legs were hairy like those of a savage, los dientes muy luengos, la fruente arrugada; Her teeth were very long, her forehead was wrinkled, las tetas disformes atras las lançaua, Her deformed tits were swinging backwards, calva, çeiunta et muy nariguda, Bald, unibrow, with such a big nose, tuerta de un oio, ynbifia, barbuda, Blind in one eye, hunchbacked, bearded, galindos los pies que diablo semblaua. Her feet all twisted, she looked like a devil. 
 --- 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-e90cc7a2-7fff-b453-7ecd-c7974c2edc95">The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 157r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. The authors included in this collection accompanied the king of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century. </p>

@@ -8,38 +8,20 @@ engtitle: |
 origtitle: |
   Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum
 breadcrumb: true
-permalink: "text/Facetiae_13"
+permalink: "text/Facetiae3"
 redirect_from: /text/joke-13-saying-cook-famous-duke-milan
-identifier: Facetiae_13.md
+identifier: Facetiae3.md
 textauthor: Poggio Bracciolini
 language: [latin]
 period: [15th_century]
 textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Facetiae_13.png
-thumb: /assets/img/text/Facetiae_13-thumb.png
+image: /assets/img/text/Facetiae3.png
+thumb: /assets/img/text/Facetiae3-thumb.png
 imagesource: |
   The Temperate and the Intemperate, Master of the Dresden Prayer Book, miniature from Valerius Maximus, The Memorable Deeds and Sayings of the Romans, Bruges, about 1470-80. The J. Paul Getty Museum, Ms. 43, recto
 fulltext: |
-  Facetia XIII
-Joke 13
-Dux Mediolani senior, Princeps in omnibus rebus elegantiae singularis, habebat cocum egregium quem usque ad Gallos ad perdiscenda obsonia miserat.
-The older duke of Milan, a most refined ruler when all things were concerned, had a distinguished cook, whom he sent all the way to France to fully learn their dishes.
-Bello, quod ingens cum Florentinis Dux habuit, cum ei aliquando non satis prosper nuntius advenisset, admodum turbavit Ducis mentem.
-Once during the war, which the great duke waged against Florence, the duke became very upset because he had received less than favourable news.
-Oblatis postmodum ad mensam epulis, sapores nescio quos cum Dux improbasset, epulas insuper, ut non rite conditas, esset aspernatus,
-Later on at dinner a feast was presented, but the duke had rejected several sauces and had even spurned a dish for not being correctly spiced.
-accitum cocum veluti ignarum artis aspere increpavit.
-The cook was summoned and severely rebuked for not knowing his art.
-Tum ille, ut erat liberior in eloquendo:
-Since he was quite unrestrained in speaking out, the cook then said:
-'Si Florentini,' inquit, 'tibi gustum atque appetitum auferunt, quae mea est culpa?
-“If the Florentines have taken away your taste and appetite, why is that my fault?
-My food is well-tasting and made with the highest skill: but the Florentines have roasted you thoroughly and taken away your appetite.”
-Cibi enim mei sapidi sunt, et summa arte compositi: sed te nimium concalefaciunt, et appetitum auferunt Florentini.'
-Risit ille, ut erat humanissimus, coci facetam in respondendo libertatem.
-The duke, who was very humane, laughed at the cook’s elegant reply and the liberty he took.
-
+  Facetia XIII Joke 13 Dux Mediolani senior, Princeps in omnibus rebus elegantiae singularis, habebat cocum egregium quem usque ad Gallos ad perdiscenda obsonia miserat. The older duke of Milan, a most refined ruler when all things were concerned, had a distinguished cook, whom he sent all the way to France to fully learn their dishes. Bello, quod ingens cum Florentinis Dux habuit, cum ei aliquando non satis prosper nuntius advenisset, admodum turbavit Ducis mentem. Once during the war, which the great duke waged against Florence, the duke became very upset because he had received less than favourable news. Oblatis postmodum ad mensam epulis, sapores nescio quos cum Dux improbasset, epulas insuper, ut non rite conditas, esset aspernatus, Later on at dinner a feast was presented, but the duke had rejected several sauces and had even spurned a dish for not being correctly spiced. accitum cocum veluti ignarum artis aspere increpavit. The cook was summoned and severely rebuked for not knowing his art. Tum ille, ut erat liberior in eloquendo: Since he was quite unrestrained in speaking out, the cook then said: 'Si Florentini,' inquit, 'tibi gustum atque appetitum auferunt, quae mea est culpa? “If the Florentines have taken away your taste and appetite, why is that my fault? My food is well-tasting and made with the highest skill: but the Florentines have roasted you thoroughly and taken away your appetite.” Cibi enim mei sapidi sunt, et summa arte compositi: sed te nimium concalefaciunt, et appetitum auferunt Florentini.' Risit ille, ut erat humanissimus, coci facetam in respondendo libertatem. The duke, who was very humane, laughed at the cook’s elegant reply and the liberty he took. 
 --- 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

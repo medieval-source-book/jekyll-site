@@ -21,67 +21,7 @@ thumb: /assets/img/text/Between_Sessa-thumb.jpg
 imagesource: |
   Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Public domain]
 fulltext: |
-  
-
-A la princep[e]sa de Rosano
-To the princess of Rossano
-Entre Sesa et Cintura
-Between Sessa and Cintura
-caçando por la trauiesa,
-While hunting across the countryside,
-tope dama que dehesa
-I came upon a lady who like a goddess
-parescia en su fermosura.
-Looked; such was her beauty.
-Pense que fuese Diana
-I thought she was Diana,
-que caçasse las siluestras,
-Hunting wild beasts,
-o aquella que llaIn the MS quellamançana
-Or her who the apple
-gano a las biuas muestras.correcting nuestras (Scoles 1967: 118n8)
-Demonstrably won.
-“Soys humana criatura?”
-“Are you a human creature?”
-dixe, et dixo, non con priessa,
-I said, and she said with no hurry,
-“Si sennor, et principessa
-“Yes sir, and the Princess
-de Rosano por uentura”.
-Of Rossano by good fortune.”
-O, flor de toda bellesa,
-Oh, flower of extreme beauty,
-o, templo de honestidat,
-Oh, temple of honesty,
-palacio de gentilesa,
-Palace of courtesy,
-fundamiento de bondat,
-Foundation of goodness,
-mi sententia uos condena;
-My sentence condemns you;
-que si en aquel templo de Baris
-If you had been in that temple of Bari
-uos fallara l’ynfante Paris,
-And had met Prince Paris,
-non fuera robada Elena.
-Helen would not have been stolen away.
-Nin de Bersabe, Dauid
-Neither by Bathsheba, David
-non se dexara vençer,
-Would have been conquered,
-nin Usrias tornara en lid 
-Nor Uriah would have returned to the battle
-por sus dias fenescer;
-To end his days;
-tanto soys de gracia llena
-For you are so full of grace
-que si iuntas uos mirara,
-That had [Achilles] seen the two of you next to each other,
-muy menos se enamorara
-He would have never fallen in love
-Archiles de Poliçena.
-with Polyxena.
-
+    A la princep[e]sa de Rosano To the princess of Rossano Entre Sesa et Cintura Between Sessa and Cintura caçando por la trauiesa, While hunting across the countryside, tope dama que dehesa I came upon a lady who like a goddess parescia en su fermosura. Looked; such was her beauty. Pense que fuese Diana I thought she was Diana, que caçasse las siluestras, Hunting wild beasts, o aquella que llaIn the MS quellamançana Or her who the apple gano a las biuas muestras.correcting nuestras (Scoles 1967: 118n8) Demonstrably won. “Soys humana criatura?” “Are you a human creature?” dixe, et dixo, non con priessa, I said, and she said with no hurry, “Si sennor, et principessa “Yes sir, and the Princess de Rosano por uentura”. Of Rossano by good fortune.” O, flor de toda bellesa, Oh, flower of extreme beauty, o, templo de honestidat, Oh, temple of honesty, palacio de gentilesa, Palace of courtesy, fundamiento de bondat, Foundation of goodness, mi sententia uos condena; My sentence condemns you; que si en aquel templo de Baris If you had been in that temple of Bari uos fallara l’ynfante Paris, And had met Prince Paris, non fuera robada Elena. Helen would not have been stolen away. Nin de Bersabe, Dauid Neither by Bathsheba, David non se dexara vençer, Would have been conquered, nin Usrias tornara en lid  Nor Uriah would have returned to the battle por sus dias fenescer; To end his days; tanto soys de gracia llena For you are so full of grace que si iuntas uos mirara, That had [Achilles] seen the two of you next to each other, muy menos se enamorara He would have never fallen in love Archiles de Poliçena. with Polyxena. 
 --- 
 ## Introduction to the Source 
 <p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 136v-137r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors accompanied the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>

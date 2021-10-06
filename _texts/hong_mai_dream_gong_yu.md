@@ -8,52 +8,20 @@ engtitle: |
 origtitle: |
   龔輿夢
 breadcrumb: true
-permalink: "text/hong_mai_dream_gong_yu_0"
+permalink: "text/hong_mai_dream_gong_yu"
 redirect_from: /text/dream-gong-yu
-identifier: hong_mai_dream_gong_yu_0.md
+identifier: hong_mai_dream_gong_yu.md
 textauthor: Hong Mai 洪邁
 language: [chinese]
 period: [12th_century]
 textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/hong_mai_dream_gong_yu_0.jpg
-thumb: /assets/img/text/hong_mai_dream_gong_yu_0-thumb.jpg
+image: /assets/img/text/hong_mai_dream_gong_yu.jpg
+thumb: /assets/img/text/hong_mai_dream_gong_yu-thumb.jpg
 imagesource: |
   Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |
-  龔輿夢
-The Dream of Gong Yu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- = transcription
- = translation
-
-
-
-
-
+  龔輿夢 The Dream of Gong Yu                          = transcription  = translation     
 --- 
 ## Introduction to the Source 
 <p>The corpus of the <em>Record</em> originally consisted of 420 chapters. What we have today is a small fraction of the original text. The <em>Record</em> shows a remarkable degree of accuracy when we compare it with official documents and other texts from the same period. Nevertheless, many stories in the <em>Record</em> are fictitious or based on highly unreliable sources.</p>

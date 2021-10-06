@@ -8,34 +8,20 @@ engtitle: |
 origtitle: |
   Facetia CXXI: Iocatio Dantis clarissimi
 breadcrumb: true
-permalink: "text/Facetiae_121"
+permalink: "text/Facetiae21"
 redirect_from: /text/joke-121-brilliant-dantes-joke
-identifier: Facetiae_121.md
+identifier: Facetiae21.md
 textauthor: Poggio Bracciolini
 language: [latin]
 period: [15th_century]
 textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Facetiae_121.jpg
-thumb: /assets/img/text/Facetiae_121-thumb.jpg
+image: /assets/img/text/Facetiae21.jpg
+thumb: /assets/img/text/Facetiae21-thumb.jpg
 imagesource: |
   Domenico di Michelino, La commedia illumina Firenze, from the Duomo di Firenze, 1456 [Public Domain]
 fulltext: |
-  Facetia CXXI
-Joke 121
-Dantes, Poeta noster, cum exul Senis esset, et aliquando in ecclesia Minorum, cubito super altare posito, cogitabundus aliquid secretius scrutaretur animo,
-When our poet Dante was in exile in Siena, he was once in a mendicant church where he was searching his soul and privately pondering something.
-accessit ad eum quidam, nescio quid molestius petens.
-A man then walked up to him and asked something very annoying.
-Tum Dantes: 'Dic mihi,' inquit, 'quae est maxima omnium belluarum?'
-To which Dante replied: “Tell me, which is the biggest of all animals?”
-At ille: -- 'Elephas,' respondit.
-“The elephant”, the man replied.
-Cui Dantes:
-Dante then told him:
-'O elephas! sine me,' inquit, 'maiora verbis tuis cogitantem, noli esse molestus.'
-“Oh elephant, leave me alone to ponder things greater than your words and stop being annoying!"
-
+  Facetia CXXI Joke 121 Dantes, Poeta noster, cum exul Senis esset, et aliquando in ecclesia Minorum, cubito super altare posito, cogitabundus aliquid secretius scrutaretur animo, When our poet Dante was in exile in Siena, he was once in a mendicant church where he was searching his soul and privately pondering something. accessit ad eum quidam, nescio quid molestius petens. A man then walked up to him and asked something very annoying. Tum Dantes: 'Dic mihi,' inquit, 'quae est maxima omnium belluarum?' To which Dante replied: “Tell me, which is the biggest of all animals?” At ille: -- 'Elephas,' respondit. “The elephant”, the man replied. Cui Dantes: Dante then told him: 'O elephas! sine me,' inquit, 'maiora verbis tuis cogitantem, noli esse molestus.' “Oh elephant, leave me alone to ponder things greater than your words and stop being annoying!" 
 --- 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

@@ -21,43 +21,7 @@ thumb: /assets/img/text/Efrosin_solomon_kitovra-thumb.png
 imagesource: |
   
 fulltext: |
-  "ѡ҆ Китоврасѣ ѿ палеи"
-Efrosin’s Tale of Solomon and Kitovras
-ѡ҆ Китоврасѣ ѿ палеи
-On Kitrovras‘Kitovras’ is a Slavic derivative of ‘Centaur’., from the PaleiaA major Old Russian interpretative text that retells much of the Old Testament with apocryphal additions and comments.
-Китоврасъ є҆сть звѣрь борзъ
-Kitovras is a swift beast.
-соломонъ мр͠дӹThis is a mistake for мд͠рӹ, from the adjective мѫдръ, meaning ‘wise’. хитростїю изымалъ є҆го.
-SolomonThis is the biblical figure, King Solomon. the Wise caught him with a trick.
-станъ члв҃чьчєловечь а҆ ноги коровїи.
-His upper body is of a man and his legs are of a cow.
-рекше баснѧбаснѧтъ женоу во оухѣ носилъ.
-Legend has it that he carried his wife in his ear.
-тою҆ хитростїю ꙗ҆лиѧли є҆го.
-With the following trick they seized him.
-жена є҆го сказала ю҆ноши любовникоу свое҆мᲂу, такъ.
-His wifeThe wife of Kitovras. explained to a lad, her young lover:
-ѡ҆бходить дн҃емъ да нощїю много земель. да приходить к нѣкоє҆моу мѣстоу на нем же двӓ кладѧзѧ.
-“He goes day and night across numerous lands and reaches a certain place at which there are two wells.
-ѡ҆н же тѣ и҆спиває҆ть ѡ҆бӓ кладѧзѧ и҆здоушасѧ.
-Exhausted, he drinks from both these wells.”
-соломон же велѣлъ налити и҆хъ є҆динъ вина. а҆ дроуги медоу.
-Solomon ordered that one be filled with wine and the other with mead.Fermented honey.
-ѡ҆н же тѣ ѡ҆бӓ кладѧзѧ прискоча и҆спилъ.
-Leaping, Kitovras drank from both wells.
-тоуто є҆го пїѧного съ сна пои҆мали и҆ сковали крѣпко. сила бо в немъ была велика.
-Just then, with him drunk and drowsy, they took and fettered him tightly, as the strength in him was immense.
-и҆ привели ко цр҃ю соломоноу.
-And they brought him to King Solomon.
-цр҃ь въпросилъ є҆го. что є҆сть оузорочнѣе во свѣтѣ семь.
-The King asked him: “What is most beautiful in this world?”
-ѡ҆н же ре всего є҆сть лоучши своѧ волѧ.
-He replied: “Best of all is one’s own freedom.”
-абїе крѧноулсѧ и҆ всё переломалъ : и҆ поскочилъ на свою волю,
-Stirring forthwith, he broke everything into pieces and leapt to his own freedom.
-гл҃ють є҆го ꙗ҆ко цр҃евъ сн҃ъ двд҃овъ ჻
-It is said that he is the son of a king, King David.This would make Kitovras the brother of King Solomon.
-
+  "ѡ҆ Китоврасѣ ѿ палеи" Efrosin’s Tale of Solomon and Kitovras ѡ҆ Китоврасѣ ѿ палеи On Kitrovras‘Kitovras’ is a Slavic derivative of ‘Centaur’., from the PaleiaA major Old Russian interpretative text that retells much of the Old Testament with apocryphal additions and comments. Китоврасъ є҆сть звѣрь борзъ Kitovras is a swift beast. соломонъ мр͠дӹThis is a mistake for мд͠рӹ, from the adjective мѫдръ, meaning ‘wise’. хитростїю изымалъ є҆го. SolomonThis is the biblical figure, King Solomon. the Wise caught him with a trick. станъ члв҃чьчєловечь а҆ ноги коровїи. His upper body is of a man and his legs are of a cow. рекше баснѧбаснѧтъ женоу во оухѣ носилъ. Legend has it that he carried his wife in his ear. тою҆ хитростїю ꙗ҆лиѧли є҆го. With the following trick they seized him. жена є҆го сказала ю҆ноши любовникоу свое҆мᲂу, такъ. His wifeThe wife of Kitovras. explained to a lad, her young lover: ѡ҆бходить дн҃емъ да нощїю много земель. да приходить к нѣкоє҆моу мѣстоу на нем же двӓ кладѧзѧ. “He goes day and night across numerous lands and reaches a certain place at which there are two wells. ѡ҆н же тѣ и҆спиває҆ть ѡ҆бӓ кладѧзѧ и҆здоушасѧ. Exhausted, he drinks from both these wells.” соломон же велѣлъ налити и҆хъ є҆динъ вина. а҆ дроуги медоу. Solomon ordered that one be filled with wine and the other with mead.Fermented honey. ѡ҆н же тѣ ѡ҆бӓ кладѧзѧ прискоча и҆спилъ. Leaping, Kitovras drank from both wells. тоуто є҆го пїѧного съ сна пои҆мали и҆ сковали крѣпко. сила бо в немъ была велика. Just then, with him drunk and drowsy, they took and fettered him tightly, as the strength in him was immense. и҆ привели ко цр҃ю соломоноу. And they brought him to King Solomon. цр҃ь въпросилъ є҆го. что є҆сть оузорочнѣе во свѣтѣ семь. The King asked him: “What is most beautiful in this world?” ѡ҆н же ре всего є҆сть лоучши своѧ волѧ. He replied: “Best of all is one’s own freedom.” абїе крѧноулсѧ и҆ всё переломалъ : и҆ поскочилъ на свою волю, Stirring forthwith, he broke everything into pieces and leapt to his own freedom. гл҃ють є҆го ꙗ҆ко цр҃евъ сн҃ъ двд҃овъ ჻ It is said that he is the son of a king, King David.This would make Kitovras the brother of King Solomon. 
 --- 
 ## Introduction to the Source 
 <p>This text has been transcribed from Kir.-Bel. 11/1088, no. 262, Russian National Library. A digitization of this manuscript may be viewed online here: <a href="http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60">http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60</a>.</p>

@@ -8,26 +8,20 @@ engtitle: |
 origtitle: |
   戀歌二、1077
 breadcrumb: true
-permalink: "text/Poem_1077_0"
+permalink: "text/Poem077"
 redirect_from: /text/2nd-book-love-poem-1077
-identifier: Poem_1077_0.md
+identifier: Poem077.md
 textauthor: Eifuku Mon'in 永福門院
 language: [japanese]
 period: [14th_century]
 textcollection: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Poem_1077_0.jpg
-thumb: /assets/img/text/Poem_1077_0-thumb.jpg
+image: /assets/img/text/Poem077.jpg
+thumb: /assets/img/text/Poem077-thumb.jpg
 imagesource: |
   Detail from Orchids, Bamboo, Briars, and Rocks, Tesshū Tokusai, Mid-14th C., Hanging scroll; ink on paper, Metropolitan Museum of Art, Mary Griggs Burke Collection, Gift of the Mary and Jackson Burke Foundation, 2015 [Public Domain]
 fulltext: |
-  
-
-待戀の心を
-On the topic of waiting for a lover.
-何となく今夜ひさへこそ待たれけれあかぬIn many versions of the text there is the variant あかぬ (not be satisfied) instead of あはぬ (not meet). I have chosen the former because scholars seem to have converged on that variant and because it is more emotionally complex, and therefore better coheres with Eifuku’s tendency to explore such emotional complexity.昨日の心習ひに
-I don’t know why, sincehe won’t come back tonight, butI expect him to.Yesterday, I wanted more;my heart now won’t stop wanting.
-
+    待戀の心を On the topic of waiting for a lover. 何となく今夜ひさへこそ待たれけれあかぬIn many versions of the text there is the variant あかぬ (not be satisfied) instead of あはぬ (not meet). I have chosen the former because scholars seem to have converged on that variant and because it is more emotionally complex, and therefore better coheres with Eifuku’s tendency to explore such emotional complexity.昨日の心習ひに I don’t know why, sincehe won’t come back tonight, butI expect him to.Yesterday, I wanted more;my heart now won’t stop wanting. 
 --- 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-9a502122-7fff-fcf1-b66b-aee185b43d2a">The<em> Fūga wakashū</em> imperial anthology was commissioned and compiled between 1344 and 1346 by retired Emperor Hanazono (1297-1348), the son of Eifuku Mon’in. The <em>Fūga wakashū</em> contains twenty volumes with a total of 2,210 poems. The anthology is the second and final imperial anthology to prominently feature Kyōgoku school poetry, the first being the <em>Gyokuyō wakashū</em> (c. 1313-14). It also features many poets from the Reizei poetry school. </p> <p dir="ltr">It is notable that Hanazono involved himself to such an extent in the creation of the anthology. Normally, the emperor commissioning the work would have several compilers gather the poems, arrange them into sections, and make decisions on how to transcribe the poems, after which the emperor would inspect the final draft. Hanazono was trained by his mother Eifuku in the Kyōgoku style and personally knew many of the poets included in the collection. It is unsurprising, then, that Honazono compiled the anthology himself, not to mention his writing the Chinese and Japanese prefaces to the anthology.</p> <p>Two of the earliest surviving manuscripts of the <em>Fūga wakashū </em>date back to a time roughly contemporary with the compilation of the text. One is a fragment <a href="http://library.tsurumi-u.ac.jp/opac/opac_link/bibid/1000064153">stored in Tsurumi University’s Special Collections</a>; the other is a partial manuscript containing the seventeenth volume, which was transcribed by the Buddhist poet Ton’a, and which is <a href="https://core.ac.uk/download/pdf/235263481.pdf">stored at the Itsuō Art Museum</a> in Ōsaka. A later manuscript, produced in the late Muromachi period, containing the tenth volume of <em>Fūga wakashū</em> (Love Book One) has been digitized and is <a href="http://www.archives.kyoto.jp/websearchpe/detail?cls=152_old_books_catalog&pkey=0000000144">viewable at the Kyoto Institute, Library, and Archives</a>. An example of a digitized manuscript containing all volumes of the text can be found <a href="https://kotenseki.nijl.ac.jp/biblio/200006882/viewer/115">here</a>. There are many examples of the text reproduced in woodblock print form during the Edo Period, such as <a href="http://dl.ndl.go.jp/info:ndljp/pid/2579178">this</a> beautiful digitized book. Although the transmission of the text is fairly stable, variants between manuscripts exist. A list of <em>Fūga wakashū</em> manuscripts containing variants can be found on page iv of Iwasa Miyoko’s edition of the text (2004).</p>

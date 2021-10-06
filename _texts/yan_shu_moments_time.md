@@ -21,21 +21,7 @@ thumb: /assets/img/text/yan_shu_moments_time-thumb.jpg
 imagesource: |
   Detail from 宋人十八學士圖(Scholar Talking)軸, Anonymous, National Palace Museum, Accession Number: K2A000857N000000000PAA [Public Domain]
 fulltext: |
-  浣溪沙
-To the tune “Sands of the Washing Stream”
-一向年光有限身。
-Moments of time and limited life,
-等閒離別易銷魂。
-Even casual partings can easily consume the soul.
-酒筵歌席莫辭頻。
-Do not decline the chance to drink with friends and listen to songs.
-滿目山河空念遠，
-Mountains and rivers fill up my eyes, I yearn in vain for the one faraway.
-落花風雨更傷春。
-The falling flowers and windy rains engrave the spring melancholy.
-不如憐取眼前人。
-Best to love the one before your eyes.
-
+  浣溪沙 To the tune “Sands of the Washing Stream” 一向年光有限身。 Moments of time and limited life, 等閒離別易銷魂。 Even casual partings can easily consume the soul. 酒筵歌席莫辭頻。 Do not decline the chance to drink with friends and listen to songs. 滿目山河空念遠， Mountains and rivers fill up my eyes, I yearn in vain for the one faraway. 落花風雨更傷春。 The falling flowers and windy rains engrave the spring melancholy. 不如憐取眼前人。 Best to love the one before your eyes. 
 --- 
 ## Introduction to the Text 
 <p>This <em>ci</em> is focused on the dual themes of the passage of time and longing for a distant friend (or lover). As in many of Yan Shu’s <em>ci</em>, we cannot tell if the speaker is male or female. In the course of the song, there is a shift from despair to revelation, as the speaker grasps the wisdom of <em>carpe diem</em> (“seize the day”).</p> <p>The <em>ci</em> genre of Chinese poetry first emerged in the Sui dynasty (581-619), was further developed in the Tang dynasty (618-907) and matured in the Northern Song dynasty (960-1127). <em>Ci</em> is usually translated into English as "song lyrics". This is because <em>ci</em> were composed by poets to fit pre-existing tunes. The number of lines, the line lengths, and the tonal and rhythmic patterns of <em>ci</em> vary with the tunes, which number in the hundreds. One common occasion for composing <em>ci</em> would be a banquet: song lyrics would be scribbled down by guests and then sung by musical performers as entertainment. Other occasions for composing and enjoying <em>ci</em> would be more casual: the poet might sing the lyrics to himself at home or while travelling (many <em>ci</em> poets were civil servants of the Imperial Court and often had to travel great distances to carry out their work). Sometimes the lyrics would be sung by ordinary people in the same way as folk songs. This oral and musical quality sets it apart from other genres of poetry in China during the same period, which were largely written texts with more elevated objectives. There are two main types of <em>ci</em>: <em>wǎnyuē</em> (婉约, "graceful") and <em>háofàng</em> (豪放, "bold"). The <em>wǎnyuē</em> subgenre primarily focuses on emotion and many of its lyrics are about courtship and love, while the<em> háofàng</em> subgenre often deals with themes that were considered more profound by contemporary audiences, such as ageing and mortality, or the rewards and disappointments of public service.</p> <p>Yan Shu, a powerful statesman in the early Northern Song court, had a long and successful career both as an official and as a poet. Among his many literary achievements (which include poetry, song lyrics and prose) his <em>ci</em> compositions are best known. His lyrics are elegant in their choice of words, controlled in the emotions they express, and not as playful as the ci of other well-known poets. They often capture feelings of solitude and sorrow, creating a melancholic mood, but the poet is rarely explicit about what triggers the worry or sadness.</p>

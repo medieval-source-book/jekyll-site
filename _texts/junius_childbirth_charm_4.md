@@ -21,27 +21,7 @@ thumb: /assets/img/text/junius_childbirth_charm_4-thumb.png
 imagesource: |
   Detail from New York, Metropolitan Museum, Manuscript Illumination with the Birth of the Virgin in an Initial G, from a Gradual [Public Domain]
 fulltext: |
-  
-
-Maria virgo peperit Christum. Elizabet sterelis peperit Johannem Baptistam. 
-The Virgin Mary gave birth to Christ. The infertile Elizabeth gave birth to John the Baptist.
-Adiuro te infans si es masculus aut femina per patrem et filium et spiritum sanctum ut exeas et recedas ultra
-I urge you, child, whether you are male or female, by the Father and the Son and the Holy Spirit, to come out and move beyond.
-ei non noceas neque insipientiam illi facias
-May you not harm the child nor make him foolish.
-amen.
-Amen.
-Videns Dominus flentes sorores Lazari ad monumentum lacrimatus est
-The Lord, seeing the wailing sisters of Lazarus, wept in front of the tomb.
-coram iudeis et clamabat Lazare,
-In the presence of the Jews, he exclaimed:
-veni foras
-“Lazarus, come out!”
-et prodiit ligatis manibus et pedibus qui fuerat quatriduanus mortuus.
-And he who had been dead for four days came out with his hands and feet bound.
-Writ ðis on wexe ðe næfre ne com to nanen wyrce and bind under hire swiðran fot.
-Write this in wax which has never been worked on and bind it under her right foot.
-
+    Maria virgo peperit Christum. Elizabet sterelis peperit Johannem Baptistam.  The Virgin Mary gave birth to Christ. The infertile Elizabeth gave birth to John the Baptist. Adiuro te infans si es masculus aut femina per patrem et filium et spiritum sanctum ut exeas et recedas ultra I urge you, child, whether you are male or female, by the Father and the Son and the Holy Spirit, to come out and move beyond. ei non noceas neque insipientiam illi facias May you not harm the child nor make him foolish. amen. Amen. Videns Dominus flentes sorores Lazari ad monumentum lacrimatus est The Lord, seeing the wailing sisters of Lazarus, wept in front of the tomb. coram iudeis et clamabat Lazare, In the presence of the Jews, he exclaimed: veni foras “Lazarus, come out!” et prodiit ligatis manibus et pedibus qui fuerat quatriduanus mortuus. And he who had been dead for four days came out with his hands and feet bound. Writ ðis on wexe ðe næfre ne com to nanen wyrce and bind under hire swiðran fot. Write this in wax which has never been worked on and bind it under her right foot. 
 --- 
 ## Introduction to the Source 
 <p>The <em>Junius Childbirth Charm</em> is transmitted in the manuscript Oxford Bodleian Library, MS Junius 85/86, an eleventh-century Anglo-Saxon manuscript containing Lenten sermons, including dialogues between the body and soul. It is one of four childbirth charms written into the spaces between sermons. It is worth noting that the childbirth charms in this manuscript contain the first known occurrence of the sequence of the holy mothers.</p>

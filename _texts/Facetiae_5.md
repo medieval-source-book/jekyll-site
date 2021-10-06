@@ -21,39 +21,7 @@ thumb: /assets/img/text/Facetiae_5-thumb.jpg
 imagesource: |
   London, British Library Royal 15 E VI, fol. 6r. [Public Domain]
 fulltext: |
-  Facetia V
-Joke 5
-Homo e nostris rusticanus, et haud multum prudens, certe in coitu mulierum rudis, sumpta uxore,
-There was a man from our part of the country who had taken a wife. He was a bumpkin, not very sensible and surely very ignorant when it came to sleeping with women.
-cum illa aliquando in lecto renes versus (uerso) virum volvens, nates in eius gremio posuisset, erecto telo uxorem casu cognovit.
-One night when they were in bed, she turned her back to him placing her buttocks in his lap and he got to know his wife by chance with his spear raised.
-Admiratusque postmodum et rogans mulierem, an duos cunnos haberet, cum illa annuisset:
-Afterwards he was amazed and asked the woman whether she had two pussies and when she confirmed this he said:
-'Ho, ho,' inquit, 'mihi unus (unus mihi) satis est, alter vero superfluus.'
-“ha-ha, one is enough for me, the other one is superfluous!”
-Tum callida uxor, quae a Sacerdote parochiano diligebatur:
-The sly wife, who was loved by a parish priest, then said:
-'Possumus,' inquit, 'ex hoc (+altero) eleemosynam facere; demus eum Ecclesiae et Sacerdoti nostro, cui haec res erit gratissima, et tibi nihil oberit, cum unus sufficiat tibi.'
-“In that case we can make alms of it and give it to the church and our priest, for whom this would be very pleasing; and this would cause you no grief, since one is enough for you.”
-Assentit vir uxori, et in gratiam sacerdotis, et ut se onere superfluo levaret.
-The man agreed, both to gain the priest’s favour and to rid himself of a superfluous burden.
-Igitur, eo vocato ad cenam, causaque exposita, cum sumpto cibo lectum unum tres ingrederentur,
-So, the priest was invited for dinner, the reason was disclosed and after they had eaten all three of them went to bed.
-ita ut mulier media esset, vir anteriori parte, posteriori alter ex dono uteretur,
-They lay so that the woman was in the middle and the husband made use of the front part, while the other was given use of the rear part as a gift.
-Sacerdos famelicus concupitique cibi avidus, prior aggreditur aciem sibi commissam:
-The priest, who was starved and greedy for this longed-for food, was first to approach the battle array entrusted to him.
-qua in re uxor quoque submurmurans strepitum quemdam edebat.
-Because of this the wife was moaning and made a little noise.
-Tunc vir timens ne partes suas aggrederetur:
-The man feared that the priest was approaching his domains and said:
-'Serva,' inquit, 'amice, inter nos conventa, et tua portione utere, meam intactam relinquens.'
-”Friend, stick to the agreement we made and make use only of your portion, leave mine alone!”
-Huic Sacerdos: 'Det mihi gratiam Deus,' inquit, 'nam tua parvi facio (facton ut vid.), ut bonis tantum Ecclesiae uti possim.'
-The priest replied: “God give me mercy, for I do not value your part much, as long as I can use the property of the church.”
-His verbis acquiescens stultus ille, quod Ecclesiae concesserat, libere uti iussit.
-The stupid man was satisfied with this and insisted that the priest freely use that which he had granted to the church.
-
+  Facetia V Joke 5 Homo e nostris rusticanus, et haud multum prudens, certe in coitu mulierum rudis, sumpta uxore, There was a man from our part of the country who had taken a wife. He was a bumpkin, not very sensible and surely very ignorant when it came to sleeping with women. cum illa aliquando in lecto renes versus (uerso) virum volvens, nates in eius gremio posuisset, erecto telo uxorem casu cognovit. One night when they were in bed, she turned her back to him placing her buttocks in his lap and he got to know his wife by chance with his spear raised. Admiratusque postmodum et rogans mulierem, an duos cunnos haberet, cum illa annuisset: Afterwards he was amazed and asked the woman whether she had two pussies and when she confirmed this he said: 'Ho, ho,' inquit, 'mihi unus (unus mihi) satis est, alter vero superfluus.' “ha-ha, one is enough for me, the other one is superfluous!” Tum callida uxor, quae a Sacerdote parochiano diligebatur: The sly wife, who was loved by a parish priest, then said: 'Possumus,' inquit, 'ex hoc (+altero) eleemosynam facere; demus eum Ecclesiae et Sacerdoti nostro, cui haec res erit gratissima, et tibi nihil oberit, cum unus sufficiat tibi.' “In that case we can make alms of it and give it to the church and our priest, for whom this would be very pleasing; and this would cause you no grief, since one is enough for you.” Assentit vir uxori, et in gratiam sacerdotis, et ut se onere superfluo levaret. The man agreed, both to gain the priest’s favour and to rid himself of a superfluous burden. Igitur, eo vocato ad cenam, causaque exposita, cum sumpto cibo lectum unum tres ingrederentur, So, the priest was invited for dinner, the reason was disclosed and after they had eaten all three of them went to bed. ita ut mulier media esset, vir anteriori parte, posteriori alter ex dono uteretur, They lay so that the woman was in the middle and the husband made use of the front part, while the other was given use of the rear part as a gift. Sacerdos famelicus concupitique cibi avidus, prior aggreditur aciem sibi commissam: The priest, who was starved and greedy for this longed-for food, was first to approach the battle array entrusted to him. qua in re uxor quoque submurmurans strepitum quemdam edebat. Because of this the wife was moaning and made a little noise. Tunc vir timens ne partes suas aggrederetur: The man feared that the priest was approaching his domains and said: 'Serva,' inquit, 'amice, inter nos conventa, et tua portione utere, meam intactam relinquens.' ”Friend, stick to the agreement we made and make use only of your portion, leave mine alone!” Huic Sacerdos: 'Det mihi gratiam Deus,' inquit, 'nam tua parvi facio (facton ut vid.), ut bonis tantum Ecclesiae uti possim.' The priest replied: “God give me mercy, for I do not value your part much, as long as I can use the property of the church.” His verbis acquiescens stultus ille, quod Ecclesiae concesserat, libere uti iussit. The stupid man was satisfied with this and insisted that the priest freely use that which he had granted to the church. 
 --- 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

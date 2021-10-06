@@ -21,67 +21,7 @@ thumb: /assets/img/text/Walking_out-thumb.jpg
 imagesource: |
   Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Public domain]
 fulltext: |
-  
-
-
-
-Saliendo de un oliuar,
-Walking out of an olive grove,
-mas fermosa que arreada,
-Much prettier than dressed up,
-vi serrana que tornar
-I saw a mountain girl who
-me fiso de mi iornada.
-Made me come back from my travel.
-Torneme en su compannia
-I went back to her company
-por faldas de una montanna,
-By the slopes of a mountain,
-supplicando si’l plasia
-And I begged if it would please her
-de mostrarme su cabanna.
-To show me her hut.
-Dixo: “Non podeys librar,
-She said, “You will not succeed,
-sennor, aquesta uegada,
-Sir, this time around,
-que superfluo es demandar
-For it is useless to demand
-quien non suele dar nada”.
-To her who never gives anything.”
-Si lealtad non me acordara
-Had loyalty not awaken me,
-de la mas lynda figura,
-With her most beautiful face
-del todo me enamorara
-I would have completely fallen in love,
-tanta ui su fermosura.
-Such was the beauty I saw in her.
-Dixe: “¿Que quereys mandar,
-I said, “What can I do for you,
-sennora, pues soys casada?
-My lady, since you are married?
-Que uos non quiero enoiar
-I do not want to bother you
-nin offender mi enamorada”.
-Nor offend my beloved”.
-Replico: “Yd en buen hora,
-She replied, “May you farewell;
-non cures de amar uillana
-Do not try to love a peasant,
-pues seruis a tal sennora,
-For you love such a lady,
-non troques seda por lana,
-You should not swap silk for wool,
-njn querays de mi burlar
-Or try to fool me,
-pues sabeys que so enaienada”.
-For you know well that I am not yours.”
-Vi serrana que tornar
-I saw a mountain girl who
-me fiso de mi iornada.
-Made me come back from my travel.
-
+      Saliendo de un oliuar, Walking out of an olive grove, mas fermosa que arreada, Much prettier than dressed up, vi serrana que tornar I saw a mountain girl who me fiso de mi iornada. Made me come back from my travel. Torneme en su compannia I went back to her company por faldas de una montanna, By the slopes of a mountain, supplicando si’l plasia And I begged if it would please her de mostrarme su cabanna. To show me her hut. Dixo: “Non podeys librar, She said, “You will not succeed, sennor, aquesta uegada, Sir, this time around, que superfluo es demandar For it is useless to demand quien non suele dar nada”. To her who never gives anything.” Si lealtad non me acordara Had loyalty not awaken me, de la mas lynda figura, With her most beautiful face del todo me enamorara I would have completely fallen in love, tanta ui su fermosura. Such was the beauty I saw in her. Dixe: “¿Que quereys mandar, I said, “What can I do for you, sennora, pues soys casada? My lady, since you are married? Que uos non quiero enoiar I do not want to bother you nin offender mi enamorada”. Nor offend my beloved”. Replico: “Yd en buen hora, She replied, “May you farewell; non cures de amar uillana Do not try to love a peasant, pues seruis a tal sennora, For you love such a lady, non troques seda por lana, You should not swap silk for wool, njn querays de mi burlar Or try to fool me, pues sabeys que so enaienada”. For you know well that I am not yours.” Vi serrana que tornar I saw a mountain girl who me fiso de mi iornada. Made me come back from my travel. 
 --- 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-16cd1481-7fff-9611-d371-0ec7546f1381">The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 130v-131r. This manuscript is a copy of the poetry collection known as the <em>Cancionero de Estúñiga</em>, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors attended the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century. </p>

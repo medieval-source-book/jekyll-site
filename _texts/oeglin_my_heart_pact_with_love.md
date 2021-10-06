@@ -21,59 +21,7 @@ thumb: /assets/img/text/oeglin_my_heart_pact_with_love-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24r [Public Domain]
 fulltext: |
-  Mein hertz hat sich mit lieb verpflicht
-My heart has made a pact with love
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- = transcription
- = translation
-
-
-
-
-
+  Mein hertz hat sich mit lieb verpflicht My heart has made a pact with love                                              = transcription  = translation     
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

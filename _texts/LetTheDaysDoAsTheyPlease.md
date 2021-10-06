@@ -21,37 +21,7 @@ thumb: /assets/img/text/LetTheDaysDoAsTheyPlease-thumb.jpg
 imagesource: |
   Folio from a Qur'an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]
 fulltext: |
-  
-
-من ديوان الشافعي
-from Dīwān al-Shāfiʿī
-دع الأيام تفعل ما تشاءوطب نفساً بما حكم القضاء
-Let the days do as they please,And take heart with what destiny decreed.
-ولا تجزع لحادثة اللياليفما لحوادث الدنيا بقاء
-Don’t sweat the nights’ emergencies;The world’s afflictions lack perpetuity.
-وكن رجلا على الأهوال جلداًوشيمتك المروءة والوفاء
-Be a man indifferent to fear,Of noble, loyal nature.
-وإن كثرت عيوبك في البراياوسرّك أن يكون لها غطاء
-Should your faults accrue among creation,And you’d like to drape them,
-تستر بالسخاء فكل عيبيغطيه كما قيل السخاء
-Drape them with generosity, for every faultGenerosity enshrouds, as the saying goes.
-ولا تر للأعادي قط ذلاًفإن شماتة الأعدا بلاء
-Never show foes a fault;Their schadenfreude’s a sure misfortune.
-ولا ترج السماحة من بخيلفما في النار للظمآن ماء
-Expect no bounty from the miser;Jehennem waters not the parched.
-ورزقك ليس ينقصه التأنيوليس يزيد في الرزق العناء
-Unhurriedness will not diminish your provisions,Nor will overexertion increase them.
-ولا حزن يدوم ولا سرورولا بؤس عليك ولا رخاء
-Despondency passes, as does joy;Neither poverty nor affluence are on you.
-إذا ما كنت ذا قلب قنوعفأنت ومالك الدنيا سواء
-If you possess a satisfied heart,You own the world.
-ومن نزلت بساحته المنايافلا أرض تقيه ولا سماء
-On whomever Death descends with its appointment,No earth can shelter, no sky.
-وأرض الله واسعة ولكنإذا نزل القضا ضاق الفضاء
-Allāh’s earth is wide. However,When fate strikes the space contracts.
-دع الأيام تغدر كل حينفما يغني عن الموت الدواء
-Let the days betray every age,For death knows no antidote.
-
+    من ديوان الشافعي from Dīwān al-Shāfiʿī دع الأيام تفعل ما تشاءوطب نفساً بما حكم القضاء Let the days do as they please,And take heart with what destiny decreed. ولا تجزع لحادثة اللياليفما لحوادث الدنيا بقاء Don’t sweat the nights’ emergencies;The world’s afflictions lack perpetuity. وكن رجلا على الأهوال جلداًوشيمتك المروءة والوفاء Be a man indifferent to fear,Of noble, loyal nature. وإن كثرت عيوبك في البراياوسرّك أن يكون لها غطاء Should your faults accrue among creation,And you’d like to drape them, تستر بالسخاء فكل عيبيغطيه كما قيل السخاء Drape them with generosity, for every faultGenerosity enshrouds, as the saying goes. ولا تر للأعادي قط ذلاًفإن شماتة الأعدا بلاء Never show foes a fault;Their schadenfreude’s a sure misfortune. ولا ترج السماحة من بخيلفما في النار للظمآن ماء Expect no bounty from the miser;Jehennem waters not the parched. ورزقك ليس ينقصه التأنيوليس يزيد في الرزق العناء Unhurriedness will not diminish your provisions,Nor will overexertion increase them. ولا حزن يدوم ولا سرورولا بؤس عليك ولا رخاء Despondency passes, as does joy;Neither poverty nor affluence are on you. إذا ما كنت ذا قلب قنوعفأنت ومالك الدنيا سواء If you possess a satisfied heart,You own the world. ومن نزلت بساحته المنايافلا أرض تقيه ولا سماء On whomever Death descends with its appointment,No earth can shelter, no sky. وأرض الله واسعة ولكنإذا نزل القضا ضاق الفضاء Allāh’s earth is wide. However,When fate strikes the space contracts. دع الأيام تغدر كل حينفما يغني عن الموت الدواء Let the days betray every age,For death knows no antidote. 
 --- 
 ## Introduction to the Text 
 <p>“Let the days do as they please” comes from the collected poems ascribed to Muḥammad ibn Idrīs al-Shāfiʿī, better known as al-Imām al-Shāfiʿī (d. 820). We have no extant manuscripts from his period that include his poetic works, which appeared in various anthologies since the Middle Ages. Only relatively recently, at the turn of the twentieth century, was the poetry ascribed to him published in a single <em>dīwān</em>, or poetry collection. These poems were penned by different hands at different points in history. In the preface to his second edition of the Dīwān, Dr. Mujāhid Bahjat notes that the majority of poems ascribed to al-Shāfiʿī may be ascribed to other poets or are otherwise unconfirmed as his own; he traces only twelve directly to him, whereas a given edition may include over 160 poems and poetic fragments (Bahjat 3-4, 19-20).</p> <p>Although primarily recognized as the namesake to one of the four main jurisprudential schools (or <em>madhāhib</em>, sg. <em>madh'hab</em>) in Sunni Islam, al-Imām al-Shāfiʿī equally distinguished himself as a master of language and <em>adab</em> (belles-lettres). Growing up, this descendant of the prophetic line of the Banū Hāshim tribe lived among the Hudhayl—a clan known for the purity of their Arabic—in order to immerse himself in the study of the language. This training cemented his reputation as a poet and poetic critic. Years later, in Baghdad, the famed philologist and grammarian al-Aṣmaʿī (d. 828) would visit al-Shāfiʿī to take Hudhalī poetry from him. As did all eminent scholars who sought him out (there were many), al-Aṣmaʿī marveled at his double command of language and poetry.</p> <p dir="ltr" id="docs-internal-guid-b4c686b3-7fff-80a6-e082-0faf1018b028">al-Imām al-Shāfiʿī was born in Gaza in 767. With the death of his father, he and his mother moved to Mecca two years later. His pursuit of knowledge (or ṭalab al-ʿilm) brought him at a young age to Medina, where he studied <em>ḥadīth</em> (prophetic narrations) and <em>fiqh</em> (Islamic law) under al-Imām Mālik ibn Anas until the latter’s death in 795. He then accepted a post in Yemen as governor of Najran, although a revolt in 803 prematurely ended his political career when it led to his arrest and summoning to the court of the Abbasid caliph Hārūn al-Rashīd (d. 809) in al-Raqqah, a city in Syria. There, he would meet the jurist Muḥammad al-Shaybānī (d. 805), who helped secure his acquittal. Under al-Imām al-Shaybānī’s tutelage, al-Shāfiʿī relocated to Baghdad. (Among al-Shāfiʿī’s most important students there was al-Imām Aḥmad ibn Ḥanbal (d. 855)). al-Shāfiʿī would make one more major move in 814 to Egypt, where he continued to study and teach a variety of subjects, primarily jurisprudence, until his death in 820 at the age of 54.</p> <p dir="ltr">The verses ascribed to al-Shāfiʿī probably reflect a lifetime’s worth of occasional compositions and pronouncements, and certainly reflect their author’s erudition, fine manners, and familiarity with classical meters. Precise and brief, the poetry nevertheless employs a range of sophisticated rhetorical strategies, from <em>ṭibāq</em> (contrariety) to <em>bayān</em> (eloquence), to <em>jinās</em> (paronomasia), to additional instances of <em>badīʿ</em> (ingenuity)—stylistically unique tropes and schemes (Bahjat 29-37, 42-43). Thematically, the poems touch on the matters of wisdom literature, including personal comportment, friendship, the pursuit of knowledge, and the cultivation of virtues.</p>

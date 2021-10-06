@@ -8,92 +8,20 @@ engtitle: |
 origtitle: |
   "Hilf fraw von Ach"
 breadcrumb: true
-permalink: "text/oeglin_help_our_lady_aachen_0"
+permalink: "text/oeglin_help_our_lady_aachen"
 redirect_from: /text/help-our-lady-aachen
-identifier: oeglin_help_our_lady_aachen_0.md
+identifier: oeglin_help_our_lady_aachen.md
 textauthor: Erhard Oeglin
 language: [early_new_high_german]
 period: [16th_century]
 textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/oeglin_help_our_lady_aachen_0.jpg
-thumb: /assets/img/text/oeglin_help_our_lady_aachen_0-thumb.jpg
+image: /assets/img/text/oeglin_help_our_lady_aachen.jpg
+thumb: /assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v [http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00082229]
 fulltext: |
-  Hilf fraw von Ach
-Help, our lady of Aachen!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  Hilf fraw von Ach Help, our lady of Aachen!                                                                       
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

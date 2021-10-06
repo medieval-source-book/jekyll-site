@@ -21,41 +21,7 @@ thumb: /assets/img/text/Riddle_Temple_of_Saturn_S-thumb.jpg
 imagesource: |
   Hill Museum and Manuscript Library GAMS 00900
 fulltext: |
-  
-
-
-
-ܒܣܡ ܐܠܐܒ ܘܐܠܐܒܢ ܘܐܠܪܘܚ ܐܠܩܕܤ ܐܠܐܗ ܘܐܚܕ
-IN THE NAME OF THE FATHER AND THE SON AND THE HOLY SPIRIT, ONE GOD
-نسخة اللغز الذي قيل انها وجدت في هيكل زحل مكتوبة في لوح ذهب
-Copy of the riddle that was said to have been found in the temple of Saturn written on a golden tablet
-نقل حنين ابن اسحق وجده في الصحف القديمة
-Translation of Ḥunayn ibn Isḥāq, who found it in ancient pages
-وتفسيرها للاب مار عمنويل مطران باجرمي
-And a commentary on it by Father ʻAmanúʼél, metropolitan of Bét Garmay
-وهذه هي
-Here it is:
-قال اذا ما صعد البخار الرطب من قعر البحر وانعقد في الجو سحابا هاطلا فجرت الاودية ولثقت الطرق واظلم نور الشمس والقمر فلم يعرف الليل من النهار وانقطعت السبل واغلقت ابواب المدينة ودعا كل ذي نفس الى ما اعد لنفسه.
-He said: When humid vapor rose from the depth of the sea and thickened in the air as clouds, coursing down so that the riverbeds flowed, the pathways were turned to mud, and the light of the sun and the moon grew dark, so night was not known from day, the roads were cut off, and the gates of the city were closed, and everyone with a soul called upon what they had prepared for themselves. 
-وخلا الملك في قبة فرشها الرياضي راكبا فرسا يحجبه جارية راكبة اسد.
-And the king secluded himself in a dome furnished with gardens, riding a horse that he kept hidden like a slave woman riding a lion.
-واستدعا من وزيره ما رفعوا اليه اعوانه. واخذ من تدبير امره ومملكته.
-He asked of his vizier what his servants had set before him, and was taken up with the administration of his affairs and his kingdom.
- فاستقر الامر عنده انه ان عاش مات وان مات عاش وان اهلك مملكته انحفظت نفسه وان حفظ اعوان مملكته هلكت نفسه.
-Then it became fixed in his mind that if he lived he would die, and if he died he would live, and if he destroyed his kingdom, his soul would be saved, and if he saved the servants of his kingdom, his soul would be destroyed.
- فاثر الموت على الحياة وحفظ نفسه على مملكته ورعيته وفي تضاعيف فكره انقشع الغمام وطلع المنيران في القوس وقد كانا غابا في العقد الشمالي.
-So he preferred death over life, and saved himself rather than his kingdom and his subjects. Between the lines of his thought the clouds were scattered, and the two lights rose in Sagittarius after they had been hidden away in the northern node.
- فتم الى الجند والرعية ما خامر قلب الملك فهما بالارتفاع به.
-Then what had seized the heart of the king came to pass for the army and the subjects, so they were being wiped out by it.
-وفار التنور من الصنوبرة فارسل عليهم طوفان ريح وماء ولم يحدث شيا من غير شي فاجراه كالمد وعاش مستانسا بالوحدة.
-And water gushed forth from within the oven,
-فمن ضحك بكا ومن بكا ضحك.
-So whoever laughed wept, and whoever wept laughed.
-والسلم على النفوس القريبة من مبديها. والرحمة على البعيدة لتلحق بها. والسبح لناظم الكل
-Peace upon the souls that are close to their Creator, and mercy upon those far away so that they might catch up to them, and glory to the one who arranges all things.
-تم اللغز. يتلوه التفسير
-The riddle has ended. The commentary follows.
-
+      ܒܣܡ ܐܠܐܒ ܘܐܠܐܒܢ ܘܐܠܪܘܚ ܐܠܩܕܤ ܐܠܐܗ ܘܐܚܕ IN THE NAME OF THE FATHER AND THE SON AND THE HOLY SPIRIT, ONE GOD نسخة اللغز الذي قيل انها وجدت في هيكل زحل مكتوبة في لوح ذهب Copy of the riddle that was said to have been found in the temple of Saturn written on a golden tablet نقل حنين ابن اسحق وجده في الصحف القديمة Translation of Ḥunayn ibn Isḥāq, who found it in ancient pages وتفسيرها للاب مار عمنويل مطران باجرمي And a commentary on it by Father ʻAmanúʼél, metropolitan of Bét Garmay وهذه هي Here it is: قال اذا ما صعد البخار الرطب من قعر البحر وانعقد في الجو سحابا هاطلا فجرت الاودية ولثقت الطرق واظلم نور الشمس والقمر فلم يعرف الليل من النهار وانقطعت السبل واغلقت ابواب المدينة ودعا كل ذي نفس الى ما اعد لنفسه. He said: When humid vapor rose from the depth of the sea and thickened in the air as clouds, coursing down so that the riverbeds flowed, the pathways were turned to mud, and the light of the sun and the moon grew dark, so night was not known from day, the roads were cut off, and the gates of the city were closed, and everyone with a soul called upon what they had prepared for themselves.  وخلا الملك في قبة فرشها الرياضي راكبا فرسا يحجبه جارية راكبة اسد. And the king secluded himself in a dome furnished with gardens, riding a horse that he kept hidden like a slave woman riding a lion. واستدعا من وزيره ما رفعوا اليه اعوانه. واخذ من تدبير امره ومملكته. He asked of his vizier what his servants had set before him, and was taken up with the administration of his affairs and his kingdom.  فاستقر الامر عنده انه ان عاش مات وان مات عاش وان اهلك مملكته انحفظت نفسه وان حفظ اعوان مملكته هلكت نفسه. Then it became fixed in his mind that if he lived he would die, and if he died he would live, and if he destroyed his kingdom, his soul would be saved, and if he saved the servants of his kingdom, his soul would be destroyed.  فاثر الموت على الحياة وحفظ نفسه على مملكته ورعيته وفي تضاعيف فكره انقشع الغمام وطلع المنيران في القوس وقد كانا غابا في العقد الشمالي. So he preferred death over life, and saved himself rather than his kingdom and his subjects. Between the lines of his thought the clouds were scattered, and the two lights rose in Sagittarius after they had been hidden away in the northern node.  فتم الى الجند والرعية ما خامر قلب الملك فهما بالارتفاع به. Then what had seized the heart of the king came to pass for the army and the subjects, so they were being wiped out by it. وفار التنور من الصنوبرة فارسل عليهم طوفان ريح وماء ولم يحدث شيا من غير شي فاجراه كالمد وعاش مستانسا بالوحدة. And water gushed forth from within the oven, فمن ضحك بكا ومن بكا ضحك. So whoever laughed wept, and whoever wept laughed. والسلم على النفوس القريبة من مبديها. والرحمة على البعيدة لتلحق بها. والسبح لناظم الكل Peace upon the souls that are close to their Creator, and mercy upon those far away so that they might catch up to them, and glory to the one who arranges all things. تم اللغز. يتلوه التفسير The riddle has ended. The commentary follows. 
 --- 
 ## Introduction to the Source 
 <p>The sole known manuscript of the riddle is Fondation Georges et Mathilde Salem MS Syr 6, one of the hundreds of manuscripts collected by Syriac Catholic priest Paul Sbath (1887-1945) that remains in his hometown of Aleppo (formerly Sbath MS 900). It was copied in September 1684 and also includes an Arabic translation of the <em>Book of the dove</em> by Bar Hebraeus (1226-1286), an important Syriac text on asceticism. The Arabic <em>Life of Moses the Ethiopian </em>(d. ca. 395) was copied separately and later bound with these texts. The entire volume is thus written in the Arabic language, but the vast majority of it is actually in Arabic Garshuni—that is, Arabic written in the Syriac script. Interestingly, the text of the riddle is copied in Arabic script, but the commentary on it is copied in Garshuni, making it easy to distinguish text and commentary visually. This may have been done to preserve the original form of the Arabic text associated with Ḥunayn, but it is not explained.</p> <p>The scribe of this manuscript is Yūḥanná ibn al-Jarīr al-Zarbābī, who was a West Syrian priest (member of the Syriac Orthodox Church) in Damascus. This shows that al-Zarbābī was not limited to copying texts by members of his own Church, like the <em>Book of the dove</em>, but was interested enough in this riddle to copy it in spite of its association with two figures from the rival Church of the East.</p> <p>The condition of the manuscript is unknown due to the lengthy civil war in Syria, but it was photographed in 2008 and digitized by the Hill Museum and Manuscript Library (HMML). It is available for viewing at <a href="https://w3id.org/vhmml/readingRoom/view/501459">https://w3id.org/vhmml/readingRoom/view/501459</a>. The text of the riddle appears on fol. 82v-83r and the commentary on fol. 83v-93v.</p>

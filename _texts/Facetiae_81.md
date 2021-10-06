@@ -21,23 +21,7 @@ thumb: /assets/img/text/Facetiae_81-thumb.jpg
 imagesource: |
   Venice, from Hartmann Schedel's Nuremberg Chronicle [Public Domain]
 fulltext: |
-  Facetia LXXXI
-Joke 81
-Venetis foedus erat cum Duce Mediolani ad decennium.
-There had been an alliance between Venice and the duke of Milan for a decade.
-Interim primo inter Florentinos Ducemque orto bello, cum Florentinorum res deteriori loco viderentur, Veneti Ducem haud quicquam hostile timentem adorti, rupto foedere, Brixiam occuparunt:
-Meanwhile a war had arisen between Florence and the duke, then at a point when the Florentines seemed to be losing the Venetians broke the alliance and attacked the duke, who did not suspect a thing, and occupied Brescia.
-veriti ne, si Dux superior esset, omnis belli moles in se verteretur.
-They feared that if the duke would win, then the whole war apparatus might be turned against them.
-Florentino Venetoque postmodum de hac re disceptantibus, cum Venetus diceret:
-When later on a Florentine and a Venetian were debating this thing, the Venetian said:
-'Nobis libertatem debetis: nam nostra opera liberi estis.'
-“You owe us your liberty: for you are free because of our work.”
-'Hoc nequaquam verum est,' inquit ad retundendam illius petulantiam Florentinus:
-To rebut the impudent Venetian the Florentine said: “That’s not true at all!
-'non enim nos liberos esse fecistis, sed nos vos reddidimus proditores.'
-For you did not free us, but rather we made you traitors.”
-
+  Facetia LXXXI Joke 81 Venetis foedus erat cum Duce Mediolani ad decennium. There had been an alliance between Venice and the duke of Milan for a decade. Interim primo inter Florentinos Ducemque orto bello, cum Florentinorum res deteriori loco viderentur, Veneti Ducem haud quicquam hostile timentem adorti, rupto foedere, Brixiam occuparunt: Meanwhile a war had arisen between Florence and the duke, then at a point when the Florentines seemed to be losing the Venetians broke the alliance and attacked the duke, who did not suspect a thing, and occupied Brescia. veriti ne, si Dux superior esset, omnis belli moles in se verteretur. They feared that if the duke would win, then the whole war apparatus might be turned against them. Florentino Venetoque postmodum de hac re disceptantibus, cum Venetus diceret: When later on a Florentine and a Venetian were debating this thing, the Venetian said: 'Nobis libertatem debetis: nam nostra opera liberi estis.' “You owe us your liberty: for you are free because of our work.” 'Hoc nequaquam verum est,' inquit ad retundendam illius petulantiam Florentinus: To rebut the impudent Venetian the Florentine said: “That’s not true at all! 'non enim nos liberos esse fecistis, sed nos vos reddidimus proditores.' For you did not free us, but rather we made you traitors.” 
 --- 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>

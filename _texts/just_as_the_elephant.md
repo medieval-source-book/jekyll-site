@@ -8,140 +8,20 @@ engtitle: |
 origtitle: |
   “Atressi cum l'orifans”
 breadcrumb: true
-permalink: "text/just_as_the_elephant_0"
+permalink: "text/just_as_the_elephant"
 redirect_from: /text/%E2%80%9Cjust-elephant%E2%80%9D
-identifier: just_as_the_elephant_0.md
+identifier: just_as_the_elephant.md
 textauthor: Rigaut de Berbezilh
 language: [occitan]
 period: [12th_century]
 textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/just_as_the_elephant_0.jpg
-thumb: /assets/img/text/just_as_the_elephant_0-thumb.jpg
+image: /assets/img/text/just_as_the_elephant.jpg
+thumb: /assets/img/text/just_as_the_elephant-thumb.jpg
 imagesource: |
   Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan Songbook K) [Public Domain]
 fulltext: |
-  
-
-Atressi cum l’orifans
-Just as the Elephant
-que, quan chai, no·s pot levar
-Which, when it falls, cannot get up
-tro l’autre ab lor cridar
-Until the others, through their trumpeting,
-de lor votz lo levon sus,
-Make it stand up with the sounds they emit,
-et ieu vuelh segre aquel us
-I too want to follow this custom,
-quar mos mesfagz es tan greus e pezans
-Because my wrongdoing is such a heavy burden
-que, si la cortz del Puey e lo bobans
-That, if the court of Puy, and the pomp
-e l’adregz pretz dels leials amadors
-And the rightful merit of the true lovers
-no·m relevon, ia mais no serai sors;
-Do not get me back up, I will never be up on my feet again;
-que denhesson per me clamar merce
-So may they deign to plead for mercy on my behalf
-lai on preiars ni razos no·m val re.
-There where begging and arguing do not help me.
-E s’ieu per los fis amans
-And if I, thanks to the refined lovers,
-non puosc en ioy retornar,
-Cannot recover my joyfulness,
-per tostemps lays mon chantar
-I will abandon my singing forever
-que de mi no y a ren plus;
-Because there’s nothing left of me;
-ans viurai cum lo reclus,
-Instead, I will be living like a recluse,
-sols, ses solatz, qu’aitals es mos talans,
-Alone, without solace, for such is my state of mind;
-quar ma vida m’es enuegz et afans
-Because my life bothers and pains me,
-e gaugz m’es dols e plazers m’es dolors,
-And joy feels like sorrow and pleasure like pain,
-qu’ieu no suy ges de la maneira d’ors
-Because I am not at all like the Bear,
-que, qui be·l bat ni·l te vil ses merce,
-Which, when one beats it thoroughly and holds it in contempt, without mercy,
-adoncs engrayssa e melhuyra e reve.
-Fattens, improves, and flourishes.
-Be sai qu’amors es tan grans
-I know full well that love is so magnanimous
-que leu me pot perdonar,
-That it can easily forgive me,
-s’ieu falhi per sobramar
-If I failed it by loving excessively
-ni renhey cum Dedalus,
-Or if I behaved like Daedalus,
-que dis qu’elh era Jhezus
-Who said he was Jesus,
-e volc volar al cel outracuians,
-And who wanted to fly to the sky in his arrogance
-mas Dieus baisset l’orguel e lo sobrans;
-(But God abated his pride and his superiority);
-e mos orguelhs non es res mas amors,
-And my pride is nothing but love,
-per que merces mi deu faire socors,
-Which is why Mercy must come and rescue me,
-que maint luec son on razos vens merce,
-For there are many instances in which arguing wins against mercy,
-e luec on dregz ni razos no·s ave.
-And instances in which legitimacy and arguing do not prevail.
-A tot lo mon suy clamans
-I complain to everyone
-de mi e de trop parlar;
-About myself and about my vain discourse;
-e s’ieu pogues contrafar
-And if I could imitate
-fenix, don non es mas us,
-The Phoenix, of which there is but one,
-que s’art e pueys restortz sus,
-Which lights up in flames and then recovers,
-ieu m’arsera, quar suy tant malanans,
-I would light myself up in flames, because I am so unhappy,
-e mos fals digz mensongiers e truans
-And my false, mendacious and vile utterance
-resorsera en sospirs et en plors
-Will resuscitate as sighing and as weeping,
-lai on beutatz e iovens e valors
-There where beauty and youthfulness and worth
-es, que no y falh mas un pauc de merce
-Are, for it does not take more than just a little of mercy
-que no y sion assemblat tug li be.
-For there to be everything that is good in one place.
-Ma chansos er drogomans
-My song will be a fixer
-lai on ieu non aus anar
-There where I do not dare to go
-ni ab dregz huelhs regardar,
-Nor to look with a straight eye,
-tan sui forfagz e aclus;
-So much am I guilty and constricted;
-e ia hom no m’en escus.
-And indeed no one seeks to justify me.
-Mielhs-de-dona, que fugit ai dos ans,
-Best-of-a-Lady, from whom I have fled for two years,
-er torn a vos doloiros e plorans;
-Now I turn to you in pain and crying;
-aissi quo·l sers, que, quant a fag son cors,
-Like the Stag, which, when it has run away,
-torna morir al crit dels cassadors,
-Returns to die when the hunters shout,
-aissi torn ieu, domna, en vostra merce;
-So do I return, Lady, to your mercy;
-mais vos no·n cal, si d’amor no·us sove.
-But you do not care, and you are forgetful about love.
-Tal senhor ai, en cui a tan de be
-I have a lord in whom there is so much goodness
-que·l iorn que·l vei non puosc faillir en re.
-That when I saw him I could not wish for more.
-Belh Bericle, ioys e pretz vos mante;
-Beautiful Beryl, joyfulness and worth assist you;
-tot quan vuelh ai, quan de vos me sove.
-I have all that I want when I think about you.
-
+    Atressi cum l’orifans Just as the Elephant que, quan chai, no·s pot levar Which, when it falls, cannot get up tro l’autre ab lor cridar Until the others, through their trumpeting, de lor votz lo levon sus, Make it stand up with the sounds they emit, et ieu vuelh segre aquel us I too want to follow this custom, quar mos mesfagz es tan greus e pezans Because my wrongdoing is such a heavy burden que, si la cortz del Puey e lo bobans That, if the court of Puy, and the pomp e l’adregz pretz dels leials amadors And the rightful merit of the true lovers no·m relevon, ia mais no serai sors; Do not get me back up, I will never be up on my feet again; que denhesson per me clamar merce So may they deign to plead for mercy on my behalf lai on preiars ni razos no·m val re. There where begging and arguing do not help me. E s’ieu per los fis amans And if I, thanks to the refined lovers, non puosc en ioy retornar, Cannot recover my joyfulness, per tostemps lays mon chantar I will abandon my singing forever que de mi no y a ren plus; Because there’s nothing left of me; ans viurai cum lo reclus, Instead, I will be living like a recluse, sols, ses solatz, qu’aitals es mos talans, Alone, without solace, for such is my state of mind; quar ma vida m’es enuegz et afans Because my life bothers and pains me, e gaugz m’es dols e plazers m’es dolors, And joy feels like sorrow and pleasure like pain, qu’ieu no suy ges de la maneira d’ors Because I am not at all like the Bear, que, qui be·l bat ni·l te vil ses merce, Which, when one beats it thoroughly and holds it in contempt, without mercy, adoncs engrayssa e melhuyra e reve. Fattens, improves, and flourishes. Be sai qu’amors es tan grans I know full well that love is so magnanimous que leu me pot perdonar, That it can easily forgive me, s’ieu falhi per sobramar If I failed it by loving excessively ni renhey cum Dedalus, Or if I behaved like Daedalus, que dis qu’elh era Jhezus Who said he was Jesus, e volc volar al cel outracuians, And who wanted to fly to the sky in his arrogance mas Dieus baisset l’orguel e lo sobrans; (But God abated his pride and his superiority); e mos orguelhs non es res mas amors, And my pride is nothing but love, per que merces mi deu faire socors, Which is why Mercy must come and rescue me, que maint luec son on razos vens merce, For there are many instances in which arguing wins against mercy, e luec on dregz ni razos no·s ave. And instances in which legitimacy and arguing do not prevail. A tot lo mon suy clamans I complain to everyone de mi e de trop parlar; About myself and about my vain discourse; e s’ieu pogues contrafar And if I could imitate fenix, don non es mas us, The Phoenix, of which there is but one, que s’art e pueys restortz sus, Which lights up in flames and then recovers, ieu m’arsera, quar suy tant malanans, I would light myself up in flames, because I am so unhappy, e mos fals digz mensongiers e truans And my false, mendacious and vile utterance resorsera en sospirs et en plors Will resuscitate as sighing and as weeping, lai on beutatz e iovens e valors There where beauty and youthfulness and worth es, que no y falh mas un pauc de merce Are, for it does not take more than just a little of mercy que no y sion assemblat tug li be. For there to be everything that is good in one place. Ma chansos er drogomans My song will be a fixer lai on ieu non aus anar There where I do not dare to go ni ab dregz huelhs regardar, Nor to look with a straight eye, tan sui forfagz e aclus; So much am I guilty and constricted; e ia hom no m’en escus. And indeed no one seeks to justify me. Mielhs-de-dona, que fugit ai dos ans, Best-of-a-Lady, from whom I have fled for two years, er torn a vos doloiros e plorans; Now I turn to you in pain and crying; aissi quo·l sers, que, quant a fag son cors, Like the Stag, which, when it has run away, torna morir al crit dels cassadors, Returns to die when the hunters shout, aissi torn ieu, domna, en vostra merce; So do I return, Lady, to your mercy; mais vos no·n cal, si d’amor no·us sove. But you do not care, and you are forgetful about love. Tal senhor ai, en cui a tan de be I have a lord in whom there is so much goodness que·l iorn que·l vei non puosc faillir en re. That when I saw him I could not wish for more. Belh Bericle, ioys e pretz vos mante; Beautiful Beryl, joyfulness and worth assist you; tot quan vuelh ai, quan de vos me sove. I have all that I want when I think about you. 
 --- 
 ## Introduction to the Source 
 <p>“Atressi cum l’orifans” is extant in a large number of manuscripts, which may indicate that when <em>chansonniers</em> were composed, Rigaut’s works were held in higher esteem than in scholarly assessments. Across manuscripts, the lyric changes, be it in the order of stanzas, the presence/absence of stanzas, single words and phrases, linguistic makeover, or the presence of a written melody (extant in two manuscripts). Rigaut seems to have been popular in Northern French <em>chansonniers</em>, although Eliza Zingesser has shown that this came at the cost of making Rigaut look birdlike, almost a madman (2020, 49–80).</p> <p>This translation is based on the edition of the lyric by Carl Appel (1920, 70–71, item 29), with adapted punctuation. The reference edition remains that by Alberto Varvaro (1960, 106-134).</p>

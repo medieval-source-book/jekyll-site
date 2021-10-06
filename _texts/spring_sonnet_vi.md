@@ -21,39 +21,7 @@ thumb: /assets/img/text/spring_sonnet_vi-thumb.jpg
 imagesource: |
   Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157
 fulltext: |
-  Le Printemps – L’hécatombe à Diane, VI
-The Spring – The Hecatomb for Diane, VI
-
-
-Hardy, j’entreprendray bravement de te rendre eternelle
-Boldly I will undertake to render you eternal,
-Targuant de mes escrips ton nom contre la mort
-ShieldingFrom the Middle French ‘targe’ meaning ‘shield’. with my writing your name against death;
-Mais en t’eternisant, je ne travaille fort
-But in eternalizing you, I need barely workLiterally “I do not work hard”:
-Ta perfection n’est en aucun poinct mortelle
-Your perfection is in no way mortal.
-Rien n’est mortel en toy ta chasteté est telle
-Nothing in you is mortal, and your chastity is such
-Que le temps envieux ne luy peut faire tort
-That jealous time cannot do it wrong.
-Tes dons thresors du Ciel, ton Nom exemptz du port
-Your gifts, treasures from Heaven, your name, exempt from the port
-Et du fleuve d’oubly ont la vue immortelle.
-And from the river of forgetfulness, have immortal life.
-Mesmes ce livre heureux vivra infiniment
-Even this happy book will live infinitely
-Pource que l’infiny sera son argument
-For the infinite will be its subject.
-Or ie ren graces aux Dieux de ce que i’ay servie
-However, I thank the Gods for that which I have served:
-MToute perfection de grace &amp; de beauté
-All perfection of grace and of beauty;
-Mais ie me plein à eux que ta severité
-But I bemoan to them that your severity,
-Comme sont les vertus, aussi est infinie
-Like yourLiterally ‘the virtues’, but I have changed this to a personal pronoun in English. virtues, is also infinite.
-
+  Le Printemps – L’hécatombe à Diane, VI The Spring – The Hecatomb for Diane, VI   Hardy, j’entreprendray bravement de te rendre eternelle Boldly I will undertake to render you eternal, Targuant de mes escrips ton nom contre la mort ShieldingFrom the Middle French ‘targe’ meaning ‘shield’. with my writing your name against death; Mais en t’eternisant, je ne travaille fort But in eternalizing you, I need barely workLiterally “I do not work hard”: Ta perfection n’est en aucun poinct mortelle Your perfection is in no way mortal. Rien n’est mortel en toy ta chasteté est telle Nothing in you is mortal, and your chastity is such Que le temps envieux ne luy peut faire tort That jealous time cannot do it wrong. Tes dons thresors du Ciel, ton Nom exemptz du port Your gifts, treasures from Heaven, your name, exempt from the port Et du fleuve d’oubly ont la vue immortelle. And from the river of forgetfulness, have immortal life. Mesmes ce livre heureux vivra infiniment Even this happy book will live infinitely Pource que l’infiny sera son argument For the infinite will be its subject. Or ie ren graces aux Dieux de ce que i’ay servie However, I thank the Gods for that which I have served: MToute perfection de grace &amp; de beauté All perfection of grace and of beauty; Mais ie me plein à eux que ta severité But I bemoan to them that your severity, Comme sont les vertus, aussi est infinie Like yourLiterally ‘the virtues’, but I have changed this to a personal pronoun in English. virtues, is also infinite. 
 --- 
 ## Introduction to the Text 
 <p style="text-align:justify"><span style="text-justify:inter-ideograph">Best known for his civil war epic <i>Les Tragiques</i>, Théodore Agrippa d’Aubigné (1552-1630) spent his early years in the thrall of Diane Salviati. Salviati was the niece of Cassandra, the muse of the famous French poet Ronsard. D’Aubigné’s work <i>Le Printemps (</i></span>“<span style="text-justify:inter-ideograph">Spring</span>”)<span style="text-justify:inter-ideograph"><i> </i>is composed of two parts. The first is a compilation of one hundred sonnets dedicated to his beloved, entitled <i>L’hécatombe à Diane</i>. The word ‘hecatomb’ evokes a sacrificial practice in Ancient Greece, where one hundred cattle or other livestock would be slaughtered in honour of the gods. Though the goal of d’Aubigné’s sonnets is ostensibly to praise Diane, his imagery is characteristically visceral, flavoured by his experience of the violence of France’s Wars of Religion (1562-1598). Diane’s family sheltered d’Aubigné following the St. Bartholomew’s Day Massacre in 1572, but, as she was Catholic and d’Aubigné Protestant, their love was not to be. The author’s later works express some wistful reflections on the youthful exuberance that led him to idolize this unattainable woman. It is thought that <i>L’hécatombe à Diane</i> and the latter section of <i>Le Printemps</i>, the <i>Stances et Odes</i>, were composed in the early 1570s. </span></p>

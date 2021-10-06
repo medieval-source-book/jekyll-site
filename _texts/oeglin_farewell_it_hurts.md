@@ -8,56 +8,20 @@ engtitle: |
 origtitle: |
   "Ade mit layd"
 breadcrumb: true
-permalink: "text/oeglin_farewell_it_hurts_0"
+permalink: "text/oeglin_farewell_it_hurts"
 redirect_from: /text/farewell-it-hurts
-identifier: oeglin_farewell_it_hurts_0.md
+identifier: oeglin_farewell_it_hurts.md
 textauthor: Erhard Oeglin
 language: [early_new_high_german]
 period: [16th_century]
 textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/oeglin_farewell_it_hurts_0.jpg
-thumb: /assets/img/text/oeglin_farewell_it_hurts_0-thumb.jpg
+image: /assets/img/text/oeglin_farewell_it_hurts.jpg
+thumb: /assets/img/text/oeglin_farewell_it_hurts-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.22r [Public Domain]
 fulltext: |
-  Ade mit layd
-Farewell! It hurts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- = transcription
- = translation
-
-
-
-
-
+  Ade mit layd Farewell! It hurts                              = transcription  = translation     
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>
