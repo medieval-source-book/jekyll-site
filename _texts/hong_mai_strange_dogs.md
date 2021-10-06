@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Strange Dogs | 犬異'
+title: |
+  Strange Dogs | 犬異
+engtitle: |
+  Strange Dogs
+origtitle: |
+  犬異
 breadcrumb: true
 permalink: "text/hong_mai_strange_dogs"
 redirect_from: /text/strange-dogs
@@ -13,7 +18,8 @@ textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_strange_dogs.jpg
 thumb: /assets/img/text/hong_mai_strange_dogs-thumb.jpg
-imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
+imagesource: |
+  Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |
   犬異
 Strange Dogs

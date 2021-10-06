@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Concerning Precious Topaz | De topasio pretioso'
+title: |
+  Concerning Precious Topaz | De topasio pretioso
+engtitle: |
+  Concerning Precious Topaz
+origtitle: |
+  De topasio pretioso
 breadcrumb: true
 permalink: "text/creature_dialogue_precious_topaz"
 redirect_from: /text/concerning-precious-topaz
@@ -13,7 +18,8 @@ textcollection: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_precious_topaz.jpeg
 thumb: /assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg
-imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.31r [Public Domain]"
+imagesource: |
+  Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.31r [Public Domain]
 fulltext: |
   De topasio pretioso, dial. 16.
 Concerning Precious Topaz, the sixteenth dialogue

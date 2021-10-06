@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Qingping Music”—“I could not make him stay” | 清平樂 · 留人不住'
+title: |
+  To the tune “Qingping Music”—“I could not make him stay” | 清平樂 · 留人不住
+engtitle: |
+  To the tune “Qingping Music”—“I could not make him stay”
+origtitle: |
+  清平樂 · 留人不住
 breadcrumb: true
 permalink: "text/yan_jidao_I_could_not"
 redirect_from: /text/tune-%E2%80%9Cqingping-music%E2%80%9D%E2%80%94%E2%80%9Ci-could-not-make-him-stay%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_I_could_not.jpg
 thumb: /assets/img/text/yan_jidao_I_could_not-thumb.jpg
-imagesource: "“Detail from 宋人江帆山市卷 (boat)”, Anonymous, National Palace Museum, Accession Number: K2A001004N000000000PAB [Public Domain]"
+imagesource: |
+  “Detail from 宋人江帆山市卷 (boat)”, Anonymous, National Palace Museum, Accession Number: K2A001004N000000000PAB [Public Domain]
 fulltext: |
   清平樂
 To the tune “Qingping Music”

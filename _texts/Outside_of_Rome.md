@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Outside of Rome, crossing Marino" | "Partiendo de Roma, passando Marino"'
+title: |
+  "Outside of Rome, crossing Marino" | "Partiendo de Roma, passando Marino"
+engtitle: |
+  "Outside of Rome, crossing Marino"
+origtitle: |
+  "Partiendo de Roma, passando Marino"
 breadcrumb: true
 permalink: "text/Outside_of_Rome"
 redirect_from: /text/outside-rome-crossing-marino
@@ -13,7 +18,8 @@ textcollection: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Outside_of_Rome.jpg
 thumb: /assets/img/text/Outside_of_Rome-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]
 fulltext: |
   
 

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Immortal by the River”—Returning at Night to Linggao | 臨江仙 · 夜歸臨皋'
+title: |
+  To the tune “Immortal by the River”—Returning at Night to Linggao | 臨江仙 · 夜歸臨皋
+engtitle: |
+  To the tune “Immortal by the River”—Returning at Night to Linggao
+origtitle: |
+  臨江仙 · 夜歸臨皋
 breadcrumb: true
 permalink: "text/su_shi_returning_night_linggao"
 redirect_from: /text/tune-%E2%80%9Cimmortal-river%E2%80%9D%E2%80%94returning-night-linggao
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_returning_night_linggao.jpg
 thumb: /assets/img/text/su_shi_returning_night_linggao-thumb.jpg
-imagesource: "“Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟, National Palace Museum, Accession Number: K2A001412N000000000PAE [Public Domain]"
+imagesource: |
+  “Detail from 宋李公麟畫歸去來辭卷 (boat)”, 李公麟, National Palace Museum, Accession Number: K2A001412N000000000PAE [Public Domain]
 fulltext: |
   臨江仙
 To the tune “Immortal by the River”

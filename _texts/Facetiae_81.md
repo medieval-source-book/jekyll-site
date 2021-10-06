@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 81: The debate between a Florentine and a Venetian | Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum'
+title: |
+  Joke 81: The debate between a Florentine and a Venetian | Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum
+engtitle: |
+  Joke 81: The debate between a Florentine and a Venetian
+origtitle: |
+  Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum
 breadcrumb: true
 permalink: "text/Facetiae_81"
 redirect_from: /text/joke-81-debate-between-florentine-and-venetian
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_81.jpg
 thumb: /assets/img/text/Facetiae_81-thumb.jpg
-imagesource: "Venice, from Hartmann Schedel's Nuremberg Chronicle [Public Domain]"
+imagesource: |
+  Venice, from Hartmann Schedel's Nuremberg Chronicle [Public Domain]
 fulltext: |
   Facetia LXXXI
 Joke 81

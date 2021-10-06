@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune "As If in a Dream"—"I often recall the sunset by Xiting" | 如夢令 · 常記溪亭日暮'
+title: |
+  To the tune "As If in a Dream"—"I often recall the sunset by Xiting" | 如夢令 · 常記溪亭日暮
+engtitle: |
+  To the tune "As If in a Dream"—"I often recall the sunset by Xiting"
+origtitle: |
+  如夢令 · 常記溪亭日暮
 breadcrumb: true
 permalink: "text/li_qingzhao_often_call"
 redirect_from: /text/tune-if-dream%E2%80%94i-often-recall-sunset-xiting
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_often_call.png
 thumb: /assets/img/text/li_qingzhao_often_call-thumb.png
-imagesource: "Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAF [Public Domain]"
+imagesource: |
+  Detail from 宋徽宗池塘秋晚圖(Flying Bird) 卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAF [Public Domain]
 fulltext: |
   
 

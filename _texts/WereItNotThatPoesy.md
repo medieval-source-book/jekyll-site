@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '“Were it not that poesy tarnished scholars” | ولو لا الشعر بالعلماء يزري'
+title: |
+  “Were it not that poesy tarnished scholars” | ولو لا الشعر بالعلماء يزري
+engtitle: |
+  “Were it not that poesy tarnished scholars”
+origtitle: |
+  ولو لا الشعر بالعلماء يزري
 breadcrumb: true
 permalink: "text/WereItNotThatPoesy"
 redirect_from: /text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/WereItNotThatPoesy.jpg
 thumb: /assets/img/text/WereItNotThatPoesy-thumb.jpg
-imagesource: "Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]"
+imagesource: |
+  Coin of al-Muhallab ibn Abi Sufra. Zibayrid governor, circa AH 75-79 / AD 694-698, Classical Numismatic Group, Inc. [CC BY-SA]
 fulltext: |
   
 

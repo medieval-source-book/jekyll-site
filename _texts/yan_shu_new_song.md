@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine" | 浣溪沙 · 一曲新詞酒一杯'
+title: |
+  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine" | 浣溪沙 · 一曲新詞酒一杯
+engtitle: |
+  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine"
+origtitle: |
+  浣溪沙 · 一曲新詞酒一杯
 breadcrumb: true
 permalink: "text/yan_shu_new_song"
 redirect_from: /text/tune-sands-washing-stream%E2%80%94-single-new-song-single-cup-wine
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_new_song.jpg
 thumb: /assets/img/text/yan_shu_new_song-thumb.jpg
-imagesource: "Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]"
+imagesource: |
+  Detail from 宋趙伯駒秋山無盡圖(Courtyard)卷, 趙伯駒, National Palace Museum, Accession Number: K2A001434N000000000PAB [Public Domain]
 fulltext: |
   浣溪沙
 To the tune “Sands of the Washing Stream”

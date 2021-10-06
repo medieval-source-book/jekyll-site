@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Memorial of our father Ignatios, Patriarch of Constantinople | μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως'
+title: |
+  Memorial of our father Ignatios, Patriarch of Constantinople | μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
+engtitle: |
+  Memorial of our father Ignatios, Patriarch of Constantinople
+origtitle: |
+  μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
 breadcrumb: true
 permalink: "text/Ignatios"
 redirect_from: /text/memorial-our-father-ignatios-patriarch-constantinople
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Ignatios.jpg
 thumb: /assets/img/text/Ignatios-thumb.jpg
-imagesource: "Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]"
+imagesource: |
+  Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]
 fulltext: |
   τῆ αὐτῆ ἡμέρα μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως·
 On the same day, the memorial of our father Ignatios, patriarch of Constantinople.The manuscript lists consecutively all saints commemorated on the same day. Ignatios’ feast day is October 23.

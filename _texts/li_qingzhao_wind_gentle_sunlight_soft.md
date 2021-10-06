@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft" | 菩薩蠻 · 風柔日薄春猶早'
+title: |
+  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft" | 菩薩蠻 · 風柔日薄春猶早
+engtitle: |
+  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft"
+origtitle: |
+  菩薩蠻 · 風柔日薄春猶早
 breadcrumb: true
 permalink: "text/li_qingzhao_wind_gentle_sunlight_soft"
 redirect_from: /text/tune-%E2%80%9Cbodhisattva-barbarian%E2%80%9D%E2%80%94-wind-gentle-sunlight-soft
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_wind_gentle_sunlight_soft.png
 thumb: /assets/img/text/li_qingzhao_wind_gentle_sunlight_soft-thumb.png
-imagesource: "Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathering) 卷, 馬和之, 趙構, National Palalce Museum, Accession Number: K2A001100N000000000PBB [Public Domain]"
+imagesource: |
+  Detail from 宋高宗書女孝經馬和之補圖上卷(Women Gathering) 卷, 馬和之, 趙構, National Palalce Museum, Accession Number: K2A001100N000000000PBB [Public Domain]
 fulltext: |
   菩薩蠻
 To the tune “Bodhisattva Barbarian”

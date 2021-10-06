@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'From the 1st Book of Love. Poem 979. | 戀歌一、９７９'
+title: |
+  From the 1st Book of Love. Poem 979. | 戀歌一、９７９
+engtitle: |
+  From the 1st Book of Love. Poem 979.
+origtitle: |
+  戀歌一、９７９
 breadcrumb: true
 permalink: "text/Poem_979"
 redirect_from: /text/1st-book-love-poem-979
@@ -13,7 +18,8 @@ textcollection: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Poem_979.jpg
 thumb: /assets/img/text/Poem_979-thumb.jpg
-imagesource: "Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]"
+imagesource: |
+  Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]
 fulltext: |
   
 

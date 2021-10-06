@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Can you make out twilight's ruins?" | هل عرفت الغداة من أطلال'
+title: |
+  "Can you make out twilight's ruins?" | هل عرفت الغداة من أطلال
+engtitle: |
+  "Can you make out twilight's ruins?"
+origtitle: |
+  هل عرفت الغداة من أطلال
 breadcrumb: true
 permalink: "text/Twilight%E2%80%99s_ruins"
 redirect_from: /text/can-you-make-out-twilights-ruins
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Twilight%E2%80%99s_ruins.jpg
 thumb: /assets/img/text/Twilight%E2%80%99s_ruins-thumb.jpg
-imagesource: "Detail from Compendium of Military Arts (Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiyya) by al-Aqsara'i. Dublin, Chester Beatty Library, CBL Ar 5655"
+imagesource: |
+  Detail from Compendium of Military Arts (Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiyya) by al-Aqsara'i. Dublin, Chester Beatty Library, CBL Ar 5655
 fulltext: |
   
 

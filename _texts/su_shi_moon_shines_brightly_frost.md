@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Always Encountering Joy”—“The moon shines so brightly” | 永遇樂 · 明月如霜'
+title: |
+  To the tune “Always Encountering Joy”—“The moon shines so brightly” | 永遇樂 · 明月如霜
+engtitle: |
+  To the tune “Always Encountering Joy”—“The moon shines so brightly”
+origtitle: |
+  永遇樂 · 明月如霜
 breadcrumb: true
 permalink: "text/su_shi_moon_shines_brightly_frost"
 redirect_from: /text/tune-%E2%80%9Calways-encountering-joy%E2%80%9D%E2%80%94%E2%80%9C-moon-shines-so-brightly%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_moon_shines_brightly_frost.jpg
 thumb: /assets/img/text/su_shi_moon_shines_brightly_frost-thumb.jpg
-imagesource: "“Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, National Palace Museum, Accession Number: K2A000998N000000000PAE [Public Domain]"
+imagesource: |
+  “Detail from 宋范安仁魚藻圖卷 (fish)”, 范安仁, National Palace Museum, Accession Number: K2A000998N000000000PAE [Public Domain]
 fulltext: |
   永遇樂
 To the tune “Always Encountering Joy”

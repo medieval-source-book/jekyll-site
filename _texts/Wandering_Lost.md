@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Wandering lost, it was already night" | "Andando perdido, de noche ya era"'
+title: |
+  "Wandering lost, it was already night" | "Andando perdido, de noche ya era"
+engtitle: |
+  "Wandering lost, it was already night"
+origtitle: |
+  "Andando perdido, de noche ya era"
 breadcrumb: true
 permalink: "text/Wandering_Lost"
 redirect_from: /text/wandering-lost-it-was-already-night
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Wandering_Lost.jpg
 thumb: /assets/img/text/Wandering_Lost-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Public domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.138r [Public domain]
 fulltext: |
   
 

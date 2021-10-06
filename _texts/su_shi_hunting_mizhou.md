@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “River Town”—Hunting in Mizhou | 江城子 · 密州出獵'
+title: |
+  To the tune “River Town”—Hunting in Mizhou | 江城子 · 密州出獵
+engtitle: |
+  To the tune “River Town”—Hunting in Mizhou
+origtitle: |
+  江城子 · 密州出獵
 breadcrumb: true
 permalink: "text/su_shi_hunting_mizhou"
 redirect_from: /text/tune-%E2%80%9Criver-town%E2%80%9D%E2%80%94hunting-mizhou
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_hunting_mizhou.jpg
 thumb: /assets/img/text/su_shi_hunting_mizhou-thumb.jpg
-imagesource: "“Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, National Palace Museum, Accession Number: K2A001006N000000000PAB [Public Domain]"
+imagesource: |
+  “Detail from 宋人卞莊子刺虎圖卷 (tiger)”, Anonymous, National Palace Museum, Accession Number: K2A001006N000000000PAB [Public Domain]
 fulltext: |
   江城子
 To the tune “River Town”

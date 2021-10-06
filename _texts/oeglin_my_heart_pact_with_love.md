@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"My heart has made a pact with love" | "Mein hertz hat sich mit lieb verpflicht"'
+title: |
+  "My heart has made a pact with love" | "Mein hertz hat sich mit lieb verpflicht"
+engtitle: |
+  "My heart has made a pact with love"
+origtitle: |
+  "Mein hertz hat sich mit lieb verpflicht"
 breadcrumb: true
 permalink: "text/oeglin_my_heart_pact_with_love"
 redirect_from: /text/my-heart-has-made-pact-love
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_my_heart_pact_with_love.jpg
 thumb: /assets/img/text/oeglin_my_heart_pact_with_love-thumb.jpg
-imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24r [Public Domain]"
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.24r [Public Domain]
 fulltext: |
   Mein hertz hat sich mit lieb verpflicht
 My heart has made a pact with love

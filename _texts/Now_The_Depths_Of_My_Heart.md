@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Now the depths of my heart" | "Yetz schaydens wee ist worden kund"'
+title: |
+  "Now the depths of my heart" | "Yetz schaydens wee ist worden kund"
+engtitle: |
+  "Now the depths of my heart"
+origtitle: |
+  "Yetz schaydens wee ist worden kund"
 breadcrumb: true
 permalink: "text/Now_The_Depths_Of_My_Heart"
 redirect_from: /text/now-depths-my-heart
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Now_The_Depths_Of_My_Heart.jpg
 thumb: /assets/img/text/Now_The_Depths_Of_My_Heart-thumb.jpg
-imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.28v [Public Domain]"
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.28v [Public Domain]
 fulltext: |
   
 

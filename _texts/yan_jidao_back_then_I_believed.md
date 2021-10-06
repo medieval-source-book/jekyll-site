@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless” | 玉樓春 · 當年信道情無價'
+title: |
+  To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless” | 玉樓春 · 當年信道情無價
+engtitle: |
+  To the tune “Jade Tower in Spring”—“Back then, I believed that love was priceless”
+origtitle: |
+  玉樓春 · 當年信道情無價
 breadcrumb: true
 permalink: "text/yan_jidao_back_then_I_believed"
 redirect_from: /text/tune-%E2%80%9Cjade-tower-spring%E2%80%9D%E2%80%94%E2%80%9Cback-then-i-believed-love-was-priceless%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_back_then_I_believed.jpg
 thumb: /assets/img/text/yan_jidao_back_then_I_believed-thumb.jpg
-imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAC [Public Domain]"
+imagesource: |
+  “Detail from 宋錢選蘭亭觀鵝圖卷 (pavilion)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAC [Public Domain]
 fulltext: |
   玉樓春
 To the tune “Jade Tower in Spring”

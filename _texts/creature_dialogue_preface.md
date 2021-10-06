@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Moral Dialogue of Creatures [Preface] | Dyalogus creaturarum moralizatus [Præfatio]'
+title: |
+  The Moral Dialogue of Creatures [Preface] | Dyalogus creaturarum moralizatus [Præfatio]
+engtitle: |
+  The Moral Dialogue of Creatures [Preface]
+origtitle: |
+  Dyalogus creaturarum moralizatus [Præfatio]
 breadcrumb: true
 permalink: "text/creature_dialogue_preface"
 redirect_from: /text/moral-dialogue-creatures-preface
@@ -13,7 +18,8 @@ textcollection: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_preface.jpeg
 thumb: /assets/img/text/creature_dialogue_preface-thumb.jpeg
-imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.1r [Public Domain]"
+imagesource: |
+  Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.1r [Public Domain]
 fulltext: |
   Præfatio in librum, qui dicitur dyalogus creaturarum moralizatus
 The preface to the book, The Moral Dialogue of Creatures

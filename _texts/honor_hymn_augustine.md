@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'In Honor of St. Augustine | Hymnus in honorem Sancti Augustini'
+title: |
+  In Honor of St. Augustine | Hymnus in honorem Sancti Augustini
+engtitle: |
+  In Honor of St. Augustine
+origtitle: |
+  Hymnus in honorem Sancti Augustini
 breadcrumb: true
 permalink: "text/honor_hymn_augustine"
 redirect_from: /text/honor-st-augustine
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/honor_hymn_augustine.png
 thumb: /assets/img/text/honor_hymn_augustine-thumb.png
-imagesource: "Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]"
+imagesource: |
+  Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]
 fulltext: |
   
 

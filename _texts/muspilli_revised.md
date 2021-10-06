@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Muspilli | Muspilli'
+title: |
+  Muspilli | Muspilli
+engtitle: |
+  Muspilli
+origtitle: |
+  Muspilli
 breadcrumb: true
 permalink: "text/muspilli_revised"
 redirect_from: /text/muspilli
@@ -13,7 +18,8 @@ textcollection: [hymns-and-histories]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/muspilli_revised.png
 thumb: /assets/img/text/muspilli_revised-thumb.png
-imagesource: "Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r [Public Domain]"
+imagesource: |
+  Detail from Munich, Bayerische Staatbibliothek, Clm 14098, f.120r [Public Domain]
 fulltext: |
   Muspilli
 Muspilli

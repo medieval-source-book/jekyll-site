@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Concerning Life and Death | De vita et morte'
+title: |
+  Concerning Life and Death | De vita et morte
+engtitle: |
+  Concerning Life and Death
+origtitle: |
+  De vita et morte
 breadcrumb: true
 permalink: "text/creature_dialogue_life_death"
 redirect_from: /text/concerning-life-and-death
@@ -13,7 +18,8 @@ textcollection: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_life_death.jpg
 thumb: /assets/img/text/creature_dialogue_life_death-thumb.jpg
-imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.100r [Public Domain]"
+imagesource: |
+  Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.100r [Public Domain]
 fulltext: |
   De vita et morte, dial. 122.
 Concerning Life and Death, the hundred and twenty-second dialogue

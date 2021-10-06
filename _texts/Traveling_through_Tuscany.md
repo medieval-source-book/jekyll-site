@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Traveling through Tuscany" | "Passando por la Toscana"'
+title: |
+  "Traveling through Tuscany" | "Passando por la Toscana"
+engtitle: |
+  "Traveling through Tuscany"
+origtitle: |
+  "Passando por la Toscana"
 breadcrumb: true
 permalink: "text/Traveling_through_Tuscany"
 redirect_from: /text/traveling-through-tuscany
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Traveling_through_Tuscany.jpg
 thumb: /assets/img/text/Traveling_through_Tuscany-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]
 fulltext: |
   
 

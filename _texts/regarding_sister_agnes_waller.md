@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Regarding Sister Agnes Waller of Blessed Memory | Item de sorore sancte memorie Agnete, Wallaria cognomento'
+title: |
+  Regarding Sister Agnes Waller of Blessed Memory | Item de sorore sancte memorie Agnete, Wallaria cognomento
+engtitle: |
+  Regarding Sister Agnes Waller of Blessed Memory
+origtitle: |
+  Item de sorore sancte memorie Agnete, Wallaria cognomento
 breadcrumb: true
 permalink: "text/regarding_sister_agnes_waller"
 redirect_from: /text/regarding-sister-agnes-waller-blessed-memory
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/regarding_sister_agnes_waller.jpg
 thumb: /assets/img/text/regarding_sister_agnes_waller-thumb.jpg
-imagesource: "Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61r (CC BY-NC 3.0)"
+imagesource: |
+  Detail from BVMM Colmar, Bibliothèque municipale, 0926 (508) f.61r (CC BY-NC 3.0)
 fulltext: |
   Item de sorore sancte memorie Agnete, Wallaria cognomento
 Regarding Sister Agnes Waller  of Blessed Memory

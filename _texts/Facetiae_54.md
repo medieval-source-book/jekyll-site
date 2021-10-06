@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit'
+title: |
+  Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow | Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
+engtitle: |
+  Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow
+origtitle: |
+  Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
 breadcrumb: true
 permalink: "text/Facetiae_54"
 redirect_from: /text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_54.png
 thumb: /assets/img/text/Facetiae_54-thumb.png
-imagesource: "Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]"
+imagesource: |
+  Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]
 fulltext: |
   Facetia LIV
 Joke 54

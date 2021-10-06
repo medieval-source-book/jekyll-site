@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “The Moon Over the West River”—“The moon shines on the wild fields” | 西江月 · 照野瀰瀰淺浪'
+title: |
+  To the tune “The Moon Over the West River”—“The moon shines on the wild fields” | 西江月 · 照野瀰瀰淺浪
+engtitle: |
+  To the tune “The Moon Over the West River”—“The moon shines on the wild fields”
+origtitle: |
+  西江月 · 照野瀰瀰淺浪
 breadcrumb: true
 permalink: "text/su_shi_moon_shines_wild_fields"
 redirect_from: /text/tune-%E2%80%9C-moon-over-west-river%E2%80%9D%E2%80%94%E2%80%9C-moon-shines-wild-fields%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_moon_shines_wild_fields.jpg
 thumb: /assets/img/text/su_shi_moon_shines_wild_fields-thumb.jpg
-imagesource: "“Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAP [Public Domain]"
+imagesource: |
+  “Detail from 宋夏珪溪山清遠卷 (stream)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAP [Public Domain]
 fulltext: |
   西江月
 To the tune "The Moon Over the West River"

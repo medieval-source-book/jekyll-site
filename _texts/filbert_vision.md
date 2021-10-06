@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Filbert's Vision | La visión de Filiberto'
+title: |
+  Filbert's Vision | La visión de Filiberto
+engtitle: |
+  Filbert's Vision
+origtitle: |
+  La visión de Filiberto
 breadcrumb: true
 permalink: "text/filbert_vision"
 redirect_from: /text/filberts-vision
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/filbert_vision.png
 thumb: /assets/img/text/filbert_vision-thumb.png
-imagesource: "Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.bne.es/viewer.vm?id=0000051820]"
+imagesource: |
+  Biblioteca Nacional de España MS Vitr. 6/1, f.3r [http://bdh-rd.bne.es/viewer.vm?id=0000051820]
 fulltext: |
   La visión de Filiberto
 Filbert's Vision

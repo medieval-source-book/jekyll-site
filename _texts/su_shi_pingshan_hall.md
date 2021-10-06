@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “The Moon Over the West River”—Pingshan Hall | 西江月 · 平山堂'
+title: |
+  To the tune “The Moon Over the West River”—Pingshan Hall | 西江月 · 平山堂
+engtitle: |
+  To the tune “The Moon Over the West River”—Pingshan Hall
+origtitle: |
+  西江月 · 平山堂
 breadcrumb: true
 permalink: "text/su_shi_pingshan_hall"
 redirect_from: /text/tune-%E2%80%9C-moon-over-west-river%E2%80%9D%E2%80%94pingshan-hall
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_pingshan_hall.jpg
 thumb: /assets/img/text/su_shi_pingshan_hall-thumb.jpg
-imagesource: "“Detail from 宋人拜月圖軸 (house)”, Anonymous, National Palace Museum, Accession Number: K2A000186N000000000PAA [Public Domain]"
+imagesource: |
+  “Detail from 宋人拜月圖軸 (house)”, Anonymous, National Palace Museum, Accession Number: K2A000186N000000000PAA [Public Domain]
 fulltext: |
   西江月
 To the tune “The Moon Over the West River”This song was written in 1079 when the speaker passed by the city of Yangzhou.

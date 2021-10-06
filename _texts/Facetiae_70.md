@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit'
+title: |
+  Joke 70: The greedy man who tasted urine | Facetia LXX: De Avaro Qui Urinam Degustavit
+engtitle: |
+  Joke 70: The greedy man who tasted urine
+origtitle: |
+  Facetia LXX: De Avaro Qui Urinam Degustavit
 breadcrumb: true
 permalink: "text/Facetiae_70"
 redirect_from: /text/joke-70-greedy-man-who-tasted-urine
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_70.jpg
 thumb: /assets/img/text/Facetiae_70-thumb.jpg
-imagesource: "A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]"
+imagesource: |
+  A physician examining urine, London, British Library Harley 3140 f. 32v [Public Domain]
 fulltext: |
   Facetia LXX
 Joke 70

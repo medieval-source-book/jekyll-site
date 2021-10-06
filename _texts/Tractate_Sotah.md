@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Rabbinic Rites of the Suspected Adulteress (Babylonian Talmud, Tractate Sotah, 7a-8b) | תלמוד בבלי מסכת סוטה דף ז ע׳׳א–דף ח ע׳׳ב'
+title: |
+  Rabbinic Rites of the Suspected Adulteress (Babylonian Talmud, Tractate Sotah, 7a-8b) | תלמוד בבלי מסכת סוטה דף ז ע׳׳א–דף ח ע׳׳ב
+engtitle: |
+  Rabbinic Rites of the Suspected Adulteress (Babylonian Talmud, Tractate Sotah, 7a-8b)
+origtitle: |
+  תלמוד בבלי מסכת סוטה דף ז ע׳׳א–דף ח ע׳׳ב
 breadcrumb: true
 permalink: "text/Tractate_Sotah"
 redirect_from: /text/rabbinic-rites-suspected-adulteress-babylonian-talmud-tractate-sotah-7a-8b
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Tractate_Sotah.jpeg
 thumb: /assets/img/text/Tractate_Sotah-thumb.jpeg
-imagesource: ""Plechtigungen van het yver-water [Rites of the Bitter Water]," Matthijs Pool (Amsterdam, 1686-1727), Engraving, Rijksmuseum, Gift of J.A. Saurel, The Hague, 1916. [Public Domain]"
+imagesource: |
+  "Plechtigungen van het yver-water [Rites of the Bitter Water]," Matthijs Pool (Amsterdam, 1686-1727), Engraving, Rijksmuseum, Gift of J.A. Saurel, The Hague, 1916. [Public Domain]
 fulltext: |
   
 

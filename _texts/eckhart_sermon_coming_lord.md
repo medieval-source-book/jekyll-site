@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Sermon on the Coming of the Lord | sermo de adventu domini'
+title: |
+  Sermon on the Coming of the Lord | sermo de adventu domini
+engtitle: |
+  Sermon on the Coming of the Lord
+origtitle: |
+  sermo de adventu domini
 breadcrumb: true
 permalink: "text/eckhart_sermon_coming_lord"
 redirect_from: /text/sermon-coming-lord
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/eckhart_sermon_coming_lord.png
 thumb: /assets/img/text/eckhart_sermon_coming_lord-thumb.png
-imagesource: "British Library MS Additional 18856 f. 3 [Public Domain]"
+imagesource: |
+  British Library MS Additional 18856 f. 3 [Public Domain]
 fulltext: |
                           Item sermo de adventu domini
                         Next: sermon on the coming of the Lord

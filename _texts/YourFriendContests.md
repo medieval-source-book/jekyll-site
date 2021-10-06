@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Your friend contests whomever you contest" | "صديقك من يعادي من تعادي"'
+title: |
+  "Your friend contests whomever you contest" | "صديقك من يعادي من تعادي"
+engtitle: |
+  "Your friend contests whomever you contest"
+origtitle: |
+  "صديقك من يعادي من تعادي"
 breadcrumb: true
 permalink: "text/YourFriendContests"
 redirect_from: /text/your-friend-contests-whomever-you-contest
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/YourFriendContests.png
 thumb: /assets/img/text/YourFriendContests-thumb.png
-imagesource: "Page from a manuscript on horsemanship, Hegira 9th century / AD 15th century, Paper with watercolour painting and writing in black and red ink. Museum of Islamic Art, Cairo [Image in Public Domain]"
+imagesource: |
+  Page from a manuscript on horsemanship, Hegira 9th century / AD 15th century, Paper with watercolour painting and writing in black and red ink. Museum of Islamic Art, Cairo [Image in Public Domain]
 fulltext: |
   
 

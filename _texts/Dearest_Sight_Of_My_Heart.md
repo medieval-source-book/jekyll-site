@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Dearest sight of my heart" | "Hertz liebstes pyld"'
+title: |
+  "Dearest sight of my heart" | "Hertz liebstes pyld"
+engtitle: |
+  "Dearest sight of my heart"
+origtitle: |
+  "Hertz liebstes pyld"
 breadcrumb: true
 permalink: "text/Dearest_Sight_Of_My_Heart"
 redirect_from: /text/dearest-sight-my-heart
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Dearest_Sight_Of_My_Heart.jpg
 thumb: /assets/img/text/Dearest_Sight_Of_My_Heart-thumb.jpg
-imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]"
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]
 fulltext: |
   
 

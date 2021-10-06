@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Grace, honor and praise are her domain" | "Zucht er und lob ir wonet bey"'
+title: |
+  "Grace, honor and praise are her domain" | "Zucht er und lob ir wonet bey"
+engtitle: |
+  "Grace, honor and praise are her domain"
+origtitle: |
+  "Zucht er und lob ir wonet bey"
 breadcrumb: true
 permalink: "text/Grace_Honor_and_Praise"
 redirect_from: /text/grace-honor-and-praise-are-her-domain
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Grace_Honor_and_Praise.jpg
 thumb: /assets/img/text/Grace_Honor_and_Praise-thumb.jpg
-imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42v [Public Domain]"
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42v [Public Domain]
 fulltext: |
   
 

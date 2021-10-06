@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Song IV "Go quickly, little letter" | Carmen IV "Cartula, perge cito"'
+title: |
+  Song IV "Go quickly, little letter" | Carmen IV "Cartula, perge cito"
+engtitle: |
+  Song IV "Go quickly, little letter"
+origtitle: |
+  Carmen IV "Cartula, perge cito"
 breadcrumb: true
 permalink: "text/Alcuin_CarmenIV"
 redirect_from: /text/song-iv-go-quickly-little-letter
@@ -13,7 +18,8 @@ textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Alcuin_CarmenIV.jpg
 thumb: /assets/img/text/Alcuin_CarmenIV-thumb.jpg
-imagesource: "Paris BNF MS Latin 528 f.140v [Public Domain]"
+imagesource: |
+  Paris BNF MS Latin 528 f.140v [Public Domain]
 fulltext: |
   
 

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋'
+title: |
+  To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered” | 一剪梅 · 紅藕香殘玉簟秋
+engtitle: |
+  To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered”
+origtitle: |
+  一剪梅 · 紅藕香殘玉簟秋
 breadcrumb: true
 permalink: "text/li_qingzhao_red_lotus"
 redirect_from: /text/tune-%E2%80%9C-single-cutting-plum-blossom%E2%80%9D%E2%80%94%E2%80%9C-red-lotus-fragrance-still-lingered%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_red_lotus.png
 thumb: /assets/img/text/li_qingzhao_red_lotus-thumb.png
-imagesource: "Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAD [Public Domain]"
+imagesource: |
+  Detail from 宋徽宗池塘秋晚圖 (Lotus)卷, 赵佶, National Palace Museum, Accession Number: K2A000986N000000000PAD [Public Domain]
 fulltext: |
   
 

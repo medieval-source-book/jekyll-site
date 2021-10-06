@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Immortal by the River”—"Beyond the willows there is light thunder" | 臨江仙 · 柳外輕雷池上雨'
+title: |
+  To the tune “Immortal by the River”—"Beyond the willows there is light thunder" | 臨江仙 · 柳外輕雷池上雨
+engtitle: |
+  To the tune “Immortal by the River”—"Beyond the willows there is light thunder"
+origtitle: |
+  臨江仙 · 柳外輕雷池上雨
 breadcrumb: true
 permalink: "text/ouyang_xiu_beyond_willows"
 redirect_from: /text/tune-%E2%80%9Cimmortal-river%E2%80%9D%E2%80%94beyond-willows-there-light-thunder
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_beyond_willows.jpg
 thumb: /assets/img/text/ouyang_xiu_beyond_willows-thumb.jpg
-imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
+imagesource: |
+  Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]
 fulltext: |
    臨江仙
  To the tune “Immortal by The River”

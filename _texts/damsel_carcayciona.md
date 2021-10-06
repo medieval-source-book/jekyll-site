@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Legend of the Damsel Carcayçiona | ءَالْرَاكُنْتَمِيانْتُ دَا لَذُنْزَالّ كركيسينُ'
+title: |
+  The Legend of the Damsel Carcayçiona | ءَالْرَاكُنْتَمِيانْتُ دَا لَذُنْزَالّ كركيسينُ
+engtitle: |
+  The Legend of the Damsel Carcayçiona
+origtitle: |
+  ءَالْرَاكُنْتَمِيانْتُ دَا لَذُنْزَالّ كركيسينُ
 breadcrumb: true
 permalink: "text/damsel_carcayciona"
 redirect_from: /text/legend-damsel-carcay%C3%A7iona
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality, prayer-spirituality-life-after-death
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/damsel_carcayciona.jpg
 thumb: /assets/img/text/damsel_carcayciona-thumb.jpg
-imagesource: "Consejo Superior de Investigaciones Científicas, MS Junta 57, f.1v [Public Domain]"
+imagesource: |
+  Consejo Superior de Investigaciones Científicas, MS Junta 57, f.1v [Public Domain]
 fulltext: |
   
 

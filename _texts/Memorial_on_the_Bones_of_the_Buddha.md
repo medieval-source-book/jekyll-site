@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Memorial on the Bones of the Buddha | 論佛骨表'
+title: |
+  Memorial on the Bones of the Buddha | 論佛骨表
+engtitle: |
+  Memorial on the Bones of the Buddha
+origtitle: |
+  論佛骨表
 breadcrumb: true
 permalink: "text/Memorial_on_the_Bones_of_the_Buddha"
 redirect_from: /text/memorial-bones-buddha
@@ -13,7 +18,8 @@ textcollection: [cross-cultural-encounters]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Memorial_on_the_Bones_of_the_Buddha.jpg
 thumb: /assets/img/text/Memorial_on_the_Bones_of_the_Buddha-thumb.jpg
-imagesource: "Buddha, Probably Amitabha (Amituofo), Early 7th C., T'ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]"
+imagesource: |
+  Buddha, Probably Amitabha (Amituofo), Early 7th C., T'ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]
 fulltext: |
   
 

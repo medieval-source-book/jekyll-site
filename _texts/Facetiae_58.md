@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 58: A witty reply from the same poet | Facetia LVIII: Eiusdem poete faceta responsio'
+title: |
+  Joke 58: A witty reply from the same poet | Facetia LVIII: Eiusdem poete faceta responsio
+engtitle: |
+  Joke 58: A witty reply from the same poet
+origtitle: |
+  Facetia LVIII: Eiusdem poete faceta responsio
 breadcrumb: true
 permalink: "text/Facetiae_58"
 redirect_from: /text/joke-58-witty-reply-same-poet
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_58.jpg
 thumb: /assets/img/text/Facetiae_58-thumb.jpg
-imagesource: "Andrea del Castagno, Dante from the Cycle of Famous Men and Women, Galleria degli Uffizi, Florence [Image in Public Domain]"
+imagesource: |
+  Andrea del Castagno, Dante from the Cycle of Famous Men and Women, Galleria degli Uffizi, Florence [Image in Public Domain]
 fulltext: |
   Facetia LVIII
 Joke 58

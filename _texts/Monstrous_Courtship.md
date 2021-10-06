@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'A Monstrous Courtship | قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر'
+title: |
+  A Monstrous Courtship | قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
+engtitle: |
+  A Monstrous Courtship
+origtitle: |
+  قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
 breadcrumb: true
 permalink: "text/Monstrous_Courtship"
 redirect_from: /text/monstrous-courtship
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Monstrous_Courtship.jpg
 thumb: /assets/img/text/Monstrous_Courtship-thumb.jpg
-imagesource: "Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]"
+imagesource: |
+  Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]
 fulltext: |
   
 

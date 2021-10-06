@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window" | 添字醜奴兒 · 窗前誰種芭蕉樹'
+title: |
+  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window" | 添字醜奴兒 · 窗前誰種芭蕉樹
+engtitle: |
+  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window"
+origtitle: |
+  添字醜奴兒 · 窗前誰種芭蕉樹
 breadcrumb: true
 permalink: "text/li_qingzhao_who_planted_banana_trees"
 redirect_from: /text/tune-%E2%80%9Cvile-charmer-long-version%E2%80%9D%E2%80%94who-planted-banana-trees-front-window
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_who_planted_banana_trees.png
 thumb: /assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png
-imagesource: "Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵明, National Palace Museum, Accession Number: K2A001339N000000000PAA [Public Domian]"
+imagesource: |
+  Detail from 明文徵明蕉陰仕女圖(Banana Tree) 軸, 文徵明, National Palace Museum, Accession Number: K2A001339N000000000PAA [Public Domian]
 fulltext: |
   添字醜奴兒
 To the tune “Vile Charmer, Long Version”&#8212;"Who Planted"

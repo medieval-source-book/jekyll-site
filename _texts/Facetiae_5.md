@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 5: About the stupid man who thought his wife had two pussies | Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore'
+title: |
+  Joke 5: About the stupid man who thought his wife had two pussies | Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore
+engtitle: |
+  Joke 5: About the stupid man who thought his wife had two pussies
+origtitle: |
+  Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore
 breadcrumb: true
 permalink: "text/Facetiae_5"
 redirect_from: /text/joke-5-about-stupid-man-who-thought-his-wife-had-two-pussies
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_5.jpg
 thumb: /assets/img/text/Facetiae_5-thumb.jpg
-imagesource: "London, British Library Royal 15 E VI, fol. 6r. [Public Domain]"
+imagesource: |
+  London, British Library Royal 15 E VI, fol. 6r. [Public Domain]
 fulltext: |
   Facetia V
 Joke 5

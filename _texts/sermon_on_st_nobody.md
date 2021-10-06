@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Sermon on St. Nobody | Nemo [Sermon]'
+title: |
+  Sermon on St. Nobody | Nemo [Sermon]
+engtitle: |
+  Sermon on St. Nobody
+origtitle: |
+  Nemo [Sermon]
 breadcrumb: true
 permalink: "text/sermon_on_st_nobody"
 redirect_from: /text/sermon-st-nobody
@@ -13,7 +18,8 @@ textcollection: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sermon_on_st_nobody.jpg
 thumb: /assets/img/text/sermon_on_st_nobody-thumb.jpg
-imagesource: "London, British Library, Additional MS 18720, f. 217 (detail). [Public Domain]"
+imagesource: |
+  London, British Library, Additional MS 18720, f. 217 (detail). [Public Domain]
 fulltext: |
   Nemo
 Sermon on St. Nobody

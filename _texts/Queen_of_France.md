@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Queen of France | Die Königin von Frankreich'
+title: |
+  The Queen of France | Die Königin von Frankreich
+engtitle: |
+  The Queen of France
+origtitle: |
+  Die Königin von Frankreich
 breadcrumb: true
 permalink: "text/Queen_of_France"
 redirect_from: /text/queen-france
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Queen_of_France.jpg
 thumb: /assets/img/text/Queen_of_France-thumb.jpg
-imagesource: "Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]"
+imagesource: |
+  Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]
 fulltext: |
   
 

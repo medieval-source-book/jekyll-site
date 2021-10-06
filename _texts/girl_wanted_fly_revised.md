@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Girl Who Wanted to Fly | La pucele qui vouloit voler'
+title: |
+  The Girl Who Wanted to Fly | La pucele qui vouloit voler
+engtitle: |
+  The Girl Who Wanted to Fly
+origtitle: |
+  La pucele qui vouloit voler
 breadcrumb: true
 permalink: "text/girl_wanted_fly_revised"
 redirect_from: /text/girl-who-wanted-fly
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/girl_wanted_fly_revised.jpeg
 thumb: /assets/img/text/girl_wanted_fly_revised-thumb.jpeg
-imagesource: "Bibliothèque nationale de France, Département des manuscrits, Français 25545"
+imagesource: |
+  Bibliothèque nationale de France, Département des manuscrits, Français 25545
 fulltext: |
   La pucele qui vouloit voler
 De la damoisele qui uost voler

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '“Let the days do as they please” | دع الأيام تفعل ما تشاء'
+title: |
+  “Let the days do as they please” | دع الأيام تفعل ما تشاء
+engtitle: |
+  “Let the days do as they please”
+origtitle: |
+  دع الأيام تفعل ما تشاء
 breadcrumb: true
 permalink: "text/LetTheDaysDoAsTheyPlease"
 redirect_from: /text/%E2%80%9Clet-days-do-they-please%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/LetTheDaysDoAsTheyPlease.jpg
 thumb: /assets/img/text/LetTheDaysDoAsTheyPlease-thumb.jpg
-imagesource: "Folio from a Qur'an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]"
+imagesource: |
+  Folio from a Qur'an Manuscript, AH 531 AD 1137, Attributed to Iran or Iraq, Ink, gold, and watercolor on paper. Metropolitan Museum of Art, Purchase, Friends of Islamic Art Gifts, 1996, 1996.238.2 [Public Domain]
 fulltext: |
   
 

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Everything's destined toward demise" | "كلُّ شيء مصيره للزوال"'
+title: |
+  "Everything's destined toward demise" | "كلُّ شيء مصيره للزوال"
+engtitle: |
+  "Everything's destined toward demise"
+origtitle: |
+  "كلُّ شيء مصيره للزوال"
 breadcrumb: true
 permalink: "text/al_harith_toward_demise"
 redirect_from: /text/everythings-destined-toward-demise
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_harith_toward_demise.png
 thumb: /assets/img/text/al_harith_toward_demise-thumb.png
-imagesource: ""Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiyya (‘Compendium of Military Arts’)" in Explore Islamic Art Collections. Museum With No Frontiers, 2021."
+imagesource: |
+  "Nihayat al-Su’l wa al-Umniya fi Ta‘allum ‘Amal al-Furusiyya (‘Compendium of Military Arts’)" in Explore Islamic Art Collections. Museum With No Frontiers, 2021.
 fulltext: |
   
 

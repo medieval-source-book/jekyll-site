@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Two or three days ago" | "Depuis deux ou trois jours enca"'
+title: |
+  "Two or three days ago" | "Depuis deux ou trois jours enca"
+engtitle: |
+  "Two or three days ago"
+origtitle: |
+  "Depuis deux ou trois jours enca"
 breadcrumb: true
 permalink: "text/two_three_days_ago"
 redirect_from: /text/two-or-three-days-ago
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/two_three_days_ago.png
 thumb: /assets/img/text/two_three_days_ago-thumb.png
-imagesource: "Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v)."
+imagesource: |
+  Dijon Chansonnier (Dijon, Bibliothèque Municipale, 517), f.127v (new f.130v).
 fulltext: |
   Depuis Deux ou trois jours enca
 Two or three days ago

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Walking out of an olive grove" | "Saliendo de un oliuar"'
+title: |
+  "Walking out of an olive grove" | "Saliendo de un oliuar"
+engtitle: |
+  "Walking out of an olive grove"
+origtitle: |
+  "Saliendo de un oliuar"
 breadcrumb: true
 permalink: "text/Walking_out"
 redirect_from: /text/walking-out-olive-grove
@@ -13,7 +18,8 @@ textcollection: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Walking_out.jpg
 thumb: /assets/img/text/Walking_out-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Public domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.130v [Public domain]
 fulltext: |
   
 

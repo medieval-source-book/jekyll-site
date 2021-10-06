@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Bodhisattva Barbarians”—"Sending off Shugu at West Lake" | 菩薩蠻 · 西湖'
+title: |
+  To the tune “Bodhisattva Barbarians”—"Sending off Shugu at West Lake" | 菩薩蠻 · 西湖
+engtitle: |
+  To the tune “Bodhisattva Barbarians”—"Sending off Shugu at West Lake"
+origtitle: |
+  菩薩蠻 · 西湖
 breadcrumb: true
 permalink: "text/su_shi_sending_shugu_west_lake"
 redirect_from: /text/tune-%E2%80%9Cbodhisattva-barbarians%E2%80%9D%E2%80%94sending-shugu-west-lake
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_sending_shugu_west_lake.jpg
 thumb: /assets/img/text/su_shi_sending_shugu_west_lake-thumb.jpg
-imagesource: "“Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAB [Public Domain]"
+imagesource: |
+  “Detail from 宋錢選蘭亭觀鵝圖卷 (lake)”, 錢選, National Palace Museum, Accession Number: K2A001001N000000000PAB [Public Domain]
 fulltext: |
   菩薩蠻
 To the tune “Bodhisattva Barbarians”

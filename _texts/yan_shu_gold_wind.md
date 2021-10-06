@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Qingping Music”—"The gold wind is gentle and tender" | 清平樂 · 金風細細'
+title: |
+  To the tune “Qingping Music”—"The gold wind is gentle and tender" | 清平樂 · 金風細細
+engtitle: |
+  To the tune “Qingping Music”—"The gold wind is gentle and tender"
+origtitle: |
+  清平樂 · 金風細細
 breadcrumb: true
 permalink: "text/yan_shu_gold_wind"
 redirect_from: /text/tune-%E2%80%9Cqingping-music%E2%80%9D%E2%80%94-gold-wind-gentle-and-tender
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_gold_wind.jpg
 thumb: /assets/img/text/yan_shu_gold_wind-thumb.jpg
-imagesource: "Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, National Palace Museum, Accesion Number: K2A001791N000000000PAA [Public Domain]"
+imagesource: |
+  Detail from 宋郭忠恕山水圖(Narrow Road)軸, 郭忠恕, National Palace Museum, Accesion Number: K2A001791N000000000PAA [Public Domain]
 fulltext: |
   清平樂
 To the Tune “Qingping Music”

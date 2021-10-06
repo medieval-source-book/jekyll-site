@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'On the Origin of the Pastoral Care | De origine Regulae pastoralis'
+title: |
+  On the Origin of the Pastoral Care | De origine Regulae pastoralis
+engtitle: |
+  On the Origin of the Pastoral Care
+origtitle: |
+  De origine Regulae pastoralis
 breadcrumb: true
 permalink: "text/Origin_Pastoral_Care"
 redirect_from: /text/origin-pastoral-care
@@ -13,7 +18,8 @@ textcollection: [making-history, prayer-spirituality-and-life-after-death-global
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Origin_Pastoral_Care.jpg
 thumb: /assets/img/text/Origin_Pastoral_Care-thumb.jpg
-imagesource: "Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John's College Oxford]"
+imagesource: |
+  Oxford, St John’s College, MS 28, fol. 6v [By permission of the President and Fellows of St John's College Oxford]
 fulltext: |
   
 

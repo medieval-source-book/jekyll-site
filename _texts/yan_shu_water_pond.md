@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune "Magnolia Flower"—"The water in the pond is green" | 木蘭花 · 池塘水綠風微暖'
+title: |
+  To the tune "Magnolia Flower"—"The water in the pond is green" | 木蘭花 · 池塘水綠風微暖
+engtitle: |
+  To the tune "Magnolia Flower"—"The water in the pond is green"
+origtitle: |
+  木蘭花 · 池塘水綠風微暖
 breadcrumb: true
 permalink: "text/yan_shu_water_pond"
 redirect_from: /text/tune-magnolia-flower%E2%80%94-water-pond-green
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_water_pond.jpg
 thumb: /assets/img/text/yan_shu_water_pond-thumb.jpg
-imagesource: "Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]"
+imagesource: |
+  Detail from 宋元集繪 冊 宋緙絲翠羽秋荷(Lotuses) , Anonymous,  National Palace Museum, Accession Number: K2A001246N000000001PAA [Public Domain]
 fulltext: |
   木蘭花
 To the tune “Magnolia Flower”

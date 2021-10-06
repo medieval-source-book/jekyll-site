@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now" | 踏莎行 · 小徑紅稀'
+title: |
+  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now" | 踏莎行 · 小徑紅稀
+engtitle: |
+  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now"
+origtitle: |
+  踏莎行 · 小徑紅稀
 breadcrumb: true
 permalink: "text/yan_shu_narrow_path"
 redirect_from: /text/tune-%E2%80%9Ctreading-sedges%E2%80%94-narrow-path-red-flowers-are-few-now
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_narrow_path.jpg
 thumb: /assets/img/text/yan_shu_narrow_path-thumb.jpg
-imagesource: "Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松年, National Palace Museum, Accesion Number: K2A001458N000000000PAD [Public Domain]"
+imagesource: |
+  Detail from 宋劉松年山水(Red Leaves and Houses)卷, 劉松年, National Palace Museum, Accesion Number: K2A001458N000000000PAD [Public Domain]
 fulltext: |
   踏莎行
 To the tune “Treading on the Sedges"

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Oh, how it troubles me!" | "Ha, qu'il m'ennuie!"'
+title: |
+  "Oh, how it troubles me!" | "Ha, qu'il m'ennuie!"
+engtitle: |
+  "Oh, how it troubles me!"
+origtitle: |
+  "Ha, qu'il m'ennuie!"
 breadcrumb: true
 permalink: "text/oh_how_troubles_me"
 redirect_from: /text/oh-how-it-troubles-me
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oh_how_troubles_me.png
 thumb: /assets/img/text/oh_how_troubles_me-thumb.png
-imagesource: "British Library MS King's 322 f.1 [Public Domain]"
+imagesource: |
+  British Library MS King's 322 f.1 [Public Domain]
 fulltext: |
   "Ha qu’il m’ennuye"
 "Oh how it troubles me!"

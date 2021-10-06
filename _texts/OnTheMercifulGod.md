@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'On the Merciful God and on the Birds’ Glorifications | در توحید خداوند غفور و تسبیح طیور فرماید'
+title: |
+  On the Merciful God and on the Birds’ Glorifications | در توحید خداوند غفور و تسبیح طیور فرماید
+engtitle: |
+  On the Merciful God and on the Birds’ Glorifications
+origtitle: |
+  در توحید خداوند غفور و تسبیح طیور فرماید
 breadcrumb: true
 permalink: "text/OnTheMercifulGod"
 redirect_from: /text/merciful-god-and-birds%E2%80%99-glorifications
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/OnTheMercifulGod.jpg
 thumb: /assets/img/text/OnTheMercifulGod-thumb.jpg
-imagesource: "Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]"
+imagesource: |
+  Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]
 fulltext: |
   
 

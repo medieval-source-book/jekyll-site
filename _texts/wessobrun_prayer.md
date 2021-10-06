@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Wessobrunn Prayer | Das Wessobrunner Gebet'
+title: |
+  The Wessobrunn Prayer | Das Wessobrunner Gebet
+engtitle: |
+  The Wessobrunn Prayer
+origtitle: |
+  Das Wessobrunner Gebet
 breadcrumb: true
 permalink: "text/wessobrun_prayer"
 redirect_from: /text/wessobrunn-prayer
@@ -13,7 +18,8 @@ textcollection: [hymns-and-histories, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/wessobrun_prayer.jpg
 thumb: /assets/img/text/wessobrun_prayer-thumb.jpg
-imagesource: "Image in Public Domain"
+imagesource: |
+  Image in Public Domain
 fulltext: |
   De Poeta / Das Wessobrunner Gebet
 Of the Creator / The Wessobrun Prayer

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade | 洞仙歌 · 冰肌玉骨'
+title: |
+  To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade | 洞仙歌 · 冰肌玉骨
+engtitle: |
+  To the tune “Song of the Immortal in the Grotto”—Skin of Ice and Bones of Jade
+origtitle: |
+  洞仙歌 · 冰肌玉骨
 breadcrumb: true
 permalink: "text/su_shi_skin_ice_bones_jade"
 redirect_from: /text/tune-%E2%80%9Csong-immortal-grotto%E2%80%9D%E2%80%94skin-ice-and-bones-jade
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_skin_ice_bones_jade.jpg
 thumb: /assets/img/text/su_shi_skin_ice_bones_jade-thumb.jpg
-imagesource: "“Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, National Palace Museum, Accession Number: K2A000165N000000000PAA [Public Domain]"
+imagesource: |
+  “Detail from 宋人畫仙巖壽鹿軸 (goddess)”, Anonymous, National Palace Museum, Accession Number: K2A000165N000000000PAA [Public Domain]
 fulltext: |
   洞仙歌
 To the tune “Song of the Immortal in the Grotto”

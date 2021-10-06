@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Sultan's Daughter in the Flower Garden | Die Sultanstochter im Blumengarten'
+title: |
+  The Sultan's Daughter in the Flower Garden | Die Sultanstochter im Blumengarten
+engtitle: |
+  The Sultan's Daughter in the Flower Garden
+origtitle: |
+  Die Sultanstochter im Blumengarten
 breadcrumb: true
 permalink: "text/sultan_daughter"
 redirect_from: /text/sultans-daughter-flower-garden
@@ -13,7 +18,8 @@ textcollection: [cross-cultural-encounters, prayer-spirituality-life-after-death
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sultan_daughter.png
 thumb: /assets/img/text/sultan_daughter-thumb.png
-imagesource: "Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (detail). [Public Domain]"
+imagesource: |
+  Berlin, Staatsbibliothek zu Berlin, Ms. germ. oct. 222, f160r (detail). [Public Domain]
 fulltext: |
                           Die Sultanstochter im Blumengarten
                         The Sultan's Daughter in the Flower Garden

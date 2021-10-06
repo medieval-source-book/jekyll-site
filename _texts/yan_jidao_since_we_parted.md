@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building” | 採桑子 · 別來長憶西樓事'
+title: |
+  To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building” | 採桑子 · 別來長憶西樓事
+engtitle: |
+  To the tune “Picking Mulberries”—“Since we parted, I often recall the time in the western building”
+origtitle: |
+  採桑子 · 別來長憶西樓事
 breadcrumb: true
 permalink: "text/yan_jidao_since_we_parted"
 redirect_from: /text/tune-%E2%80%9Cpicking-mulberries%E2%80%9D%E2%80%94%E2%80%9C-we-parted-i-often-recall-time-western-building%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_since_we_parted.jpg
 thumb: /assets/img/text/yan_jidao_since_we_parted-thumb.jpg
-imagesource: ""Detail from 宋人畫南唐耿先生煉雪圖軸 (building)", Anonymous, National Palace Museum, Accession Number: K2A000172N000000000PAA [Public Domain]"
+imagesource: |
+  "Detail from 宋人畫南唐耿先生煉雪圖軸 (building)", Anonymous, National Palace Museum, Accession Number: K2A000172N000000000PAA [Public Domain]
 fulltext: |
   採桑子
 To the tune “Picking Mulberries”

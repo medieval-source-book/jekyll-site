@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Copy of the riddle that was said to have been found in the temple of Saturn written on a golden tablet | نسخة اللغز الذي قيل انها وجدت في هيكل زحل مكتوبة في لوح ذهب'
+title: |
+  Copy of the riddle that was said to have been found in the temple of Saturn written on a golden tablet | نسخة اللغز الذي قيل انها وجدت في هيكل زحل مكتوبة في لوح ذهب
+engtitle: |
+  Copy of the riddle that was said to have been found in the temple of Saturn written on a golden tablet
+origtitle: |
+  نسخة اللغز الذي قيل انها وجدت في هيكل زحل مكتوبة في لوح ذهب
 breadcrumb: true
 permalink: "text/Riddle_Temple_of_Saturn_S"
 redirect_from: /text/copy-riddle-was-said-have-been-found-temple-saturn-written-golden-tablet
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Riddle_Temple_of_Saturn_S.jpg
 thumb: /assets/img/text/Riddle_Temple_of_Saturn_S-thumb.jpg
-imagesource: "Hill Museum and Manuscript Library GAMS 00900"
+imagesource: |
+  Hill Museum and Manuscript Library GAMS 00900
 fulltext: |
   
 

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Everything destines toward demise" | كل شيء مصيره للزوال'
+title: |
+  "Everything destines toward demise" | كل شيء مصيره للزوال
+engtitle: |
+  "Everything destines toward demise"
+origtitle: |
+  كل شيء مصيره للزوال
 breadcrumb: true
 permalink: "text/Everything_destines_toward_demise"
 redirect_from: /text/everything-destines-toward-demise
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Everything_destines_toward_demise.jpg
 thumb: /assets/img/text/Everything_destines_toward_demise-thumb.jpg
-imagesource: "Horseman brandishing a sword, from Manual on the Arts of Horsemanship (Nihayat al-su’l wa al-umniya fi ta‘allum ‘amal al-furusiyya) by al-Aqsara'i. Dublin, Chester Beatty Library, Ar 5655.146, f.146r"
+imagesource: |
+  Horseman brandishing a sword, from Manual on the Arts of Horsemanship (Nihayat al-su’l wa al-umniya fi ta‘allum ‘amal al-furusiyya) by al-Aqsara'i. Dublin, Chester Beatty Library, Ar 5655.146, f.146r
 fulltext: |
   
 

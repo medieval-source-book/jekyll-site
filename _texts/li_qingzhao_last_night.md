@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟'
+title: |
+  To the tune “As If in a Dream”—“Last night the rain was sparse” | 如夢令 · 昨夜雨疏風驟
+engtitle: |
+  To the tune “As If in a Dream”—“Last night the rain was sparse”
+origtitle: |
+  如夢令 · 昨夜雨疏風驟
 breadcrumb: true
 permalink: "text/li_qingzhao_last_night"
 redirect_from: /text/tune-%E2%80%9C-if-dream%E2%80%9D%E2%80%94%E2%80%9Clast-night-rain-was-sparse%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_last_night.png
 thumb: /assets/img/text/li_qingzhao_last_night-thumb.png
-imagesource: "Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAJ [Public Domain]"
+imagesource: |
+  Detail from 宋夏珪溪山清遠(Pavilion) 卷, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAJ [Public Domain]
 fulltext: |
   
 

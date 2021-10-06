@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree” | 卜算子 · 缺月挂疏桐'
+title: |
+  To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree” | 卜算子 · 缺月挂疏桐
+engtitle: |
+  To the tune “Fortune Teller”—“The waning moon hangs on the thinning sycamore tree”
+origtitle: |
+  卜算子 · 缺月挂疏桐
 breadcrumb: true
 permalink: "text/su_shi_waning_moon_hangs"
 redirect_from: /text/tune-%E2%80%9Cfortune-teller%E2%80%9D%E2%80%94%E2%80%9C-waning-moon-hangs-thinning-sycamore-tree%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_waning_moon_hangs.jpg
 thumb: /assets/img/text/su_shi_waning_moon_hangs-thumb.jpg
-imagesource: "“Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, National Palace Museum, Accession Number: K2A000063N000000000PAA [Public Domain]"
+imagesource: |
+  “Detail from 宋崔白蘆雁軸 (wild goose)”, 崔白, National Palace Museum, Accession Number: K2A000063N000000000PAA [Public Domain]
 fulltext: |
   卜算子
 To the tune “Fortune Teller”

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE | 江神子 · 乙卯正月二十日夜記夢'
+title: |
+  To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE | 江神子 · 乙卯正月二十日夜記夢
+engtitle: |
+  To the tune “River God”—Recording a Dream on the Night of the Twentieth of the First Month of 1075 CE
+origtitle: |
+  江神子 · 乙卯正月二十日夜記夢
 breadcrumb: true
 permalink: "text/su_shi_ten_years_dead_living"
 redirect_from: /text/tune-%E2%80%9Criver-god%E2%80%9D%E2%80%94recording-dream-night-twentieth-first-month-1075-ce
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_ten_years_dead_living.jpg
 thumb: /assets/img/text/su_shi_ten_years_dead_living-thumb.jpg
-imagesource: "“Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAQ [Public Domain]"
+imagesource: |
+  “Detail from 宋夏珪溪山清遠卷 (mountain)”, 夏珪, National Palace Museum, Accession Number: C2A000009N000000000PAQ [Public Domain]
 fulltext: |
   江神子
 To the tune “River God”This tune also goes by the name “River Town”, and “River Town” is the tune name for another of Su Shi’s poems in the collection, “Hunting in Mizhou”.

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Chronicle [Prologue] | Cronica [vorrede]'
+title: |
+  Chronicle [Prologue] | Cronica [vorrede]
+engtitle: |
+  Chronicle [Prologue]
+origtitle: |
+  Cronica [vorrede]
 breadcrumb: true
 permalink: "text/twinger_chronicle"
 redirect_from: /text/twinger-chronicle-prologue
@@ -13,7 +18,8 @@ textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/twinger_chronicle.jpeg
 thumb: /assets/img/text/twinger_chronicle-thumb.jpeg
-imagesource: "Stanford University Library MS CODEX 1061, f.1 [Copyright Stanford University]"
+imagesource: |
+  Stanford University Library MS CODEX 1061, f.1 [Copyright Stanford University]
 fulltext: |
   hie vohet an die vorrede In diser Cronica
 Here begins the prologue to this chronicle

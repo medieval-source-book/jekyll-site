@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Spring – The Hecatomb for Diane, VI | Le Printemps – L’hécatombe à Diane, VI'
+title: |
+  The Spring – The Hecatomb for Diane, VI | Le Printemps – L’hécatombe à Diane, VI
+engtitle: |
+  The Spring – The Hecatomb for Diane, VI
+origtitle: |
+  Le Printemps – L’hécatombe à Diane, VI
 breadcrumb: true
 permalink: "text/spring_sonnet_vi"
 redirect_from: /text/spring-%E2%80%93-hecatomb-diane-vi
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/spring_sonnet_vi.jpg
 thumb: /assets/img/text/spring_sonnet_vi-thumb.jpg
-imagesource: "Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157"
+imagesource: |
+  Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157
 fulltext: |
   Le Printemps – L’hécatombe à Diane, VI
 The Spring – The Hecatomb for Diane, VI

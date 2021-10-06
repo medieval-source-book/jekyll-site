@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Trojan War | Der Trojanerkrieg'
+title: |
+  The Trojan War | Der Trojanerkrieg
+engtitle: |
+  The Trojan War
+origtitle: |
+  Der Trojanerkrieg
 breadcrumb: true
 permalink: "text/trojan_war"
 redirect_from: /text/trojan-war
@@ -13,7 +18,8 @@ textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/trojan_war.png
 thumb: /assets/img/text/trojan_war-thumb.png
-imagesource: "British Library MS Harley 4376 f.90 [Public Domain]"
+imagesource: |
+  British Library MS Harley 4376 f.90 [Public Domain]
 fulltext: |
   Der Trojanerkrieg
 The Trojan War

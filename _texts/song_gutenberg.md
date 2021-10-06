@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Song of Gutenberg | Gutenberglied'
+title: |
+  The Song of Gutenberg | Gutenberglied
+engtitle: |
+  The Song of Gutenberg
+origtitle: |
+  Gutenberglied
 breadcrumb: true
 permalink: "text/song_gutenberg"
 redirect_from: /text/folz-gutenberg
@@ -13,7 +18,8 @@ textcollection: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_gutenberg.jpg
 thumb: /assets/img/text/song_gutenberg-thumb.jpg
-imagesource: "Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]"
+imagesource: |
+  Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]
 fulltext: |
   Gutenberglied
 The Song of Gutenberg

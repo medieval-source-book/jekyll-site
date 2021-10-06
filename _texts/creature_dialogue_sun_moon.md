@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Concerning the Sun and the Moon | De sole et luna'
+title: |
+  Concerning the Sun and the Moon | De sole et luna
+engtitle: |
+  Concerning the Sun and the Moon
+origtitle: |
+  De sole et luna
 breadcrumb: true
 permalink: "text/creature_dialogue_sun_moon"
 redirect_from: /text/concerning-sun-and-moon
@@ -13,7 +18,8 @@ textcollection: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_sun_moon.jpeg
 thumb: /assets/img/text/creature_dialogue_sun_moon-thumb.jpeg
-imagesource: "Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.12r [Public Domain]"
+imagesource: |
+  Bibliothèque nationale de France, département Arsenal, RESERVE FOL-BL-911, f.12r [Public Domain]
 fulltext: |
   De sole et luna, dial. 1.
 Concerning the Sun and the Moon, the first dialogue

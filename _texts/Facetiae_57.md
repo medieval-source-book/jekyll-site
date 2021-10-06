@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini'
+title: |
+  Joke 57: The elegant reply of the Florentine poet Dante | Facetia LVII: Responsio elegans dantis poete florentini
+engtitle: |
+  Joke 57: The elegant reply of the Florentine poet Dante
+origtitle: |
+  Facetia LVII: Responsio elegans dantis poete florentini
 breadcrumb: true
 permalink: "text/Facetiae_57"
 redirect_from: /text/joke-57-elegant-reply-florentine-poet-dante
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_57.jpg
 thumb: /assets/img/text/Facetiae_57-thumb.jpg
-imagesource: "Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]"
+imagesource: |
+  Ugo Zannoni, Dante, Piazza dei Signori, Verona, c.1865. Photo: Didier Descouens [CC BY-SA 4.0]
 fulltext: |
   Facetia LVII
 Joke 57

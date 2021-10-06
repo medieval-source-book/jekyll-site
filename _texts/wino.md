@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Wino | Der Weinschwelg'
+title: |
+  The Wino | Der Weinschwelg
+engtitle: |
+  The Wino
+origtitle: |
+  Der Weinschwelg
 breadcrumb: true
 permalink: "text/wino"
 redirect_from: /text/wino
@@ -13,7 +18,8 @@ textcollection: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/wino.png
 thumb: /assets/img/text/wino-thumb.png
-imagesource: "British Library MS Additional 21114 f.1 [Public Domain]"
+imagesource: |
+  British Library MS Additional 21114 f.1 [Public Domain]
 fulltext: |
   Swaz ich trinkens hân gesehen,
 Any drinking I have seen

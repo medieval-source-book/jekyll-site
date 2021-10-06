@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Sands of the Washing Stream”—"Moments of time and limited life" | 浣溪沙 · 一向年光有限身'
+title: |
+  To the tune “Sands of the Washing Stream”—"Moments of time and limited life" | 浣溪沙 · 一向年光有限身
+engtitle: |
+  To the tune “Sands of the Washing Stream”—"Moments of time and limited life"
+origtitle: |
+  浣溪沙 · 一向年光有限身
 breadcrumb: true
 permalink: "text/yan_shu_moments_time"
 redirect_from: /text/tune-%E2%80%9Csands-washing-stream%E2%80%9D%E2%80%94moments-time-and-limited-life
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_moments_time.jpg
 thumb: /assets/img/text/yan_shu_moments_time-thumb.jpg
-imagesource: "Detail from 宋人十八學士圖(Scholar Talking)軸, Anonymous, National Palace Museum, Accession Number: K2A000857N000000000PAA [Public Domain]"
+imagesource: |
+  Detail from 宋人十八學士圖(Scholar Talking)軸, Anonymous, National Palace Museum, Accession Number: K2A000857N000000000PAA [Public Domain]
 fulltext: |
   浣溪沙
 To the tune “Sands of the Washing Stream”

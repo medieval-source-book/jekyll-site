@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡'
+title: |
+  To the tune “Six Beats”—“Green shades of the trees mark the end of spring” | 六麼令 · 綠陰春盡
+engtitle: |
+  To the tune “Six Beats”—“Green shades of the trees mark the end of spring”
+origtitle: |
+  六麼令 · 綠陰春盡
 breadcrumb: true
 permalink: "text/yan_jidao_green_shades"
 redirect_from: /text/tune-%E2%80%9Csix-beats%E2%80%9D%E2%80%94%E2%80%9Cgreen-shades-trees-mark-end-spring%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_green_shades.jpg
 thumb: /assets/img/text/yan_jidao_green_shades-thumb.jpg
-imagesource: ""Detail from 宋法常寫生卷 (flower)", 法常, National Palace Museum, Accession Number: K2A000989N000000000PAG [Public Domain]"
+imagesource: |
+  "Detail from 宋法常寫生卷 (flower)", 法常, National Palace Museum, Accession Number: K2A000989N000000000PAG [Public Domain]
 fulltext: |
   六麼令
 To the tune “Six Beats”

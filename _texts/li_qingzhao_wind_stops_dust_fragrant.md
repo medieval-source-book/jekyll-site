@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone" | 武陵春 · 風住塵香花已盡'
+title: |
+  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone" | 武陵春 · 風住塵香花已盡
+engtitle: |
+  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone"
+origtitle: |
+  武陵春 · 風住塵香花已盡
 breadcrumb: true
 permalink: "text/li_qingzhao_wind_stops_dust_fragrant"
 redirect_from: /text/tune-%E2%80%9Cspring-wuling%E2%80%9D%E2%80%94-wind-stops-dust-fragrant-and-flowers-are-all-gone
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant.png
 thumb: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png
-imagesource: "Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous, National Palace Museum, Accession Number: K2A000169N000000000PAA [Public Domain]"
+imagesource: |
+  Detail from 宋人畫調鶴采花仙(Woman Outside) 軸, Anonymous, National Palace Museum, Accession Number: K2A000169N000000000PAA [Public Domain]
 fulltext: |
   武陵春
 To the tune “Spring in Wuling”

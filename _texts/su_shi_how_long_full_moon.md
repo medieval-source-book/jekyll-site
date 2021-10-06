@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Prelude to Water Melody”—“How long will the full moon last?” | 水調歌頭 · 明月幾時有'
+title: |
+  To the tune “Prelude to Water Melody”—“How long will the full moon last?” | 水調歌頭 · 明月幾時有
+engtitle: |
+  To the tune “Prelude to Water Melody”—“How long will the full moon last?”
+origtitle: |
+  水調歌頭 · 明月幾時有
 breadcrumb: true
 permalink: "text/su_shi_how_long_full_moon"
 redirect_from: /text/tune-%E2%80%9Cprelude-water-melody%E2%80%9D%E2%80%94%E2%80%9Chow-long-will-full-moon-last%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_how_long_full_moon.jpg
 thumb: /assets/img/text/su_shi_how_long_full_moon-thumb.jpg
-imagesource: "“Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, National Palace Museum, Accession Number: K2A000844N000000000PAA [Public Domain]"
+imagesource: |
+  “Detail from 宋馬遠舉杯玩月軸 (moon)”, 馬遠;鍾禮, National Palace Museum, Accession Number: K2A000844N000000000PAA [Public Domain]
 fulltext: |
   水調歌頭
 To the tune “Prelude to Water Melody”

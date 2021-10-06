@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Chastity of Mr. Wu's Wife | 譚氏節操'
+title: |
+  The Chastity of Mr. Wu's Wife | 譚氏節操
+engtitle: |
+  The Chastity of Mr. Wu's Wife
+origtitle: |
+  譚氏節操
 breadcrumb: true
 permalink: "text/hong_mai_chastity_wu_wife"
 redirect_from: /text/chastity-mr-wus-wife
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_chastity_wu_wife.jpg
 thumb: /assets/img/text/hong_mai_chastity_wu_wife-thumb.jpg
-imagesource: "Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]"
+imagesource: |
+  Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |
   譚氏節操
 The Chastity of Mr. Wu’s Wife

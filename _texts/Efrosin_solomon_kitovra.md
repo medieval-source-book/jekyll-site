@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'The Tale of Solomon and Kitrovas | "ѡ҆ Китоврасѣ ѿ палеи"'
+title: |
+  The Tale of Solomon and Kitrovas | "ѡ҆ Китоврасѣ ѿ палеи"
+engtitle: |
+  The Tale of Solomon and Kitrovas
+origtitle: |
+  "ѡ҆ Китоврасѣ ѿ палеи"
 breadcrumb: true
 permalink: "text/Efrosin_solomon_kitovra"
 redirect_from: /text/tale-solomon-and-kitrovas
@@ -13,7 +18,8 @@ textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspe
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Efrosin_solomon_kitovra.png
 thumb: /assets/img/text/Efrosin_solomon_kitovra-thumb.png
-imagesource: ""
+imagesource: |
+  
 fulltext: |
   "ѡ҆ Китоврасѣ ѿ палеи"
 Efrosin’s Tale of Solomon and Kitovras

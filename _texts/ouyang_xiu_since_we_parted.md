@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉春樓 · 別後不知君遠近'
+title: |
+  To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are” | 玉春樓 · 別後不知君遠近
+engtitle: |
+  To the tune “Spring in the Jade Building”—“Since we parted I do not know how far away you are”
+origtitle: |
+  玉春樓 · 別後不知君遠近
 breadcrumb: true
 permalink: "text/ouyang_xiu_since_we_parted"
 redirect_from: /text/tune-%E2%80%9Cspring-jade-building%E2%80%9D%E2%80%94%E2%80%9C-we-parted-i-do-not-know-how-far-away-you-are%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_since_we_parted.jpg
 thumb: /assets/img/text/ouyang_xiu_since_we_parted-thumb.jpg
-imagesource: "Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  National Palace Museum, Accession Number: K2A000996N000000000PAA [Public Domain]"
+imagesource: |
+  Detail from 宋夏珪真蹟(Two Men Talking) 卷 , 夏珪,  National Palace Museum, Accession Number: K2A000996N000000000PAA [Public Domain]
 fulltext: |
   玉樓春
 To the tune “Spring in the Jade Building”

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'Conclusion | Conclusio'
+title: |
+  Conclusion | Conclusio
+engtitle: |
+  Conclusion
+origtitle: |
+  Conclusio
 breadcrumb: true
 permalink: "text/Facetiae_conclusio"
 redirect_from: /text/conclusion
@@ -13,7 +18,8 @@ textcollection: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_conclusio.jpg
 thumb: /assets/img/text/Facetiae_conclusio-thumb.jpg
-imagesource: "Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]"
+imagesource: |
+  Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]
 fulltext: |
   
 

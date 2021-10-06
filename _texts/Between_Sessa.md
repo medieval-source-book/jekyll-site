@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Between Sessa and Cintura" | "Entre Sesa et Cintura"'
+title: |
+  "Between Sessa and Cintura" | "Entre Sesa et Cintura"
+engtitle: |
+  "Between Sessa and Cintura"
+origtitle: |
+  "Entre Sesa et Cintura"
 breadcrumb: true
 permalink: "text/Between_Sessa"
 redirect_from: /text/between-sessa-and-cintura
@@ -13,7 +18,8 @@ textcollection: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Between_Sessa.jpg
 thumb: /assets/img/text/Between_Sessa-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Public domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.136v [Public domain]
 fulltext: |
   
 

@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist" | 鹊踏枝 · 檻菊愁煙蘭泣露'
+title: |
+  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist" | 鹊踏枝 · 檻菊愁煙蘭泣露
+engtitle: |
+  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist"
+origtitle: |
+  鹊踏枝 · 檻菊愁煙蘭泣露
 breadcrumb: true
 permalink: "text/yan_shu_chrysanthemums"
 redirect_from: /text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D%E2%80%94chrysanthemums-railings-wilt-mist
@@ -13,7 +18,8 @@ textcollection: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_chrysanthemums.jpg
 thumb: /assets/img/text/yan_shu_chrysanthemums-thumb.jpg
-imagesource: "宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]"
+imagesource: |
+  宋錢選荔枝圖(Lychee)　卷, 夏珪,  National Palace Museum, Accession Number: K2A001487N000000000PAB [Public Domain]
 fulltext: |
   鹊踏枝
 To the tune "Magpie Treads the Branch"

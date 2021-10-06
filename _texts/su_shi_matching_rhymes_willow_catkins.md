@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞'
+title: |
+  To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins | 水龍吟 · 次韻章質夫楊花詞
+engtitle: |
+  To the tune “Water Dragon Chant”—Matching the Rhymes of Zhang Zhifu’s Song about Willow Catkins
+origtitle: |
+  水龍吟 · 次韻章質夫楊花詞
 breadcrumb: true
 permalink: "text/su_shi_matching_rhymes_willow_catkins"
 redirect_from: /text/tune-%E2%80%9Cwater-dragon-chant%E2%80%9D%E2%80%94matching-rhymes-zhang-zhifu%E2%80%99s-song-about-willow-catkins
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_matching_rhymes_willow_catkins.jpg
 thumb: /assets/img/text/su_shi_matching_rhymes_willow_catkins-thumb.jpg
-imagesource: "“Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]"
+imagesource: |
+  “Detail from 宋人柳陰高士圖軸 (beneath the willow)”, Anonymous, National Palace Museum, Accession Number: K2A000177N000000000PAA [Public Domain]
 fulltext: |
   水龍吟
 To the tune “Water Dragon Chant”

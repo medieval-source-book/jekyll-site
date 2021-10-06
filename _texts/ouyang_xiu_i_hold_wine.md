@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: 'To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind” | 浪淘沙 · 把酒祝東風'
+title: |
+  To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind” | 浪淘沙 · 把酒祝東風
+engtitle: |
+  To the tune “Waves Scour the Sand”—“I hold up the wine and toast the eastern wind”
+origtitle: |
+  浪淘沙 · 把酒祝東風
 breadcrumb: true
 permalink: "text/ouyang_xiu_i_hold_wine"
 redirect_from: /text/tune-%E2%80%9Cwaves-scour-sand%E2%80%9D%E2%80%94%E2%80%9Ci-hold-wine-and-toast-eastern-wind%E2%80%9D
@@ -13,7 +18,8 @@ textcollection: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_i_hold_wine.jpg
 thumb: /assets/img/text/ouyang_xiu_i_hold_wine-thumb.jpg
-imagesource: "Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) 軸 , Anonymous,  National Palace Museum, Accession Number: K2A000173N000000000PAA [Public Domain]]"
+imagesource: |
+  Detail from 宋人洛陽耆英會圖(Wise Men Talking Together) 軸 , Anonymous,  National Palace Museum, Accession Number: K2A000173N000000000PAA [Public Domain]]
 fulltext: |
   浪淘沙
 To the tune “Waves Scour the Sand”

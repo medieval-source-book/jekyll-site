@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"Our vicar is away" | "Unser pfarrer ist auf der pan"'
+title: |
+  "Our vicar is away" | "Unser pfarrer ist auf der pan"
+engtitle: |
+  "Our vicar is away"
+origtitle: |
+  "Unser pfarrer ist auf der pan"
 breadcrumb: true
 permalink: "text/Our_Vicar_Is_Away"
 redirect_from: /text/our-vicar-away
@@ -13,7 +18,8 @@ textcollection: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Our_Vicar_Is_Away.jpg
 thumb: /assets/img/text/Our_Vicar_Is_Away-thumb.jpg
-imagesource: "Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46v [Public Domain]"
+imagesource: |
+  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.46v [Public Domain]
 fulltext: |
   
 

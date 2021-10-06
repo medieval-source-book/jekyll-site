@@ -1,7 +1,12 @@
 ---
 layout: text
 sidebar: left
-title: '"As I came from Campagna" | "Veniendo de la Campanna"'
+title: |
+  "As I came from Campagna" | "Veniendo de la Campanna"
+engtitle: |
+  "As I came from Campagna"
+origtitle: |
+  "Veniendo de la Campanna"
 breadcrumb: true
 permalink: "text/Campagna"
 redirect_from: /text/i-came-campagna
@@ -13,7 +18,8 @@ textcollection: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Campagna.jpg
 thumb: /assets/img/text/Campagna-thumb.jpg
-imagesource: "Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Public Domain]"
+imagesource: |
+  Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r [Public Domain]
 fulltext: |
   
 
