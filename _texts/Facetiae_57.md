@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_57"
 redirect_from: /text/joke-57-elegant-reply-florentine-poet-dante
 identifier: Facetiae_57.md
+tei: /assets/tei/Facetiae_57.xml
+pdf: /assets/pdf/Facetiae_57.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_57.jpg
 thumb: /assets/img/text/Facetiae_57-thumb.jpg

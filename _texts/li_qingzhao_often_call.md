@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_often_call"
 redirect_from: /text/tune-if-dream%E2%80%94i-often-recall-sunset-xiting
 identifier: li_qingzhao_often_call.md
+tei: /assets/tei/li_qingzhao_often_call.xml
+pdf: /assets/pdf/li_qingzhao_often_call.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_often_call.png
 thumb: /assets/img/text/li_qingzhao_often_call-thumb.png

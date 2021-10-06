@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/LetTheDaysDoAsTheyPlease"
 redirect_from: /text/%E2%80%9Clet-days-do-they-please%E2%80%9D
 identifier: LetTheDaysDoAsTheyPlease.md
+tei: /assets/tei/LetTheDaysDoAsTheyPlease.xml
+pdf: /assets/pdf/LetTheDaysDoAsTheyPlease.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-language: [arabic]
-period: [8th_century, 9th_century]
-textcollection: []
+languages: [arabic]
+periods: [8th_century, 9th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/LetTheDaysDoAsTheyPlease.jpg
 thumb: /assets/img/text/LetTheDaysDoAsTheyPlease-thumb.jpg

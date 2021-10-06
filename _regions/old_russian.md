@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Old Russian
-tag: old_russian
+identifier: old_russian
 ---

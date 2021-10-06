@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Poem384"
 redirect_from: /text/5th-book-love-poem-1384
 identifier: Poem384.md
+tei: /assets/tei/Poem384.xml
+pdf: /assets/pdf/Poem384.pdf
 textauthor: Eifuku Mon'in 永福門院
-language: [japanese]
-period: [14th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [japanese]
+periods: [14th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Poem384.jpg
 thumb: /assets/img/text/Poem384-thumb.jpg

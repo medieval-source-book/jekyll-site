@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/OnTheMercifulGod"
 redirect_from: /text/merciful-god-and-birds%E2%80%99-glorifications
 identifier: OnTheMercifulGod.md
+tei: /assets/tei/OnTheMercifulGod.xml
+pdf: /assets/pdf/OnTheMercifulGod.pdf
 textauthor: Sanā’ī of Ghazna
-language: [persian]
-period: [12th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [persian]
+periods: [12th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/OnTheMercifulGod.jpg
 thumb: /assets/img/text/OnTheMercifulGod-thumb.jpg

@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Syriac
-tag: syriac
+identifier: syriac
 ---

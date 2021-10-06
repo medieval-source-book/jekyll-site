@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/ouyang_xiu_beyond_willows"
 redirect_from: /text/tune-%E2%80%9Cimmortal-river%E2%80%9D%E2%80%94beyond-willows-there-light-thunder
 identifier: ouyang_xiu_beyond_willows.md
+tei: /assets/tei/ouyang_xiu_beyond_willows.xml
+pdf: /assets/pdf/ouyang_xiu_beyond_willows.pdf
 textauthor: Ouyang Xiu 歐陽修
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_beyond_willows.jpg
 thumb: /assets/img/text/ouyang_xiu_beyond_willows-thumb.jpg

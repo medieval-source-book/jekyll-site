@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>On the Origin of the Pastoral Care</title>
+				<author>Anonymous</author>
+				<respStmt>
+					<resp>Transcription by</resp>
+					<name>Alexandra Reider</name>
+				</respStmt>
+				<respStmt>
+					<resp>Translation by</resp>
+					<name>Alexandra Reider</name>
+				</respStmt>
+				<respStmt>
+					<resp>Encoded in TEI P5 XML by</resp>
+					<name>Danny Smith</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher><hi rend="italic">The Global Medieval Sourcebook</hi></publisher>
+				<availability>
+					<p><hi rend="italic">The Global Medieval Sourcebook</hi> is licensed under a Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note anchored="true"></note>
+			</notesStmt>
+			<sourceDesc>
+				 <p>Oxford, St John’s College, MS 28, fol. 6v</p>
+				<listWit>
+					<witness xml:id="Transcription">De origine Regulae pastoralis</witness>
+					<witness xml:id="Translation">On the Origin of the Pastoral Care</witness>
+				</listWit>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+            	<p>"On the Origin of the Pastoral Care" is published by <hi rend="italic">The Global Medieval Sourcebook (GMS)</hi>, a free, open access, and open source compendium of medieval texts in their original languages and in English translation. <hi rend="italic">GMS</hi> comprises computer-readable transcriptions or editions alongside new translations of texts dating from the ninth to the sixteenth century and originating in Europe, North Africa, the Middle East, and Asia. The <hi rend="italic">GMS</hi> platform includes critical introductions as well as sources for further reading.  
+            </p> 
+         	</projectDesc>
+			<editorialDecl>
+	        	<p>Transcriptions and translations are encoded in XML conforming to TEI (P5) guidelines. The original-language text is contained within &lt;lem&gt; tags and translations within &lt;rdg&gt; tags.</p>
+        		<interpretation>
+        			<p>Texts are translated into modern American English with maximum fidelity to the original text, except where it would impair comprehension or good style. Archaisms are preserved where they do not conflict with the aesthetic of the original text. Scribal errors and creative translation choices are marked and discussed in the critical notes.</p>
+        			<p>All abbreviations in the manuscript witness have been expanded and the title "On the Origin of the Pastoral Care" has been added by the translator.</p>
+				</interpretation>
+				<segmentation>
+				</segmentation>
+			</editorialDecl>
+			<variantEncoding method="parallel-segmentation" location="internal"/>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<head>
+				<title>
+					<app>
+						<lem wit="#Transcription"></lem>
+						<rdg wit="#Translation"></rdg>
+					</app>
+				</title>
+			</head>
+		</front>
+		<body>
+			<p n="1">
+				<s>
+					<app>
+						<lem wit="#Transcription">Gregorius urbis romę æpiscopus hunc librum pastoralis curę scripsit pro excusatione episcoporum eo quod pelagius illius nutritor et romanę æcclesię princeps eum rogabat.</lem>
+						<rdg wit="#Translation">Gregory, bishop of the city of Rome, wrote this book of pastoral care for the benefit of bishops because Pelagius, his mentor and head of the Roman church,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription"> ut post se episcopi locum tenuisset.</lem>
+						<rdg wit="#Translation">asked that he take the place of bishop after him.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">et in gallia lugdunensi conscripsit huius libri incepta.</lem>
+						<rdg wit="#Translation">And in Lyonnais Gaul he composed the beginnings of this book</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">et in gallia belgica consummata est id est in ciuitate que dicitur brigalis</lem>
+						<rdg wit="#Translation">and in Belgian Gaul it was completed, that is, in the city that is called Bruges,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">quia gregorius principatum uitare uolens in occidentales plagas gallorum fugerat.</lem>
+						<rdg wit="#Translation">because Gregory, wanting to avoid leadership, had fled to the western regions of Gaul.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">et alii putant quia imperatoris de gothis vel insani regis romanorum tempore hic liber conscriptus est in quo narrat gregorius opus esse difficile principatum æcclesię;</lem>
+						<rdg wit="#Translation">And others think that this book, in which Gregory recounts that leadership of the Church is difficult work, was begun at the time of the emperor of the Goths or of the demented leader of the Romans.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">Sanctus gregorius. annis. xiii. et. mensibus. x. et diebus. ix. rexit æcclesiam;</lem>
+						<rdg wit="#Translation">St. Gregory ruled the Church for thirteen years and ten months and nine days.</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">Gregorius grece uigil latine.</lem>
+						<rdg wit="#Translation">“Gregorius” in Greek means vigil [“alert”] in Latin,</rdg>
+					</app>
+				</s>
+				<s>
+					<app>
+						<lem wit="#Transcription">et a uerbo gregorio. iii. coniugationes. quia inuenitur gregorite id est uigilate.</lem>
+						<rdg wit="#Translation">and from the word “Gregorius” come three etymological connections because “gregorite” – that is, vigilate [“you (pl.) watch”] – is found.</rdg>
+					</app>
+				</s>
+			</p>
+		</body>
+	</text>
+</TEI>

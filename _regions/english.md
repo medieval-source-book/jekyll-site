@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: English
-tag: english
+identifier: english
 ---

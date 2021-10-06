@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Western Europe
-tag: western_europe
+identifier: western_europe
 ---

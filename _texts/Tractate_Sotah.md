@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Tractate_Sotah"
 redirect_from: /text/rabbinic-rites-suspected-adulteress-babylonian-talmud-tractate-sotah-7a-8b
 identifier: Tractate_Sotah.md
+tei: /assets/tei/Tractate_Sotah.xml
+pdf: /assets/pdf/Tractate_Sotah.pdf
 textauthor: Anonymous
-language: [biblical_hebrew,_jewish_babylonian_aramaic,_mishnaic_hebrew]
-period: [7th_century]
-textcollection: []
+languages: [biblical_hebrew,_jewish_babylonian_aramaic,_mishnaic_hebrew]
+periods: [7th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Tractate_Sotah.jpeg
 thumb: /assets/img/text/Tractate_Sotah-thumb.jpeg

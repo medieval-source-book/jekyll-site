@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/wessobrun_prayer"
 redirect_from: /text/wessobrunn-prayer
 identifier: wessobrun_prayer.md
+tei: /assets/tei/wessobrun_prayer.xml
+pdf: /assets/pdf/wessobrun_prayer.pdf
 textauthor: Anonymous
-language: [german]
-period: [9th_century]
-textcollection: [hymns-and-histories, prayer-spirituality-life-after-death]
+languages: [german]
+periods: [9th_century]
+textcollections: [hymns-and-histories, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/wessobrun_prayer.jpg
 thumb: /assets/img/text/wessobrun_prayer-thumb.jpg

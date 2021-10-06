@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_when_I_wake_up"
 redirect_from: /text/tune-%E2%80%9C-immortal-river%E2%80%9D%E2%80%94%E2%80%9Cwhen-i-wake-dream%E2%80%9D
 identifier: yan_jidao_when_I_wake_up.md
+tei: /assets/tei/yan_jidao_when_I_wake_up.xml
+pdf: /assets/pdf/yan_jidao_when_I_wake_up.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_when_I_wake_up.jpg
 thumb: /assets/img/text/yan_jidao_when_I_wake_up-thumb.jpg

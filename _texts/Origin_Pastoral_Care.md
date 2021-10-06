@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Origin_Pastoral_Care"
 redirect_from: /text/origin-pastoral-care
 identifier: Origin_Pastoral_Care.md
+tei: /assets/tei/Origin_Pastoral_Care.xml
+pdf: /assets/pdf/Origin_Pastoral_Care.pdf
 textauthor: Anonymous
-language: [latin]
-period: [7th_century, 8th_century, 9th_century]
-textcollection: [making-history, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [7th_century, 8th_century, 9th_century]
+textcollections: [making-history, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Origin_Pastoral_Care.jpg
 thumb: /assets/img/text/Origin_Pastoral_Care-thumb.jpg

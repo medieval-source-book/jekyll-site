@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Explanation_Dreams"
 redirect_from: /text/explanation-dreams-somniale-ioseph
 identifier: Explanation_Dreams.md
+tei: /assets/tei/Explanation_Dreams.xml
+pdf: /assets/pdf/Explanation_Dreams.pdf
 textauthor: Anonymous
-language: [latin]
-period: [13th_century]
-textcollection: []
+languages: [latin]
+periods: [13th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Explanation_Dreams.jpg
 thumb: /assets/img/text/Explanation_Dreams-thumb.jpg

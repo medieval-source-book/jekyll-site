@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/marston_childbirth_prayer"
 redirect_from: /text/marston-childbirth-prayer
 identifier: marston_childbirth_prayer.md
+tei: /assets/tei/marston_childbirth_prayer.xml
+pdf: /assets/pdf/marston_childbirth_prayer.pdf
 textauthor: Anonymous
-language: [latin]
-period: [14th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [14th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/marston_childbirth_prayer.png
 thumb: /assets/img/text/marston_childbirth_prayer-thumb.png

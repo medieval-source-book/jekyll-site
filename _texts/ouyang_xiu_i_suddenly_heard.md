@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/ouyang_xiu_i_suddenly_heard"
 redirect_from: /text/tune-%E2%80%9C-fisherman-proud%E2%80%9D%E2%80%94%E2%80%9Ci-suddenly-heard-strike-two-oars%E2%80%9D
 identifier: ouyang_xiu_i_suddenly_heard.md
+tei: /assets/tei/ouyang_xiu_i_suddenly_heard.xml
+pdf: /assets/pdf/ouyang_xiu_i_suddenly_heard.pdf
 textauthor: Ouyang Xiu 歐陽修
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_i_suddenly_heard.jpg
 thumb: /assets/img/text/ouyang_xiu_i_suddenly_heard-thumb.jpg

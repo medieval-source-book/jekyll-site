@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Efrosin_solomon_kitovra"
 redirect_from: /text/tale-solomon-and-kitrovas
 identifier: Efrosin_solomon_kitovra.md
+tei: /assets/tei/Efrosin_solomon_kitovra.xml
+pdf: /assets/pdf/Efrosin_solomon_kitovra.pdf
 textauthor: Efrosin
-language: [russian_church_slavonic]
-period: [15th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [russian_church_slavonic]
+periods: [15th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Efrosin_solomon_kitovra.png
 thumb: /assets/img/text/Efrosin_solomon_kitovra-thumb.png

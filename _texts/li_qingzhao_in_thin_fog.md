@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_in_thin_fog"
 redirect_from: /text/tune-%E2%80%9Cdrunk-under-shadow-flowers%E2%80%9D%E2%80%94-thin-fog-and-heavy-mist
 identifier: li_qingzhao_in_thin_fog.md
+tei: /assets/tei/li_qingzhao_in_thin_fog.xml
+pdf: /assets/pdf/li_qingzhao_in_thin_fog.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_in_thin_fog.png
 thumb: /assets/img/text/li_qingzhao_in_thin_fog-thumb.png

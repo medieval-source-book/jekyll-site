@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/prologue_book_histories"
 redirect_from: /text/book-histories-prologue
 identifier: prologue_book_histories.md
+tei: /assets/tei/prologue_book_histories.xml
+pdf: /assets/pdf/prologue_book_histories.pdf
 textauthor: Anonymous
-language: [french,_old_french]
-period: [13th_century]
-textcollection: [making-history]
+languages: [french,_old_french]
+periods: [13th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/prologue_book_histories.png
 thumb: /assets/img/text/prologue_book_histories-thumb.png

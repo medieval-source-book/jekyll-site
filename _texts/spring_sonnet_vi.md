@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/spring_sonnet_vi"
 redirect_from: /text/spring-%E2%80%93-hecatomb-diane-vi
 identifier: spring_sonnet_vi.md
+tei: /assets/tei/spring_sonnet_vi.xml
+pdf: /assets/pdf/spring_sonnet_vi.pdf
 textauthor: Théodore Agrippa d’Aubigné
-language: [french]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [french]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/spring_sonnet_vi.jpg
 thumb: /assets/img/text/spring_sonnet_vi-thumb.jpg

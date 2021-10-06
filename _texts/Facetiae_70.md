@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_70"
 redirect_from: /text/joke-70-greedy-man-who-tasted-urine
 identifier: Facetiae_70.md
+tei: /assets/tei/Facetiae_70.xml
+pdf: /assets/pdf/Facetiae_70.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes, prank-or-be-pranked]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_70.jpg
 thumb: /assets/img/text/Facetiae_70-thumb.jpg

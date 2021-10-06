@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/BriefTreatiseofDoctrine"
 redirect_from: /text/brief-treatise-doctrine-useful-every-christian
 identifier: BriefTreatiseofDoctrine.md
+tei: /assets/tei/BriefTreatiseofDoctrine.xml
+pdf: /assets/pdf/BriefTreatiseofDoctrine.pdf
 textauthor: Juan Perez de Piñeda
-language: [spanish]
-period: [16th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [spanish]
+periods: [16th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/BriefTreatiseofDoctrine.jpg
 thumb: /assets/img/text/BriefTreatiseofDoctrine-thumb.jpg

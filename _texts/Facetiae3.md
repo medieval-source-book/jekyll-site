@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae3"
 redirect_from: /text/joke-13-saying-cook-famous-duke-milan
 identifier: Facetiae3.md
+tei: /assets/tei/Facetiae3.xml
+pdf: /assets/pdf/Facetiae3.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae3.png
 thumb: /assets/img/text/Facetiae3-thumb.png

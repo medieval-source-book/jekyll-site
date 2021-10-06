@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Eastern Europe
-tag: eastern_europe
+identifier: eastern_europe
 ---

@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Spanish
-tag: spanish
+identifier: spanish
 ---

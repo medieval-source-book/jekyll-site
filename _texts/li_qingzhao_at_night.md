@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_at_night"
 redirect_from: /text/tune-%E2%80%9Crevealing-inmost-feelings%E2%80%9D%E2%80%94-night-i-was-drunk-and-did-not-take-my-makeup
 identifier: li_qingzhao_at_night.md
+tei: /assets/tei/li_qingzhao_at_night.xml
+pdf: /assets/pdf/li_qingzhao_at_night.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_at_night.png
 thumb: /assets/img/text/li_qingzhao_at_night-thumb.png

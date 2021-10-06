@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Everything_destines_toward_demise"
 redirect_from: /text/everything-destines-toward-demise
 identifier: Everything_destines_toward_demise.md
+tei: /assets/tei/Everything_destines_toward_demise.xml
+pdf: /assets/pdf/Everything_destines_toward_demise.pdf
 textauthor: al-Ḥārith ibn ʿUbād
-language: [arabic]
-period: [5th_century, 6th_century]
-textcollection: []
+languages: [arabic]
+periods: [5th_century, 6th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Everything_destines_toward_demise.jpg
 thumb: /assets/img/text/Everything_destines_toward_demise-thumb.jpg

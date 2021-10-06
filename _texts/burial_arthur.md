@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/burial_arthur"
 redirect_from: /text/burial-arthur
 identifier: burial_arthur.md
+tei: /assets/tei/burial_arthur.xml
+pdf: /assets/pdf/burial_arthur.pdf
 textauthor: Anonymous
-language: [middle_welsh]
-period: [13th_century]
-textcollection: [making-history]
+languages: [middle_welsh]
+periods: [13th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/burial_arthur.png
 thumb: /assets/img/text/burial_arthur-thumb.png

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/oeglin_help_our_lady_aachen"
 redirect_from: /text/help-our-lady-aachen
 identifier: oeglin_help_our_lady_aachen.md
+tei: /assets/tei/oeglin_help_our_lady_aachen.xml
+pdf: /assets/pdf/oeglin_help_our_lady_aachen.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_help_our_lady_aachen.jpg
 thumb: /assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg

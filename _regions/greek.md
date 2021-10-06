@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Greek
-tag: greek
+identifier: greek
 ---

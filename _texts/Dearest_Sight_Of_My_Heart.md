@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Dearest_Sight_Of_My_Heart"
 redirect_from: /text/dearest-sight-my-heart
 identifier: Dearest_Sight_Of_My_Heart.md
+tei: /assets/tei/Dearest_Sight_Of_My_Heart.xml
+pdf: /assets/pdf/Dearest_Sight_Of_My_Heart.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Dearest_Sight_Of_My_Heart.jpg
 thumb: /assets/img/text/Dearest_Sight_Of_My_Heart-thumb.jpg

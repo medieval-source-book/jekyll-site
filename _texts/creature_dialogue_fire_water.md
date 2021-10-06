@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_fire_water"
 redirect_from: /text/concerning-fire-and-water
 identifier: creature_dialogue_fire_water.md
+tei: /assets/tei/creature_dialogue_fire_water.xml
+pdf: /assets/pdf/creature_dialogue_fire_water.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_fire_water.jpeg
 thumb: /assets/img/text/creature_dialogue_fire_water-thumb.jpeg

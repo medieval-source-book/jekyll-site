@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/hong_mai_chen_wangyou_daughter_law"
 redirect_from: /text/chen-wangyou%E2%80%99s-daughter-law
 identifier: hong_mai_chen_wangyou_daughter_law.md
+tei: /assets/tei/hong_mai_chen_wangyou_daughter_law.xml
+pdf: /assets/pdf/hong_mai_chen_wangyou_daughter_law.pdf
 textauthor: Hong Mai 洪邁
-language: [chinese]
-period: [12th_century]
-textcollection: [making-history]
+languages: [chinese]
+periods: [12th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_chen_wangyou_daughter_law.jpg
 thumb: /assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg

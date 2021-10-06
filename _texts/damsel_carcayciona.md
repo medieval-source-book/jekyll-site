@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/damsel_carcayciona"
 redirect_from: /text/legend-damsel-carcay%C3%A7iona
 identifier: damsel_carcayciona.md
+tei: /assets/tei/damsel_carcayciona.xml
+pdf: /assets/pdf/damsel_carcayciona.pdf
 textauthor: Anonymous
-language: [aljamiado]
-period: [16th_century]
-textcollection: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+languages: [aljamiado]
+periods: [16th_century]
+textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/damsel_carcayciona.jpg
 thumb: /assets/img/text/damsel_carcayciona-thumb.jpg

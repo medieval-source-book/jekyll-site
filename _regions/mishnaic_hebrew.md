@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Mishnaic Hebrew
-tag: mishnaic_hebrew
+identifier: mishnaic_hebrew
 ---

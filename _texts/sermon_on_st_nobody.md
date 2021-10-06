@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/sermon_on_st_nobody"
 redirect_from: /text/sermon-st-nobody
 identifier: sermon_on_st_nobody.md
+tei: /assets/tei/sermon_on_st_nobody.xml
+pdf: /assets/pdf/sermon_on_st_nobody.pdf
 textauthor: Anonymous
-language: [latin]
-period: [13th_century]
-textcollection: [prank-or-be-pranked]
+languages: [latin]
+periods: [13th_century]
+textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sermon_on_st_nobody.jpg
 thumb: /assets/img/text/sermon_on_st_nobody-thumb.jpg

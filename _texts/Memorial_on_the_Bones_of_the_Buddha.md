@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Memorial_on_the_Bones_of_the_Buddha"
 redirect_from: /text/memorial-bones-buddha
 identifier: Memorial_on_the_Bones_of_the_Buddha.md
+tei: /assets/tei/Memorial_on_the_Bones_of_the_Buddha.xml
+pdf: /assets/pdf/Memorial_on_the_Bones_of_the_Buddha.pdf
 textauthor: Han Yu 韓愈
-language: [chinese]
-period: [9th_century]
-textcollection: [cross-cultural-encounters]
+languages: [chinese]
+periods: [9th_century]
+textcollections: [cross-cultural-encounters]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Memorial_on_the_Bones_of_the_Buddha.jpg
 thumb: /assets/img/text/Memorial_on_the_Bones_of_the_Buddha-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/regarding_sister_agnes_waller"
 redirect_from: /text/regarding-sister-agnes-waller-blessed-memory
 identifier: regarding_sister_agnes_waller.md
+tei: /assets/tei/regarding_sister_agnes_waller.xml
+pdf: /assets/pdf/regarding_sister_agnes_waller.pdf
 textauthor: Various
-language: [latin]
-period: [13th_century, 14th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [13th_century, 14th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/regarding_sister_agnes_waller.jpg
 thumb: /assets/img/text/regarding_sister_agnes_waller-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Poem_979"
 redirect_from: /text/1st-book-love-poem-979
 identifier: Poem_979.md
+tei: /assets/tei/Poem_979.xml
+pdf: /assets/pdf/Poem_979.pdf
 textauthor: Eifuku Mon'in 永福門院
-language: [japanese]
-period: [14th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [japanese]
+periods: [14th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Poem_979.jpg
 thumb: /assets/img/text/Poem_979-thumb.jpg

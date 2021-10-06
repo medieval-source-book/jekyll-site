@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_wind_stops_dust_fragrant"
 redirect_from: /text/tune-%E2%80%9Cspring-wuling%E2%80%9D%E2%80%94-wind-stops-dust-fragrant-and-flowers-are-all-gone
 identifier: li_qingzhao_wind_stops_dust_fragrant.md
+tei: /assets/tei/li_qingzhao_wind_stops_dust_fragrant.xml
+pdf: /assets/pdf/li_qingzhao_wind_stops_dust_fragrant.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant.png
 thumb: /assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png

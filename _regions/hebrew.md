@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Hebrew
-tag: Hebrew
+identifier: Hebrew
 ---

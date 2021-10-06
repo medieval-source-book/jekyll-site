@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_sending_shugu_west_lake"
 redirect_from: /text/tune-%E2%80%9Cbodhisattva-barbarians%E2%80%9D%E2%80%94sending-shugu-west-lake
 identifier: su_shi_sending_shugu_west_lake.md
+tei: /assets/tei/su_shi_sending_shugu_west_lake.xml
+pdf: /assets/pdf/su_shi_sending_shugu_west_lake.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_sending_shugu_west_lake.jpg
 thumb: /assets/img/text/su_shi_sending_shugu_west_lake-thumb.jpg

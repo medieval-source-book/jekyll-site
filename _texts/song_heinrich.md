@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/song_heinrich"
 redirect_from: /text/song-heinrich
 identifier: song_heinrich.md
+tei: /assets/tei/song_heinrich.xml
+pdf: /assets/pdf/song_heinrich.pdf
 textauthor: Anonymous
-language: [german,_latin]
-period: [9th_century]
-textcollection: [hymns-and-histories, making-history]
+languages: [german,_latin]
+periods: [9th_century]
+textcollections: [hymns-and-histories, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_heinrich.png
 thumb: /assets/img/text/song_heinrich-thumb.png

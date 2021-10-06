@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_54"
 redirect_from: /text/joke-54-about-man-who-wounded-ridolfo-ii-da-varano-di-camerino-arrow
 identifier: Facetiae_54.md
+tei: /assets/tei/Facetiae_54.xml
+pdf: /assets/pdf/Facetiae_54.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_54.png
 thumb: /assets/img/text/Facetiae_54-thumb.png

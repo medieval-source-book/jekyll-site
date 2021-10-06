@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Between_Sessa"
 redirect_from: /text/between-sessa-and-cintura
 identifier: Between_Sessa.md
+tei: /assets/tei/Between_Sessa.xml
+pdf: /assets/pdf/Between_Sessa.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Between_Sessa.jpg
 thumb: /assets/img/text/Between_Sessa-thumb.jpg

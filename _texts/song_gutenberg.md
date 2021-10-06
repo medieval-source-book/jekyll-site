@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/song_gutenberg"
 redirect_from: /text/folz-gutenberg
 identifier: song_gutenberg.md
+tei: /assets/tei/song_gutenberg.xml
+pdf: /assets/pdf/song_gutenberg.pdf
 textauthor: Hans Folz
-language: [german]
-period: [15th_century]
-textcollection: [making-history]
+languages: [german]
+periods: [15th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_gutenberg.jpg
 thumb: /assets/img/text/song_gutenberg-thumb.jpg

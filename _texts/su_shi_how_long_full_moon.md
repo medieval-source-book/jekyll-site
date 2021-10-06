@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_how_long_full_moon"
 redirect_from: /text/tune-%E2%80%9Cprelude-water-melody%E2%80%9D%E2%80%94%E2%80%9Chow-long-will-full-moon-last%E2%80%9D
 identifier: su_shi_how_long_full_moon.md
+tei: /assets/tei/su_shi_how_long_full_moon.xml
+pdf: /assets/pdf/su_shi_how_long_full_moon.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_how_long_full_moon.jpg
 thumb: /assets/img/text/su_shi_how_long_full_moon-thumb.jpg

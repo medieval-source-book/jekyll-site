@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/sultan_daughter"
 redirect_from: /text/sultans-daughter-flower-garden
 identifier: sultan_daughter.md
+tei: /assets/tei/sultan_daughter.xml
+pdf: /assets/pdf/sultan_daughter.pdf
 textauthor: Anonymous
-language: [middle_high_german]
-period: [14th_century]
-textcollection: [cross-cultural-encounters, prayer-spirituality-life-after-death]
+languages: [middle_high_german]
+periods: [14th_century]
+textcollections: [cross-cultural-encounters, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sultan_daughter.png
 thumb: /assets/img/text/sultan_daughter-thumb.png

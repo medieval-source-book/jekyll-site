@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/chronicle_peter_i"
 redirect_from: /text/lopes-chronicle-prologue
 identifier: chronicle_peter_i.md
+tei: /assets/tei/chronicle_peter_i.xml
+pdf: /assets/pdf/chronicle_peter_i.pdf
 textauthor: Fernão Lopez
-language: [portuguese]
-period: [15th_century]
-textcollection: [making-history]
+languages: [portuguese]
+periods: [15th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/chronicle_peter_i.png
 thumb: /assets/img/text/chronicle_peter_i-thumb.png

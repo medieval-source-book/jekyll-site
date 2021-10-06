@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_81"
 redirect_from: /text/joke-81-debate-between-florentine-and-venetian
 identifier: Facetiae_81.md
+tei: /assets/tei/Facetiae_81.xml
+pdf: /assets/pdf/Facetiae_81.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_81.jpg
 thumb: /assets/img/text/Facetiae_81-thumb.jpg

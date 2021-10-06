@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Campagna"
 redirect_from: /text/i-came-campagna
 identifier: Campagna.md
+tei: /assets/tei/Campagna.xml
+pdf: /assets/pdf/Campagna.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Campagna.jpg
 thumb: /assets/img/text/Campagna-thumb.jpg

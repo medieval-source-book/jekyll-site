@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/PrayerPresenceofaKing"
 redirect_from: /text/noble-prayer-said-when-standing-kings-known-experience-be-beneficial-god-most-high-willing
 identifier: PrayerPresenceofaKing.md
+tei: /assets/tei/PrayerPresenceofaKing.xml
+pdf: /assets/pdf/PrayerPresenceofaKing.pdf
 textauthor: Abū Nuʻaym al-Iṣbahānī [att.]
-language: [arabic]
-period: [11th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [arabic]
+periods: [11th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/PrayerPresenceofaKing.jpg
 thumb: /assets/img/text/PrayerPresenceofaKing-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_life_death"
 redirect_from: /text/concerning-life-and-death
 identifier: creature_dialogue_life_death.md
+tei: /assets/tei/creature_dialogue_life_death.xml
+pdf: /assets/pdf/creature_dialogue_life_death.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_life_death.jpg
 thumb: /assets/img/text/creature_dialogue_life_death-thumb.jpg

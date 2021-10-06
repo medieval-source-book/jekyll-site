@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Old Irish
-tag: old_irish
+identifier: old_irish
 ---

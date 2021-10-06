@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Occitan
-tag: occitan
+identifier: occitan
 ---

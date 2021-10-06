@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/muspilli_revised"
 redirect_from: /text/muspilli
 identifier: muspilli_revised.md
+tei: /assets/tei/muspilli_revised.xml
+pdf: /assets/pdf/muspilli_revised.pdf
 textauthor: Anonymous
-language: [german]
-period: [9th_century]
-textcollection: [hymns-and-histories]
+languages: [german]
+periods: [9th_century]
+textcollections: [hymns-and-histories]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/muspilli_revised.png
 thumb: /assets/img/text/muspilli_revised-thumb.png

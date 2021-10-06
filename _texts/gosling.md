@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/gosling"
 redirect_from: /text/gosling
 identifier: gosling.md
+tei: /assets/tei/gosling.xml
+pdf: /assets/pdf/gosling.pdf
 textauthor: Anonymous
-language: [middle_high_german]
-period: [13th_century]
-textcollection: [gender-sex-and-sensuality, prank-or-be-pranked]
+languages: [middle_high_german]
+periods: [13th_century]
+textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/gosling.png
 thumb: /assets/img/text/gosling-thumb.png

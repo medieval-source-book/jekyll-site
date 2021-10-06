@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_preface"
 redirect_from: /text/moral-dialogue-creatures-preface
 identifier: creature_dialogue_preface.md
+tei: /assets/tei/creature_dialogue_preface.xml
+pdf: /assets/pdf/creature_dialogue_preface.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_preface.jpeg
 thumb: /assets/img/text/creature_dialogue_preface-thumb.jpeg

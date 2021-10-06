@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Old French
-tag: old_french
+identifier: old_french
 ---

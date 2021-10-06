@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_conclusio"
 redirect_from: /text/conclusion
 identifier: Facetiae_conclusio.md
+tei: /assets/tei/Facetiae_conclusio.xml
+pdf: /assets/pdf/Facetiae_conclusio.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_conclusio.jpg
 thumb: /assets/img/text/Facetiae_conclusio-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Twilight%E2%80%99s_ruins"
 redirect_from: /text/can-you-make-out-twilights-ruins
 identifier: Twilight%E2%80%99s_ruins.md
+tei: /assets/tei/twilights_ruins.xml
+pdf: /assets/pdf/Twilight%E2%80%99s_ruins.pdf
 textauthor: al-Muhalhil
-language: [arabic]
-period: [5th_century, 6th_century]
-textcollection: []
+languages: [arabic]
+periods: [5th_century, 6th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Twilight%E2%80%99s_ruins.jpg
 thumb: /assets/img/text/Twilight%E2%80%99s_ruins-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/two_three_days_ago"
 redirect_from: /text/two-or-three-days-ago
 identifier: two_three_days_ago.md
+tei: /assets/tei/two_three_days_ago.xml
+pdf: /assets/pdf/two_three_days_ago.pdf
 textauthor: Anonymous
-language: [french]
-period: [15th_century]
-textcollection: [love-songs]
+languages: [french]
+periods: [15th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/two_three_days_ago.png
 thumb: /assets/img/text/two_three_days_ago-thumb.png

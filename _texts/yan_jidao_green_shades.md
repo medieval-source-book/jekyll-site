@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_green_shades"
 redirect_from: /text/tune-%E2%80%9Csix-beats%E2%80%9D%E2%80%94%E2%80%9Cgreen-shades-trees-mark-end-spring%E2%80%9D
 identifier: yan_jidao_green_shades.md
+tei: /assets/tei/yan_jidao_green_shades.xml
+pdf: /assets/pdf/yan_jidao_green_shades.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: []
+languages: [chinese]
+periods: [11th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_green_shades.jpg
 thumb: /assets/img/text/yan_jidao_green_shades-thumb.jpg

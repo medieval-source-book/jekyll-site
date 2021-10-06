@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/junius_childbirth_charm_4"
 redirect_from: /text/junius-peperit-charm
 identifier: junius_childbirth_charm_4.md
+tei: /assets/tei/junius_childbirth_charm_4.xml
+pdf: /assets/pdf/junius_childbirth_charm_4.pdf
 textauthor: Anonymous
-language: [english,_latin]
-period: [11th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [english,_latin]
+periods: [11th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/junius_childbirth_charm_4.png
 thumb: /assets/img/text/junius_childbirth_charm_4-thumb.png

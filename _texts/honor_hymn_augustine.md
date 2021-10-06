@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/honor_hymn_augustine"
 redirect_from: /text/honor-st-augustine
 identifier: honor_hymn_augustine.md
+tei: /assets/tei/honor_hymn_augustine.xml
+pdf: /assets/pdf/honor_hymn_augustine.pdf
 textauthor: Adam of St. Victor [att.]
-language: [latin]
-period: [12th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [12th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/honor_hymn_augustine.png
 thumb: /assets/img/text/honor_hymn_augustine-thumb.png

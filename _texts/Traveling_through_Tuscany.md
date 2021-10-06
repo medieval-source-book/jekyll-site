@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Traveling_through_Tuscany"
 redirect_from: /text/traveling-through-tuscany
 identifier: Traveling_through_Tuscany.md
+tei: /assets/tei/Traveling_through_Tuscany.xml
+pdf: /assets/pdf/Traveling_through_Tuscany.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [love-songs]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Traveling_through_Tuscany.jpg
 thumb: /assets/img/text/Traveling_through_Tuscany-thumb.jpg

@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Aljamiado
-tag: aljamiado
+identifier: aljamiado
 ---

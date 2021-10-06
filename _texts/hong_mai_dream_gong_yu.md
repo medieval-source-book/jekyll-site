@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/hong_mai_dream_gong_yu"
 redirect_from: /text/dream-gong-yu
 identifier: hong_mai_dream_gong_yu.md
+tei: /assets/tei/hong_mai_dream_gong_yu.xml
+pdf: /assets/pdf/hong_mai_dream_gong_yu.pdf
 textauthor: Hong Mai 洪邁
-language: [chinese]
-period: [12th_century]
-textcollection: [making-history]
+languages: [chinese]
+periods: [12th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_dream_gong_yu.jpg
 thumb: /assets/img/text/hong_mai_dream_gong_yu-thumb.jpg

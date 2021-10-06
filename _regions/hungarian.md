@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Hungarian
-tag: hungarian
+identifier: hungarian
 ---

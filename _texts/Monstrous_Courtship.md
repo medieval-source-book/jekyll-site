@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Monstrous_Courtship"
 redirect_from: /text/monstrous-courtship
 identifier: Monstrous_Courtship.md
+tei: /assets/tei/Monstrous_Courtship.xml
+pdf: /assets/pdf/Monstrous_Courtship.pdf
 textauthor: Hakim Irānshāh ebn-e Abi-l-Khayr
-language: [persian]
-period: [11th_century, 12th_century]
-textcollection: []
+languages: [persian]
+periods: [11th_century, 12th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Monstrous_Courtship.jpg
 thumb: /assets/img/text/Monstrous_Courtship-thumb.jpg

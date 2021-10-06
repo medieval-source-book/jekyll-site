@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/divination_through_apostles"
 redirect_from: /text/explanation-divination-through-apostles
 identifier: divination_through_apostles.md
+tei: /assets/tei/divination_through_apostles.xml
+pdf: /assets/pdf/divination_through_apostles.pdf
 textauthor: Anonymous
-language: [latin]
-period: [13th_century]
-textcollection: []
+languages: [latin]
+periods: [13th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/divination_through_apostles.jpg
 thumb: /assets/img/text/divination_through_apostles-thumb.jpg

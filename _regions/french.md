@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: French
-tag: french
+identifier: french
 ---

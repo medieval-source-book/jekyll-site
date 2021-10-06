@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/twinger_chronicle"
 redirect_from: /text/twinger-chronicle-prologue
 identifier: twinger_chronicle.md
+tei: /assets/tei/twinger_chronicle.xml
+pdf: /assets/pdf/twinger_chronicle.pdf
 textauthor: Jakob Twinger von Königshofen
-language: [german]
-period: [14th_century]
-textcollection: [making-history]
+languages: [german]
+periods: [14th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/twinger_chronicle.jpeg
 thumb: /assets/img/text/twinger_chronicle-thumb.jpeg

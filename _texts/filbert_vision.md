@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/filbert_vision"
 redirect_from: /text/filberts-vision
 identifier: filbert_vision.md
+tei: /assets/tei/filbert_vision.xml
+pdf: /assets/pdf/filbert_vision.pdf
 textauthor: Anonymous
-language: [castilian,_spanish]
-period: [14th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [castilian,_spanish]
+periods: [14th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/filbert_vision.png
 thumb: /assets/img/text/filbert_vision-thumb.png

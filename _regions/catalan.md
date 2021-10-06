@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Catalan
-tag: Catalan
+identifier: Catalan
 ---

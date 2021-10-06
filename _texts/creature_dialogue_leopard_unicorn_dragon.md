@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_leopard_unicorn_dragon"
 redirect_from: /text/concerning-leopard-and-unicorn-who-fought-dragon
 identifier: creature_dialogue_leopard_unicorn_dragon.md
+tei: /assets/tei/creature_dialogue_leopard_unicorn_dragon.xml
+pdf: /assets/pdf/creature_dialogue_leopard_unicorn_dragon.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_leopard_unicorn_dragon.jpeg
 thumb: /assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg

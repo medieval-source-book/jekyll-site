@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Tuscan
-tag: tuscan
+identifier: tuscan
 ---

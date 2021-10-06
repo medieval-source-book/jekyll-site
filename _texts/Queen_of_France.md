@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Queen_of_France"
 redirect_from: /text/queen-france
 identifier: Queen_of_France.md
+tei: /assets/tei/Queen_of_France.xml
+pdf: /assets/pdf/Queen_of_France.pdf
 textauthor: von Schondoch
-language: [middle_high_german]
-period: [15th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [middle_high_german]
+periods: [15th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Queen_of_France.jpg
 thumb: /assets/img/text/Queen_of_France-thumb.jpg

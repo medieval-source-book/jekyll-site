@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_new_song"
 redirect_from: /text/tune-sands-washing-stream%E2%80%94-single-new-song-single-cup-wine
 identifier: yan_shu_new_song.md
+tei: /assets/tei/yan_shu_new_song.xml
+pdf: /assets/pdf/yan_shu_new_song.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_new_song.jpg
 thumb: /assets/img/text/yan_shu_new_song-thumb.jpg

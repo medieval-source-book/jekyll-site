@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_returning_night_linggao"
 redirect_from: /text/tune-%E2%80%9Cimmortal-river%E2%80%9D%E2%80%94returning-night-linggao
 identifier: su_shi_returning_night_linggao.md
+tei: /assets/tei/su_shi_returning_night_linggao.xml
+pdf: /assets/pdf/su_shi_returning_night_linggao.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_returning_night_linggao.jpg
 thumb: /assets/img/text/su_shi_returning_night_linggao-thumb.jpg

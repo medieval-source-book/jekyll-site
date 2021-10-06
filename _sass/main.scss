@@ -2,7 +2,7 @@
 
 $navfont: 'Roboto', sans-serif;
 
-// getting rid of circles 
+// getting rid of circles
 
 .circlebg, .circlebg.contribution {
   background: none;
@@ -38,13 +38,13 @@ $navfont: 'Roboto', sans-serif;
   }
 }
 
-// Changing nav colors 
+// Changing nav colors
 
 .top-bar-section>ul>.divider,
 .top-bar-section>ul>[role="separator"],
 .top-bar, #navigation, .top-bar-section ul li, .top-bar-section ul, .dropdown li,
 .top-bar-section .dropdown li,
-.dropdown .dropdown li:not(.has-form):not(.active)>a:not(.button) 
+.dropdown .dropdown li:not(.has-form):not(.active)>a:not(.button)
 {
   background: $gray;
   border-color: $gray;
@@ -85,7 +85,7 @@ $navfont: 'Roboto', sans-serif;
 }
 
 // Turned off transitions because they looked weird
-*:target, 
+*:target,
 a,
 a:link {
   transition:none;
@@ -101,11 +101,11 @@ a:link {
 }
 
 h1 {
-  font-family: $navfont;	
+  font-family: $navfont;
 }
 
 #footer h5 {
-  font-family: $navfont;	
+  font-family: $navfont;
 }
 
 .panel {
@@ -123,3 +123,7 @@ h1 {
 .dhlg-menu-logo {
 	display:none;
 }
+
+div.panel{
+  z-index: 4;
+  position: absolute;}

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_looking_searching"
 redirect_from: /text/tune-%E2%80%9Cnote-after-note-long-song%E2%80%9D%E2%80%94looking-and-searching-looking-and-searching
 identifier: li_qingzhao_looking_searching.md
+tei: /assets/tei/li_qingzhao_looking_searching.xml
+pdf: /assets/pdf/li_qingzhao_looking_searching.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_looking_searching.png
 thumb: /assets/img/text/li_qingzhao_looking_searching-thumb.png

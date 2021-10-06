@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/trojan_war"
 redirect_from: /text/trojan-war
 identifier: trojan_war.md
+tei: /assets/tei/trojan_war.xml
+pdf: /assets/pdf/trojan_war.pdf
 textauthor: Anonymous
-language: [german]
-period: [15th_century]
-textcollection: [making-history]
+languages: [german]
+periods: [15th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/trojan_war.png
 thumb: /assets/img/text/trojan_war-thumb.png

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Grace_Honor_and_Praise"
 redirect_from: /text/grace-honor-and-praise-are-her-domain
 identifier: Grace_Honor_and_Praise.md
+tei: /assets/tei/Grace_Honor_and_Praise.xml
+pdf: /assets/pdf/Grace_Honor_and_Praise.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Grace_Honor_and_Praise.jpg
 thumb: /assets/img/text/Grace_Honor_and_Praise-thumb.jpg

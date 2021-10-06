@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_pingshan_hall"
 redirect_from: /text/tune-%E2%80%9C-moon-over-west-river%E2%80%9D%E2%80%94pingshan-hall
 identifier: su_shi_pingshan_hall.md
+tei: /assets/tei/su_shi_pingshan_hall.xml
+pdf: /assets/pdf/su_shi_pingshan_hall.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_pingshan_hall.jpg
 thumb: /assets/img/text/su_shi_pingshan_hall-thumb.jpg

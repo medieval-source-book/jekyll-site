@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_5"
 redirect_from: /text/joke-5-about-stupid-man-who-thought-his-wife-had-two-pussies
 identifier: Facetiae_5.md
+tei: /assets/tei/Facetiae_5.xml
+pdf: /assets/pdf/Facetiae_5.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes, prank-or-be-pranked]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_5.jpg
 thumb: /assets/img/text/Facetiae_5-thumb.jpg

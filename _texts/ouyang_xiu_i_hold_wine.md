@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/ouyang_xiu_i_hold_wine"
 redirect_from: /text/tune-%E2%80%9Cwaves-scour-sand%E2%80%9D%E2%80%94%E2%80%9Ci-hold-wine-and-toast-eastern-wind%E2%80%9D
 identifier: ouyang_xiu_i_hold_wine.md
+tei: /assets/tei/ouyang_xiu_i_hold_wine.xml
+pdf: /assets/pdf/ouyang_xiu_i_hold_wine.pdf
 textauthor: Ouyang Xiu 歐陽修
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_i_hold_wine.jpg
 thumb: /assets/img/text/ouyang_xiu_i_hold_wine-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/charcoal_burner_nevers"
 redirect_from: /text/charcoal-burner-nevers
 identifier: charcoal_burner_nevers.md
+tei: /assets/tei/charcoal_burner_nevers.xml
+pdf: /assets/pdf/charcoal_burner_nevers.pdf
 textauthor: Jacopo Passavanti
-language: [italian,_tuscan]
-period: [14th_century]
-textcollection: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+languages: [italian,_tuscan]
+periods: [14th_century]
+textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/charcoal_burner_nevers.png
 thumb: /assets/img/text/charcoal_burner_nevers-thumb.png

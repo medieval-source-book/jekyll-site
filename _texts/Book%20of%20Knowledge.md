@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Book%20of%20Knowledge"
 redirect_from: /text/account-how-cypriots-gained-victory-over-alexandria
 identifier: Book%20of%20Knowledge.md
+tei: /assets/tei/Book%20of%20Knowledge.xml
+pdf: /assets/pdf/Book%20of%20Knowledge.pdf
 textauthor: Muhammad ibn Qāsim ibn Muhammad al-Nuwayrī al-Iskandarāniyy
-language: [arabic]
-period: [14th_century]
-textcollection: [cross-cultural-encounters, making-history]
+languages: [arabic]
+periods: [14th_century]
+textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Book%20of%20Knowledge.jpg
 thumb: /assets/img/text/Book%20of%20Knowledge-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Alcuin_CarmenIV"
 redirect_from: /text/song-iv-go-quickly-little-letter
 identifier: Alcuin_CarmenIV.md
+tei: /assets/tei/Alcuin_CarmenIV.xml
+pdf: /assets/pdf/Alcuin_CarmenIV.pdf
 textauthor: Alcuin
-language: [latin]
-period: [8th_century]
-textcollection: [making-history]
+languages: [latin]
+periods: [8th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Alcuin_CarmenIV.jpg
 thumb: /assets/img/text/Alcuin_CarmenIV-thumb.jpg

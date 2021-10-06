@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Russian Church Slavonic
-tag: russian_church_slavonic
+identifier: russian_church_slavonic
 ---

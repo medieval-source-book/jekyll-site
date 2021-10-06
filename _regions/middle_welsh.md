@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Middle Welsh
-tag: middle_welsh
+identifier: middle_welsh
 ---

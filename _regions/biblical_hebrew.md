@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Biblical Hebrew
-tag: biblical_hebrew
+identifier: biblical_hebrew
 ---

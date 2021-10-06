@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Middle High German
-tag: middle_high_german
+identifier: middle_high_german
 ---

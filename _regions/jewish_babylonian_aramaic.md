@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Jewish Babylonian Aramaic
-tag: jewish_babylonian_aramaic
+identifier: jewish_babylonian_aramaic
 ---

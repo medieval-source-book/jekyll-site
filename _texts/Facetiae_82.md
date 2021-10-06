@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_82"
 redirect_from: /text/joke-82-antonio-loschi%E2%80%99s-analogy
 identifier: Facetiae_82.md
+tei: /assets/tei/Facetiae_82.xml
+pdf: /assets/pdf/Facetiae_82.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_82.jpg
 thumb: /assets/img/text/Facetiae_82-thumb.jpg

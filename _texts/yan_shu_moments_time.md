@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_moments_time"
 redirect_from: /text/tune-%E2%80%9Csands-washing-stream%E2%80%9D%E2%80%94moments-time-and-limited-life
 identifier: yan_shu_moments_time.md
+tei: /assets/tei/yan_shu_moments_time.xml
+pdf: /assets/pdf/yan_shu_moments_time.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_moments_time.jpg
 thumb: /assets/img/text/yan_shu_moments_time-thumb.jpg

@@ -47,15 +47,6 @@ plugins:
     - jekyll-paginate
 
 collections:
-  topics:
-    output: false
-    permalink: /topics/:path/
-  projects:
-    output: true
-    permalink: /project-videos/:path/
-  interviews:
-    output: true
-    permalink: /getting-hired/:path/
   texts:
     output: true
     permalink: /text/:path/
@@ -65,14 +56,10 @@ collections:
   regions:
     output: true
     permalink: /regions/:path/
-    layout: langpage
+    layout: regionpage
   textauthor:
     output: true
     permalink: /authors/:path/
-  genres:
-    output: true
-    permalink: /genres/:path/
-    layout: genrepage
   periods:
     output: true
     permalink: /periods/:path/

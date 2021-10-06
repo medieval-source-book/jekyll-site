@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_man_woman"
 redirect_from: /text/concerning-man-and-woman
 identifier: creature_dialogue_man_woman.md
+tei: /assets/tei/creature_dialogue_man_woman.xml
+pdf: /assets/pdf/creature_dialogue_man_woman.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables, gender-sex-and-sensuality]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_man_woman.jpeg
 thumb: /assets/img/text/creature_dialogue_man_woman-thumb.jpeg

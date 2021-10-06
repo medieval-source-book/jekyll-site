@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_chrysanthemums"
 redirect_from: /text/tune-%E2%80%9Cmagpie-treads-branch%E2%80%9D%E2%80%94chrysanthemums-railings-wilt-mist
 identifier: yan_shu_chrysanthemums.md
+tei: /assets/tei/yan_shu_chrysanthemums.xml
+pdf: /assets/pdf/yan_shu_chrysanthemums.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_chrysanthemums.jpg
 thumb: /assets/img/text/yan_shu_chrysanthemums-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/song_peter"
 redirect_from: /text/song-peter
 identifier: song_peter.md
+tei: /assets/tei/song_peter.xml
+pdf: /assets/pdf/song_peter.pdf
 textauthor: Anonymous
-language: [german]
-period: [9th_century]
-textcollection: [hymns-and-histories, prayer-spirituality-life-after-death]
+languages: [german]
+periods: [9th_century]
+textcollections: [hymns-and-histories, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_peter.png
 thumb: /assets/img/text/song_peter-thumb.png

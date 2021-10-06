@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Portuguese
-tag: portuguese
+identifier: portuguese
 ---

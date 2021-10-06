@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Blessed_Heseka"
 redirect_from: /text/regarding-blessed-haseka-virgin-recluse-westphalia
 identifier: Blessed_Heseka.md
+tei: /assets/tei/Blessed_Heseka.xml
+pdf: /assets/pdf/Blessed_Heseka.pdf
 textauthor: Hermann Greven
-language: [latin]
-period: [15th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [15th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Blessed_Heseka.jpg
 thumb: /assets/img/text/Blessed_Heseka-thumb.jpg

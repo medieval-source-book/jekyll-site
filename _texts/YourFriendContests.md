@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/YourFriendContests"
 redirect_from: /text/your-friend-contests-whomever-you-contest
 identifier: YourFriendContests.md
+tei: /assets/tei/YourFriendContests.xml
+pdf: /assets/pdf/YourFriendContests.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-language: [arabic]
-period: [8th_century, 9th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [arabic]
+periods: [8th_century, 9th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/YourFriendContests.png
 thumb: /assets/img/text/YourFriendContests-thumb.png

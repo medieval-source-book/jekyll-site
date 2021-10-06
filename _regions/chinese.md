@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Chinese
-tag: chinese
+identifier: chinese
 ---

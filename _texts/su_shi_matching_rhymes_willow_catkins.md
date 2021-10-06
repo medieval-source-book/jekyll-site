@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_matching_rhymes_willow_catkins"
 redirect_from: /text/tune-%E2%80%9Cwater-dragon-chant%E2%80%9D%E2%80%94matching-rhymes-zhang-zhifu%E2%80%99s-song-about-willow-catkins
 identifier: su_shi_matching_rhymes_willow_catkins.md
+tei: /assets/tei/su_shi_matching_rhymes_willow_catkins.xml
+pdf: /assets/pdf/su_shi_matching_rhymes_willow_catkins.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_matching_rhymes_willow_catkins.jpg
 thumb: /assets/img/text/su_shi_matching_rhymes_willow_catkins-thumb.jpg

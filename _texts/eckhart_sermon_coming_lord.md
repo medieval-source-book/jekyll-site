@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/eckhart_sermon_coming_lord"
 redirect_from: /text/sermon-coming-lord
 identifier: eckhart_sermon_coming_lord.md
+tei: /assets/tei/eckhart_sermon_coming_lord.xml
+pdf: /assets/pdf/eckhart_sermon_coming_lord.pdf
 textauthor: Meister Eckhart
-language: [middle_high_german]
-period: [13th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [middle_high_german]
+periods: [13th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/eckhart_sermon_coming_lord.png
 thumb: /assets/img/text/eckhart_sermon_coming_lord-thumb.png

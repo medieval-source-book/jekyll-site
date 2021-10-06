@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_moon_shines_wild_fields"
 redirect_from: /text/tune-%E2%80%9C-moon-over-west-river%E2%80%9D%E2%80%94%E2%80%9C-moon-shines-wild-fields%E2%80%9D
 identifier: su_shi_moon_shines_wild_fields.md
+tei: /assets/tei/su_shi_moon_shines_wild_fields.xml
+pdf: /assets/pdf/su_shi_moon_shines_wild_fields.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_moon_shines_wild_fields.jpg
 thumb: /assets/img/text/su_shi_moon_shines_wild_fields-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/facetiae73"
 redirect_from: /text/joke-273-obscene-comparison-teeth-threatened-fall-out
 identifier: facetiae73.md
+tei: /assets/tei/facetiae73.xml
+pdf: /assets/pdf/facetiae73.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/facetiae73.jpg
 thumb: /assets/img/text/facetiae73-thumb.jpg

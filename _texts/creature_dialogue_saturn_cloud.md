@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_saturn_cloud"
 redirect_from: /text/concerning-saturn-and-cloud
 identifier: creature_dialogue_saturn_cloud.md
+tei: /assets/tei/creature_dialogue_saturn_cloud.xml
+pdf: /assets/pdf/creature_dialogue_saturn_cloud.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_saturn_cloud.jpeg
 thumb: /assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Outside_of_Rome"
 redirect_from: /text/outside-rome-crossing-marino
 identifier: Outside_of_Rome.md
+tei: /assets/tei/Outside_of_Rome.xml
+pdf: /assets/pdf/Outside_of_Rome.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [prank-or-be-pranked]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Outside_of_Rome.jpg
 thumb: /assets/img/text/Outside_of_Rome-thumb.jpg

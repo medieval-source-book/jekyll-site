@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/UnderneathMyForehead"
 redirect_from: /text/%E2%80%9Cunderneath-my-forehead-i-carry-your-beautiful-image%E2%80%9D
 identifier: UnderneathMyForehead.md
+tei: /assets/tei/UnderneathMyForehead.xml
+pdf: /assets/pdf/UnderneathMyForehead.pdf
 textauthor: Jordi di Sant Jordi
-language: [catalan]
-period: [15th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [catalan]
+periods: [15th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/UnderneathMyForehead.jpg
 thumb: /assets/img/text/UnderneathMyForehead-thumb.jpg

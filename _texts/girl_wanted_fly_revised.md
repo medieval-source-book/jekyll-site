@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/girl_wanted_fly_revised"
 redirect_from: /text/girl-who-wanted-fly
 identifier: girl_wanted_fly_revised.md
+tei: /assets/tei/girl_wanted_fly_revised.xml
+pdf: /assets/pdf/girl_wanted_fly_revised.pdf
 textauthor: Anonymous
-language: [french]
-period: [13th_century]
-textcollection: [gender-sex-and-sensuality, prank-or-be-pranked]
+languages: [french]
+periods: [13th_century]
+textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/girl_wanted_fly_revised.jpeg
 thumb: /assets/img/text/girl_wanted_fly_revised-thumb.jpeg

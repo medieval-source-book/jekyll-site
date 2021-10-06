@@ -364,7 +364,7 @@ code{
 
 #sidenav{
   z-index: 4;
-  position: fixed;
+  
   #tocheader{
     margin-bottom: 0;
     margin-top: 0;
@@ -425,6 +425,7 @@ code{
     margin: 1rem 0;
     &.source_disciplines{
       font-family: $font-family-monospace;
+      #text-transform: uppercase;
       font-size: 0.75rem;
       img {
         height: 18px;

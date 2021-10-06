@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_skin_ice_bones_jade"
 redirect_from: /text/tune-%E2%80%9Csong-immortal-grotto%E2%80%9D%E2%80%94skin-ice-and-bones-jade
 identifier: su_shi_skin_ice_bones_jade.md
+tei: /assets/tei/su_shi_skin_ice_bones_jade.xml
+pdf: /assets/pdf/su_shi_skin_ice_bones_jade.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_skin_ice_bones_jade.jpg
 thumb: /assets/img/text/su_shi_skin_ice_bones_jade-thumb.jpg

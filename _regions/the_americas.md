@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: The Americas
-tag: the_americas
+identifier: the_americas
 ---

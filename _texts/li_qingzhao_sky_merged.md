@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_sky_merged"
 redirect_from: /text/tune-%E2%80%9C-fisherman-proud%E2%80%9D%E2%80%94-sky-merged-sea-clouds-mist-dawn
 identifier: li_qingzhao_sky_merged.md
+tei: /assets/tei/li_qingzhao_sky_merged.xml
+pdf: /assets/pdf/li_qingzhao_sky_merged.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_sky_merged.png
 thumb: /assets/img/text/li_qingzhao_sky_merged-thumb.png

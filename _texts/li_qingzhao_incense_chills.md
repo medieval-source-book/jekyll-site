@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_incense_chills"
 redirect_from: /text/tune-%E2%80%9C-top-phoenix-terrace-recalling-flute-music%E2%80%9D%E2%80%94-incense-chills-golden-lion
 identifier: li_qingzhao_incense_chills.md
+tei: /assets/tei/li_qingzhao_incense_chills.xml
+pdf: /assets/pdf/li_qingzhao_incense_chills.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_incense_chills.png
 thumb: /assets/img/text/li_qingzhao_incense_chills-thumb.png

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae7"
 redirect_from: /text/joke-27-pregnant-sister-citizen-constance
 identifier: Facetiae7.md
+tei: /assets/tei/Facetiae7.xml
+pdf: /assets/pdf/Facetiae7.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes, prank-or-be-pranked]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae7.jpg
 thumb: /assets/img/text/Facetiae7-thumb.jpg

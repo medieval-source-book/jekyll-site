@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_back_then_I_believed"
 redirect_from: /text/tune-%E2%80%9Cjade-tower-spring%E2%80%9D%E2%80%94%E2%80%9Cback-then-i-believed-love-was-priceless%E2%80%9D
 identifier: yan_jidao_back_then_I_believed.md
+tei: /assets/tei/yan_jidao_back_then_I_believed.xml
+pdf: /assets/pdf/yan_jidao_back_then_I_believed.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_back_then_I_believed.jpg
 thumb: /assets/img/text/yan_jidao_back_then_I_believed-thumb.jpg

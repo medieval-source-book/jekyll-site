@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae14"
 redirect_from: /text/joke-114-about-prostitute-who-complained-about-barber%E2%80%99s-evil-deed
 identifier: Facetiae14.md
+tei: /assets/tei/Facetiae14.xml
+pdf: /assets/pdf/Facetiae14.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae14.jpg
 thumb: /assets/img/text/Facetiae14-thumb.jpg

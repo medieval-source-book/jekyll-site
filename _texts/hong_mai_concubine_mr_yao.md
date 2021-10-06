@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/hong_mai_concubine_mr_yao"
 redirect_from: /text/concubine-mr-yao
 identifier: hong_mai_concubine_mr_yao.md
+tei: /assets/tei/hong_mai_concubine_mr_yao.xml
+pdf: /assets/pdf/hong_mai_concubine_mr_yao.pdf
 textauthor: Hong Mai 洪邁
-language: [chinese]
-period: [12th_century]
-textcollection: [gender-sex-and-sensuality, making-history]
+languages: [chinese]
+periods: [12th_century]
+textcollections: [gender-sex-and-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_concubine_mr_yao.jpg
 thumb: /assets/img/text/hong_mai_concubine_mr_yao-thumb.jpg

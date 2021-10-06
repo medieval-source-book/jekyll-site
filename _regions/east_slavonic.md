@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: East Slavonic
-tag: east_slavonic
+identifier: east_slavonic
 ---

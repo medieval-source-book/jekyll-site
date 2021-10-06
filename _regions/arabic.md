@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Arabic
-tag: arabic
+identifier: arabic
 ---

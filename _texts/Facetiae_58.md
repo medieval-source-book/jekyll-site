@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_58"
 redirect_from: /text/joke-58-witty-reply-same-poet
 identifier: Facetiae_58.md
+tei: /assets/tei/Facetiae_58.xml
+pdf: /assets/pdf/Facetiae_58.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_58.jpg
 thumb: /assets/img/text/Facetiae_58-thumb.jpg

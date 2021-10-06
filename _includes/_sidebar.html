@@ -4,24 +4,16 @@
 		<h3 id="tocheader">Text Info</h3>
 		<ul id="toc">
 			
-			{% if page.authors And page.authors != "" And page.authors != nil %}
-			{% assign textauthors = page.authors %}
-			<li><strong>Author:</strong> 
-			  {% for author in textauthors %}
-	    	  {% for author in site.authors %}
-			  {% if textauthors contains author.title %}<a href="{{site.baseurl}}{{author.url}}">{{author.title}}</a>
-			  {% endif %}
-			  {% endfor %}
-			  {% unless forloop.last %}&nbsp;{% endunless %}
-			  {% endfor %}</li>
-			  {% endif %}
+			{% if page.textauthor And page.textauthor != "" And page.textauthor != nil %}
+			<li><strong>Author:</strong> {{page.textauthor}}</li>
+			{% endif %}
 			 
-			 {% if page.languages != '' %} 
+			{% if page.languages != '' %}
 			{% assign textlanguages = page.languages %}
-			<li><strong>Languages:</strong> 
+			<li><strong>Languages: </strong>
 			  {% for textlanguage in textlanguages %}
-	    	  {% for language in site.languages %}
-			  {% if textlanguage contains language.title %}<a href="{{site.baseurl}}{{language.url}}">{{language.title}}</a>
+	    	  {% for region in site.regions %}
+			  {% if textlanguage contains region.identifier %}<a href="{{site.baseurl}}{{region.url}}">{{region.title}}</a>
 			  {% endif %}
 			  {% endfor %}
 			  {% unless forloop.last %}&nbsp;{% endunless %}
@@ -33,17 +25,7 @@
 		<li><strong>Period:</strong> 
 		  {% for textperiod in textperiods %}
     	  {% for period in site.periods %}
-		  {% if textperiod contains period.title %}<a href="{{site.baseurl}}{{period.url}}">{{period.title}}</a>
-		  {% endif %}
-		  {% endfor %}
-		  {% unless forloop.last %}&nbsp;{% endunless %}
-		  {% endfor %}</li>
-		  
-		{% assign textgenres = page.genres %}
-		<li><strong>Genres:</strong> 
-		  {% for genre in textgenres %}
-    	  {% for genre in site.genres %}
-		  {% if textgenres contains genre.title %}<a href="{{site.baseurl}}{{genre.url}}">{{genre.title}}</a>
+		  {% if textperiod contains period.tag %}<a href="{{site.baseurl}}{{period.url}}">{{period.title}}</a>
 		  {% endif %}
 		  {% endfor %}
 		  {% unless forloop.last %}&nbsp;{% endunless %}
@@ -60,6 +42,10 @@
 		  {% unless forloop.last %}&nbsp;{% endunless %}
 		  {% endfor %}</li>
 {% endif %}
+<li><a href="{{page.tei}}">Download TEI</a></li>
+<li><a href="{{page.pdf}}">Download formatted PDF</a></li>
+<li><a href="{{page.textauthor}}">View in Stanford Digital Repository</a></li>
+
 		</ul>
 	</div>
 </aside>

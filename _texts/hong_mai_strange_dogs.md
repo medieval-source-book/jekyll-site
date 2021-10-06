@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/hong_mai_strange_dogs"
 redirect_from: /text/strange-dogs
 identifier: hong_mai_strange_dogs.md
+tei: /assets/tei/hong_mai_strange_dogs.xml
+pdf: /assets/pdf/hong_mai_strange_dogs.pdf
 textauthor: Hong Mai 洪邁
-language: [chinese]
-period: [12th_century]
-textcollection: [making-history]
+languages: [chinese]
+periods: [12th_century]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_strange_dogs.jpg
 thumb: /assets/img/text/hong_mai_strange_dogs-thumb.jpg

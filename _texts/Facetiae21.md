@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae21"
 redirect_from: /text/joke-121-brilliant-dantes-joke
 identifier: Facetiae21.md
+tei: /assets/tei/Facetiae21.xml
+pdf: /assets/pdf/Facetiae21.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae21.jpg
 thumb: /assets/img/text/Facetiae21-thumb.jpg

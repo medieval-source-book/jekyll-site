@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Italian
-tag: italian
+identifier: italian
 ---

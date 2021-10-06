@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Whoever_Repays_Loyalty_With_Falsehood"
 redirect_from: /text/whoever-repays-loyalty-falsehood
 identifier: Whoever_Repays_Loyalty_With_Falsehood.md
+tei: /assets/tei/Whoever_Repays_Loyalty_With_Falsehood.xml
+pdf: /assets/pdf/Whoever_Repays_Loyalty_With_Falsehood.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Whoever_Repays_Loyalty_With_Falsehood.jpg
 thumb: /assets/img/text/Whoever_Repays_Loyalty_With_Falsehood-thumb.jpg

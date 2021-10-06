@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_last_night"
 redirect_from: /text/tune-%E2%80%9C-if-dream%E2%80%9D%E2%80%94%E2%80%9Clast-night-rain-was-sparse%E2%80%9D
 identifier: li_qingzhao_last_night.md
+tei: /assets/tei/li_qingzhao_last_night.xml
+pdf: /assets/pdf/li_qingzhao_last_night.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_last_night.png
 thumb: /assets/img/text/li_qingzhao_last_night-thumb.png

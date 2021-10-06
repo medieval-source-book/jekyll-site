@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Castilian
-tag: castilian
+identifier: castilian
 ---

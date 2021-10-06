@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Asia
-tag: asia
+identifier: asia
 ---

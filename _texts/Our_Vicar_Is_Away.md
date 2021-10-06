@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Our_Vicar_Is_Away"
 redirect_from: /text/our-vicar-away
 identifier: Our_Vicar_Is_Away.md
+tei: /assets/tei/Our_Vicar_Is_Away.xml
+pdf: /assets/pdf/Our_Vicar_Is_Away.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Our_Vicar_Is_Away.jpg
 thumb: /assets/img/text/Our_Vicar_Is_Away-thumb.jpg

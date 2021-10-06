@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/WereItNotThatPoesy"
 redirect_from: /text/%E2%80%9Cwere-it-not-poesy-tarnished-scholars%E2%80%9D
 identifier: WereItNotThatPoesy.md
+tei: /assets/tei/WereItNotThatPoesy.xml
+pdf: /assets/pdf/WereItNotThatPoesy.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-language: [arabic]
-period: [8th_century, 9th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [arabic]
+periods: [8th_century, 9th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/WereItNotThatPoesy.jpg
 thumb: /assets/img/text/WereItNotThatPoesy-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/concerning_wicked_woman"
 redirect_from: /text/pictor-wicked-woman
 identifier: concerning_wicked_woman.md
+tei: /assets/tei/concerning_wicked_woman.xml
+pdf: /assets/pdf/concerning_wicked_woman.pdf
 textauthor: Petrus Pictor
-language: [latin]
-period: [11th_century, 12th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [latin]
+periods: [11th_century, 12th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/concerning_wicked_woman.jpg
 thumb: /assets/img/text/concerning_wicked_woman-thumb.jpg

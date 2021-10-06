@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/creature_dialogue_precious_topaz"
 redirect_from: /text/concerning-precious-topaz
 identifier: creature_dialogue_precious_topaz.md
+tei: /assets/tei/creature_dialogue_precious_topaz.xml
+pdf: /assets/pdf/creature_dialogue_precious_topaz.pdf
 textauthor: Nicolaus Pergamenus [att.]
-language: [latin]
-period: [14th_century]
-textcollection: [fantastic-fables]
+languages: [latin]
+periods: [14th_century]
+textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_precious_topaz.jpeg
 thumb: /assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg

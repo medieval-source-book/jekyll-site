@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Ignatios"
 redirect_from: /text/memorial-our-father-ignatios-patriarch-constantinople
 identifier: Ignatios.md
+tei: /assets/tei/Ignatios.xml
+pdf: /assets/pdf/Ignatios.pdf
 textauthor: Anonymous
-language: [greek]
-period: [10th_century, 11th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [greek]
+periods: [10th_century, 11th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Ignatios.jpg
 thumb: /assets/img/text/Ignatios-thumb.jpg

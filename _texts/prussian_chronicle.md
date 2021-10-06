@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/prussian_chronicle"
 redirect_from: /text/names-prussian-false-gods
 identifier: prussian_chronicle.md
+tei: /assets/tei/prussian_chronicle.xml
+pdf: /assets/pdf/prussian_chronicle.pdf
 textauthor: Simon Grunau
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: []
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/prussian_chronicle.jpg
 thumb: /assets/img/text/prussian_chronicle-thumb.jpg

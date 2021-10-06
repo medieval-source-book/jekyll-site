@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/rabanus_maurus_honour_holy_cross"
 redirect_from: /text/honor-holy-cross
 identifier: rabanus_maurus_honour_holy_cross.md
+tei: /assets/tei/rabanus_maurus_honour_holy_cross.xml
+pdf: /assets/pdf/rabanus_maurus_honour_holy_cross.pdf
 textauthor: Rabanus Maurus
-language: [latin]
-period: [9th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [latin]
+periods: [9th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/rabanus_maurus_honour_holy_cross.png
 thumb: /assets/img/text/rabanus_maurus_honour_holy_cross-thumb.png

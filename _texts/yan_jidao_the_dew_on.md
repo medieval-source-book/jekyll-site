@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_the_dew_on"
 redirect_from: /text/tune-%E2%80%9Cruan-returns%E2%80%9D%E2%80%94%E2%80%9C-dew-metal-palm-edge-sky-has-turned-frost%E2%80%9D
 identifier: yan_jidao_the_dew_on.md
+tei: /assets/tei/yan_jidao_the_dew_on.xml
+pdf: /assets/pdf/yan_jidao_the_dew_on.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_the_dew_on.jpg
 thumb: /assets/img/text/yan_jidao_the_dew_on-thumb.jpg

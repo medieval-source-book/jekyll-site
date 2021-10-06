@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/on_april"
 redirect_from: /text/april-praise-its-creator
 identifier: on_april.md
+tei: /assets/tei/on_april.xml
+pdf: /assets/pdf/on_april.pdf
 textauthor: Bar ‘Ebroyo
-language: [syriac]
-period: [13th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [syriac]
+periods: [13th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/on_april.JPG
 thumb: /assets/img/text/on_april-thumb.JPG

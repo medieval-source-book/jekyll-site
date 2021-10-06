@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Wandering_Lost"
 redirect_from: /text/wandering-lost-it-was-already-night
 identifier: Wandering_Lost.md
+tei: /assets/tei/Wandering_Lost.xml
+pdf: /assets/pdf/Wandering_Lost.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [gender-sex-and-sensuality]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Wandering_Lost.jpg
 thumb: /assets/img/text/Wandering_Lost-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Poem077"
 redirect_from: /text/2nd-book-love-poem-1077
 identifier: Poem077.md
+tei: /assets/tei/Poem077.xml
+pdf: /assets/pdf/Poem077.pdf
 textauthor: Eifuku Mon'in 永福門院
-language: [japanese]
-period: [14th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [japanese]
+periods: [14th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Poem077.jpg
 thumb: /assets/img/text/Poem077-thumb.jpg

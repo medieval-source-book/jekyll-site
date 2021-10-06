@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_plum_blossom"
 redirect_from: /text/tune-%E2%80%9C-moon-over-west-river%E2%80%9D%E2%80%94plum-blossom
 identifier: su_shi_plum_blossom.md
+tei: /assets/tei/su_shi_plum_blossom.xml
+pdf: /assets/pdf/su_shi_plum_blossom.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_plum_blossom.jpg
 thumb: /assets/img/text/su_shi_plum_blossom-thumb.jpg

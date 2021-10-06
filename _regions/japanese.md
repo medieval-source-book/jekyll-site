@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Japanese
-tag: japanese
+identifier: japanese
 ---

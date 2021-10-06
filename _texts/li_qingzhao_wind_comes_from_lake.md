@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_wind_comes_from_lake"
 redirect_from: /text/tune-%E2%80%9Cyearning-prince%E2%80%9D%E2%80%94%E2%80%9Cwind-comes-lake-and-waves-are-misty-and-grand%E2%80%9D
 identifier: li_qingzhao_wind_comes_from_lake.md
+tei: /assets/tei/li_qingzhao_wind_comes_from_lake.xml
+pdf: /assets/pdf/li_qingzhao_wind_comes_from_lake.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_wind_comes_from_lake.png
 thumb: /assets/img/text/li_qingzhao_wind_comes_from_lake-thumb.png

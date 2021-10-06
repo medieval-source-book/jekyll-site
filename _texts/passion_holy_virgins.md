@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/passion_holy_virgins"
 redirect_from: /text/passion-holy-virgins
 identifier: passion_holy_virgins.md
+tei: /assets/tei/passion_holy_virgins.xml
+pdf: /assets/pdf/passion_holy_virgins.pdf
 textauthor: Anonymous
-language: [latin]
-period: [12th_century]
-textcollection: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+languages: [latin]
+periods: [12th_century]
+textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/passion_holy_virgins.png
 thumb: /assets/img/text/passion_holy_virgins-thumb.png

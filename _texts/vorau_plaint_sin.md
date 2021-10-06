@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/vorau_plaint_sin"
 redirect_from: /text/vorau-plaint-sin
 identifier: vorau_plaint_sin.md
+tei: /assets/tei/vorau_plaint_sin.xml
+pdf: /assets/pdf/vorau_plaint_sin.pdf
 textauthor: Anonymous
-language: [middle_high_german]
-period: [12th_century]
-textcollection: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+languages: [middle_high_german]
+periods: [12th_century]
+textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/vorau_plaint_sin.png
 thumb: /assets/img/text/vorau_plaint_sin-thumb.png

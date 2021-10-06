@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Middle East and North Africa
-tag: middle_east_and_north_africa
+identifier: middle_east_and_north_africa
 ---

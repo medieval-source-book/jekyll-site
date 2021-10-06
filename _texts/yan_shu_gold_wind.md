@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_gold_wind"
 redirect_from: /text/tune-%E2%80%9Cqingping-music%E2%80%9D%E2%80%94-gold-wind-gentle-and-tender
 identifier: yan_shu_gold_wind.md
+tei: /assets/tei/yan_shu_gold_wind.xml
+pdf: /assets/pdf/yan_shu_gold_wind.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_gold_wind.jpg
 thumb: /assets/img/text/yan_shu_gold_wind-thumb.jpg

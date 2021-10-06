@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/trust_I_have_you"
 redirect_from: /text/trust-i-have-you
 identifier: trust_I_have_you.md
+tei: /assets/tei/trust_I_have_you.xml
+pdf: /assets/pdf/trust_I_have_you.pdf
 textauthor: Anonymous
-language: [french]
-period: [15th_century]
-textcollection: [love-songs]
+languages: [french]
+periods: [15th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/trust_I_have_you.png
 thumb: /assets/img/text/trust_I_have_you-thumb.png

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Poem388"
 redirect_from: /text/5th-book-love-poem-1388
 identifier: Poem388.md
+tei: /assets/tei/Poem388.xml
+pdf: /assets/pdf/Poem388.pdf
 textauthor: Eifuku Mon'in 永福門院
-language: [japanese]
-period: [14th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [japanese]
+periods: [14th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Poem388.jpg
 thumb: /assets/img/text/Poem388-thumb.jpg

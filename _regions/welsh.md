@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Welsh
-tag: Welsh
+identifier: Welsh
 ---

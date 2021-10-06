@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Incident_Universty_Paris"
 redirect_from: /text/regarding-outrageous-incident-university-paris
 identifier: Incident_Universty_Paris.md
+tei: /assets/tei/Incident_Universty_Paris.xml
+pdf: /assets/pdf/Incident_Universty_Paris.pdf
 textauthor: Johannes de Reno
-language: [latin]
-period: [15th_century]
-textcollection: []
+languages: [latin]
+periods: [15th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Incident_Universty_Paris.jpg
 thumb: /assets/img/text/Incident_Universty_Paris-thumb.jpg

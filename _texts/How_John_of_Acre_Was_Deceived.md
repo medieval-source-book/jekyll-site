@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/How_John_of_Acre_Was_Deceived"
 redirect_from: /text/how-sir-john-acre-butler-france-who-was-guard-was-deceived-some-saracens-who-requested-baptism
 identifier: How_John_of_Acre_Was_Deceived.md
+tei: /assets/tei/How_John_of_Acre_Was_Deceived.xml
+pdf: /assets/pdf/How_John_of_Acre_Was_Deceived.pdf
 textauthor: Guillaume de Nangis
-language: [french]
-period: [13th_century, 14th_century]
-textcollection: [cross-cultural-encounters, making-history]
+languages: [french]
+periods: [13th_century, 14th_century]
+textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/How_John_of_Acre_Was_Deceived.jpg
 thumb: /assets/img/text/How_John_of_Acre_Was_Deceived-thumb.jpg

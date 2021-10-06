@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_singer"
 redirect_from: /text/tune-%E2%80%9Cwillows-mountain-pavilion%E2%80%9D%E2%80%94-singer
 identifier: yan_shu_singer.md
+tei: /assets/tei/yan_shu_singer.xml
+pdf: /assets/pdf/yan_shu_singer.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs, gender-sex-and-sensuality]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_singer.jpg
 thumb: /assets/img/text/yan_shu_singer-thumb.jpg

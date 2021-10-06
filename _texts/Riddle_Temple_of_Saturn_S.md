@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Riddle_Temple_of_Saturn_S"
 redirect_from: /text/copy-riddle-was-said-have-been-found-temple-saturn-written-golden-tablet
 identifier: Riddle_Temple_of_Saturn_S.md
+tei: /assets/tei/Riddle_Temple_of_Saturn_S.xml
+pdf: /assets/pdf/Riddle_Temple_of_Saturn_S.pdf
 textauthor: Anonymous, Ḥunayn ibn Isḥāq [att.]
-language: [arabic]
-period: [9th_century, 10th_century, 11th_century]
-textcollection: []
+languages: [arabic]
+periods: [9th_century, 10th_century, 11th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Riddle_Temple_of_Saturn_S.jpg
 thumb: /assets/img/text/Riddle_Temple_of_Saturn_S-thumb.jpg

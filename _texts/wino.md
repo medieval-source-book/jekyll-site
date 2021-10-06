@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/wino"
 redirect_from: /text/wino
 identifier: wino.md
+tei: /assets/tei/wino.xml
+pdf: /assets/pdf/wino.pdf
 textauthor: Anonymous
-language: [german]
-period: [13th_century]
-textcollection: [prank-or-be-pranked]
+languages: [german]
+periods: [13th_century]
+textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/wino.png
 thumb: /assets/img/text/wino-thumb.png

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/just_as_the_elephant"
 redirect_from: /text/%E2%80%9Cjust-elephant%E2%80%9D
 identifier: just_as_the_elephant.md
+tei: /assets/tei/just_as_the_elephant.xml
+pdf: /assets/pdf/just_as_the_elephant.pdf
 textauthor: Rigaut de Berbezilh
-language: [occitan]
-period: [12th_century]
-textcollection: [love-songs]
+languages: [occitan]
+periods: [12th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/just_as_the_elephant.jpg
 thumb: /assets/img/text/just_as_the_elephant-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_courtyard_deep"
 redirect_from: /text/tune-%E2%80%9Cimmortal-river%E2%80%9D%E2%80%94-courtyard-deep-how-far-does-it-extend
 identifier: li_qingzhao_courtyard_deep.md
+tei: /assets/tei/li_qingzhao_courtyard_deep.xml
+pdf: /assets/pdf/li_qingzhao_courtyard_deep.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_courtyard_deep.png
 thumb: /assets/img/text/li_qingzhao_courtyard_deep-thumb.png

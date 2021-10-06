@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_water_pond"
 redirect_from: /text/tune-magnolia-flower%E2%80%94-water-pond-green
 identifier: yan_shu_water_pond.md
+tei: /assets/tei/yan_shu_water_pond.xml
+pdf: /assets/pdf/yan_shu_water_pond.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_water_pond.jpg
 thumb: /assets/img/text/yan_shu_water_pond-thumb.jpg

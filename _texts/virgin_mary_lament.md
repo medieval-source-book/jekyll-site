@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/virgin_mary_lament"
 redirect_from: /text/virgin-marys-lament
 identifier: virgin_mary_lament.md
+tei: /assets/tei/virgin_mary_lament.xml
+pdf: /assets/pdf/virgin_mary_lament.pdf
 textauthor: Anonymous
-language: [german]
-period: [15th_century]
-textcollection: []
+languages: [german]
+periods: [15th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/virgin_mary_lament.png
 thumb: /assets/img/text/virgin_mary_lament-thumb.png

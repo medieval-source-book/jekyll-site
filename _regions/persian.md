@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Persian
-tag: persian
+identifier: persian
 ---

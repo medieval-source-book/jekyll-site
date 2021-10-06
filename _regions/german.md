@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: German
-tag: german
+identifier: german
 ---

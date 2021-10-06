@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/al_harith_toward_demise"
 redirect_from: /text/everythings-destined-toward-demise
 identifier: al_harith_toward_demise.md
+tei: /assets/tei/al_harith_toward_demise.xml
+pdf: /assets/pdf/al_harith_toward_demise.pdf
 textauthor: al-Ḥārith ibn ʿUbād
-language: [arabic]
-period: [5th_century, 6th_century]
-textcollection: []
+languages: [arabic]
+periods: [5th_century, 6th_century]
+textcollections: []
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_harith_toward_demise.png
 thumb: /assets/img/text/al_harith_toward_demise-thumb.png

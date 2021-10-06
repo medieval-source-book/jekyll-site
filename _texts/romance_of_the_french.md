@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/romance_of_the_french"
 redirect_from: /text/romance-french-alfred
 identifier: romance_of_the_french.md
+tei: /assets/tei/romance_of_the_french.xml
+pdf: /assets/pdf/romance_of_the_french.pdf
 textauthor: André de Coutances
-language: [old_french]
-period: [12th_century]
-textcollection: [cross-cultural-encounters, prank-or-be-pranked]
+languages: [old_french]
+periods: [12th_century]
+textcollections: [cross-cultural-encounters, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/romance_of_the_french.jpg
 thumb: /assets/img/text/romance_of_the_french-thumb.jpg

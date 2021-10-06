@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_who_planted_banana_trees"
 redirect_from: /text/tune-%E2%80%9Cvile-charmer-long-version%E2%80%9D%E2%80%94who-planted-banana-trees-front-window
 identifier: li_qingzhao_who_planted_banana_trees.md
+tei: /assets/tei/li_qingzhao_who_planted_banana_trees.xml
+pdf: /assets/pdf/li_qingzhao_who_planted_banana_trees.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_who_planted_banana_trees.png
 thumb: /assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png

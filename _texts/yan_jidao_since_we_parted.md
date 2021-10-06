@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_since_we_parted"
 redirect_from: /text/tune-%E2%80%9Cpicking-mulberries%E2%80%9D%E2%80%94%E2%80%9C-we-parted-i-often-recall-time-western-building%E2%80%9D
 identifier: yan_jidao_since_we_parted.md
+tei: /assets/tei/yan_jidao_since_we_parted.xml
+pdf: /assets/pdf/yan_jidao_since_we_parted.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_since_we_parted.jpg
 thumb: /assets/img/text/yan_jidao_since_we_parted-thumb.jpg

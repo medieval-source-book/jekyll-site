@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/oeglin_between_hill_valley_deep"
 redirect_from: /text/between-hill-and-valley-deep
 identifier: oeglin_between_hill_valley_deep.md
+tei: /assets/tei/oeglin_between_hill_valley_deep.xml
+pdf: /assets/pdf/oeglin_between_hill_valley_deep.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_between_hill_valley_deep.jpeg
 thumb: /assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg

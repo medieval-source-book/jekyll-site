@@ -1,5 +1,5 @@
 ---
-layout: tagpage
+layout: regionpage
 title: Latin
-tag: Latin
+identifier: Latin
 ---

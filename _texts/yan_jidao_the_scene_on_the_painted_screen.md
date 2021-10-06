@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_the_scene_on_the_painted_screen"
 redirect_from: /text/tune-%E2%80%9Cmaking-spring-stay%E2%80%9D%E2%80%94%E2%80%9C-scene-painted-screen-resembles-place%E2%80%9D
 identifier: yan_jidao_the_scene_on_the_painted_screen.md
+tei: /assets/tei/yan_jidao_the_scene_on_the_painted_screen.xml
+pdf: /assets/pdf/yan_jidao_the_scene_on_the_painted_screen.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_the_scene_on_the_painted_screen.jpg
 thumb: /assets/img/text/yan_jidao_the_scene_on_the_painted_screen-thumb.jpg

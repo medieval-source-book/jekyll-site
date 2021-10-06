@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/li_qingzhao_outside_window_spring_color"
 redirect_from: /text/tune-%E2%80%9Csands-washing-stream%E2%80%9D%E2%80%94outside-window-spring-color-deepens
 identifier: li_qingzhao_outside_window_spring_color.md
+tei: /assets/tei/li_qingzhao_outside_window_spring_color.xml
+pdf: /assets/pdf/li_qingzhao_outside_window_spring_color.pdf
 textauthor: Li Qingzhao 李清照
-language: [chinese]
-period: [12th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [12th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_outside_window_spring_color.png
 thumb: /assets/img/text/li_qingzhao_outside_window_spring_color-thumb.png

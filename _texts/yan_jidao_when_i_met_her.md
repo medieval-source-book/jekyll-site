@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_jidao_when_i_met_her"
 redirect_from: /text/tune-%E2%80%9Cbodhisattva-barbarians%E2%80%9D%E2%80%94%E2%80%9Cwhen-i-met-her-i-wanted-tell-her-about-my-affliction
 identifier: yan_jidao_when_i_met_her.md
+tei: /assets/tei/yan_jidao_when_i_met_her.xml
+pdf: /assets/pdf/yan_jidao_when_i_met_her.pdf
 textauthor: Yan Jidao 晏幾道
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_when_i_met_her.jpg
 thumb: /assets/img/text/yan_jidao_when_i_met_her-thumb.jpg

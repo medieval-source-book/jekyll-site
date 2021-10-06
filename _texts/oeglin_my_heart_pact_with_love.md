@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/oeglin_my_heart_pact_with_love"
 redirect_from: /text/my-heart-has-made-pact-love
 identifier: oeglin_my_heart_pact_with_love.md
+tei: /assets/tei/oeglin_my_heart_pact_with_love.xml
+pdf: /assets/pdf/oeglin_my_heart_pact_with_love.pdf
 textauthor: Erhard Oeglin
-language: [early_new_high_german]
-period: [16th_century]
-textcollection: [love-songs]
+languages: [early_new_high_german]
+periods: [16th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_my_heart_pact_with_love.jpg
 thumb: /assets/img/text/oeglin_my_heart_pact_with_love-thumb.jpg

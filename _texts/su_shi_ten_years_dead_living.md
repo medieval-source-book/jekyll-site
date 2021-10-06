@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/su_shi_ten_years_dead_living"
 redirect_from: /text/tune-%E2%80%9Criver-god%E2%80%9D%E2%80%94recording-dream-night-twentieth-first-month-1075-ce
 identifier: su_shi_ten_years_dead_living.md
+tei: /assets/tei/su_shi_ten_years_dead_living.xml
+pdf: /assets/pdf/su_shi_ten_years_dead_living.pdf
 textauthor: Su Shi 蘇軾
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_ten_years_dead_living.jpg
 thumb: /assets/img/text/su_shi_ten_years_dead_living-thumb.jpg

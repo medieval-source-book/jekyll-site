@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Facetiae_Introduction"
 redirect_from: /text/introduction-so-rivals-do-not-slander-collection-jokes-its-inelegance
 identifier: Facetiae_Introduction.md
+tei: /assets/tei/Facetiae_Introduction.xml
+pdf: /assets/pdf/Facetiae_Introduction.pdf
 textauthor: Poggio Bracciolini
-language: [latin]
-period: [15th_century]
-textcollection: [facetiae-jokes]
+languages: [latin]
+periods: [15th_century]
+textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Facetiae_Introduction.jpg
 thumb: /assets/img/text/Facetiae_Introduction-thumb.jpg

@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/oh_how_troubles_me"
 redirect_from: /text/oh-how-it-troubles-me
 identifier: oh_how_troubles_me.md
+tei: /assets/tei/oh_how_troubles_me.xml
+pdf: /assets/pdf/oh_how_troubles_me.pdf
 textauthor: Fesneau/Agricola [att.]
-language: [french]
-period: [15th_century]
-textcollection: [love-songs]
+languages: [french]
+periods: [15th_century]
+textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oh_how_troubles_me.png
 thumb: /assets/img/text/oh_how_troubles_me-thumb.png

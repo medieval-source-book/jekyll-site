@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/King_Tars"
 redirect_from: /text/king-tars
 identifier: King_Tars.md
+tei: /assets/tei/King_Tars.xml
+pdf: /assets/pdf/King_Tars.pdf
 textauthor: Anonymous
-language: [english]
-period: [14th_century]
-textcollection: [cross-cultural-encounters, gender-sex-and-sensuality]
+languages: [english]
+periods: [14th_century]
+textcollections: [cross-cultural-encounters, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/King_Tars.png
 thumb: /assets/img/text/King_Tars-thumb.png

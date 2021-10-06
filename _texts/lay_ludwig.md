@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/lay_ludwig"
 redirect_from: /text/lay-ludwig
 identifier: lay_ludwig.md
+tei: /assets/tei/lay_ludwig.xml
+pdf: /assets/pdf/lay_ludwig.pdf
 textauthor: Anonymous
-language: [german]
-period: [9th_century]
-textcollection: [hymns-and-histories]
+languages: [german]
+periods: [9th_century]
+textcollections: [hymns-and-histories]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/lay_ludwig.jpg
 thumb: /assets/img/text/lay_ludwig-thumb.jpg

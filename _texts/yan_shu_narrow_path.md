@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/yan_shu_narrow_path"
 redirect_from: /text/tune-%E2%80%9Ctreading-sedges%E2%80%94-narrow-path-red-flowers-are-few-now
 identifier: yan_shu_narrow_path.md
+tei: /assets/tei/yan_shu_narrow_path.xml
+pdf: /assets/pdf/yan_shu_narrow_path.pdf
 textauthor: Yan Shu 晏殊
-language: [chinese]
-period: [11th_century]
-textcollection: [what-makes-a-good-life]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_narrow_path.jpg
 thumb: /assets/img/text/yan_shu_narrow_path-thumb.jpg

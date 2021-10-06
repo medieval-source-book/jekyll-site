@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/Walking_out"
 redirect_from: /text/walking-out-olive-grove
 identifier: Walking_out.md
+tei: /assets/tei/Walking_out.xml
+pdf: /assets/pdf/Walking_out.pdf
 textauthor: Carvajal
-language: [spanish]
-period: [15th_century]
-textcollection: [love-songs, gender-sex-and-sensuality]
+languages: [spanish]
+periods: [15th_century]
+textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/Walking_out.jpg
 thumb: /assets/img/text/Walking_out-thumb.jpg

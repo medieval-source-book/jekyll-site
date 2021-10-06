@@ -11,10 +11,12 @@ breadcrumb: true
 permalink: "text/ouyang_xiu_since_we_parted"
 redirect_from: /text/tune-%E2%80%9Cspring-jade-building%E2%80%9D%E2%80%94%E2%80%9C-we-parted-i-do-not-know-how-far-away-you-are%E2%80%9D
 identifier: ouyang_xiu_since_we_parted.md
+tei: /assets/tei/ouyang_xiu_since_we_parted.xml
+pdf: /assets/pdf/ouyang_xiu_since_we_parted.pdf
 textauthor: Ouyang Xiu 歐陽修
-language: [chinese]
-period: [11th_century]
-textcollection: [love-lust-longing, love-songs]
+languages: [chinese]
+periods: [11th_century]
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_since_we_parted.jpg
 thumb: /assets/img/text/ouyang_xiu_since_we_parted-thumb.jpg
