@@ -110,6 +110,7 @@ h1 {
 
 .panel {
 	background: $lightgray;
+	float:left;
 }
 
 .projectbox h4 {
@@ -126,5 +127,4 @@ h1 {
 
 
 #sidenav{
-  z-index: unset;
-  position: absolute;}
+  float:left;}
