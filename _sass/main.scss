@@ -49,7 +49,7 @@ $navfont: 'Roboto', sans-serif;
   background: $gray;
   border-color: $gray;
   font-size:21.6px;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 .top-bar-section ul li {
@@ -59,7 +59,7 @@ $navfont: 'Roboto', sans-serif;
     color: $white;
     text-decoration:none;
     font-size:21.6px;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 
   &:hover:not(.has-form):not(.logo):not(.divider) > a {
@@ -67,7 +67,7 @@ $navfont: 'Roboto', sans-serif;
     color: $white;
     text-decoration:none;
     font-size:21.6px;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 
   a {
@@ -75,13 +75,13 @@ $navfont: 'Roboto', sans-serif;
     font-family: $navfont;
     text-decoration:none;
     font-size:21.6px;
-    text-transform: capitalize;
+    text-transform: uppercase;
 
     &:hover {
       color: $white;
       text-decoration:none;
       font-size:21.6px;
-      text-transform: capitalize;
+      text-transform: uppercase;
     }
   }
 
@@ -89,14 +89,14 @@ $navfont: 'Roboto', sans-serif;
     color: $white;
     text-decoration:none;
     font-size:21.6px;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 
   .dropdown li:not(.has-form):not(.active):hover>a:not(.button) {
     color: $white;
     text-decoration:none;
     font-size:21.6px;
-    text-transform: capitalize;
+    text-transform: uppercase;
   }
 }
 
@@ -104,7 +104,7 @@ $navfont: 'Roboto', sans-serif;
   text-transform: none;
   text-decoration:none;
   font-size:21.6px;
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
 
 // Turned off transitions because they looked weird
