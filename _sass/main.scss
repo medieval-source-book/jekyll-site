@@ -57,46 +57,46 @@ $navfont: 'Roboto', sans-serif;
     background-color: $black;
     color: $white;
     text-decoration:none;
-    font-size:105%;
+    font-size:21.6px;
   }
 
   &:hover:not(.has-form):not(.logo):not(.divider) > a {
     background-color: $blue;
     color: $white;
     text-decoration:none;
-    font-size:105%;
+    font-size:21.6px;
   }
 
   a {
     color: $white;
     font-family: $navfont;
     text-decoration:none;
-    font-size:105%;
+    font-size:21.6px;
 
     &:hover {
       color: $white;
       text-decoration:none;
-      font-size:105%;
+      font-size:21.6px;
     }
   }
 
   .dropdown li:not(.has-form):not(.active)>a:not(.button) {
     color: $white;
     text-decoration:none;
-    font-size:105%;
+    font-size:21.6px;
   }
 
   .dropdown li:not(.has-form):not(.active):hover>a:not(.button) {
     color: $white;
     text-decoration:none;
-    font-size:105%;
+    font-size:21.6px;
   }
 }
 
 .top-bar-section>ul>li>a {
   text-transform: none;
   text-decoration:none;
-  font-size:105%;
+  font-size:21.6px;
 }
 
 // Turned off transitions because they looked weird
