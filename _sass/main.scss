@@ -48,7 +48,8 @@ $navfont: 'Roboto', sans-serif;
 {
   background: $gray;
   border-color: $gray;
-  font-size:105%;
+  font-size:21.6px;
+  text-transform: capitalize;
 }
 
 .top-bar-section ul li {
@@ -58,6 +59,7 @@ $navfont: 'Roboto', sans-serif;
     color: $white;
     text-decoration:none;
     font-size:21.6px;
+    text-transform: capitalize;
   }
 
   &:hover:not(.has-form):not(.logo):not(.divider) > a {
@@ -65,6 +67,7 @@ $navfont: 'Roboto', sans-serif;
     color: $white;
     text-decoration:none;
     font-size:21.6px;
+    text-transform: capitalize;
   }
 
   a {
@@ -72,24 +75,27 @@ $navfont: 'Roboto', sans-serif;
     font-family: $navfont;
     text-decoration:none;
     font-size:21.6px;
+    text-transform: capitalize;
 
     &:hover {
       color: $white;
       text-decoration:none;
       font-size:21.6px;
-    }
+      text-transform: capitalize;
   }
 
   .dropdown li:not(.has-form):not(.active)>a:not(.button) {
     color: $white;
     text-decoration:none;
     font-size:21.6px;
+    text-transform: capitalize;
   }
 
   .dropdown li:not(.has-form):not(.active):hover>a:not(.button) {
     color: $white;
     text-decoration:none;
     font-size:21.6px;
+    text-transform: capitalize;
   }
 }
 
@@ -97,6 +103,7 @@ $navfont: 'Roboto', sans-serif;
   text-transform: none;
   text-decoration:none;
   font-size:21.6px;
+  text-transform: capitalize;
 }
 
 // Turned off transitions because they looked weird
