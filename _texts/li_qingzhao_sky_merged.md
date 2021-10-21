@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn" | 漁家傲 · 天接雲濤連曉霧
+  To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn | 漁家傲 · 天接雲濤連曉霧
 engtitle: |
-  To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn"
+  To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn
 origtitle: |
   漁家傲 · 天接雲濤連曉霧
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_sky_merged.md
 tei: /assets/tei/li_qingzhao_sky_merged.xml
 pdf: /assets/pdf/li_qingzhao_sky_merged.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

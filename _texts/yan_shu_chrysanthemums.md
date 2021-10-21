@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist" | 鹊踏枝 · 檻菊愁煙蘭泣露
+  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist | 鹊踏枝 · 檻菊愁煙蘭泣露
 engtitle: |
-  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist"
+  To the tune “Magpie Treads the Branch”—"Chrysanthemums by the railings wilt in the mist
 origtitle: |
   鹊踏枝 · 檻菊愁煙蘭泣露
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: yan_shu_chrysanthemums.md
 tei: /assets/tei/yan_shu_chrysanthemums.xml
 pdf: /assets/pdf/yan_shu_chrysanthemums.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

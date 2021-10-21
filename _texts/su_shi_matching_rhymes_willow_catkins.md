@@ -14,7 +14,7 @@ identifier: su_shi_matching_rhymes_willow_catkins.md
 tei: /assets/tei/su_shi_matching_rhymes_willow_catkins.xml
 pdf: /assets/pdf/su_shi_matching_rhymes_willow_catkins.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

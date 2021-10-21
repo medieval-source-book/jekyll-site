@@ -14,7 +14,7 @@ identifier: lay_ludwig.md
 tei: /assets/tei/lay_ludwig.xml
 pdf: /assets/pdf/lay_ludwig.pdf
 textauthor: Anonymous
-languages: [german]
+languages: [german,western_europe]
 periods: [9th_century]
 textcollections: [hymns-and-histories]
 sdr: https://purl.stanford.edu/druid 

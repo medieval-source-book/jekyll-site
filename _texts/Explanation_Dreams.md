@@ -8,18 +8,18 @@ engtitle: |
 origtitle: |
   Ad explanandum sompnium
 breadcrumb: true
-permalink: "text/Explanation_Dreams"
+permalink: "text/explanation_dreams"
 redirect_from: /text/explanation-dreams-somniale-ioseph
-identifier: Explanation_Dreams.md
-tei: /assets/tei/Explanation_Dreams.xml
-pdf: /assets/pdf/Explanation_Dreams.pdf
+identifier: explanation_dreams.md
+tei: /assets/tei/explanation_dreams.xml
+pdf: /assets/pdf/explanation_dreams.pdf
 textauthor: Anonymous
-languages: [latin]
+languages: [latin,western_europe]
 periods: [13th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Explanation_Dreams.jpg
-thumb: /assets/img/text/Explanation_Dreams-thumb.jpg
+image: /assets/img/text/explanation_dreams.jpg
+thumb: /assets/img/text/explanation_dreams-thumb.jpg
 imagesource: |
   Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, MS Ham. 390 f.49v [Public Domain]
 fulltext: |

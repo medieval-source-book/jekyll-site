@@ -14,7 +14,7 @@ identifier: yan_shu_singer.md
 tei: /assets/tei/yan_shu_singer.xml
 pdf: /assets/pdf/yan_shu_singer.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

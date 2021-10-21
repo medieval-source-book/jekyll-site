@@ -1,12 +1,12 @@
 
 	<div class="panel">
-		<h3 id="tocheader">Text Info</h3>
+		<h3 id="tocheader">Text Information</h3>
 		<ul id="toc">
-			
+
 			{% if page.textauthor And page.textauthor != "" And page.textauthor != nil %}
 			<li><strong>Author:</strong> {{page.textauthor}}</li>
 			{% endif %}
-			 
+
 			{% if page.languages != '' %}
 			{% assign textlanguages = page.languages %}
 			<li><strong>Languages: </strong>
@@ -18,10 +18,10 @@
 			  {% unless forloop.last %}&nbsp;{% endunless %}
 			  {% endfor %}</li>
 			  {% endif %}
-		
-		
+
+
 		{% assign textperiods = page.periods %}
-		<li><strong>Period:</strong> 
+		<li><strong>Period:</strong>
 		  {% for textperiod in textperiods %}
     	  {% for period in site.periods %}
 		  {% if textperiod contains period.tag %}<a href="{{site.baseurl}}{{period.url}}">{{period.title}}</a>
@@ -29,10 +29,10 @@
 		  {% endfor %}
 		  {% unless forloop.last %}&nbsp;{% endunless %}
 		  {% endfor %}</li>
-		
+
 		{% if page.textcollections And page.textcollections != "" And page.textcollections != nil %}
 		{% assign listtextcollections = page.textcollections %}
-		<li><strong>Collection:</strong> 
+		<li><strong>Collection:</strong>
 		  {% for listtextcollection in listtextcollections %}
     	  {% for textcollection in site.textcollections %}
 		  {% if listtextcollection contains textcollection.identifier %}<a href="{{site.baseurl}}{{textcollection.permalink}}">{{textcollection.title}}</a>

@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  "Oh, how it troubles me!" | "Ha, qu'il m'ennuie!"
+  Oh, how it troubles me! | Ha, qu'il m'ennuie!
 engtitle: |
-  "Oh, how it troubles me!"
+  Oh, how it troubles me!
 origtitle: |
-  "Ha, qu'il m'ennuie!"
+  Ha, qu'il m'ennuie!
 breadcrumb: true
 permalink: "text/oh_how_troubles_me"
 redirect_from: /text/oh-how-it-troubles-me
@@ -14,7 +14,7 @@ identifier: oh_how_troubles_me.md
 tei: /assets/tei/oh_how_troubles_me.xml
 pdf: /assets/pdf/oh_how_troubles_me.pdf
 textauthor: Fesneau/Agricola [att.]
-languages: [french]
+languages: [french,western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

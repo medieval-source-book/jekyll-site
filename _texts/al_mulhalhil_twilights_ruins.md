@@ -14,7 +14,7 @@ identifier: al_mulhalhil_twilights_ruins.md
 tei: /assets/tei/al_mulhalhil_twilights_ruins.xml
 pdf: /assets/pdf/al_mulhalhil_twilights_ruins.pdf
 textauthor: al-Muhalhil
-languages: [arabic]
+languages: [arabic, middle_east]
 periods: [5th_century, 6th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

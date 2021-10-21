@@ -14,7 +14,7 @@ identifier: creature_dialogue_fire_water.md
 tei: /assets/tei/creature_dialogue_fire_water.xml
 pdf: /assets/pdf/creature_dialogue_fire_water.pdf
 textauthor: Nicolaus Pergamenus [att.]
-languages: [latin]
+languages: [latin,western_europe]
 periods: [14th_century]
 textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 

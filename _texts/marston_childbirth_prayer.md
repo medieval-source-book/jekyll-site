@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  Marston Childbirth Prayer | "Omnipotens sempiterne Deus"
+  Marston Childbirth Prayer | Omnipotens sempiterne Deus
 engtitle: |
   Marston Childbirth Prayer
 origtitle: |
-  "Omnipotens sempiterne Deus"
+  Omnipotens sempiterne Deus
 breadcrumb: true
 permalink: "text/marston_childbirth_prayer"
 redirect_from: /text/marston-childbirth-prayer
@@ -14,7 +14,7 @@ identifier: marston_childbirth_prayer.md
 tei: /assets/tei/marston_childbirth_prayer.xml
 pdf: /assets/pdf/marston_childbirth_prayer.pdf
 textauthor: Anonymous
-languages: [latin]
+languages: [latin,western_europe]
 periods: [14th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

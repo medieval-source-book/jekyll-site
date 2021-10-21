@@ -8,18 +8,18 @@ engtitle: |
 origtitle: |
   Þe king of Tars
 breadcrumb: true
-permalink: "text/King_Tars"
+permalink: "text/king_tars"
 redirect_from: /text/king-tars
-identifier: King_Tars.md
-tei: /assets/tei/King_Tars.xml
-pdf: /assets/pdf/King_Tars.pdf
+identifier: king_tars.md
+tei: /assets/tei/king_tars.xml
+pdf: /assets/pdf/king_tars.pdf
 textauthor: Anonymous
-languages: [english]
+languages: [english,western_europe]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/King_Tars.png
-thumb: /assets/img/text/King_Tars-thumb.png
+image: /assets/img/text/king_tars.png
+thumb: /assets/img/text/king_tars-thumb.png
 imagesource: |
   Oxford, Bodleian Library MS. Eng. poet. a. 1 [Public Domain]
 fulltext: |

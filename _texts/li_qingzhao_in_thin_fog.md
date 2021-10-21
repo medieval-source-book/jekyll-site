@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist" | 醉花陰 · 薄霧濃雰愁永晝
+  To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist | 醉花陰 · 薄霧濃雰愁永晝
 engtitle: |
-  To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist"
+  To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist
 origtitle: |
   醉花陰 · 薄霧濃雰愁永晝
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_in_thin_fog.md
 tei: /assets/tei/li_qingzhao_in_thin_fog.xml
 pdf: /assets/pdf/li_qingzhao_in_thin_fog.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

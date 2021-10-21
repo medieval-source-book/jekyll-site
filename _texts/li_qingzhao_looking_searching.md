@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching" | 聲聲慢 · 尋尋覓覓
+  To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching | 聲聲慢 · 尋尋覓覓
 engtitle: |
-  To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching"
+  To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching
 origtitle: |
   聲聲慢 · 尋尋覓覓
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_looking_searching.md
 tei: /assets/tei/li_qingzhao_looking_searching.xml
 pdf: /assets/pdf/li_qingzhao_looking_searching.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

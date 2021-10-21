@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion" | 鳳凰臺上憶吹簫 · 香冷金猊
+  To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion | 鳳凰臺上憶吹簫 · 香冷金猊
 engtitle: |
-  To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion"
+  To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion
 origtitle: |
   鳳凰臺上憶吹簫 · 香冷金猊
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_incense_chills.md
 tei: /assets/tei/li_qingzhao_incense_chills.xml
 pdf: /assets/pdf/li_qingzhao_incense_chills.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

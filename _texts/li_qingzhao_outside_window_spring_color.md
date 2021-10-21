@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens" | 浣溪沙 · 小院閒窗春色深
+  To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens | 浣溪沙 · 小院閒窗春色深
 engtitle: |
-  To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens"
+  To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens
 origtitle: |
   浣溪沙 · 小院閒窗春色深
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_outside_window_spring_color.md
 tei: /assets/tei/li_qingzhao_outside_window_spring_color.xml
 pdf: /assets/pdf/li_qingzhao_outside_window_spring_color.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [12th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune "Magnolia Flower"—"The water in the pond is green" | 木蘭花 · 池塘水綠風微暖
+  To the tune "Magnolia Flower"—"The water in the pond is green | 木蘭花 · 池塘水綠風微暖
 engtitle: |
-  To the tune "Magnolia Flower"—"The water in the pond is green"
+  To the tune "Magnolia Flower"—"The water in the pond is green
 origtitle: |
   木蘭花 · 池塘水綠風微暖
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: yan_shu_water_pond.md
 tei: /assets/tei/yan_shu_water_pond.xml
 pdf: /assets/pdf/yan_shu_water_pond.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

@@ -48,6 +48,7 @@ $navfont: 'Roboto', sans-serif;
 {
   background: $gray;
   border-color: $gray;
+  font-size:105%;
 }
 
 .top-bar-section ul li {
@@ -55,33 +56,47 @@ $navfont: 'Roboto', sans-serif;
   &.active:not(.has-form) > a:not(.button) {
     background-color: $black;
     color: $white;
+    text-decoration:none;
+    font-size:105%;
   }
 
   &:hover:not(.has-form):not(.logo):not(.divider) > a {
     background-color: $blue;
     color: $white;
+    text-decoration:none;
+    font-size:105%;
   }
 
   a {
     color: $white;
     font-family: $navfont;
+    text-decoration:none;
+    font-size:105%;
 
     &:hover {
       color: $white;
+      text-decoration:none;
+      font-size:105%;
     }
   }
 
   .dropdown li:not(.has-form):not(.active)>a:not(.button) {
     color: $white;
+    text-decoration:none;
+    font-size:105%;
   }
 
   .dropdown li:not(.has-form):not(.active):hover>a:not(.button) {
     color: $white;
+    text-decoration:none;
+    font-size:105%;
   }
 }
 
 .top-bar-section>ul>li>a {
   text-transform: none;
+  text-decoration:none;
+  font-size:105%;
 }
 
 // Turned off transitions because they looked weird
@@ -109,7 +124,7 @@ h1 {
 }
 
 .panel {
-	background: $lightgray;
+	background: $grey-sidebar;
 	float:left;
 }
 

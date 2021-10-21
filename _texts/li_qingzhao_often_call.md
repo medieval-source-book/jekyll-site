@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune "As If in a Dream"—"I often recall the sunset by Xiting" | 如夢令 · 常記溪亭日暮
+  To the tune "As if in a Dream"—"I often recall the sunset by Xiting | 如夢令 · 常記溪亭日暮
 engtitle: |
-  To the tune "As If in a Dream"—"I often recall the sunset by Xiting"
+  To the tune "As if in a Dream"—"I often recall the sunset by Xiting
 origtitle: |
   如夢令 · 常記溪亭日暮
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_often_call.md
 tei: /assets/tei/li_qingzhao_often_call.xml
 pdf: /assets/pdf/li_qingzhao_often_call.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

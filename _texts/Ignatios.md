@@ -8,18 +8,18 @@ engtitle: |
 origtitle: |
   μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
 breadcrumb: true
-permalink: "text/Ignatios"
+permalink: "text/ignatios"
 redirect_from: /text/memorial-our-father-ignatios-patriarch-constantinople
-identifier: Ignatios.md
-tei: /assets/tei/Ignatios.xml
-pdf: /assets/pdf/Ignatios.pdf
+identifier: ignatios.md
+tei: /assets/tei/ignatios.xml
+pdf: /assets/pdf/ignatios.pdf
 textauthor: Anonymous
-languages: [greek]
+languages: [greek,eastern_europe]
 periods: [10th_century, 11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/Ignatios.jpg
-thumb: /assets/img/text/Ignatios-thumb.jpg
+image: /assets/img/text/ignatios.jpg
+thumb: /assets/img/text/ignatios-thumb.jpg
 imagesource: |
   Ignatios from Tympanum Mosaics, Hagia Sophia, Istanbul, Mosaic [Public Domain]
 fulltext: |

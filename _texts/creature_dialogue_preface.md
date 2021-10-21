@@ -14,7 +14,7 @@ identifier: creature_dialogue_preface.md
 tei: /assets/tei/creature_dialogue_preface.xml
 pdf: /assets/pdf/creature_dialogue_preface.pdf
 textauthor: Nicolaus Pergamenus [att.]
-languages: [latin]
+languages: [latin,western_europe]
 periods: [14th_century]
 textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 

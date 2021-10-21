@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone" | 武陵春 · 風住塵香花已盡
+  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone | 武陵春 · 風住塵香花已盡
 engtitle: |
-  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone"
+  To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone
 origtitle: |
   武陵春 · 風住塵香花已盡
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_wind_stops_dust_fragrant.md
 tei: /assets/tei/li_qingzhao_wind_stops_dust_fragrant.xml
 pdf: /assets/pdf/li_qingzhao_wind_stops_dust_fragrant.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

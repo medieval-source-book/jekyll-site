@@ -14,7 +14,7 @@ identifier: hong_mai_strange_dogs.md
 tei: /assets/tei/hong_mai_strange_dogs.xml
 pdf: /assets/pdf/hong_mai_strange_dogs.pdf
 textauthor: Hong Mai 洪邁
-languages: [chinese]
+languages: [chinese,asia]
 periods: [12th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,7 @@ identifier: creature_dialogue_precious_topaz.md
 tei: /assets/tei/creature_dialogue_precious_topaz.xml
 pdf: /assets/pdf/creature_dialogue_precious_topaz.pdf
 textauthor: Nicolaus Pergamenus [att.]
-languages: [latin]
+languages: [latin,western_europe]
 periods: [14th_century]
 textcollections: [fantastic-fables]
 sdr: https://purl.stanford.edu/druid 

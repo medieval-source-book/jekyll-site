@@ -14,7 +14,7 @@ identifier: charcoal_burner_nevers.md
 tei: /assets/tei/charcoal_burner_nevers.xml
 pdf: /assets/pdf/charcoal_burner_nevers.pdf
 textauthor: Jacopo Passavanti
-languages: [italian,_tuscan]
+languages: [italian,tuscan,western_europe]
 periods: [14th_century]
 textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

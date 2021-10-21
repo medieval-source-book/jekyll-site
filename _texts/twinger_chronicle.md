@@ -14,7 +14,7 @@ identifier: twinger_chronicle.md
 tei: /assets/tei/twinger_chronicle.xml
 pdf: /assets/pdf/twinger_chronicle.pdf
 textauthor: Jakob Twinger von Königshofen
-languages: [german]
+languages: [german,western_europe]
 periods: [14th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

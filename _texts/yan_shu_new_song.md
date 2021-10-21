@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine" | 浣溪沙 · 一曲新詞酒一杯
+  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine | 浣溪沙 · 一曲新詞酒一杯
 engtitle: |
-  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine"
+  To the tune "Sands of the Washing Stream"—"A single new song, a single cup of wine
 origtitle: |
   浣溪沙 · 一曲新詞酒一杯
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: yan_shu_new_song.md
 tei: /assets/tei/yan_shu_new_song.xml
 pdf: /assets/pdf/yan_shu_new_song.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

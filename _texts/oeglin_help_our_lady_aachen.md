@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  "Help, our lady of Aachen!" | "Hilf fraw von Ach"
+  Help, our lady of Aachen! | Hilf fraw von Ach
 engtitle: |
-  "Help, our lady of Aachen!"
+  Help, our lady of Aachen!
 origtitle: |
-  "Hilf fraw von Ach"
+  Hilf fraw von Ach
 breadcrumb: true
 permalink: "text/oeglin_help_our_lady_aachen"
 redirect_from: /text/help-our-lady-aachen
@@ -14,7 +14,7 @@ identifier: oeglin_help_our_lady_aachen.md
 tei: /assets/tei/oeglin_help_our_lady_aachen.xml
 pdf: /assets/pdf/oeglin_help_our_lady_aachen.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [early_new_high_german,western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Always Having Fun”—"The setting sun is like melted gold" | 永遇樂 · 落日鎔金
+  To the tune “Always Having Fun”—"The setting sun is like melted gold | 永遇樂 · 落日鎔金
 engtitle: |
-  To the tune “Always Having Fun”—"The setting sun is like melted gold"
+  To the tune “Always Having Fun”—"The setting sun is like melted gold
 origtitle: |
   永遇樂 · 落日鎔金
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_setting_sun.md
 tei: /assets/tei/li_qingzhao_setting_sun.xml
 pdf: /assets/pdf/li_qingzhao_setting_sun.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

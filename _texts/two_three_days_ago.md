@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  "Two or three days ago" | "Depuis deux ou trois jours enca"
+  Two or three days ago | Depuis deux ou trois jours enca
 engtitle: |
-  "Two or three days ago"
+  Two or three days ago
 origtitle: |
-  "Depuis deux ou trois jours enca"
+  Depuis deux ou trois jours enca
 breadcrumb: true
 permalink: "text/two_three_days_ago"
 redirect_from: /text/two-or-three-days-ago
@@ -14,7 +14,7 @@ identifier: two_three_days_ago.md
 tei: /assets/tei/two_three_days_ago.xml
 pdf: /assets/pdf/two_three_days_ago.pdf
 textauthor: Anonymous
-languages: [french]
+languages: [french,western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

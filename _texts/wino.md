@@ -14,7 +14,7 @@ identifier: wino.md
 tei: /assets/tei/wino.xml
 pdf: /assets/pdf/wino.pdf
 textauthor: Anonymous
-languages: [german]
+languages: [german,western_europe]
 periods: [13th_century]
 textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,7 @@ identifier: trojan_war.md
 tei: /assets/tei/trojan_war.xml
 pdf: /assets/pdf/trojan_war.pdf
 textauthor: Anonymous
-languages: [german]
+languages: [german,western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

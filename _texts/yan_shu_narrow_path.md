@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now" | 踏莎行 · 小徑紅稀
+  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now | 踏莎行 · 小徑紅稀
 engtitle: |
-  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now"
+  To the tune “Treading on the Sedges"—"On the narrow path, red flowers are few now
 origtitle: |
   踏莎行 · 小徑紅稀
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: yan_shu_narrow_path.md
 tei: /assets/tei/yan_shu_narrow_path.xml
 pdf: /assets/pdf/yan_shu_narrow_path.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

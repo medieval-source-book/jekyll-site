@@ -14,7 +14,7 @@ identifier: su_shi_plum_blossom.md
 tei: /assets/tei/su_shi_plum_blossom.xml
 pdf: /assets/pdf/su_shi_plum_blossom.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

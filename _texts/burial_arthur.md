@@ -14,7 +14,7 @@ identifier: burial_arthur.md
 tei: /assets/tei/burial_arthur.xml
 pdf: /assets/pdf/burial_arthur.pdf
 textauthor: Anonymous
-languages: [middle_welsh]
+languages: [middle_welsh,western_europe]
 periods: [13th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

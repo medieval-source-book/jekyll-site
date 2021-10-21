@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend" | 臨江仙 · 庭院深深深幾許
+  To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend | 臨江仙 · 庭院深深深幾許
 engtitle: |
-  To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend"
+  To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend
 origtitle: |
   臨江仙 · 庭院深深深幾許
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_courtyard_deep.md
 tei: /assets/tei/li_qingzhao_courtyard_deep.xml
 pdf: /assets/pdf/li_qingzhao_courtyard_deep.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

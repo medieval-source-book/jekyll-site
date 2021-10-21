@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window" | 添字醜奴兒 · 窗前誰種芭蕉樹
+  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window | 添字醜奴兒 · 窗前誰種芭蕉樹
 engtitle: |
-  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window"
+  To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window
 origtitle: |
   添字醜奴兒 · 窗前誰種芭蕉樹
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_who_planted_banana_trees.md
 tei: /assets/tei/li_qingzhao_who_planted_banana_trees.xml
 pdf: /assets/pdf/li_qingzhao_who_planted_banana_trees.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

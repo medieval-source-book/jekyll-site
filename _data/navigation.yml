@@ -35,31 +35,73 @@
     side: left
     alternate:
     dropdown:
-       - title: "Latin"
-         url: "/regions/latin"
+       - title: "Quechua"
+         url: "/regions/quechua"
        - title: "Spanish"
          url: "/regions/spanish"
   - title: "Western Europe"
-    url: "/regions/western-europe"
+    url: "/regions/western_europe"
     side: left
     alternate:
     dropdown:
+       - title: "Aljamiado"
+         url: "/regions/aljamiado"
+       - title: "Catalan"
+         url: "/regions/catalan"
+       - title: "English"
+         url: "/regions/catalan"
+       - title: "French"
+         url: "/regions/french"
+       - title: "German"
+         url: "/regions/german"
+       - title: "Hungarian"
+         url: "/regions/hungarian"
+       - title: "Italian"
+         url: "/regions/italian"
+       - title: "Irish"
+         url: "/regions/irish"
+       - title: "Latin"
+         url: "/regions/latin"
+       - title: "Occitan"
+         url: "/regions/occitan"
+       - title: "Portuguese"
+         url: "/regions/portuguese"
+       - title: "Provençal"
+         url: "/regions/provencal"
        - title: "Spanish"
          url: "/regions/spanish"
+       - title: "Welsh"
+         url: "/regions/welsh"
   - title: "Eastern Europe"
     url: "/regions/eastern-europe"
     side: left
     alternate:
     dropdown:
+       - title: "Czech"
+         url: "/regions/czech"
+       - title: "Greek"
+         url: "/regions/greek"
+       - title: "Czech"
+         url: "/regions/czech"
+       - title: "Church Slavonic"
+         url: "/regions/church_slavonic"
        - title: "Russian Church Slavonic"
          url: "/regions/russian_church_slavonic"
+       - title: "Ruthenian"
+         url: "/regions/ruthenian"
   - title: "Middle East and North Africa"
-    url: "/regions/middle-east-and-north-africa"
+    url: "/regions/middle_east"
     side: left
     alternate:
     dropdown:
        - title: "Arabic"
          url: "/regions/arabic"
+       - title: "Hebrew"
+         url: "/regions/hebrew"
+       - title: "Persian"
+         url: "/regions/persian"
+       - title: "Syriac"
+         url: "/regions/syriac"
   - title: "Asia"
     url: "/regions/asia"
     side: left
@@ -67,6 +109,8 @@
     dropdown:
        - title: "Chinese"
          url: "/regions/chinese"
+       - title: "Japanese"
+         url: "/regions/japanese"
 - title: "By Century"
   url: "/periods/"
   side: left

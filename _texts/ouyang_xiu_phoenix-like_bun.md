@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Southland Song”—“Phoenix-like bun and gold-pleated ribbon” | 南歌子 · 鳳髻金泥帶
+  To the tune "Southland Song"—"Phoenix-like bun and gold-pleated ribbon | 南歌子 · 鳳髻金泥帶
 engtitle: |
-  To the tune “Southland Song”—“Phoenix-like bun and gold-pleated ribbon”
+  To the tune "Southland Song"—"Phoenix-like bun and gold-pleated ribbon
 origtitle: |
   南歌子 · 鳳髻金泥帶
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: ouyang_xiu_phoenix-like_bun.md
 tei: /assets/tei/ouyang_xiu_phoenix-like_bun.xml
 pdf: /assets/pdf/ouyang_xiu_phoenix-like_bun.pdf
 textauthor: Ouyang Xiu 歐陽修
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

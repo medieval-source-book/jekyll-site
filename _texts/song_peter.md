@@ -14,7 +14,7 @@ identifier: song_peter.md
 tei: /assets/tei/song_peter.xml
 pdf: /assets/pdf/song_peter.pdf
 textauthor: Anonymous
-languages: [german]
+languages: [german,western_europe]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup" | 訴衷情 · 夜來沉醉卸妝遲
+  To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup | 訴衷情 · 夜來沉醉卸妝遲
 engtitle: |
-  To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup"
+  To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup
 origtitle: |
   訴衷情 · 夜來沉醉卸妝遲
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_at_night.md
 tei: /assets/tei/li_qingzhao_at_night.xml
 pdf: /assets/pdf/li_qingzhao_at_night.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

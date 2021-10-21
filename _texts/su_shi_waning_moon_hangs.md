@@ -14,7 +14,7 @@ identifier: su_shi_waning_moon_hangs.md
 tei: /assets/tei/su_shi_waning_moon_hangs.xml
 pdf: /assets/pdf/su_shi_waning_moon_hangs.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

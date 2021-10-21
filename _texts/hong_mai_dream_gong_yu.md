@@ -14,7 +14,7 @@ identifier: hong_mai_dream_gong_yu.md
 tei: /assets/tei/hong_mai_dream_gong_yu.xml
 pdf: /assets/pdf/hong_mai_dream_gong_yu.pdf
 textauthor: Hong Mai 洪邁
-languages: [chinese]
+languages: [chinese,asia]
 periods: [12th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Immortal by the River”—"Beyond the willows there is light thunder" | 臨江仙 · 柳外輕雷池上雨
+  To the tune “Immortal by the River”—"Beyond the willows there is light thunder | 臨江仙 · 柳外輕雷池上雨
 engtitle: |
-  To the tune “Immortal by the River”—"Beyond the willows there is light thunder"
+  To the tune “Immortal by the River”—"Beyond the willows there is light thunder
 origtitle: |
   臨江仙 · 柳外輕雷池上雨
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: ouyang_xiu_beyond_willows.md
 tei: /assets/tei/ouyang_xiu_beyond_willows.xml
 pdf: /assets/pdf/ouyang_xiu_beyond_willows.pdf
 textauthor: Ouyang Xiu 歐陽修
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

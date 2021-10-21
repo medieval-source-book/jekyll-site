@@ -14,7 +14,7 @@ identifier: sultan_daughter.md
 tei: /assets/tei/sultan_daughter.xml
 pdf: /assets/pdf/sultan_daughter.pdf
 textauthor: Anonymous
-languages: [middle_high_german]
+languages: [middle_high_german,western_europe]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

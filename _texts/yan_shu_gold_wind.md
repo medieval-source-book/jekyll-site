@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Qingping Music”—"The gold wind is gentle and tender" | 清平樂 · 金風細細
+  To the tune “Qingping Music”—"The gold wind is gentle and tender | 清平樂 · 金風細細
 engtitle: |
-  To the tune “Qingping Music”—"The gold wind is gentle and tender"
+  To the tune “Qingping Music”—"The gold wind is gentle and tender
 origtitle: |
   清平樂 · 金風細細
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: yan_shu_gold_wind.md
 tei: /assets/tei/yan_shu_gold_wind.xml
 pdf: /assets/pdf/yan_shu_gold_wind.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

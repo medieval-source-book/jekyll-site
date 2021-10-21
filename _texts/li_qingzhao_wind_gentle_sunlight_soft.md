@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft" | 菩薩蠻 · 風柔日薄春猶早
+  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft | 菩薩蠻 · 風柔日薄春猶早
 engtitle: |
-  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft"
+  To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft
 origtitle: |
   菩薩蠻 · 風柔日薄春猶早
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: li_qingzhao_wind_gentle_sunlight_soft.md
 tei: /assets/tei/li_qingzhao_wind_gentle_sunlight_soft.xml
 pdf: /assets/pdf/li_qingzhao_wind_gentle_sunlight_soft.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

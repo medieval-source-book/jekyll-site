@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  "Farewell! It hurts" | "Ade mit layd"
+  Farewell! It hurts | Ade mit layd
 engtitle: |
-  "Farewell! It hurts"
+  Farewell! It hurts
 origtitle: |
-  "Ade mit layd"
+  Ade mit layd
 breadcrumb: true
 permalink: "text/oeglin_farewell_it_hurts"
 redirect_from: /text/farewell-it-hurts
@@ -14,7 +14,7 @@ identifier: oeglin_farewell_it_hurts.md
 tei: /assets/tei/oeglin_farewell_it_hurts.xml
 pdf: /assets/pdf/oeglin_farewell_it_hurts.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [early_new_high_german,western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

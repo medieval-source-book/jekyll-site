@@ -14,7 +14,7 @@ identifier: su_shi_moon_shines_wild_fields.md
 tei: /assets/tei/su_shi_moon_shines_wild_fields.xml
 pdf: /assets/pdf/su_shi_moon_shines_wild_fields.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

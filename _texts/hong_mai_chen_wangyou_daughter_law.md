@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  Chen Wangyou’s Daughter-in-Law | 陳王猷子妇
+  Chen Wangyou's Daughter-in-Law | 陳王猷子妇
 engtitle: |
-  Chen Wangyou’s Daughter-in-Law
+  Chen Wangyou's Daughter-in-Law
 origtitle: |
   陳王猷子妇
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: hong_mai_chen_wangyou_daughter_law.md
 tei: /assets/tei/hong_mai_chen_wangyou_daughter_law.xml
 pdf: /assets/pdf/hong_mai_chen_wangyou_daughter_law.pdf
 textauthor: Hong Mai 洪邁
-languages: [chinese]
+languages: [chinese,asia]
 periods: [12th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

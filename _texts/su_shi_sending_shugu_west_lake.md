@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  To the tune “Bodhisattva Barbarians”—"Sending off Shugu at West Lake" | 菩薩蠻 · 西湖
+  To the tune “Bodhisattva Barbarians”—Sending off Shugu at West Lake | 菩薩蠻 · 西湖
 engtitle: |
-  To the tune “Bodhisattva Barbarians”—"Sending off Shugu at West Lake"
+  To the tune “Bodhisattva Barbarians”—Sending off Shugu at West Lake
 origtitle: |
   菩薩蠻 · 西湖
 breadcrumb: true
@@ -14,7 +14,7 @@ identifier: su_shi_sending_shugu_west_lake.md
 tei: /assets/tei/su_shi_sending_shugu_west_lake.xml
 pdf: /assets/pdf/su_shi_sending_shugu_west_lake.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

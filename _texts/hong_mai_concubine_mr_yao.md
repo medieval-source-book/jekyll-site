@@ -14,7 +14,7 @@ identifier: hong_mai_concubine_mr_yao.md
 tei: /assets/tei/hong_mai_concubine_mr_yao.xml
 pdf: /assets/pdf/hong_mai_concubine_mr_yao.pdf
 textauthor: Hong Mai 洪邁
-languages: [chinese]
+languages: [chinese,asia]
 periods: [12th_century]
 textcollections: [gender-sex-and-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 

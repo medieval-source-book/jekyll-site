@@ -14,7 +14,7 @@ identifier: ouyang_xiu_i_hold_wine.md
 tei: /assets/tei/ouyang_xiu_i_hold_wine.xml
 pdf: /assets/pdf/ouyang_xiu_i_hold_wine.pdf
 textauthor: Ouyang Xiu 歐陽修
-languages: [chinese]
+languages: [chinese,asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 
@@ -30,4 +30,4 @@ fulltext: |
 ## Further Reading 
 <p>Chang, Kang-i Sun. <em>The Evolution of Tz’u Poetry: from Late Tang to Northern Sung</em>. Princeton UP, 1980.</p> <ul> <li>A standard survey of the early history of Chinese song lyrics (romanized as both ci and tz’u).</li> </ul> <p>Egan, Ronald. “The Song Lyric.” <em>The Cambridge History of Chinese Literature</em>, vol. 1, edited by Stephen Owen, Cambridge UP, 2010, pp. 434-452.</p> <ul> <li>An overview of the genre.</li> </ul> <p>Owen, Stephen. <em>Just a Song: Chinese Lyrics from the Eleventh and Early Twelfth Centuries</em>. Asia Center, Harvard UP, 2019.</p> <ul> <li>A recent new history of the genre.</li> </ul> <p>Tang, Guizhang 唐圭璋, editor. <em>Quan Song Ci 全宋詞</em>. Zhonghua shu ju, 1965. 5 vols.</p> <ul> <li>A comprehensive edition of ci from the Song dynasty and the source text for the ci in this collection (introductions and annotations are in Chinese).</li> </ul>
 ## Credits
-Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 141. 					, Translation by Qian Jia, Notes by Nina Du,  and Runqi Zhang, Encoded in TEI P5 XML by Nina Du, Manya Bansal,  and Danny Smith
+Text based on Tang, Guizhang 唐圭璋 (ed.). Quan Song Ci 全宋詞. Vol 1. Beijing: Zhonghua shu ju, 1965, 141.      , Translation by Qian Jia, Notes by Nina Du,  and Runqi Zhang, Encoded in TEI P5 XML by Nina Du, Manya Bansal,  and Danny Smith
