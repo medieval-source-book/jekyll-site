@@ -54,8 +54,6 @@
          url: "/regions/french"
        - title: "German"
          url: "/regions/german"
-       - title: "Hungarian"
-         url: "/regions/hungarian"
        - title: "Italian"
          url: "/regions/italian"
        - title: "Irish"
@@ -77,14 +75,14 @@
     side: left
     alternate:
     dropdown:
+       - title: "Church Slavonic"
+         url: "/regions/church_slavonic"
        - title: "Czech"
          url: "/regions/czech"
        - title: "Greek"
          url: "/regions/greek"
-       - title: "Czech"
-         url: "/regions/czech"
-       - title: "Church Slavonic"
-         url: "/regions/church_slavonic"
+       - title: "Hungarian"
+         url: "/regions/hungarian"
        - title: "Russian Church Slavonic"
          url: "/regions/russian_church_slavonic"
        - title: "Ruthenian"
