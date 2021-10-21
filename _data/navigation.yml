@@ -137,9 +137,18 @@
 - title: "Translators"
   url: "/translators/"
 - title: "About"
-  url: "/content/about-us/"
+  url: "#"
   side: left
-  side: left
+  alternate:
+  dropdown:
+     - title: "About this project"
+       url: "/about"
+     - title: "How to use this site"
+       url: "/how-to-use"
+     - title: "How we made it"
+       url: "/how-we-made-it"
+     - title: "Contributors"
+       url: "/contributors"
 - title: "Search"
   url: "/texts-table/"
   side: left
