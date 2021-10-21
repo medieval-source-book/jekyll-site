@@ -110,7 +110,7 @@
        - title: "Japanese"
          url: "/regions/japanese"
 - title: "By Century"
-  url: "/periods/"
+  url: "#"
   side: left
   alternate:
   dropdown:
