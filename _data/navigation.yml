@@ -1,5 +1,5 @@
 - title: "Collections"
-  url: "collections/"
+  url: "#"
   side: left
   alternate:
   dropdown:
@@ -26,7 +26,7 @@
   - title: "What Makes A Good Life? Poetic Reflections from Imperial China"
     url: "/collections/what-makes-a-good-life/"
 - title: "By Region"
-  url: "/regions/"
+  url: "#"
   side: left
   alternate:
   dropdown:
