@@ -18,8 +18,8 @@ languages: [spanish, americas, western_europe]
 periods: [16th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/brief_treatise_doctrine.jpg
-thumb: /assets/img/text/brief_treatise_doctrine-thumb.jpg
+image: /assets/img/text/brief-treatise-doctrine-useful-every-christian.jpg.jpg
+thumb: /assets/img/text/brief-treatise-doctrine-useful-every-christian.jpg-thumb.jpg
 imagesource: |
   Luis de Vargas, “Saint John the Evangelist,” ca. 1561; Pen and ink and wash on paper; Collection of the Hispanic Society of America
 fulltext: |
