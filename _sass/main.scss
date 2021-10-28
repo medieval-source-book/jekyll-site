@@ -100,12 +100,51 @@ $navfont: 'Roboto', sans-serif;
   }
 }
 
-.top-bar-section>ul>li>a {
-  text-transform: none;
-  text-decoration:none;
-  font-size:21.6px;
-  text-transform: uppercase;
+// uncomment this to make the first item gray instead of black
+.top-bar-section ul li.active:not(.has-form)>a:not(.button) {
+  //background-color: #666666;
 }
+
+// smaller font size for hover
+
+.top-bar-section ul li .dropdown li:not(.has-form):not(.active)>a:not(.button),
+.top-bar-section ul li .dropdown li:not(.has-form):not(.active):hover>a:not(.button),
+.top-bar-section ul li.active:not(.has-form)>a:not(.button),
+.top-bar-section ul.dropdown li:hover:not(.has-form):not(.logo):not(.divider)>a {
+  font-size:.85em;
+ }
+
+ .top-bar-section ul li.alternateprefix a {
+   font-size: 1em;
+ }
+
+ // change hover color for non links to gray not light yellow
+.top-bar-section li:not(.logo):not(.divider):hover {
+  background-color:#525252;
+ }
+
+// Nav Positioning for non links
+
+.top-bar-section ul li .a-pseudo {
+  color: #fff;
+  font-family: "Roboto",sans-serif;
+  line-height: 3.125rem;
+  padding-right: .625rem;
+  padding-left: .625rem;
+ }
+
+ // This was to fix the gap on "text/brief_treatise_doctrine" 
+ // May have unintended consequences!
+
+article {
+  .row,
+  .row .row:before,
+  .row .row:after {
+    display: block;
+    overflow: auto;
+  }
+}
+
 
 // Turned off transitions because they looked weird
 *:target,

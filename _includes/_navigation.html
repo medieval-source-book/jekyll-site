@@ -102,8 +102,8 @@
             {% comment %}   If left side WITH dropdown menu do   {% endcomment %}
             {% else %}
 
-              <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
-                  {% if link.url=='#' %}<span {% else %} <a {% endif %} class="{% if link.class %}{{link.class}}{% endif %} {% if link.alternate == '?' %} alternateprefix{% endif %}" {% if link.url!='#' %}href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% endif %} {% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}{% if link.url=='#' %}</span>{% else %}</a>{% endif %}
+              <li class="has-dropdown {% if link.url == page.url %} active{% endif %}">
+                  {% if link.url=='#' %}<span {% else %} <a {% endif %} class="{% if link.class %}{{link.class}}{% else %} a-pseudo{% endif %} {% if link.alternate == '?' %} alternateprefix{% endif %}" {% if link.url!='#' %}href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% endif %} {% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}{% if link.url=='#' %}</span>{% else %}</a>{% endif %}
 
                   <ul class="dropdown">
                     {% for dropdown_link in link.dropdown %}
