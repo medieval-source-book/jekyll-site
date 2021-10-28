@@ -100,11 +100,6 @@ $navfont: 'Roboto', sans-serif;
   }
 }
 
-// uncomment this to make the first item gray instead of black
-.top-bar-section ul li.active:not(.has-form)>a:not(.button) {
-  //background-color: #666666;
-}
-
 // smaller font size for hover
 
 .top-bar-section ul li .dropdown li:not(.has-form):not(.active)>a:not(.button),
