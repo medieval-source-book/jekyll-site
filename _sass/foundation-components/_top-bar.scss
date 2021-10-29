@@ -368,7 +368,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         &:not(.has-dropdown):not(.logo):not(.divider){
           & > a {
             &:before {
-              content: "\2014";
+              //content: "\2014";
               display: block;
               width: 0;
               height: 0;
@@ -380,7 +380,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         &.alternateprefix { 
           & > a {
             &:before {
-              content: "\003F" !important;
+              //content: "\003F" !important;
               display: block;
               width: 0;
               height: 0;
@@ -400,7 +400,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         & > a {
           &:before {
             @if ($topbar-arrows){
-              content: "\FF0B";
+              // content: "\FF0B";
               display: block;
               width: 0;
               height: 0;
@@ -477,7 +477,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
 
     // Top Bar styles intended for screen sizes above the breakpoint.
-    @media #{$topbar-media-query} {
+    @media only screen and (min-width: #{$topbar-breakpoint}) {
       .top-bar {
         background: $topbar-bg;
         @include clearfix;
@@ -556,7 +556,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           @if($topbar-arrows){
             & > a {
               &:before {
-                content: "\FF0B";
+                //content: "\FF0B";
                 display: block;
               }
             }
