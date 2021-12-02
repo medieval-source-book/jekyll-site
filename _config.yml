@@ -57,9 +57,6 @@ collections:
     output: true
     permalink: /regions/:path/
     layout: regionpage
-  textauthor:
-    output: true
-    permalink: /authors/:path/
   periods:
     output: true
     permalink: /periods/:path/
