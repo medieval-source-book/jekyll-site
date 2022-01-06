@@ -150,6 +150,6 @@
      - title: "Contributors"
        url: "/contributors"
 - title: "Search"
-  url: "/texts-table/"
+  url: "search"
   side: left
   alternate: "?"
