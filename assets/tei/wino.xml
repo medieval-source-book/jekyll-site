@@ -10,14 +10,14 @@
 		<fileDesc>
 			<titleStmt>
 				<title>The Wino</title>
-				<author>Anonymous</author>
+				<author>Der Stricker</author>
 				<respStmt>
 					<resp>Translation by</resp>
 					<name>Kathryn Starkey</name><name>Björn K. Buschbeck</name><name>Robert Forke</name><name>Mae Velloso-Lyons</name><name>Mareike E. Reisch</name><name>Kathleen Smith</name>
 				</respStmt>
 				<respStmt>
-					<resp>Text based on the edition by</resp>
-					<name>Hanns Fischer</name>
+					<resp>Text based on the edition in</resp>
+					<name>Der Stricker. Fünfzehn kleine Verserzählungen mit einem Anhang: Der Weinschwelg. Edited by Hanns Fischer. Tübingen: Max Niemeyer, 1960.</name>
 				</respStmt>
 				<respStmt>
 					<resp>Encoded in TEI P5 XML by</resp>
@@ -31,7 +31,7 @@
 				</availability>
 			</publicationStmt>
 			<notesStmt>
-				<note anchored="true"></note>
+				<p>This poem is a humorous ode to drinking alcohol which parodies medieval courtly poetry and the values of medieval court society (such as virtue, skill, loyalty and honor) by appropriating them to describe a less-than-respectable activity: drinking to excess. It was composed in the thirteenth century CE and is an example of the wave of satirical literature in German which rose to meet the previous half-century's idealising love songs and stories of romantic heroism. While Middle High German is often still thought of today as the language of the Minnesänger - highly-accomplished singers and composers whose best known subject was romantic love - poems like The Wino show that medieval audiences were not only interested in skilfully-crafted romance but indeed had a taste for biting satire.</p>
 			</notesStmt>
 			<sourceDesc>
 				<p>Der Stricker. <hi rend="italic">Fünfzehn kleine Verserzählungen mit einem Anhang: Der Weinschwelg.</hi> Edited by Hanns Fischer. Tübingen: Max Niemeyer, 1960.</p>
@@ -180,7 +180,7 @@
 			<l n="19">
 				<app>
 					<lem wit="#Transcription">Einen trunc von zweinzec slünden.</lem>
-					<rdg wit="#Translation">A drink of twenty swallows</rdg>
+					<rdg wit="#Translation">A drink of twenty swallows.</rdg>
 				</app>
 			</l>
 			<l n="20">
