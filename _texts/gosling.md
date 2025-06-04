@@ -14,7 +14,8 @@ identifier: gosling.md
 tei: /assets/tei/gosling.xml
 pdf: /assets/pdf/gosling.pdf
 textauthor: Anonymous
-languages: [middle_high_german,western_europe]
+languages: [middle_high_german]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

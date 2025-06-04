@@ -14,7 +14,8 @@ identifier: creature_dialogue_man_woman.md
 tei: /assets/tei/creature_dialogue_man_woman.xml
 pdf: /assets/pdf/creature_dialogue_man_woman.pdf
 textauthor: Nicolaus Pergamenus [att.]
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [14th_century]
 textcollections: [fantastic-fables, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

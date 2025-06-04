@@ -14,7 +14,8 @@ identifier: virgin_mary_lament_bordesholm.md
 tei: /assets/tei/virgin_mary_lament_bordesholm.xml
 pdf: /assets/pdf/virgin_mary_lament_bordesholm.pdf
 textauthor: Anonymous
-languages: [german,western_europe]
+languages: [german]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

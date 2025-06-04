@@ -14,7 +14,8 @@ identifier: folz_song_gutenberg.md
 tei: /assets/tei/folz_song_gutenberg.xml
 pdf: /assets/pdf/folz_song_gutenberg.pdf
 textauthor: Hans Folz
-languages: [german,western_europe]
+languages: [german]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

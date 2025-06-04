@@ -14,7 +14,8 @@ identifier: carvajal_came_from_campagna.md
 tei: /assets/tei/carvajal_came_from_campagna.xml
 pdf: /assets/pdf/carvajal_came_from_campagna.pdf
 textauthor: Carvajal
-languages: [spanish, americas, western_europe]
+languages: [spanish]
+regions: [americas, western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
@@ -27,6 +28,7 @@ fulltext: |
 --- 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-e7fdf788-7fff-cc8e-86f1-ed0c611ba289">The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 154r-155r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors attended the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century. </p>
+
 ## Introduction to the Text 
 <p dir="ltr">This poem is a <em>serranilla</em>, an evolution of the Provençal <em>pastorela</em>. Written in short verse (<em>arte menor</em>), <em>serranillas</em> narrate a courtly poet’s encounter with a mountain woman. This is one of six compositions in the genre by fifteenth-century author Carvajal (or Carvajales). Very little is known about Carvajal’s life. His poetry is linked to the Neapolitan court of Alfonso the Magnanimous in Naples (r. 1442-1458) and to that of Alfonso’s son Ferrante (r. 1459-1494). In addition to his famous serranillas, Carvajal is also known for his literary epistles and ballads.</p> <p dir="ltr">In this poem, the poet meets a peasant whose gentle appearance, modesty, and simple life are described in detail and praised.</p>
 ## Further Reading 

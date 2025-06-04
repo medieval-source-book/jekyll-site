@@ -14,7 +14,8 @@ identifier: brief_treatise_doctrine.md
 tei: /assets/tei/brief_treatise_doctrine.xml
 pdf: /assets/pdf/brief_treatise_doctrine.pdf
 textauthor: Juan Perez de Piñeda
-languages: [spanish, americas, western_europe]
+languages: [spanish]
+regions: [americas, western_europe]
 periods: [16th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

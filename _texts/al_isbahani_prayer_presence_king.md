@@ -14,7 +14,8 @@ identifier: al_isbahani_prayer_presence_king.md
 tei: /assets/tei/al_isbahani_prayer_presence_king.xml
 pdf: /assets/pdf/al_isbahani_prayer_presence_king.pdf
 textauthor: Abū Nuʻaym al-Iṣbahānī [att.]
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

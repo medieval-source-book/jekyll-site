@@ -14,7 +14,8 @@ identifier: song_heinrich.md
 tei: /assets/tei/song_heinrich.xml
 pdf: /assets/pdf/song_heinrich.pdf
 textauthor: Anonymous
-languages: [german,latin,western_europe]
+languages: [german, latin]
+regions: [western_europe]
 periods: [9th_century]
 textcollections: [hymns-and-histories, making-history]
 sdr: https://purl.stanford.edu/druid 

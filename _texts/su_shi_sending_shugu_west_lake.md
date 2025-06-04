@@ -14,7 +14,8 @@ identifier: su_shi_sending_shugu_west_lake.md
 tei: /assets/tei/su_shi_sending_shugu_west_lake.xml
 pdf: /assets/pdf/su_shi_sending_shugu_west_lake.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: divination_through_apostles.md
 tei: /assets/tei/divination_through_apostles.xml
 pdf: /assets/pdf/divination_through_apostles.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

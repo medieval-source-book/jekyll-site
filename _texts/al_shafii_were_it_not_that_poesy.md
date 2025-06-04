@@ -14,7 +14,8 @@ identifier: al_shafii_were_it_not_that_poesy.md
 tei: /assets/tei/al_shafii_were_it_not_that_poesy.xml
 pdf: /assets/pdf/al_shafii_were_it_not_that_poesy.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [8th_century, 9th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

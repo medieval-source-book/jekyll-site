@@ -14,7 +14,8 @@ identifier: al_shafii_your_friend_contests.md
 tei: /assets/tei/al_shafii_your_friend_contests.xml
 pdf: /assets/pdf/al_shafii_your_friend_contests.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [8th_century, 9th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

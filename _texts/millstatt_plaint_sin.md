@@ -14,7 +14,8 @@ identifier: millstatt_plaint_sin.md
 tei: /assets/tei/millstatt_plaint_sin.xml
 pdf: /assets/pdf/millstatt_plaint_sin.pdf
 textauthor: Anonymous
-languages: [middle_high_german,western_europe]
+languages: [middle_high_german]
+regions: [western_europe]
 periods: [12th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

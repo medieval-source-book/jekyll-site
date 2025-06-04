@@ -14,7 +14,8 @@ identifier: queen_france.md
 tei: /assets/tei/queen_france.xml
 pdf: /assets/pdf/queen_france.pdf
 textauthor: von Schondoch
-languages: [middle_high_german,western_europe]
+languages: [middle_high_german]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

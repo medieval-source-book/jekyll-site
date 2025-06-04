@@ -14,7 +14,8 @@ identifier: li_qingzhao_red_lotus.md
 tei: /assets/tei/li_qingzhao_red_lotus.xml
 pdf: /assets/pdf/li_qingzhao_red_lotus.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: oeglin_dearest_sight_heart.md
 tei: /assets/tei/oeglin_dearest_sight_heart.xml
 pdf: /assets/pdf/oeglin_dearest_sight_heart.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german,western_europe]
+languages: [early_new_high_german]
+regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

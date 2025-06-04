@@ -14,7 +14,8 @@ identifier: efrosin_solomon_kitovras.md
 tei: /assets/tei/efrosin_solomon_kitovras.xml
 pdf: /assets/pdf/efrosin_solomon_kitovras.pdf
 textauthor: Efrosin
-languages: [russian_church_slavonic,eastern_europe]
+languages: [russian_church_slavonic]
+regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

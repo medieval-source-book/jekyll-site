@@ -14,7 +14,8 @@ identifier: sant_jordi_underneath_my_forehead.md
 tei: /assets/tei/sant_jordi_underneath_my_forehead.xml
 pdf: /assets/pdf/sant_jordi_underneath_my_forehead.pdf
 textauthor: Jordi di Sant Jordi
-languages: [catalan,western_europe]
+languages: [catalan]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: two_confessions.md
 tei: /assets/tei/two_confessions.xml
 pdf: /assets/pdf/two_confessions.pdf
 textauthor: Anonymous
-languages: [middle_high_german,western_europe]
+languages: [middle_high_german]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

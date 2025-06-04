@@ -14,7 +14,8 @@ identifier: li_qingzhao_wind_comes_from_lake.md
 tei: /assets/tei/li_qingzhao_wind_comes_from_lake.xml
 pdf: /assets/pdf/li_qingzhao_wind_comes_from_lake.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

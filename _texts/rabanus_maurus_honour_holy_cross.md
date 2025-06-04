@@ -14,7 +14,8 @@ identifier: rabanus_maurus_honour_holy_cross.md
 tei: /assets/tei/rabanus_maurus_honour_holy_cross.xml
 pdf: /assets/pdf/rabanus_maurus_honour_holy_cross.pdf
 textauthor: Rabanus Maurus
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [9th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

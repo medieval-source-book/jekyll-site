@@ -1,0 +1,27 @@
+---
+layout: text
+sidebar: left
+title: |
+  Oh, how it troubles me! | Ha, qu'il m'ennuie!
+engtitle: |
+  Oh, how it troubles me!
+origtitle: |
+  Ha, qu'il m'ennuie!
+breadcrumb: true
+permalink: "text/oh_how_troubles_me"
+redirect_from: /text/oh-how-it-troubles-me
+identifier: oh_how_troubles_me.md
+tei: /assets/tei/oh_how_troubles_me.xml
+pdf: /assets/pdf/oh_how_troubles_me.pdf
+textauthor: Fesneau/Agricola [att.]
+languages: [french,western_europe]
+periods: [15th_century]
+textcollections: [love-songs]
+sdr: https://purl.stanford.edu/druid 
+image: /assets/img/text/oh_how_troubles_me.png
+thumb: /assets/img/text/oh_how_troubles_me-thumb.png
+imagesource: |
+  British Library MS King's 322 f.1 [Public Domain]
+fulltext: |
+  "Ha qu’il m’ennuye" "Oh how it troubles me!" Ha qu'il menuye Oh how it troubles me! et que Je me treuve esbahye I find myself astonished de ce que Je ne vous puis voir that I cannot see you. mon seul tout vueillez y pourvoir My one and only, please do what is necessary se vous amez moy et ma vie if you love me and my life. Jay des enuis I have troubles qui me tourmentent jours et nuits tormenting me day and night tant que Jen suis toute esperdue to such a degree that I feel totally lost car je ne puis [avoir] plaisir ne nulz de puis for I have not been able to have any joy, nor anything else, since que je vous ay perdu de veue I lost you from my sight. Je nay envye I have no interest in anything ne mon desir ne my convye nor does desire drive me puis que mieulx je ne puis avoir because I cannot have anything better fors de voz nouvelles savoir than news of you, dailleurs ne puis estre esjouye and I cannot be happy otherwise.  = transcription  = translation     
+---

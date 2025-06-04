@@ -14,7 +14,8 @@ identifier: yan_shu_gold_wind.md
 tei: /assets/tei/yan_shu_gold_wind.xml
 pdf: /assets/pdf/yan_shu_gold_wind.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

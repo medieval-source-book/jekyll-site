@@ -14,7 +14,8 @@ identifier: li_qingzhao_in_the_sky.md
 tei: /assets/tei/li_qingzhao_in_the_sky.xml
 pdf: /assets/pdf/li_qingzhao_in_the_sky.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: trust_I_have_you.md
 tei: /assets/tei/trust_I_have_you.xml
 pdf: /assets/pdf/trust_I_have_you.pdf
 textauthor: Anonymous
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

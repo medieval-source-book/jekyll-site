@@ -14,7 +14,8 @@ identifier: sanai_on_merciful_god.md
 tei: /assets/tei/sanai_on_merciful_god.xml
 pdf: /assets/pdf/sanai_on_merciful_god.pdf
 textauthor: Sanā’ī of Ghazna
-languages: [persian,middle_east]
+languages: [persian]
+regions: [middle_east]
 periods: [12th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

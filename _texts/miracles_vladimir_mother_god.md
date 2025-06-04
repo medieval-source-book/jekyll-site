@@ -14,7 +14,8 @@ identifier: miracles_vladimir_mother_god.md
 tei: /assets/tei/miracles_vladimir_mother_god.xml
 pdf: /assets/pdf/miracles_vladimir_mother_god.pdf
 textauthor: Anonymous
-languages: [old_russian,eastern_europe]
+languages: [old_russian]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

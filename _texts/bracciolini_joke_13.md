@@ -14,7 +14,8 @@ identifier: bracciolini_joke_13.md
 tei: /assets/tei/bracciolini_joke_13.xml
 pdf: /assets/pdf/bracciolini_joke_13.pdf
 textauthor: Poggio Bracciolini
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 

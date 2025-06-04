@@ -14,7 +14,8 @@ identifier: two_three_days_ago.md
 tei: /assets/tei/two_three_days_ago.xml
 pdf: /assets/pdf/two_three_days_ago.pdf
 textauthor: Anonymous
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

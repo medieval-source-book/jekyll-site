@@ -14,7 +14,8 @@ identifier: hymn_honor_augustine.md
 tei: /assets/tei/hymn_honor_augustine.xml
 pdf: /assets/pdf/hymn_honor_augustine.pdf
 textauthor: Adam of St. Victor [att.]
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [12th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

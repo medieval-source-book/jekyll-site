@@ -14,7 +14,8 @@ identifier: origin_pastoral_care.md
 tei: /assets/tei/origin_pastoral_care.xml
 pdf: /assets/pdf/origin_pastoral_care.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [7th_century, 8th_century, 9th_century]
 textcollections: [making-history, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

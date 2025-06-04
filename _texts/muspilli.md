@@ -14,7 +14,8 @@ identifier: muspilli.md
 tei: /assets/tei/muspilli.xml
 pdf: /assets/pdf/muspilli.pdf
 textauthor: Anonymous
-languages: [german,western_europe]
+languages: [german]
+regions: [western_europe]
 periods: [9th_century]
 textcollections: [hymns-and-histories]
 sdr: https://purl.stanford.edu/druid 

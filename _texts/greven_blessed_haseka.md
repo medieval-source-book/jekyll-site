@@ -14,7 +14,8 @@ identifier: greven_blessed_haseka.md
 tei: /assets/tei/greven_blessed_haseka.xml
 pdf: /assets/pdf/greven_blessed_haseka.pdf
 textauthor: Hermann Greven
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

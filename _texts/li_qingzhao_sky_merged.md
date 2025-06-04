@@ -14,7 +14,8 @@ identifier: li_qingzhao_sky_merged.md
 tei: /assets/tei/li_qingzhao_sky_merged.xml
 pdf: /assets/pdf/li_qingzhao_sky_merged.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

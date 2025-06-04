@@ -14,7 +14,7 @@ identifier: prologue_book_histories.md
 tei: /assets/tei/prologue_book_histories.xml
 pdf: /assets/pdf/prologue_book_histories.pdf
 textauthor: Anonymous
-languages: [french,old_french]
+languages: [french, old_french]
 periods: [13th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

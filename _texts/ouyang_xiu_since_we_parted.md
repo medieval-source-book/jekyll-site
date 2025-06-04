@@ -14,7 +14,8 @@ identifier: ouyang_xiu_since_we_parted.md
 tei: /assets/tei/ouyang_xiu_since_we_parted.xml
 pdf: /assets/pdf/ouyang_xiu_since_we_parted.pdf
 textauthor: Ouyang Xiu 歐陽修
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

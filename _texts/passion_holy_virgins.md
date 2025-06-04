@@ -14,7 +14,8 @@ identifier: passion_holy_virgins.md
 tei: /assets/tei/passion_holy_virgins.xml
 pdf: /assets/pdf/passion_holy_virgins.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [12th_century]
 textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

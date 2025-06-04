@@ -14,7 +14,8 @@ identifier: su_shi_ten_years_dead_living.md
 tei: /assets/tei/su_shi_ten_years_dead_living.xml
 pdf: /assets/pdf/su_shi_ten_years_dead_living.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

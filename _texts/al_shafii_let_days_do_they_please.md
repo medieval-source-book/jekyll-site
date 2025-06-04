@@ -14,7 +14,8 @@ identifier: al_shafii_let_days_do_they_please.md
 tei: /assets/tei/al_shafii_let_days_do_they_please.xml
 pdf: /assets/pdf/al_shafii_let_days_do_they_please.pdf
 textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [8th_century, 9th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

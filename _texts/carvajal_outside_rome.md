@@ -14,7 +14,8 @@ identifier: carvajal_outside_rome.md
 tei: /assets/tei/carvajal_outside_rome.xml
 pdf: /assets/pdf/carvajal_outside_rome.pdf
 textauthor: Carvajal
-languages: [spanish, americas, western_europe]
+languages: [spanish]
+regions: [americas, western_europe]
 periods: [15th_century]
 textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

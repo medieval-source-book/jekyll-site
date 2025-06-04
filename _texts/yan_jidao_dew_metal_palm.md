@@ -14,7 +14,8 @@ identifier: yan_jidao_dew_metal_palm.md
 tei: /assets/tei/yan_jidao_dew_metal_palm.xml
 pdf: /assets/pdf/yan_jidao_dew_metal_palm.pdf
 textauthor: Yan Jidao 晏幾道
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

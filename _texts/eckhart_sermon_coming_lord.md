@@ -14,7 +14,8 @@ identifier: eckhart_sermon_coming_lord.md
 tei: /assets/tei/eckhart_sermon_coming_lord.xml
 pdf: /assets/pdf/eckhart_sermon_coming_lord.pdf
 textauthor: Meister Eckhart
-languages: [middle_high_german,western_europe]
+languages: [middle_high_german]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

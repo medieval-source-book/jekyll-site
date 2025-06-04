@@ -14,7 +14,8 @@ identifier: bracciolini_conclusio.md
 tei: /assets/tei/bracciolini_conclusio.xml
 pdf: /assets/pdf/bracciolini_conclusio.pdf
 textauthor: Poggio Bracciolini
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 

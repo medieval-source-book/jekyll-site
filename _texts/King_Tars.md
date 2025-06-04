@@ -14,7 +14,8 @@ identifier: king_tars.md
 tei: /assets/tei/king_tars.xml
 pdf: /assets/pdf/king_tars.pdf
 textauthor: Anonymous
-languages: [english,western_europe]
+languages: [english]
+regions: [western_europe]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: rigaut_just_elephant.md
 tei: /assets/tei/rigaut_just_elephant.xml
 pdf: /assets/pdf/rigaut_just_elephant.pdf
 textauthor: Rigaut de Berbezilh
-languages: [occitan,western_europe]
+languages: [occitan]
+regions: [western_europe]
 periods: [12th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

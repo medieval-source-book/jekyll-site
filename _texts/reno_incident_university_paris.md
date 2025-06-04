@@ -14,7 +14,8 @@ identifier: reno_incident_university_paris.md
 tei: /assets/tei/reno_incident_university_paris.xml
 pdf: /assets/pdf/reno_incident_university_paris.pdf
 textauthor: Johannes de Reno
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

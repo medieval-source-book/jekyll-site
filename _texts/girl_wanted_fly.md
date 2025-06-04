@@ -14,7 +14,8 @@ identifier: girl_wanted_fly.md
 tei: /assets/tei/girl_wanted_fly.xml
 pdf: /assets/pdf/girl_wanted_fly.pdf
 textauthor: Anonymous
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: marston_childbirth_prayer.md
 tei: /assets/tei/marston_childbirth_prayer.xml
 pdf: /assets/pdf/marston_childbirth_prayer.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [14th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

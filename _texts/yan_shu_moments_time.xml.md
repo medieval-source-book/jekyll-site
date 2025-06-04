@@ -14,7 +14,8 @@ identifier: yan_shu_moments_time.xml.md
 tei: /assets/tei/yan_shu_moments_time.xml.xml
 pdf: /assets/pdf/yan_shu_moments_time.xml.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

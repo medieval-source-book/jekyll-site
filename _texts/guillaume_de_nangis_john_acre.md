@@ -14,7 +14,8 @@ identifier: guillaume_de_nangis_john_acre.md
 tei: /assets/tei/guillaume_de_nangis_john_acre.xml
 pdf: /assets/pdf/guillaume_de_nangis_john_acre.pdf
 textauthor: Guillaume de Nangis
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [13th_century, 14th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: su_shi_how_long_full_moon.md
 tei: /assets/tei/su_shi_how_long_full_moon.xml
 pdf: /assets/pdf/su_shi_how_long_full_moon.pdf
 textauthor: Su Shi 蘇軾
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

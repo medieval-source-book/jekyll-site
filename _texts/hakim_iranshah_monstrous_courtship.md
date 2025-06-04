@@ -14,7 +14,8 @@ identifier: hakim_iranshah_monstrous_courtship.md
 tei: /assets/tei/hakim_iranshah_monstrous_courtship.xml
 pdf: /assets/pdf/hakim_iranshah_monstrous_courtship.pdf
 textauthor: Hakim Irānshāh ebn-e Abi-l-Khayr
-languages: [persian,middle_east]
+languages: [persian]
+regions: [middle_east]
 periods: [11th_century, 12th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

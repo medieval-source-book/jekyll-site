@@ -14,7 +14,8 @@ identifier: hong_mai_chastity_wu_wife.md
 tei: /assets/tei/hong_mai_chastity_wu_wife.xml
 pdf: /assets/pdf/hong_mai_chastity_wu_wife.pdf
 textauthor: Hong Mai 洪邁
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [12th_century]
 textcollections: [gender-sex-and-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 

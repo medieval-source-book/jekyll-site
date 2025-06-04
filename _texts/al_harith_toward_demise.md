@@ -14,7 +14,8 @@ identifier: al_harith_toward_demise.md
 tei: /assets/tei/al_harith_toward_demise.xml
 pdf: /assets/pdf/al_harith_toward_demise.pdf
 textauthor: al-Ḥārith ibn ʿUbād
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [5th_century, 6th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

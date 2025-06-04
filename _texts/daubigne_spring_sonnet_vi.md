@@ -14,7 +14,8 @@ identifier: daubigne_spring_sonnet_vi.md
 tei: /assets/tei/daubigne_spring_sonnet_vi.xml
 pdf: /assets/pdf/daubigne_spring_sonnet_vi.pdf
 textauthor: Théodore Agrippa d’Aubigné
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

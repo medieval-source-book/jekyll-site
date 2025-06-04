@@ -14,7 +14,8 @@ identifier: lopes_chronicle_peter_i.md
 tei: /assets/tei/lopes_chronicle_peter_i.xml
 pdf: /assets/pdf/lopes_chronicle_peter_i.pdf
 textauthor: Fernão Lopez
-languages: [portuguese,western_europe]
+languages: [portuguese]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

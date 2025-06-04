@@ -14,7 +14,8 @@ identifier: ignatios.md
 tei: /assets/tei/ignatios.xml
 pdf: /assets/pdf/ignatios.pdf
 textauthor: Anonymous
-languages: [greek,eastern_europe]
+languages: [greek]
+regions: [western_europe]
 periods: [10th_century, 11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

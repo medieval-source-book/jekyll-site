@@ -14,7 +14,8 @@ identifier: yan_jidao_xiaolian_yet_learn.md
 tei: /assets/tei/yan_jidao_xiaolian_yet_learn.xml
 pdf: /assets/pdf/yan_jidao_xiaolian_yet_learn.pdf
 textauthor: Yan Jidao 晏幾道
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

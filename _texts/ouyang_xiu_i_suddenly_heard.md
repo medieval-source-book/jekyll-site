@@ -14,7 +14,8 @@ identifier: ouyang_xiu_i_suddenly_heard.md
 tei: /assets/tei/ouyang_xiu_i_suddenly_heard.xml
 pdf: /assets/pdf/ouyang_xiu_i_suddenly_heard.pdf
 textauthor: Ouyang Xiu 歐陽修
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

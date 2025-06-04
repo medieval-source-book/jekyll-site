@@ -14,7 +14,8 @@ identifier: yan_shu_chrysanthemums.md
 tei: /assets/tei/yan_shu_chrysanthemums.xml
 pdf: /assets/pdf/yan_shu_chrysanthemums.pdf
 textauthor: Yan Shu 晏殊
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 

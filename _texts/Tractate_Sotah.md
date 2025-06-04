@@ -14,7 +14,8 @@ identifier: tractate_sotah.md
 tei: /assets/tei/tractate_sotah.xml
 pdf: /assets/pdf/tractate_sotah.pdf
 textauthor: Anonymous
-languages: [biblical_hebrew,jewish_babylonian_aramaic,mishnaic_hebrew, middle_east]
+languages: [biblical_hebrew, jewish_babylonian_aramaic, mishnaic_hebrew]
+regions: [middle_east]
 periods: [7th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

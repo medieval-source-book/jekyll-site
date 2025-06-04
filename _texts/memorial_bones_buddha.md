@@ -14,7 +14,8 @@ identifier: memorial_bones_buddha.md
 tei: /assets/tei/memorial_bones_buddha.xml
 pdf: /assets/pdf/memorial_bones_buddha.pdf
 textauthor: Han Yu 韓愈
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [9th_century]
 textcollections: [cross-cultural-encounters]
 sdr: https://purl.stanford.edu/druid 

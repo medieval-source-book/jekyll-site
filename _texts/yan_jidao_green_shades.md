@@ -14,7 +14,8 @@ identifier: yan_jidao_green_shades.md
 tei: /assets/tei/yan_jidao_green_shades.xml
 pdf: /assets/pdf/yan_jidao_green_shades.pdf
 textauthor: Yan Jidao 晏幾道
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

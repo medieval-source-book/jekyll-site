@@ -14,7 +14,8 @@ identifier: bar_ebroyo_on_april.md
 tei: /assets/tei/bar_ebroyo_on_april.xml
 pdf: /assets/pdf/bar_ebroyo_on_april.pdf
 textauthor: Bar ‘Ebroyo
-languages: [syriac,middle_east]
+languages: [syriac]
+regions: [middle_east]
 periods: [13th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

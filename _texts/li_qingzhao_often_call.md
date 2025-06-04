@@ -14,7 +14,8 @@ identifier: li_qingzhao_often_call.md
 tei: /assets/tei/li_qingzhao_often_call.xml
 pdf: /assets/pdf/li_qingzhao_often_call.pdf
 textauthor: Li Qingzhao 李清照
-languages: [chinese,asia]
+languages: [chinese]
+regions: [asia]
 periods: [11th_century]
 textcollections: [what-makes-a-good-life]
 sdr: https://purl.stanford.edu/druid 

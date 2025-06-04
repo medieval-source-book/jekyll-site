@@ -14,7 +14,8 @@ identifier: pictor_concerning_wicked_woman.md
 tei: /assets/tei/pictor_concerning_wicked_woman.xml
 pdf: /assets/pdf/pictor_concerning_wicked_woman.pdf
 textauthor: Petrus Pictor
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [11th_century, 12th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 

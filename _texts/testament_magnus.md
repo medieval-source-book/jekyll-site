@@ -14,7 +14,8 @@ identifier: testament_magnus.md
 tei: /assets/tei/testament_magnus.xml
 pdf: /assets/pdf/testament_magnus.pdf
 textauthor: Anonymous
-languages: [russian_church_slavonic,eastern_europe]
+languages: [russian_church_slavonic]
+regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 

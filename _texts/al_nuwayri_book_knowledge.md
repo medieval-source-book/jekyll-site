@@ -14,7 +14,8 @@ identifier: al_nuwayri_book_knowledge.md
 tei: /assets/tei/al_nuwayri_book_knowledge.xml
 pdf: /assets/pdf/al_nuwayri_book_knowledge.pdf
 textauthor: Muhammad ibn Qāsim ibn Muhammad al-Nuwayrī al-Iskandarāniyy
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [14th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 

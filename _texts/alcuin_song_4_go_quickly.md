@@ -14,7 +14,8 @@ identifier: alcuin_song_4_go_quickly.md
 tei: /assets/tei/alcuin_song_4_go_quickly.xml
 pdf: /assets/pdf/alcuin_song_4_go_quickly.pdf
 textauthor: Alcuin
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [8th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

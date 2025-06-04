@@ -14,7 +14,8 @@ identifier: roman_origins_lithuanians.md
 tei: /assets/tei/roman_origins_lithuanians.xml
 pdf: /assets/pdf/roman_origins_lithuanians.pdf
 textauthor: Anonymous
-languages: [ruthenian,eastern_europe]
+languages: [ruthenian]
+regions: [western_europe]
 periods: [16th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 

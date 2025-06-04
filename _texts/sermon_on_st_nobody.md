@@ -14,7 +14,8 @@ identifier: sermon_on_st_nobody.md
 tei: /assets/tei/sermon_on_st_nobody.xml
 pdf: /assets/pdf/sermon_on_st_nobody.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 

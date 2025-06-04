@@ -14,7 +14,8 @@ identifier: filbert_vision.md
 tei: /assets/tei/filbert_vision.xml
 pdf: /assets/pdf/filbert_vision.pdf
 textauthor: Anonymous
-languages: [castilian,spanish,western_europe]
+languages: [castilian,spanish]
+regions: [western_europe]
 periods: [14th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: junius_childbirth_charm.md
 tei: /assets/tei/junius_childbirth_charm.xml
 pdf: /assets/pdf/junius_childbirth_charm.pdf
 textauthor: Anonymous
-languages: [english,latin,western_europe]
+languages: [english,latin]
+regions: [western_europe]
 periods: [11th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

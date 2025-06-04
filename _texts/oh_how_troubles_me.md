@@ -14,7 +14,8 @@ identifier: oh_how_troubles_me.md
 tei: /assets/tei/oh_how_troubles_me.xml
 pdf: /assets/pdf/oh_how_troubles_me.pdf
 textauthor: Fesneau/Agricola [att.]
-languages: [french,western_europe]
+languages: [french]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

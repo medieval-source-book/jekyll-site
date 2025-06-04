@@ -14,7 +14,8 @@ identifier: damsel_carcayciona.md
 tei: /assets/tei/damsel_carcayciona.xml
 pdf: /assets/pdf/damsel_carcayciona.pdf
 textauthor: Anonymous
-languages: [aljamiado, western_europe]
+languages: [aljamiado]
+regions: [western_europe]
 periods: [16th_century]
 textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

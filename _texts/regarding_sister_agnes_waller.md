@@ -14,7 +14,8 @@ identifier: regarding_sister_agnes_waller.md
 tei: /assets/tei/regarding_sister_agnes_waller.xml
 pdf: /assets/pdf/regarding_sister_agnes_waller.pdf
 textauthor: Various
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [13th_century, 14th_century]
 textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
 sdr: https://purl.stanford.edu/druid 

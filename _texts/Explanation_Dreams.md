@@ -14,7 +14,8 @@ identifier: explanation_dreams.md
 tei: /assets/tei/explanation_dreams.xml
 pdf: /assets/pdf/explanation_dreams.pdf
 textauthor: Anonymous
-languages: [latin,western_europe]
+languages: [latin]
+regions: [western_europe]
 periods: [13th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: riddle_temple_saturn.md
 tei: /assets/tei/riddle_temple_saturn.xml
 pdf: /assets/pdf/riddle_temple_saturn.pdf
 textauthor: Anonymous, Ḥunayn ibn Isḥāq [att.]
-languages: [arabic, middle_east]
+languages: [arabic]
+regions: [middle_east]
 periods: [9th_century, 10th_century, 11th_century]
 textcollections: []
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,8 @@ identifier: oeglin_our_vicar_away.md
 tei: /assets/tei/oeglin_our_vicar_away.xml
 pdf: /assets/pdf/oeglin_our_vicar_away.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german,western_europe]
+languages: [early_new_high_german]
+regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

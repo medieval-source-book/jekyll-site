@@ -14,7 +14,8 @@ identifier: discourse_angels_pagans.md
 tei: /assets/tei/discourse_angels_pagans.xml
 pdf: /assets/pdf/discourse_angels_pagans.pdf
 textauthor: Anonymous
-languages: [east_slavonic,eastern_europe]
+languages: [east_slavonic]
+regions: [eastern_europe]
 periods: [12th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality-life-after-death]
 sdr: https://purl.stanford.edu/druid 

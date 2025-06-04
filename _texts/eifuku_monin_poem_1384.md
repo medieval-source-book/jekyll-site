@@ -14,7 +14,8 @@ identifier: eifuku_monin_poem_1384.md
 tei: /assets/tei/eifuku_monin_poem_1384.xml
 pdf: /assets/pdf/eifuku_monin_poem_1384.pdf
 textauthor: Eifuku Mon'in 永福門院
-languages: [japanese,asia]
+languages: [japanese]
+regions: [asia]
 periods: [14th_century]
 textcollections: [love-songs, gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
