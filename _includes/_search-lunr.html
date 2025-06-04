@@ -8,7 +8,7 @@ var documents = [{% for text in site.texts %}{
     "title": {{ text.title | jsonify }},
 	"textauthor": {{ text.title | jsonify }},
 	"fulltext": : {{ text.fulltext | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | jsonify }}{% assign counter = counter | plus: 1 %}
-    "body": {{ text.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | jsonify }}{% assign counter = counter | plus: 1 %}];
+    "body": {{ text.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | jsonify }}{% assign counter = counter | plus: 1 %}{% endfor %}];
 
 console.log(documents);
 var idx = lunr(function () {
