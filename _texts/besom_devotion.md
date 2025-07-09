@@ -14,10 +14,10 @@ identifier: besom_devotion.md
 tei: /assets/tei/besom_devotion.xml
 pdf: /assets/pdf/besom_devotion.pdf
 textauthor: Anonymous
-languages: [old_irish]
+languages: [irish]
 regions: [western_europe]
 periods: [8th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/besom_devotion
 thumb: /assets/img/text/besom_devotion-thumb

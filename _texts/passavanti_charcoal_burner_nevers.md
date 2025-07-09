@@ -10,11 +10,11 @@ origtitle: |
 breadcrumb: true
 permalink: "text/charcoal_burner_nevers"
 redirect_from: /text/charcoal-burner-nevers
-identifier: charcoal_burner_nevers.md
-tei: /assets/tei/charcoal_burner_nevers.xml
-pdf: /assets/pdf/charcoal_burner_nevers.pdf
+identifier: passavanti_charcoal_burner_nevers.md
+tei: /assets/tei/passavanti_charcoal_burner_nevers.xml
+pdf: /assets/pdf/passavanti_charcoal_burner_nevers.pdf
 textauthor: Jacopo Passavanti
-languages: [italian, tuscan]
+languages: [italian]
 regions: [western_europe]
 periods: [14th_century]
 textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]

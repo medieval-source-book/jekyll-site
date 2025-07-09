@@ -17,7 +17,7 @@ textauthor: Bar ‘Ebroyo
 languages: [syriac]
 regions: [middle_east]
 periods: [13th_century]
-textcollections: [gender-sex-and-sensuality]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/bar_ebroyo_on_april.JPG
 thumb: /assets/img/text/bar_ebroyo_on_april-thumb.JPG

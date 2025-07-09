@@ -24,7 +24,7 @@ thumb: /assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg
 imagesource: |
   Detail from 南宋 佚名 “三元得祿”圖扇頁 (Gibbons Raiding an Egret's Nest), Artist Unknown, late 12th century, Metropolitan Museum of Art, Accession Number: 13.100.104 [Public Domain]
 fulltext: |
-  陳王猷子妇 Chen Wangyou’s Daughter-in-Law                          = transcription  = translation     
+
 --- 
 ## Introduction to the Text 
 <p>This story is one of five in the Global Medieval Sourcebook to have been selected from the <em>Yijian Zhi</em> (or <em>Record of the Listener</em>, hereafter the <em>Record</em>) by Hong Mai (1123-1202). Like many well-educated men in the Southern Song Dynasty (1127-1279), Hong Mai grew up in a prominent family, passed the civil service examination, and obtained a post in the imperial government. However, due to misconduct during a diplomatic mission, his career came to an abrupt end. From then on, he retreated to his study and devoted himself to writing the <em>Record</em>.</p> <p>The corpus of the <em>Record</em> originally consisted of 420 chapters. What we have today, however, is but a small fraction of the original text. The <em>Record</em> shows a remarkable degree of accuracy when we compare it with the official documents and other texts of the same period. Nevertheless, many stories in the <em>Record</em> are outright fictitious or based on highly unreliable sources. The <em>Record</em> preserved much information about the society, culture and religion of the Southern Song Dynasty and was a source of inspiration for generations of writers after Hong Mai. Writers in late imperial China, for instance, took up many stories in the <em>Record</em> and refashioned them into stories that met the demands and expectations of their own times.</p>

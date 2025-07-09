@@ -17,7 +17,7 @@ textauthor: Eifuku Mon'in 永福門院
 languages: [japanese]
 regions: [asia]
 periods: [14th_century]
-textcollections: [love-songs, gender-sex-and-sensuality]
+textcollections: [love-songs, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/eifuku_monin_poem_979.jpg
 thumb: /assets/img/text/eifuku_monin_poem_979-thumb.jpg
