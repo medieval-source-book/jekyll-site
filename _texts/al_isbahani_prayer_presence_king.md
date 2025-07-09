@@ -17,7 +17,7 @@ textauthor: Abū Nuʻaym al-Iṣbahānī [att.]
 languages: [arabic]
 regions: [middle_east]
 periods: [11th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_isbahani_prayer_presence_king.jpg
 thumb: /assets/img/text/al_isbahani_prayer_presence_king-thumb.jpg
