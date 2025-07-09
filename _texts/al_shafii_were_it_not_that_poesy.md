@@ -17,7 +17,7 @@ textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
 languages: [arabic]
 regions: [middle_east]
 periods: [8th_century, 9th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_shafii_were_it_not_that_poesy.jpg
 thumb: /assets/img/text/al_shafii_were_it_not_that_poesy-thumb.jpg

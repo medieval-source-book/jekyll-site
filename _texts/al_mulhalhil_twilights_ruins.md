@@ -17,7 +17,7 @@ textauthor: al-Muhalhil
 languages: [arabic]
 regions: [middle_east]
 periods: [5th_century, 6th_century]
-textcollections: []
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_mulhalhil_twilights_ruins.png
 thumb: /assets/img/text/al_mulhalhil_twilights_ruins-thumb.png

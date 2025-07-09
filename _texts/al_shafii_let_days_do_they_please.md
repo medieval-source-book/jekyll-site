@@ -17,7 +17,7 @@ textauthor: Muḥammad ibn Idrīs al-Shāfiʿī
 languages: [arabic]
 regions: [middle_east]
 periods: [8th_century, 9th_century]
-textcollections: []
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_shafii_let_days_do_they_please.jpg
 thumb: /assets/img/text/al_shafii_let_days_do_they_please-thumb.jpg

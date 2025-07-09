@@ -1,5 +1,5 @@
 ---
 layout: regionpage
 title: Latin
-identifier: Latin
+identifier: latin
 ---

@@ -1,5 +1,5 @@
 ---
 layout: regionpage
 title: Hebrew
-identifier: Hebrew
+identifier: hebrew
 ---

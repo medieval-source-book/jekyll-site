@@ -14,7 +14,7 @@ identifier: andre_romance_of_the_french.md
 tei: /assets/tei/andre_romance_of_the_french.xml
 pdf: /assets/pdf/andre_romance_of_the_french.pdf
 textauthor: André de Coutances
-languages: [old_french]
+languages: [french]
 regions: [western_europe]
 periods: [12th_century]
 textcollections: [cross-cultural-encounters, prank-or-be-pranked]

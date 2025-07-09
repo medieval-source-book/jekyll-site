@@ -2,11 +2,11 @@
 layout: text
 sidebar: left
 title: |
-  Song IV "Go quickly, little letter | Carmen IV "Cartula, perge cito
+  Song IV "Go quickly, little letter" | Carmen IV "Cartula, perge cito
 engtitle: |
-  Song IV "Go quickly, little letter
+  Song IV "Go quickly, little letter"
 origtitle: |
-  Carmen IV "Cartula, perge cito
+  Carmen IV "Cartula, perge cito"
 breadcrumb: true
 permalink: "text/alcuin_song_4_go_quickly"
 redirect_from: /text/song-iv-go-quickly-little-letter
