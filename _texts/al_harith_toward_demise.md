@@ -2,9 +2,9 @@
 layout: text
 sidebar: left
 title: |
-  Everything destines toward demise | كل شيء مصيره للزوال
+  Everything's destined toward demise | كل شيء مصيره للزوال
 engtitle: |
-  Everything destines toward demise
+  Everything's destined toward demise
 origtitle: |
   كل شيء مصيره للزوال
 breadcrumb: true
@@ -17,7 +17,7 @@ textauthor: al-Ḥārith ibn ʿUbād
 languages: [arabic]
 regions: [middle_east]
 periods: [5th_century, 6th_century]
-textcollections: []
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/al_harith_toward_demise.jpg
 thumb: /assets/img/text/al_harith_toward_demise-thumb.jpg
