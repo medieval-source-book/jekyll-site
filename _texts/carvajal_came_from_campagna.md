@@ -15,9 +15,9 @@ tei: /assets/tei/carvajal_came_from_campagna.xml
 pdf: /assets/pdf/carvajal_came_from_campagna.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [americas, western_europe]
+regions: [western_europe]
 periods: [15th_century]
-textcollections: [gender-sex-and-sensuality]
+textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_came_from_campagna.jpg
 thumb: /assets/img/text/carvajal_came_from_campagna-thumb.jpg

@@ -15,9 +15,9 @@ tei: /assets/tei/carvajal_walking_out.xml
 pdf: /assets/pdf/carvajal_walking_out.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [americas, western_europe]
+regions: [western_europe]
 periods: [15th_century]
-textcollections: [love-songs, gender-sex-and-sensuality]
+textcollections: [love-songs, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_walking_out.jpg
 thumb: /assets/img/text/carvajal_walking_out-thumb.jpg

@@ -15,9 +15,9 @@ tei: /assets/tei/carvajal_between_sessa_cintura.xml
 pdf: /assets/pdf/carvajal_between_sessa_cintura.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [americas, western_europe]
+regions: [western_europe]
 periods: [15th_century]
-textcollections: [love-songs, gender-sex-and-sensuality]
+textcollections: [love-songs, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_between_sessa_cintura.jpg
 thumb: /assets/img/text/carvajal_between_sessa_cintura-thumb.jpg

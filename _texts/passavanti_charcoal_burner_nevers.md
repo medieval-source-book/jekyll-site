@@ -17,10 +17,10 @@ textauthor: Jacopo Passavanti
 languages: [italian]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+textcollections: [gender-sex-sensuality, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/charcoal_burner_nevers.png
-thumb: /assets/img/text/charcoal_burner_nevers-thumb.png
+image: /assets/img/text/passavanti_charcoal_burner_nevers.png
+thumb: /assets/img/text/passavanti_charcoal_burner_nevers.png
 imagesource: |
   British Library MS Royal 15 E II f.38 [Public Domain]
 fulltext: |

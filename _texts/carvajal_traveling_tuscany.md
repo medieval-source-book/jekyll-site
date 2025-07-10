@@ -15,7 +15,7 @@ tei: /assets/tei/carvajal_traveling_tuscany.xml
 pdf: /assets/pdf/carvajal_traveling_tuscany.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [americas, western_europe]
+regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 

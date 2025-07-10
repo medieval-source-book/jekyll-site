@@ -15,9 +15,9 @@ tei: /assets/tei/carvajal_wandering_lost.xml
 pdf: /assets/pdf/carvajal_wandering_lost.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [americas, western_europe]
+regions: [western_europe]
 periods: [15th_century]
-textcollections: [gender-sex-and-sensuality]
+textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_wandering_lost.jpg
 thumb: /assets/img/text/carvajal_wandering_lost-thumb.jpg

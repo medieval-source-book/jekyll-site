@@ -8,19 +8,19 @@ engtitle: |
 origtitle: |
   Conclusio
 breadcrumb: true
-permalink: "text/bracciolini_conclusio"
+permalink: "text/bracciolini_conclusion"
 redirect_from: /text/conclusion
 identifier: bracciolini_conclusio.md
-tei: /assets/tei/bracciolini_conclusio.xml
-pdf: /assets/pdf/bracciolini_conclusio.pdf
+tei: /assets/tei/bracciolini_conclusion.xml
+pdf: /assets/pdf/bracciolini_conclusion.pdf
 textauthor: Poggio Bracciolini
 languages: [latin]
 regions: [western_europe]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/bracciolini_conclusio.jpg
-thumb: /assets/img/text/bracciolini_conclusio-thumb.jpg
+image: /assets/img/text/bracciolini_conclusion.jpg
+thumb: /assets/img/text/bracciolini_conclusion-thumb.jpg
 imagesource: |
   Poggio Bracciolini, detail from Vatican Urb.Lat.224 f.68r [Public Domain]
 fulltext: |
