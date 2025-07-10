@@ -14,10 +14,10 @@ identifier: sultan_daughter.md
 tei: /assets/tei/sultan_daughter.xml
 pdf: /assets/pdf/sultan_daughter.pdf
 textauthor: Anonymous
-languages: [middle_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [cross-cultural-encounters, prayer-spirituality-life-after-death]
+textcollections: [cross-cultural-encounters, prayer-spirituality, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sultan_daughter.png
 thumb: /assets/img/text/sultan_daughter-thumb.png

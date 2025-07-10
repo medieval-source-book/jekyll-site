@@ -16,8 +16,8 @@ pdf: /assets/pdf/li_qingzhao_sky_merged.pdf
 textauthor: Li Qingzhao 李清照
 languages: [chinese]
 regions: [asia]
-periods: [11th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+periods: [12th_century]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_sky_merged.png
 thumb: /assets/img/text/li_qingzhao_sky_merged-thumb.png

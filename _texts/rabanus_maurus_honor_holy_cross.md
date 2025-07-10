@@ -8,7 +8,7 @@ engtitle: |
 origtitle: |
   In honorem sanctae crucis
 breadcrumb: true
-permalink: "text/rabanus_maurus_honour_holy_cross"
+permalink: "text/rabanus_maurus_honor_holy_cross"
 redirect_from: /text/honor-holy-cross
 identifier: rabanus_maurus_honor_holy_cross.md
 tei: /assets/tei/rabanus_maurus_honor_holy_cross.xml

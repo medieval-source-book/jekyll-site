@@ -15,7 +15,7 @@ tei: /assets/tei/tinodi_loss_buda.xml
 pdf: /assets/pdf/tinodi_loss_buda.pdf
 textauthor: Sebastian Tinódi
 languages: [hungarian]
-regions: [western_europe]
+regions: [eastern_europe]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 

@@ -14,7 +14,7 @@ identifier: oeglin_between_hill_valley_deep.md
 tei: /assets/tei/oeglin_between_hill_valley_deep.xml
 pdf: /assets/pdf/oeglin_between_hill_valley_deep.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]

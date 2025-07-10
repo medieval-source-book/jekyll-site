@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 regions: [western_europe]
 periods: [9th_century]
-textcollections: [hymns-and-histories, prayer-spirituality-life-after-death]
+textcollections: [hymns-and-histories, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_peter.png
 thumb: /assets/img/text/song_peter-thumb.png

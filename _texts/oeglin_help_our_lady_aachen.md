@@ -14,7 +14,7 @@ identifier: oeglin_help_our_lady_aachen.md
 tei: /assets/tei/oeglin_help_our_lady_aachen.xml
 pdf: /assets/pdf/oeglin_help_our_lady_aachen.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]

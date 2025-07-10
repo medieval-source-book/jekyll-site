@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 regions: [western_europe]
 periods: [15th_century]
-textcollections: []
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/virgin_mary_lament_bordesholm.png
 thumb: /assets/img/text/virgin_mary_lament_bordesholm-thumb.png

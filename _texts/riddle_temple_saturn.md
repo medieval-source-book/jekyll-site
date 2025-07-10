@@ -17,7 +17,7 @@ textauthor: Anonymous, Ḥunayn ibn Isḥāq [att.]
 languages: [arabic]
 regions: [middle_east]
 periods: [9th_century, 10th_century, 11th_century]
-textcollections: []
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/riddle_temple_saturn.jpg
 thumb: /assets/img/text/riddle_temple_saturn-thumb.jpg

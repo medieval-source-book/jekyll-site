@@ -17,7 +17,7 @@ textauthor: Li Qingzhao 李清照
 languages: [chinese]
 regions: [asia]
 periods: [12th_century]
-textcollections: [what-makes-a-good-life]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_outside_window_spring_color.png
 thumb: /assets/img/text/li_qingzhao_outside_window_spring_color-thumb.png

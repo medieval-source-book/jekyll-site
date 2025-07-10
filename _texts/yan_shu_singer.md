@@ -17,7 +17,7 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: [love-lust-longing, love-songs, gender-sex-and-sensuality]
+textcollections: [love-lust-longing, love-songs, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_singer.jpg
 thumb: /assets/img/text/yan_shu_singer-thumb.jpg

@@ -17,7 +17,7 @@ textauthor: Various
 languages: [latin]
 regions: [western_europe]
 periods: [13th_century, 14th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/regarding_sister_agnes_waller.jpg
 thumb: /assets/img/text/regarding_sister_agnes_waller-thumb.jpg

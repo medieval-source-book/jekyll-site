@@ -17,7 +17,7 @@ textauthor: Su Shi 蘇軾
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: [what-makes-a-good-life]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/su_shi_hunting_mizhou.jpg
 thumb: /assets/img/text/su_shi_hunting_mizhou-thumb.jpg

@@ -8,19 +8,19 @@ engtitle: |
 origtitle: |
   Die Königin von Frankreich
 breadcrumb: true
-permalink: "text/queen_france"
+permalink: "text/von_schondoch_queen_france"
 redirect_from: /text/queen-france
-identifier: queen_france.md
-tei: /assets/tei/queen_france.xml
-pdf: /assets/pdf/queen_france.pdf
+identifier: von_schondoch_queen_france.md
+tei: /assets/tei/von_schondoch_queen_france.xml
+pdf: /assets/pdf/von_schondoch_queen_france.pdf
 textauthor: von Schondoch
-languages: [middle_high_german]
+languages: [german]
 regions: [western_europe]
-periods: [15th_century]
-textcollections: [gender-sex-and-sensuality]
+periods: [14th_century, 15th_century]
+textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/queen_france.jpg
-thumb: /assets/img/text/queen_france-thumb.jpg
+image: /assets/img/text/von_schondoch_queen_france.jpg
+thumb: /assets/img/text/von_schondoch_queen_france-thumb.jpg
 imagesource: |
   Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]
 fulltext: |

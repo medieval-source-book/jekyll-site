@@ -17,7 +17,7 @@ textauthor: Yan Shu 晏殊
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: [what-makes-a-good-life]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_shu_narrow_path.jpg
 thumb: /assets/img/text/yan_shu_narrow_path-thumb.jpg

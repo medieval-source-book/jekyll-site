@@ -15,9 +15,9 @@ tei: /assets/tei/tinodi_captivity_peter_pereny.xml
 pdf: /assets/pdf/tinodi_captivity_peter_pereny.pdf
 textauthor: Sebastian Tinódi
 languages: [hungarian]
-regions: [western_europe]
+regions: [eastern_europe]
 periods: [16th_century]
-textcollections: [cross-cultural-encounters]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/tinodi_captivity_peter_pereny.png
 thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png

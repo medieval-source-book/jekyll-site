@@ -14,7 +14,7 @@ identifier: oeglin_fortune_grants_comfort_hope.md
 tei: /assets/tei/oeglin_fortune_grants_comfort_hope.xml
 pdf: /assets/pdf/oeglin_fortune_grants_comfort_hope.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]

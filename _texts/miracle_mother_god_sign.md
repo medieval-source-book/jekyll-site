@@ -14,10 +14,10 @@ identifier: miracle_mother_god_sign.md
 tei: /assets/tei/miracle_mother_god_sign.xml
 pdf: /assets/pdf/miracle_mother_god_sign.pdf
 textauthor: Anonymous
-languages: [russian_church_slavonic]
-regions: [western_europe]
+languages: [slavonic]
+regions: [eastern_europe]
 periods: [14th_century, 15th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png

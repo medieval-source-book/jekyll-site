@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/marston_childbirth_prayer.png
 thumb: /assets/img/text/marston_childbirth_prayer-thumb.png

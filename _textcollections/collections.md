@@ -14,4 +14,4 @@ tag: Collections
 * [Making History: Chronicles, Legends and Anecdotes](collections/making-history)
 * [Prank or Be Pranked: Comedy, Wit and Satire](collections/prank-or-be-pranked)
 * [Prayer, Spirituality, and Life after Death: Global Medieval Perspectives](collections/prayer-spirituality)
-* [What Makes A Good Life? Poetic Reflections from Imperial China](collections/good-life)
+* [What Makes A Good Life? Poetic Reflections from the Premodern World](collections/good-life)

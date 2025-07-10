@@ -16,7 +16,7 @@ pdf: /assets/pdf/li_qingzhao_in_thin_fog.pdf
 textauthor: Li Qingzhao 李清照
 languages: [chinese]
 regions: [asia]
-periods: [11th_century]
+periods: [12th_century]
 textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_in_thin_fog.png

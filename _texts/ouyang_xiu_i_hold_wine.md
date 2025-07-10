@@ -17,7 +17,7 @@ textauthor: Ouyang Xiu 歐陽修
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: [what-makes-a-good-life]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/ouyang_xiu_i_hold_wine.jpg
 thumb: /assets/img/text/ouyang_xiu_i_hold_wine-thumb.jpg

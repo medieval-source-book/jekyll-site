@@ -17,7 +17,7 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: []
+textcollections: [love-lust-longing, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_green_shades.jpg
 thumb: /assets/img/text/yan_jidao_green_shades-thumb.jpg

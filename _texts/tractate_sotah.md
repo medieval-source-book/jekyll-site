@@ -14,10 +14,10 @@ identifier: tractate_sotah.md
 tei: /assets/tei/tractate_sotah.xml
 pdf: /assets/pdf/tractate_sotah.pdf
 textauthor: Anonymous
-languages: [biblical_hebrew, jewish_babylonian_aramaic, mishnaic_hebrew]
+languages: [aramaic, hebrew]
 regions: [middle_east]
 periods: [7th_century]
-textcollections: []
+textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/tractate_sotah.jpeg
 thumb: /assets/img/text/tractate_sotah-thumb.jpeg

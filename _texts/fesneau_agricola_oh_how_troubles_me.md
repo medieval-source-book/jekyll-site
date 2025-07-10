@@ -8,19 +8,19 @@ engtitle: |
 origtitle: |
   Ha, qu'il m'ennuie!
 breadcrumb: true
-permalink: "text/oh_how_troubles_me"
+permalink: "text/fesneau_agricola_oh_how_troubles_me"
 redirect_from: /text/oh-how-it-troubles-me
-identifier: oh_how_troubles_me.md
-tei: /assets/tei/oh_how_troubles_me.xml
-pdf: /assets/pdf/oh_how_troubles_me.pdf
+identifier: fesneau_agricola_oh_how_troubles_me.md
+tei: /assets/tei/fesneau_agricola_oh_how_troubles_me.xml
+pdf: /assets/pdf/fesneau_agricola_oh_how_troubles_me.pdf
 textauthor: Fesneau/Agricola [att.]
 languages: [french]
 regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/oh_how_troubles_me.png
-thumb: /assets/img/text/oh_how_troubles_me-thumb.png
+image: /assets/img/text/fesneau_agricola_oh_how_troubles_me.png
+thumb: /assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png
 imagesource: |
   British Library MS King's 322 f.1 [Public Domain]
 fulltext: |

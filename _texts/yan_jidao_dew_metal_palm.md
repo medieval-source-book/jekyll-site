@@ -17,7 +17,7 @@ textauthor: Yan Jidao 晏幾道
 languages: [chinese]
 regions: [asia]
 periods: [11th_century]
-textcollections: [what-makes-a-good-life]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/yan_jidao_dew_metal_palm.jpg
 thumb: /assets/img/text/yan_jidao_dew_metal_palm-thumb.jpg

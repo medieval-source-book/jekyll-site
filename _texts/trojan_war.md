@@ -16,7 +16,7 @@ pdf: /assets/pdf/trojan_war.pdf
 textauthor: Anonymous
 languages: [german]
 regions: [western_europe]
-periods: [15th_century]
+periods: [13th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/trojan_war.png

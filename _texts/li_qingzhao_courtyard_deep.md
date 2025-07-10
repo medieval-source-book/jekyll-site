@@ -16,8 +16,8 @@ pdf: /assets/pdf/li_qingzhao_courtyard_deep.pdf
 textauthor: Li Qingzhao 李清照
 languages: [chinese]
 regions: [asia]
-periods: [11th_century]
-textcollections: [what-makes-a-good-life]
+periods: [12th_century]
+textcollections: [good-life]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/li_qingzhao_courtyard_deep.png
 thumb: /assets/img/text/li_qingzhao_courtyard_deep-thumb.png

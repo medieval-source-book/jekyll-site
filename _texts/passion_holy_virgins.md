@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 regions: [western_europe]
 periods: [12th_century]
-textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+textcollections: [gender-sex-sensuality, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/passion_holy_virgins.png
 thumb: /assets/img/text/passion_holy_virgins-thumb.png

@@ -14,7 +14,7 @@ identifier: oeglin_my_heart_pact_love.md
 tei: /assets/tei/oeglin_my_heart_pact_love.xml
 pdf: /assets/pdf/oeglin_my_heart_pact_love.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]

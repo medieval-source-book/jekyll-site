@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 regions: [western_europe]
 periods: [7th_century, 8th_century, 9th_century]
-textcollections: [making-history, prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [making-history, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/origin_pastoral_care.jpg
 thumb: /assets/img/text/origin_pastoral_care-thumb.jpg

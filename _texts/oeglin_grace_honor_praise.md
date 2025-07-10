@@ -14,7 +14,7 @@ identifier: oeglin_grace_honor_praise.md
 tei: /assets/tei/oeglin_grace_honor_praise.xml
 pdf: /assets/pdf/oeglin_grace_honor_praise.pdf
 textauthor: Erhard Oeglin
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]

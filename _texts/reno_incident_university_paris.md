@@ -17,7 +17,7 @@ textauthor: Johannes de Reno
 languages: [latin]
 regions: [western_europe]
 periods: [15th_century]
-textcollections: []
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/reno_incident_university_paris.jpg
 thumb: /assets/img/text/reno_incident_university_paris-thumb.jpg

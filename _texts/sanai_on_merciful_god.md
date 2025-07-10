@@ -17,7 +17,7 @@ textauthor: Sanā’ī of Ghazna
 languages: [persian]
 regions: [middle_east]
 periods: [12th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sanai_on_merciful_god.jpg
 thumb: /assets/img/text/sanai_on_merciful_god-thumb.jpg

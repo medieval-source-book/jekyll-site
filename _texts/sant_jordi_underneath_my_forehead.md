@@ -17,7 +17,7 @@ textauthor: Jordi di Sant Jordi
 languages: [catalan]
 regions: [western_europe]
 periods: [15th_century]
-textcollections: [gender-sex-and-sensuality]
+textcollections: [gender-sex-sensuality, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sant_jordi_underneath_my_forehead.jpg
 thumb: /assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg
