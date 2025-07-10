@@ -24,7 +24,7 @@ thumb: /assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.6v [Public Domain]
 fulltext: |
-  Zwischen perg und tieffe tal Between hill and valley deep                  = transcription  = translation     
+    
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

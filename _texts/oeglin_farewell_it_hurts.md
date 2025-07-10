@@ -24,7 +24,7 @@ thumb: /assets/img/text/oeglin_farewell_it_hurts-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.22r [Public Domain]
 fulltext: |
-  Ade mit layd Farewell! It hurts                              = transcription  = translation     
+  
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

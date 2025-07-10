@@ -24,7 +24,7 @@ thumb: /assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.5v [http://stimmbuecher.digitale-sammlungen.de/view?id=bsb00082229]
 fulltext: |
-  Hilf fraw von Ach Help, our lady of Aachen!                                                                       
+                                                                    
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>

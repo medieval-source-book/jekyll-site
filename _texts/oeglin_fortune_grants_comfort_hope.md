@@ -24,7 +24,7 @@ thumb: /assets/img/text/oeglin_fortune_grants_comfort_hope-thumb.jpg
 imagesource: |
   Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15r
 fulltext: |
-  Gelück mir trost und hoffnug geit Fortune grants me comfort and hope                                                           
+                                                       
 --- 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>
