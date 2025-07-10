@@ -17,7 +17,7 @@ textauthor: Hakim Irānshāh ebn-e Abi-l-Khayr
 languages: [persian]
 regions: [middle_east]
 periods: [11th_century, 12th_century]
-textcollections: []
+textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hakim_iranshah_monstrous_courtship.jpg
 thumb: /assets/img/text/hakim_iranshah_monstrous_courtship-thumb.jpg

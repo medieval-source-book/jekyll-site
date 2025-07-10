@@ -14,7 +14,7 @@ identifier: efrosin_tale_dracula.md
 tei: /assets/tei/efrosin_tale_dracula.xml
 pdf: /assets/pdf/efrosin_tale_dracula.pdf
 textauthor: Efrosin
-languages: [russian_church_slavonic]
+languages: [slavonic]
 regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [making-history]

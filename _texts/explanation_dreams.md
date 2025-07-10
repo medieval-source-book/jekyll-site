@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 regions: [western_europe]
 periods: [13th_century]
-textcollections: []
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/explanation_dreams.jpg
 thumb: /assets/img/text/explanation_dreams-thumb.jpg

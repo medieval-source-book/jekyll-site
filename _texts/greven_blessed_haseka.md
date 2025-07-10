@@ -17,7 +17,7 @@ textauthor: Hermann Greven
 languages: [latin]
 regions: [western_europe]
 periods: [15th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality-]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/greven_blessed_haseka.jpg
 thumb: /assets/img/text/greven_blessed_haseka-thumb.jpg

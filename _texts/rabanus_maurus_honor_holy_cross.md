@@ -10,17 +10,17 @@ origtitle: |
 breadcrumb: true
 permalink: "text/rabanus_maurus_honour_holy_cross"
 redirect_from: /text/honor-holy-cross
-identifier: rabanus_maurus_honour_holy_cross.md
-tei: /assets/tei/rabanus_maurus_honour_holy_cross.xml
-pdf: /assets/pdf/rabanus_maurus_honour_holy_cross.pdf
+identifier: rabanus_maurus_honor_holy_cross.md
+tei: /assets/tei/rabanus_maurus_honor_holy_cross.xml
+pdf: /assets/pdf/rabanus_maurus_honor_holy_cross.pdf
 textauthor: Rabanus Maurus
 languages: [latin]
 regions: [western_europe]
 periods: [9th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/rabanus_maurus_honour_holy_cross.png
-thumb: /assets/img/text/rabanus_maurus_honour_holy_cross-thumb.png
+image: /assets/img/text/rabanus_maurus_honor_holy_cross.png
+thumb: /assets/img/text/rabanus_maurus_honor_holy_cross-thumb.png
 imagesource: |
   Copyright Biblioteca Apostolica Vaticana. http://digi.vatlib.it/view/MSS_Reg.lat.124/0078
 fulltext: |

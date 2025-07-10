@@ -14,10 +14,10 @@ identifier: grunau_prussian_chronicle.md
 tei: /assets/tei/grunau_prussian_chronicle.xml
 pdf: /assets/pdf/grunau_prussian_chronicle.pdf
 textauthor: Simon Grunau
-languages: [early_new_high_german]
+languages: [german]
 regions: [western_europe]
 periods: [16th_century]
-textcollections: []
+textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/grunau_prussian_chronicle.jpg
 thumb: /assets/img/text/grunau_prussian_chronicle-thumb.jpg

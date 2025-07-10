@@ -17,7 +17,7 @@ textauthor: Hong Mai 洪邁
 languages: [chinese]
 regions: [asia]
 periods: [12th_century]
-textcollections: [gender-sex-and-sensuality, making-history]
+textcollections: [gender-sex-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_chastity_wu_wife.jpg
 thumb: /assets/img/text/hong_mai_chastity_wu_wife-thumb.jpg

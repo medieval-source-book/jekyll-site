@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [french]
 regions: [western_europe]
 periods: [13th_century]
-textcollections: [gender-sex-and-sensuality, prank-or-be-pranked]
+textcollections: [gender-sex-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/girl_wanted_fly.jpeg
 thumb: /assets/img/text/girl_wanted_fly-thumb.jpeg

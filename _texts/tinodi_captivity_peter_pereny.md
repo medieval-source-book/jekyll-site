@@ -19,10 +19,10 @@ regions: [western_europe]
 periods: [16th_century]
 textcollections: [cross-cultural-encounters]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/tinodi_captivity_peter_pereny
-thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb
+image: /assets/img/text/tinodi_captivity_peter_pereny.png
+thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png
 imagesource: |
-  
+  Detail from "Buda, Vulgo Ofen, Prima et Regia Ungarici" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries.
 fulltext: |
   
 --- 

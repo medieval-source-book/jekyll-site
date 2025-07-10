@@ -19,10 +19,10 @@ regions: [western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
-image: /assets/img/text/sant_jordi_underneath_my_forehead.jpg
-thumb: /assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg
+image: /assets/img/text/default.png
+thumb: /assets/img/text/default.png
 imagesource: |
-  Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]
+  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
 fulltext: |
   
 --- 

@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [english]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [cross-cultural-encounters, gender-sex-and-sensuality]
+textcollections: [cross-cultural-encounters, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/king_tars.png
 thumb: /assets/img/text/king_tars-thumb.png

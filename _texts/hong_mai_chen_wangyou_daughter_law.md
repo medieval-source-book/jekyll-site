@@ -17,7 +17,7 @@ textauthor: Hong Mai 洪邁
 languages: [chinese]
 regions: [asia]
 periods: [12th_century]
-textcollections: [making-history]
+textcollections: [gender-sex-sensuality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hong_mai_chen_wangyou_daughter_law.jpg
 thumb: /assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg

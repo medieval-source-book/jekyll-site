@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [english,latin]
 regions: [western_europe]
 periods: [11th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/junius_childbirth_charm.png
 thumb: /assets/img/text/junius_childbirth_charm-thumb.png

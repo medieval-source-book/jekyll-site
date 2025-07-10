@@ -17,7 +17,7 @@ textauthor: Adam of St. Victor [att.]
 languages: [latin]
 regions: [western_europe]
 periods: [12th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hymn_honor_augustine.png
 thumb: /assets/img/text/hymn_honor_augustine-thumb.png

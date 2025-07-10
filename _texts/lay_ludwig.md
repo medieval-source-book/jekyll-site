@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [german]
 regions: [western_europe]
 periods: [9th_century]
-textcollections: [hymns-and-histories]
+textcollections: [hymns-and-histories, making-history, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/lay_ludwig.jpg
 thumb: /assets/img/text/lay_ludwig-thumb.jpg
