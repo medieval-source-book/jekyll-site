@@ -17,7 +17,7 @@ textauthor: Nicolaus Pergamenus [att.]
 languages: [latin]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [fantastic-fables]
+textcollections: [fantastic-fables, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_life_death.jpg
 thumb: /assets/img/text/creature_dialogue_life_death-thumb.jpg

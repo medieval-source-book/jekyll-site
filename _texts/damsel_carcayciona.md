@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [aljamiado]
 regions: [western_europe]
 periods: [16th_century]
-textcollections: [gender-sex-and-sensuality, prayer-spirituality-life-after-death]
+textcollections: [gender-sex-sensuality, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/damsel_carcayciona.jpg
 thumb: /assets/img/text/damsel_carcayciona-thumb.jpg

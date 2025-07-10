@@ -17,7 +17,7 @@ textauthor: Anonymous
 languages: [latin]
 regions: [western_europe]
 periods: [13th_century]
-textcollections: []
+textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/divination_through_apostles.jpg
 thumb: /assets/img/text/divination_through_apostles-thumb.jpg

@@ -17,7 +17,7 @@ textauthor: Nicolaus Pergamenus [att.]
 languages: [latin]
 regions: [western_europe]
 periods: [14th_century]
-textcollections: [fantastic-fables, gender-sex-and-sensuality]
+textcollections: [fantastic-fables, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/creature_dialogue_man_woman.jpeg
 thumb: /assets/img/text/creature_dialogue_man_woman-thumb.jpeg
