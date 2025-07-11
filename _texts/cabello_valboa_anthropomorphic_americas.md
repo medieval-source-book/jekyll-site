@@ -2,22 +2,22 @@
 layout: text
 sidebar: left
 title: |
-  Between Sessa and Cintura | Entre Sesa et Cintura
+  Anthropomorphic description of the Americas | Descripción del antropomórfica del continente americano
 engtitle: |
-  Between Sessa and Cintura
+  Anthropomorphic description of the Americas
 origtitle: |
-  Entre Sesa et Cintura
+  Descripción del antropomórfica del continente americano
 breadcrumb: true
-permalink: "text/carvajal_between_sessa_cintura"
-redirect_from: /text/cabello_valboa_anthropomorphic_americas
-identifier: ccabello_valboa_anthropomorphic_americas.md
+permalink: "text/cabello_valboa_anthropomorphic_americas"
+redirect_from: 
+identifier: cabello_valboa_anthropomorphic_americas.md
 tei: /assets/tei/cabello_valboa_anthropomorphic_americas.xml
 pdf: /assets/pdf/cabello_valboa_anthropomorphic_americas.pdf
-textauthor: Cabello Valboa
+textauthor: Miguel Cabello Valboa
 languages: [spanish]
 regions: [americas]
-periods: [17th_century]
-textcollections: [love-songs, gender-sex-and-sensuality]
+periods: [16th_century]
+textcollections: [cross-cultural-encounters]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
@@ -26,14 +26,3 @@ imagesource: |
 fulltext: |
   
 --- 
-## Introduction to the Source 
-<p></p>
-
-## Introduction to the Text 
-<p></p>
-
-## Further Reading 
-<p></p> <ul> <li></li> </ul>
-
-## Credits
-<p>Translation and introduction by Leonardo Velloso-Lyons. Encoded in TEI P5 XML by Mae Velloso-Lyons.</p>
