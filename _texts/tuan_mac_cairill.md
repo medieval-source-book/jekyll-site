@@ -2,22 +2,22 @@
 layout: text
 sidebar: left
 title: |
-  The trust that I have in you | La fiance que j'ay en vous
+  Tuán mac Cairill—it was heard | Tuán mac Cairill ro clos
 engtitle: |
-  The trust that I have in you
+  Tuán mac Cairill—it was heard
 origtitle: |
-  La fiance que j'ay en vous
+  Tuán mac Cairill ro clos
 breadcrumb: true
-permalink: "text/trust_I_have_you"
-redirect_from: /text/trust-i-have-you
-identifier: trust_I_have_you.md
-tei: /assets/tei/trust_I_have_you.xml
-pdf: /assets/pdf/trust_I_have_you.pdf
+permalink: "text/tuan_mac_cairill"
+redirect_from: 
+identifier: tuan_mac_cairill.md
+tei: /assets/tei/tuan_mac_cairill.xml
+pdf: /assets/pdf/tuan_mac_cairill.pdf
 textauthor: Anonymous
-languages: [french]
+languages: [irish]
 regions: [western_europe]
 periods: [15th_century]
-textcollections: [love-songs]
+textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
