@@ -8,11 +8,11 @@ engtitle: |
 origtitle: |
   μνήμη τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰγατίου πατριάρχου Κωνσταντινουπόλεως
 breadcrumb: true
-permalink: "text/ignatios"
-redirect_from: /text/memorial-our-father-ignatios-patriarch-constantinople
-identifier: ignatios.md
-tei: /assets/tei/ignatios.xml
-pdf: /assets/pdf/ignatios.pdf
+permalink: "text/inca_garcilaso_noble_lady"
+redirect_from: 
+identifier: iinca_garcilaso_noble_lady.md
+tei: /assets/tei/inca_garcilaso_noble_lady.xml
+pdf: /assets/pdf/inca_garcilaso_noble_lady.pdf
 textauthor: Anonymous
 languages: [greek]
 regions: [western_europe]
