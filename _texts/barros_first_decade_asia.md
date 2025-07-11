@@ -22,7 +22,7 @@ sdr: https://purl.stanford.edu/druid
 image: /assets/img/text/barros_first_decade_asia.png
 thumb: /assets/img/text/barros_first_decade_asia-thumb.png
 imagesource: |
-  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
+  Detail from the title page of _Asia de Joam de Barros / dos fectos que os Portugueses fizeram no descobrimento e conquista dos mares e terras do Oriente_ (Lisbon: Germão Galharde, 1552).
 fulltext: |
   
 --- 
