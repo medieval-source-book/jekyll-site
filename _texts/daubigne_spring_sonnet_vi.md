@@ -15,17 +15,16 @@ tei: /assets/tei/daubigne_spring_sonnet_vi.xml
 pdf: /assets/pdf/daubigne_spring_sonnet_vi.pdf
 textauthor: Théodore Agrippa d’Aubigné
 languages: [french]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/daubigne_spring_sonnet_vi.jpg
 thumb: /assets/img/text/daubigne_spring_sonnet_vi-thumb.jpg
-imagesource: |
-  Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Bibliothèque de Genève, Detail from Le Printemps et divers textes, Bibliothèque de Genève, Archives Tronchin 157
+ 
 ## Introduction to the Text 
 <p style="text-align:justify"><span style="text-justify:inter-ideograph">Best known for his civil war epic <i>Les Tragiques</i>, Théodore Agrippa d’Aubigné (1552-1630) spent his early years in the thrall of Diane Salviati. Salviati was the niece of Cassandra, the muse of the famous French poet Ronsard. D’Aubigné’s work <i>Le Printemps (</i></span>“<span style="text-justify:inter-ideograph">Spring</span>”)<span style="text-justify:inter-ideograph"><i> </i>is composed of two parts. The first is a compilation of one hundred sonnets dedicated to his beloved, entitled <i>L’hécatombe à Diane</i>. The word ‘hecatomb’ evokes a sacrificial practice in Ancient Greece, where one hundred cattle or other livestock would be slaughtered in honour of the gods. Though the goal of d’Aubigné’s sonnets is ostensibly to praise Diane, his imagery is characteristically visceral, flavoured by his experience of the violence of France’s Wars of Religion (1562-1598). Diane’s family sheltered d’Aubigné following the St. Bartholomew’s Day Massacre in 1572, but, as she was Catholic and d’Aubigné Protestant, their love was not to be. The author’s later works express some wistful reflections on the youthful exuberance that led him to idolize this unattainable woman. It is thought that <i>L’hécatombe à Diane</i> and the latter section of <i>Le Printemps</i>, the <i>Stances et Odes</i>, were composed in the early 1570s. </span></p>
 ## Further Reading 

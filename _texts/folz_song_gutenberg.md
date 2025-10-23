@@ -15,17 +15,16 @@ tei: /assets/tei/folz_song_gutenberg.xml
 pdf: /assets/pdf/folz_song_gutenberg.pdf
 textauthor: Hans Folz
 languages: [german]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/folz_song_gutenberg.jpg
 thumb: /assets/img/text/folz_song_gutenberg-thumb.jpg
-imagesource: |
-  Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Portrait of Hans Folz by Hans Schwarz, c.1520. [Public Domain]
+ 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-5e157436-7fff-5bcd-491c-d81047e1abe3">While Folz himself printed many of his own works (he operated his own small printing operation), he did not print this song (or any of his other Meisterlieder). The source survives in a late-fifteenth-century manuscript, possibly in Folz’s own hand, containing a number of Folz’s Meisterlieder, Shrovetide plays, and treatises on theology, fencing, and alchemy. The manuscript also contains a number of poems by the fourteenth-century poet Heinrich von Mügeln.</p>
 ## Introduction to the Text 

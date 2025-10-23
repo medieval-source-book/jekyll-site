@@ -15,17 +15,17 @@ tei: /assets/tei/andre_romance_of_the_french.xml
 pdf: /assets/pdf/andre_romance_of_the_french.pdf
 textauthor: André de Coutances
 languages: [french]
-regions: [western_europe]
 periods: [12th_century]
 textcollections: [cross-cultural-encounters, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/andre_romance_of_the_french.jpg
 thumb: /assets/img/text/andre_romance_of_the_french-thumb.jpg
-imagesource: |
-  London, British Library, MS Add. 10289 f.129r [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ London, British Library, MS Add. 10289 f.129r [Public Domain]
+ 
+
 ## Introduction to the Source 
 <p>The <span style="font-family:"Times New Roman",serif"><span style="color:#333333">“</span></span>Roman des Franceis<span style="font-family:"Times New Roman",serif"><span style="color:#333333">”</span></span> appears in <a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_10289">London, British Library, MS Add. 10289</a>, fols. 129v-132v. The manuscript was likely made in Mont-Saint-Michel in the late 13th century (Paris and Bos 1885, xix–xxiv; see also the BL manuscript notice), and besides the Roman des Franceis, it contains a number of other texts, listed by Paris and Bos. Some texts have a connection to the manuscript’s place of production, such as ours and Guillaume de Saint-Pair’s Roman du Mont-Saint-Michel, while others are less place-specific. The text of the <span style="font-family:"Times New Roman",serif"><span style="color:#333333">“</span></span>Roman des Franceis<span style="font-family:"Times New Roman",serif"><span style="color:#333333">”</span></span> is at times rather obscure, in all likelihood due to the vagaries of transmission. It has been edited by Achille Jubinal (1842, vol 2, 1–17), and more recently and with substantial improvements by Anthony Holden (1973). The <em>GMS</em> translation is based on an interpretive transcription of the Roman des Franceis, and occasionally draws on Holden’s edition, commentary or glossary to establish a legible text, where necessary.</p>
 ## Introduction to the Text 

@@ -3,7 +3,7 @@ layout: page
 title: "About"
 meta_title: "About This Project"
 breadcrumb: true
-permalink: "/about"
+permalink: "/about/"
 header:
   image_fullwidth: header_unsplash_12.jpg
 date_updated: 2021-04-30

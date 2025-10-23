@@ -15,17 +15,16 @@ tei: /assets/tei/oeglin_dearest_sight_heart.xml
 pdf: /assets/pdf/oeglin_dearest_sight_heart.pdf
 textauthor: Erhard Oeglin
 languages: [german]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_dearest_sight_heart.jpg
 thumb: /assets/img/text/oeglin_dearest_sight_heart-thumb.jpg
-imagesource: |
-  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.40v [Public Domain]
+ 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>
 ## Introduction to the Text 

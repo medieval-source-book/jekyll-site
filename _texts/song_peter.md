@@ -15,17 +15,18 @@ tei: /assets/tei/song_peter.xml
 pdf: /assets/pdf/song_peter.pdf
 textauthor: Anonymous
 languages: [german]
-regions: [western_europe]
 periods: [9th_century]
 textcollections: [hymns-and-histories, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/song_peter.png
 thumb: /assets/img/text/song_peter-thumb.png
-imagesource: |
-  Detail from BSB MS Clm 6260, fol.158v
-fulltext: |
-  Petruslied The Song of Peter ﻿Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian Our Lord gave Saint Peter the power to save ze imo dingenten man. kyrie eleyson christe eleyson. those entrusted to him. Kyrie eleison. Christe eleison. Er hapet ouh mit vuortun himriches portun. dar in mach er skerian With words, he also guards the gates of heaven through which he admits den er uuili nerian. kirie eleison criste [eleyson] those whom he wishes to save. Kyrie eleison. Christe eleison. Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer Let us entreat God’s disciple, loudly and in unison, so that he grants do ginaden  mercy to us sinners. Kyrie eleison. Christe eleison. 
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from BSB MS Clm 6260, fol.158v
+
+ Petruslied The Song of Peter ﻿Unsar trohtin hat farsalt sancte petre giuualt daz er mac ginerian Our Lord gave Saint Peter the power to save ze imo dingenten man. kyrie eleyson christe eleyson. those entrusted to him. Kyrie eleison. Christe eleison. Er hapet ouh mit vuortun himriches portun. dar in mach er skerian With words, he also guards the gates of heaven through which he admits den er uuili nerian. kirie eleison criste [eleyson] those whom he wishes to save. Kyrie eleison. Christe eleison. Pittemes den gotes trut alla samant uparlut. daz er uns firtanen giuuer Let us entreat God’s disciple, loudly and in unison, so that he grants do ginaden  mercy to us sinners. Kyrie eleison. Christe eleison. 
+ 
 ## Introduction to the Source 
 <p>The song survives in only one manuscript, Bayerische Staatsbibliothek Clm 6260, now held in Munich. The manuscript originally stems from the Freising Cathedral library and was written in the second half of the ninth century CE. It contains discussions, in Latin, of religious texts. The <em>Song of Peter</em> was written down later, on the very last page below the end of Hrabanus’s Maurus Commentary on Genesis (f.158v).</p>
 ## Introduction to the Text 

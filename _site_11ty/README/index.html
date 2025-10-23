@@ -1,0 +1,77 @@
+<h2>dhlg</h2>
+<p><em>The Digital Humanities Literacy Guidebook</em> is an outcome of the A.W. Mellon Digital Humanities grant project with Carnegie Mellon University.
+This repository contains the source code for a <a href="https://jekyllrb.com">Jekyll</a>-based static site.</p>
+<h2>Build and deployment</h2>
+<p>Building this site requires ruby &gt;= 2.5.3</p>
+<p>Ensure you have the bundler gem installed, then install the other dependencies for this site:</p>
+<pre><code class="language-sh">gem install bundler
+bundle install
+</code></pre>
+<p>To preview the site locally:</p>
+<pre><code class="language-sh">bundle exec jekyll serve --watch --config _config.yml,_config_local.yml
+</code></pre>
+<p>To check for broken links:</p>
+<pre><code class="language-sh">bundle exec jekyll build  --config _config.yml,_config_local.yml
+bundle exec htmlproofer ./_site --assume-extension --empty-alt-ignore --timeframe '30d' --allow-hash-href
+</code></pre>
+<h2>Adding a new page</h2>
+<p>The following are required fields for all new *.md files, including project videos, topics, and content pages.</p>
+<ol>
+<li><code>identifier</code> - a unique lowercase HTML-compatible string (cannot begin with a number, and must contain only a-z characters, with no spaces) used to identify the project video page</li>
+<li><code>meta_title</code>- - the page title which will be displayed in the HTML <head></li>
+<li><code>title</code> - the page title displayed within the page body itself (can be the same as <code>meta_title</code>, but please supply both)</li>
+<li><code>permalink</code> - lower case url path relative to the baseurl / domain of the entire site, with a trailing slash / . This is used to generate the breadcrumbs in conjunction with the title field</li>
+<li><code>creationdate</code>: YYYY-MM-DD</li>
+<li><code>date_updated</code>: YYYY-MM-DD [this should be the last date the file was updated, only one value should be supplied]</li>
+</ol>
+<p>for any page it is possible to add multiple authors using the following format:</p>
+<pre><code class="language-yaml">authors:
+- name: [enclose in double quotation marks &quot;&quot; if single quotations in the text ']
+  bio: [enclose in double quotation marks &quot;&quot; and only use single quotations in the text ']
+  affiliation: [enclose in double quotation marks &quot;&quot; if single quotations in the text ']
+  uri:
+</code></pre>
+<ol>
+<li>adding new project video
+required fields include:</li>
+</ol>
+<ul>
+<li>breadcrumb: true</li>
+<li>layout: project</li>
+<li>disciplines: list of matching discipline identifiers</li>
+<li>topics: list of matching topic identifiers</li>
+<li>source: community [CMU contributors use core]</li>
+<li>youtubeid: [Youtube unique ID]</li>
+<li>teaser: [short description of the video, which will be truncated at 80 characters when displayed on the project videos landing page]</li>
+</ul>
+<ol start="2">
+<li>adding new dh topic</li>
+</ol>
+<ul>
+<li>topics: list of matching topic identifiers</li>
+<li>breadcrumb: false</li>
+<li>layout: page</li>
+</ul>
+<ol start="3">
+<li>adding new content page</li>
+</ol>
+<ul>
+<li>breadcrumb: true</li>
+<li>layout: page</li>
+</ul>
+<p>For new content pages, please update <code>_data/navigation.yml</code> and place the page in the menu under existing main items. entries require the menu item text and the associated permalink, e.g.:</p>
+<pre><code class="language-yaml">title: &quot;Instructional Blogs / Misc&quot;
+url: &quot;/global-resources/educational-resources/instructional-blogs&quot;
+</code></pre>
+<p>For new disciplines, please update <code>_data/disciplines.yml</code> with the discipline name and a unique lower case identifier (as per above). This data file acts as a control for disciplines across the site: in order for projects to match by discipline, the discipline must appear in this data file even if the discipline is declared in the yaml header of the project. Entries are formatted as follows:</p>
+<pre><code class="language-yaml">- identifier: &quot;modernlanguages&quot;
+  name: &quot;Modern Languages&quot;
+</code></pre>
+<p>New topics are controlled by adding a new topic, with a unique identifier, and title.</p>
+<p>A <a href="https://cmu-lib.github.io/dhlg/style/">style guide</a> is available.</p>
+<h2>Credits</h2>
+<p>This site was developed by Scott Weingart, Susan Grunewald, Matthew Lincoln, and Agile Humanities team members Matt Milner and Bill Kennedy.</p>
+<p>Support for this project comes from the A.W. Mellon Foundation, Carnegie Mellon University Libraries, and Dietrich College for Humanities and Social Sciences.</p>
+<p>The theme is based on the openly-licensed Jekyll theme <a href="https://github.com/Phlow/feeling-responsive">Feeling Responsive</a></p>
+<h2>Contact</h2>
+<p><a href="https://library.cmu.edu/about/people/scott-weingart">Scott B. Weingart</a></p>

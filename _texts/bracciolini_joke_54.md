@@ -15,17 +15,16 @@ tei: /assets/tei/bracciolini_joke_54.xml
 pdf: /assets/pdf/bracciolini_joke_54.pdf
 textauthor: Poggio Bracciolini
 languages: [latin]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [facetiae-jokes]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/bracciolini_joke_54.png
 thumb: /assets/img/text/bracciolini_joke_54-thumb.png
-imagesource: |
-  Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Archers Assaulting a City from London, British Library Yates Thompson MS 12 f.204r [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>
 ## Introduction to the Text 

@@ -15,17 +15,16 @@ tei: /assets/tei/efrosin_tale_dracula.xml
 pdf: /assets/pdf/efrosin_tale_dracula.pdf
 textauthor: Efrosin
 languages: [slavonic]
-regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/efrosin_tale_dracula
 thumb: /assets/img/text/efrosin_tale_dracula-thumb
-imagesource: |
-  
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ 
+ 
 ## Introduction to the Source 
 <p><em>The Tale of Dracula the Voivode</em> was produced in 1490 in the Kirillov-Beloozersky monastery near Beloozero (Belozersk), Russia. The monk Efrosin adapted the text from an unknown source. At the end of the text, he notes that he wrote an earlier version of the story in 1486 and rewrote it in 1490 (the 1486 version has not survived). The <em>Tale</em> is part of a 500-folio manuscript codex in which Efrosin copied secular tales and diverse texts of encyclopedic content. Scholars consider the <em>Tale</em> one of the first historical novels in Russian literature. Some believe that this text, along with Efrosin’s other writings, shows a Renaissance-like movement in Russian Orthodox religious culture in the late 15th century. The book in which the <em>Tale</em> is included is one of only seven surviving manuscripts by Efrosin. They are held in the Russian National Library in St. Petersburg. For the text’s transcription and translation, I have used a digitization of the original manuscript #11/1088, fond 351, folio pages 204-217 of the Efrosin Collection at the Russian National Library. This digitization is available to view online here: <a href="http://nlr.ru/manuscripts/RA1527/elektronnyiy-katalog?ab=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA">http://nlr.ru/manuscripts/RA1527/elektronnyiy-katalog?ab=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA</a>.</p>
 ## Introduction to the Text 

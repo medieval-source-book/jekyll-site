@@ -15,17 +15,16 @@ tei: /assets/tei/han_yu_memorial_bones_buddha.xml
 pdf: /assets/pdf/han_yu_memorial_bones_buddha.pdf
 textauthor: Han Yu 韓愈
 languages: [chinese]
-regions: [asia]
 periods: [9th_century]
 textcollections: [cross-cultural-encounters, prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/han_yu_memorial_bones_buddha.jpg
 thumb: /assets/img/text/han_yu_memorial_bones_buddha.jpg
-imagesource: |
-  Buddha, Probably Amitabha (Amituofo), Early 7th C., T'ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Buddha, Probably Amitabha (Amituofo), Early 7th C., T'ang Dynasty, Hollow dry lacquer with traces of gilt and polychrome pigment and gilding. Metropolitan Museum of Art, Rogers Fund, 1919,  19.186. [Public Domain]]
+ 
 ## Introduction to the Text 
 <p>Han Yu 韓愈 (768-824 CE), also known as Tuizhi 退之, was a scholar, official, poet, and a highly influential literary figure during the Tang dynasty (619-907 CE) of China. He played an important role in the development of Confucian thought, especially the Confucian revival movement. This school of thought, often referred to as ‘Neo-Confucianism’ or <em>Daoxue</em> 道學 (‘Learning of the Way’), became very influential in the centuries following Han Yu’s death, its impact extending far beyond philosophical abstraction to shape literary and historical works, economic and social policy, and law during the Song dynasty (960-1279 CE). Han Yu's major contribution to this movement lay in providing Confucian thought with practical responses to the cultural and philosophical impacts of Buddhism and Daoism, and in popularizing a literary language, guwen 古文 (‘the language of antiquity’), which claimed a basis in the Confucian canon of the Zhou dynasty (c.1046-256 BCE) and therefore eschewed the influence of Buddhist writings. In his most famous work, <em>Essentials of the Moral Way</em>, Han Yu proposed a political, social and economic program intended to place the Confucian classics at the center of life, with society arranged around a strong and virtuous imperial center.</p> <p>The <em>Memorial on the Bones of the Buddha </em>is a memorial, that is, a report to the emperor. It was submitted by Han Yu to Emperor Xianzong 憲宗 (r. 806-820 CE) in 819 CE in response to Xianzong's proposal to parade Buddhist relics usually kept at the Famen Temple—more specifically, a bone from the Buddha’s finger—around his territory. The tone of Han Yu’s appeal is elegant but vehement, and has been celebrated as an example of prose style. His memorial contrasts the ‘Chinese’ teachings of the ancients, which he claims are proven to provide longevity, against the ‘foreign’ doctrines of a ‘foreign’ figure (the Buddha). He argues that the Buddha’s relics can only bring impurity and instability and claims that his teachings have led to turbulent and deficient imperial governance.</p> <p>One interesting aspect for modern readers is how Han Yu treats Buddhism as an instrument of rulership rather than as a faith or belief system, and seeks to demonstrate that its teachings cannot rival the ancient ways. His characterization of the Buddha as a foreigner is based on customs—clothing, food and language. The portrayal of Buddhism as a corrupting influence from the outside was quite extreme and does not seem to have been typical of the period, but it should be noted that the relic was not paraded again for more than fifty years—until 873 CE.</p> <p>The tone of Han Yu’s memorial was not welcomed by the emperor. While serving as Vice-President of the Board of Justice, Han Yu had previously published stark criticism of Daoism and Buddhism in his essay Yuandao 原道 ('An Examination of the Way'), with only limited impact. This time, however, his criticism of the imperial center through the condemnation of previous Buddhist dynasties infuriated the emperor. Han Yu only narrowly escaped with his life and was exiled to the southern province of Chaozhou, although on the death of Xianzong a year later he was able to return to the capital and subsequently occupied several senior roles in the civil service.</p>
 ## Further Reading 

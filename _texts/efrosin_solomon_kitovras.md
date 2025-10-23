@@ -15,17 +15,16 @@ tei: /assets/tei/efrosin_solomon_kitovras.xml
 pdf: /assets/pdf/efrosin_solomon_kitovras.pdf
 textauthor: Efrosin
 languages: [slavonic]
-regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/efrosin_solomon_kitovras.png
 thumb: /assets/img/text/efrosin_solomon_kitovras-thumb.png
-imagesource: |
-  
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ 
+ 
 ## Introduction to the Source 
 <p>This text has been transcribed from Kir.-Bel. 11/1088, no. 262, Russian National Library. A digitization of this manuscript may be viewed online here: <a href="http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60">http://expositions.nlr.ru/EfrosinManuscripts/_Project/page_Manuscripts.php?izo=07549CB2-ECA1-4E7C-8360-3BE1288E0ACA&nCodeList=262&nAn=60</a>.</p>
 ## Introduction to the Text 

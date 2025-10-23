@@ -15,17 +15,16 @@ tei: /assets/tei/miracles_vladimir_mother_god.xml
 pdf: /assets/pdf/miracles_vladimir_mother_god.pdf
 textauthor: Anonymous
 languages: [slavonic]
-regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
-imagesource: |
-  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The first cycle of legends regarding the Vladimir Mother of God icon was composed between 1163 and the late 1180s. According to scholars, these dates are indicated in a note in a later version of the legends, written in a menology— an ecclesiastical calendar containing biographies of Saints— by the Miliutin brothers in the 17th century. The first historical work that linked disparate legends regarding the miracles performed by the Mother of God into one cohesive narrative is the <em>Book of Royal Degrees</em> compiled in the circle of the Metropolitan Makarii of Moscow in the 1550s and 1560s. However, many earlier sources mention the icon’s history and the miracles caused by the icon’s direct intervention. For example, the <em>Laurentian Chronicle</em> compiled in the late 14th century tells of how the Mother of God icon was delivered from Constantinople to Kiev, while the 15th-century <em>Ermonlin Chronicle</em> describes the Virgin’s intercession in the battle against Tamerlane in 1395. The edition of the text of the <em>Legend</em> used for this translation comes from a late 15th-century manuscript, #637 from the Egorov Collection at the Russian State Library in Moscow (Collection 98). Egor Egorovich Egorov (1862–1917) was a Moscow merchant born into a family of Old Believers (a group of Eastern Orthodox Christians who maintain the practices of the Russian Orthodox Church as they were before the reforms of 1652 – 1666) who collected medieval manuscripts and art.</p>
 ## Introduction to the Text 

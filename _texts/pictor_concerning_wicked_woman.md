@@ -15,17 +15,16 @@ tei: /assets/tei/pictor_concerning_wicked_woman.xml
 pdf: /assets/pdf/pictor_concerning_wicked_woman.pdf
 textauthor: Petrus Pictor
 languages: [latin]
-regions: [western_europe]
 periods: [11th_century, 12th_century]
 textcollections: [gender-sex-and-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/pictor_concerning_wicked_woman.jpg
 thumb: /assets/img/text/pictor_concerning_wicked_woman-thumb.jpg
-imagesource: |
-  British Library MS Additional 47682, f. 4 [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ British Library MS Additional 47682, f. 4 [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The <em>De Muliere Mala</em> was first compiled in the <em>Liber Floridus</em>, an 1120 encyclopedia containing what Lambert, a later canon of Saint Omer, considered to be the most important knowledge in his possession. The “autograph copy,” written in Lambert’s own hand, is currently stored in the Ghent University Library as MS 92. The manuscript includes other Pictor poems, for example a satire on money narrated by the personified <em>Denarius</em> (“Dollar”). The fact that Pictor’s work was deliberately excerpted for inclusion in this collection, alongside more well-known texts such as Isidore’s <em>Etymologiae</em>, indicates that contemporaries appreciated its literary and moral value. While there are no exact duplicates, dozens of partial copies survive, including the twelfth-century French manuscript upon which this edition is based. Their proliferation suggests that Petrus Pictor, and by extension the <em>De Muliere Mala</em>, were frequently read in medieval European monasteries.</p>
 ## Introduction to the Text 

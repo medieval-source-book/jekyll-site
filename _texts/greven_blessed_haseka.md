@@ -15,17 +15,16 @@ tei: /assets/tei/greven_blessed_haseka.xml
 pdf: /assets/pdf/greven_blessed_haseka.pdf
 textauthor: Hermann Greven
 languages: [latin]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [prayer-spirituality-]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/greven_blessed_haseka.jpg
 thumb: /assets/img/text/greven_blessed_haseka-thumb.jpg
-imagesource: |
-  A king consults an anchoress, Rothschild Canticles, Yale Bienecke MS 404 [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ A king consults an anchoress, Rothschild Canticles, Yale Bienecke MS 404 [Public Domain]
+ 
 ## Introduction to the Source 
 <p>This spiritual biography was written between 1450 and 1479 by Hermann Greven (Hermannus Gresgenius), a Carthusian monk in Cologne. It is part of a martyrology, or catalogue of martyrs and saints, authored by Greven and based on a ninth-century text by the monk Usuard. The present translation is based on the Latin edition in the <a href="http://acta.chadwyck.co.uk/">Acta sanctorum</a>. More information on the text and the original manuscript is available <a href="https://www.geschichtsquellen.de/werk/3448">here</a>.</p>
 ## Introduction to the Text 

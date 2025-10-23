@@ -1,0 +1,265 @@
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+#
+#      _____ _ __          _____      __  __  _
+#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
+#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
+#
+# Title of your website
+title: Global Medieval Sourcebook
+sitetitle: 'Global Medieval Sourcebook'
+
+permissions: 'Stanford strives to post only content for which we have licensed permission or that is otherwise permitted by copyright law. If you have a concern that your copyrighted material is posted here without your permission, please contact us and we will work with you to resolve your concern.'
+concept: 'The Global Medieval Sourcebook is an open-access online repository seeking to showcase the vibrant diversity of text production worldwide between 600 and 1600 CE.'
+license: 'Global Medieval Sourcebook by <a href="/">http://sourcebook.stanford.edu</a> is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>.'
+
+
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: 'A Digital Repository of Medieval Texts'
+
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+
+# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
+credits: '<p>A <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> site designed by <a href="http://www.agilehumanities.ca">Agile Humanities</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+corecontent: 'Content marked in amber is contributed by CMU and is offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
+contributedcontent: 'Content marked in blue is contributed by the community and offered under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC-BY-NC license</a>.'
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: 'https://medieval-source-book.github.io/'
+baseurl: ''
+repositoryurl: 'https://github.com/medieval-source-book/medieval-source-book.github.io'
+
+# This is for the editing function in _/includes/improve_content
+# Leave it empty if your site is not on GitHub/GitHub Pages
+improve_content:
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+
+# Plugins
+plugins:
+    - jekyll-asciidoc
+    - jekyll-gist
+    - jekyll-paginate
+
+collections:
+  texts:
+    output: true
+    permalink: /text/:path/
+  textcollections:
+    output: true
+    permalink: /collections/:path/
+  regions:
+    output: true
+    permalink: /regions/:path/
+    layout: regionpage
+  periods:
+    output: true
+    permalink: /periods/:path/
+    layout: periodpage
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown           : kramdown
+permalink          : /:categories/:title/
+highlight          : rouge
+excerpt_separator  : "<!--more-->"
+include            : ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - vendor
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: 'en'
+
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [production]
+
+
+#
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
+# Default Settings
+
+defaults:
+  -
+    scope:
+      path: '' 				# an empty string here means all files in the project
+      type: 'pages'
+    values:
+      show_meta: false 	# Hide metadata for all pages
+      # sidebar:    		# Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: cmu-dh     # Default author for pages
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: cmu-dh     # Default author for posts
+
+
+
+#       _   __            _             __  _
+#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
+#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
+#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
+#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
+#                       /____/
+#
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+#
+
+
+
+#     _____ __________
+#    / ___// ____/ __ \
+#    \__ \/ __/ / / / /
+#   ___/ / /___/ /_/ /
+#  /____/_____/\____/    Verify Website to Webmaster Tools
+
+#google_author:             'https://plus.google.com/u/0/118311555303973066167'
+#google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+#bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+# yandex_site_verification:  ''
+# alexa_verify_id:           ''
+
+
+
+#       ______            _
+#      / ____/___ __   __(_)________  ____  _____
+#     / /_  / __ `/ | / / / ___/ __ \/ __ \/ ___/
+#    / __/ / /_/ /| |/ / / /__/ /_/ / / / (__  )
+#   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
+#                                                 More information » https://mathiasbynens.be/notes/touch-icons
+
+favicon-32x32:                          'favicon-32x32.png'
+touch-icon-192x192:                     'touch-icon-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-icon-180x180.png'
+apple-touch-icon-152x152-precomposed:   'apple-icon-152x152.png'
+apple-touch-icon-144x144-precomposed:   'apple-icon-144x144.png'
+apple-touch-icon-120x120-precomposed:   'apple-icon-120x120.png'
+apple-touch-icon-114x114-precomposed:   'apple-icon-114x114.png'
+apple-touch-icon-76x76-precomposed:     'apple-icon-76x76.png'
+apple-touch-icon-72x72-precomposed:     'apple-icon-72x72.png'
+apple-touch-icon-precomposed:           'apple-icon-precomposed.png'
+msapplication_tileimage:                'ms-icon-144x144.png'               # Size 144x144
+msapplication_tilecolor:                '#ffffff'
+
+
+#       ______                __                __
+#      / ____/___ _________  / /_  ____  ____  / /__
+#     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
+#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+
+og_image:                           ''
+og_locale:                          'en_EN'
+og_type:                            'website'
+
+
+#      _____            _       __   __  ___         ___
+#     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
+#     \__ \/ __ \/ ___/ / __ `/ /  / /|_/ / _ \/ __  / / __ `/
+#    ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ /
+#   /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/
+#
+#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
+#
+
+socialmedia:
+    twitter: cmu_dSHARP
+    facebook:
+    github: dSHARP-CMU
+
+
+#        ____  _
+#       / __ \(_)________ ___  _______
+#      / / / / / ___/ __ `/ / / / ___/
+#     / /_/ / (__  ) /_/ / /_/ (__  )
+#    /_____/_/____/\__, /\__,_/____/
+#                    /_/
+#
+# used in _includes/comments
+
+disqus_shortname:
+
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+    sass_dir : _sass
+    style    : :compressed
+
+
+#       ___                __      __  _
+#      /   |  ____  ____ _/ /_  __/ /_(_)_________
+#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
+#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  )
+#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
+#                        /____/
+#
+# used in _includes/footer_scripts
+
+google_analytics_tracking_id: #UA-148157120-1
+
+
+
+#     ___              _     __           __
+#    /   |  __________(_)___/ /___  _____/ /_____  _____
+#   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
+#  / ___ |(__  ) /__/ / /_/ / /_/ / /__/ /_/ /_/ / /
+# /_/  |_/____/\___/_/\__,_/\____/\___/\__/\____/_/
+#
+#  Asciidoctor is a fast text processor and publishing toolchain for converting
+#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
+#
+#  https://github.com/asciidoctor/jekyll-asciidoc
+#  https://github.com/asciidoctor
+#
+#
+
+asciidoctor-enabled: false
+asciidoctor:
+  description: testtewtetrue
+  attributes:
+    source-highlighter: coderay
+    coderay-css: style
+    icons: font
+emptyArray: []

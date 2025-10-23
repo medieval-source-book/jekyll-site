@@ -15,17 +15,16 @@ tei: /assets/tei/hakim_iranshah_monstrous_courtship.xml
 pdf: /assets/pdf/hakim_iranshah_monstrous_courtship.pdf
 textauthor: Hakim Irānshāh ebn-e Abi-l-Khayr
 languages: [persian]
-regions: [middle_east]
 periods: [11th_century, 12th_century]
 textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/hakim_iranshah_monstrous_courtship.jpg
 thumb: /assets/img/text/hakim_iranshah_monstrous_courtship-thumb.jpg
-imagesource: |
-  Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from “Isfandiyar's Third Course: He Slays a Dragon”, Folio from a Shahnama (Book of Kings), Abu'l Qasim Firdausi, ca. 1330–40; Ink, opaque watercolor, gold, and silver on paper; Metropolitan Museum of Art Bequest of Monroe C. Gutman, 1974 [CC]
+ 
 ## Introduction to the Source 
 <p>The text transcribed here is not medieval; rather, it is a lithograph produced in Mumbai in 1907. This is one of at least two lithographed poems—the other being a Farāmarznāma, narrating the exploits of Borzin’s father—produced under the direction of Rostam Pur-e Bahrām Sorush-e Tāfti. Sorush-e Tāfti was an Indian Parsi who traveled throughout India and Iran in search of antique manuscripts relating to the Sistāni heroes. According to Rahim ‘Afifi, editor of the only scholarly edition of the Bahmannāmeh, the lithograph is primarily based on an otherwise unidentified manuscript from 1667. At least four other manuscripts are known, the earliest dated to 1397-98 CE.</p>
 ## Introduction to the Text 

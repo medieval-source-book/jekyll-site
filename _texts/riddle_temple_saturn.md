@@ -15,17 +15,16 @@ tei: /assets/tei/riddle_temple_saturn.xml
 pdf: /assets/pdf/riddle_temple_saturn.pdf
 textauthor: Anonymous, Ḥunayn ibn Isḥāq [att.]
 languages: [arabic]
-regions: [middle_east]
 periods: [9th_century, 10th_century, 11th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/riddle_temple_saturn.jpg
 thumb: /assets/img/text/riddle_temple_saturn-thumb.jpg
-imagesource: |
-  Hill Museum and Manuscript Library GAMS 00900
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Hill Museum and Manuscript Library GAMS 00900
+ 
 ## Introduction to the Source 
 <p>The sole known manuscript of the riddle is Fondation Georges et Mathilde Salem MS Syr 6, one of the hundreds of manuscripts collected by Syriac Catholic priest Paul Sbath (1887-1945) that remains in his hometown of Aleppo (formerly Sbath MS 900). It was copied in September 1684 and also includes an Arabic translation of the <em>Book of the dove</em> by Bar Hebraeus (1226-1286), an important Syriac text on asceticism. The Arabic <em>Life of Moses the Ethiopian </em>(d. ca. 395) was copied separately and later bound with these texts. The entire volume is thus written in the Arabic language, but the vast majority of it is actually in Arabic Garshuni—that is, Arabic written in the Syriac script. Interestingly, the text of the riddle is copied in Arabic script, but the commentary on it is copied in Garshuni, making it easy to distinguish text and commentary visually. This may have been done to preserve the original form of the Arabic text associated with Ḥunayn, but it is not explained.</p> <p>The scribe of this manuscript is Yūḥanná ibn al-Jarīr al-Zarbābī, who was a West Syrian priest (member of the Syriac Orthodox Church) in Damascus. This shows that al-Zarbābī was not limited to copying texts by members of his own Church, like the <em>Book of the dove</em>, but was interested enough in this riddle to copy it in spite of its association with two figures from the rival Church of the East.</p> <p>The condition of the manuscript is unknown due to the lengthy civil war in Syria, but it was photographed in 2008 and digitized by the Hill Museum and Manuscript Library (HMML). It is available for viewing at <a href="https://w3id.org/vhmml/readingRoom/view/501459">https://w3id.org/vhmml/readingRoom/view/501459</a>. The text of the riddle appears on fol. 82v-83r and the commentary on fol. 83v-93v.</p>
 ## Introduction to the Text 

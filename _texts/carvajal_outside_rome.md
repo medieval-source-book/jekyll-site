@@ -15,17 +15,16 @@ tei: /assets/tei/carvajal_outside_rome.xml
 pdf: /assets/pdf/carvajal_outside_rome.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_outside_rome.jpg
 thumb: /assets/img/text/carvajal_outside_rome-thumb.jpg
-imagesource: |
-  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.157r [Public domain]
+ 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-e90cc7a2-7fff-b453-7ecd-c7974c2edc95">The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 157r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. The authors included in this collection accompanied the king of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century. </p>
 ## Introduction to the Text 

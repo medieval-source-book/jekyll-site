@@ -15,17 +15,16 @@ tei: /assets/tei/lopes_chronicle_peter_i.xml
 pdf: /assets/pdf/lopes_chronicle_peter_i.pdf
 textauthor: Fernão Lopez
 languages: [portuguese]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/lopes_chronicle_peter_i.png
 thumb: /assets/img/text/lopes_chronicle_peter_i-thumb.png
-imagesource: |
-  Biblioteca Nacional de Portugal MS IL. 123, f.i r [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Biblioteca Nacional de Portugal MS IL. 123, f.i r [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The National Library of Portugal (BNL) holds the manuscript from which the Prologue was transcribed and translated. The BNL catalogue dates the manuscript to 1475-1525. (The online catalogue entry can be viewed <a href="http://catalogo.bnportugal.gov.pt/ipac20/ipac.jsp?profile=bn&source=~!bnp&view=subscriptionsummary&uri=full=3100024~!1818374~!2&ri=1&aspect=subtab13&menu=search&ipp=20&spp=20&staffonly=&term=lus%C3%83%C2%ADadas&index=.TW&uindex=&aspect=subtab13&menu=search&ri=1">here</a>.) Before this manuscript arrived at the BNL, it was in the possession of a Jesuit College in Évora, Portugal, the College of the Holy Spirit.</p> <p>This manuscript comprises two chronicles by Fernão Lopes, the <em>Chronicle of Peter I</em> and the <em>Chronicle of Ferdinand I</em>, both written with the same hand. It can be viewed online <a href="http://purl.pt/31510">here</a>. Unfortunately, no surviving copy from the time of its production remains (c. 1440), but there are a few other copies made in the late fifteenth and early sixteenth centuries, between the years of 1525 and 1600. The presence of these early modern manuscripts, written with different hands, indicates that manuscript versions of the <em>Chronicle of Peter I</em> still circulated in the fifteenth and sixteenth centuries.</p>
 ## Introduction to the Text 

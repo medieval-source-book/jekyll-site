@@ -15,17 +15,16 @@ tei: /assets/tei/carvajal_traveling_tuscany.xml
 pdf: /assets/pdf/carvajal_traveling_tuscany.pdf
 textauthor: Carvajal
 languages: [spanish]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/carvajal_traveling_tuscany.jpg
 thumb: /assets/img/text/carvajal_traveling_tuscany-thumb.jpg
-imagesource: |
-  Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Madrid, Biblioteca Nacional de España MS, VITR/17/7, f.153r [Public domain]
+ 
 ## Introduction to the Source 
 <p>The poem is copied in Madrid, Biblioteca Nacional de España, VITR/17/7, fol. 153r-154r. This manuscript is a copy of the poetry collection known as the Cancionero de Estúñiga, ca. 1465. It has been digitized: <a href="http://bdh-rd.bne.es/viewer.vm?id=0000051837">http://bdh-rd.bne.es/viewer.vm?id=0000051837</a>. It contains a compilation of mostly Castilian poems, including ballads, as well as a few Italian compositions. Their authors attended the King of Aragon, Alfonso the Magnanimous, in Naples in the mid-fifteenth century.</p>
 ## Introduction to the Text 

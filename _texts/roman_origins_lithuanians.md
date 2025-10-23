@@ -15,17 +15,16 @@ tei: /assets/tei/roman_origins_lithuanians.xml
 pdf: /assets/pdf/roman_origins_lithuanians.pdf
 textauthor: Anonymous
 languages: [ruthenian]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
-imagesource: |
-  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The text used for this translation is taken from the <em>Chronicle of the Grand Duchy of Lithuania and Samogitia</em>, a 16th-century compilation written in Ruthenian from the <em>Świdzinski Miscellany of Lithuanian Chronicles</em>, once part of the Krasiński Collection. Unfortunately, the manuscript itself burned during World War II; however, paleographic descriptions by Evfimii Karskii and Franciczek Pułaski provide necessary information about its contents, while individual texts, including <em>The Chronicle of the Grand Duchy of Lithuania and Samogitia</em>, were published by Afanasii Fedorovich Bychkov in 1893 and later in <em>Polnoe sobranie russkikh letopisei</em>. Two versions of the <em>Chronicle</em> are known: the shorter version was witnessed by the lost Krasiński copy and the longer version by the Alshevskii, Archeographic, Patriarch, Rumiantsev (Moscow, Russian State Library, Collection 37, № 435), and Tikhonravov copies.</p> <p>The manuscript used in this translation represents the second redaction of the <em>Chronicle</em>, in which the account of the Roman descent of the Lithuanians first appears. The <em>Chronicle</em> is written in Ruthenian, the written language of the ethnic East Slavic population of the Grand Duchy of Lithuania and Poland. This area, generally referred to as Ruthenia, corresponds to portions of modern-day Lithuania, Belarus, Ukraine, Poland, and southern Russia.</p>
 ## Introduction to the Text 
