@@ -216,621 +216,847 @@
 
   
   
-  <div class="row" id="main">
+  <style>
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.period-header {
+  margin-bottom: 2rem;
+}
+
+.period-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="row" id="main">
  	
 
- 	<div class="large-offset-2">
+ 	<div class="large-12 columns">
  		<article itemscope itemtype="http://schema.org/Article">
- 			<header class="row">
- 				<div itemprop="name" class="large-8 columns">
+ 			<header class="period-header">
+ 				<div itemprop="name">
  					<h1 id="pagetitle" class="landing">16th Century</h1>
  				</div>
- 				<div itemprop="image" class="large-4 columns">
- 					<img src="" />
- 					<p class="caption"></p>
- 				</div>
+ 				
  			</header>
 
  			<div itemprop="articleSection">
  				
  			</div>
- 			<div class="row">
- 	<div class="small-12 columns t30">
- 		<div class="row" id="listprojects">
 
- 			
- 			
- 			
- 				<div id="text_perez_de_pineda_brief_treatise_doctrine.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/perez_de_pineda_brief_treatise_doctrine/"><img src="/assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg" class="videothumbnail"></a>
- 					<a href="/text/perez_de_pineda_brief_treatise_doctrine/"><h4>A Brief Treatise of Doctrine Useful for Every Christian
-</h4></a>
- 					<p class="strong">Breve tratado de doctrina útil para todo cristiano
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_cabello_valboa_anthropomorphic_americas.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/cabello_valboa_anthropomorphic_americas/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/cabello_valboa_anthropomorphic_americas/"><h4>Anthropomorphic description of the Americas
-</h4></a>
- 					<p class="strong">Descripción del antropomórfica del continente americano
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_between_hill_valley_deep.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_between_hill_valley_deep/"><img src="/assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_between_hill_valley_deep/"><h4>Between hill and valley deep
-</h4></a>
- 					<p class="strong">Zwischen perg und tieffe tal
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_dearest_sight_heart.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_dearest_sight_heart/"><img src="/assets/img/text/oeglin_dearest_sight_heart-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_dearest_sight_heart/"><h4>Dearest sight of my heart
-</h4></a>
- 					<p class="strong">Hertz liebstes pyld
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_farewell_it_hurts.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_farewell_it_hurts/"><img src="/assets/img/text/oeglin_farewell_it_hurts-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_farewell_it_hurts/"><h4>Farewell! It hurts
-</h4></a>
- 					<p class="strong">Ade mit layd
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_barros_first_decade_asia.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/barros_first_decade_asia/"><img src="/assets/img/text/barros_first_decade_asia-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/barros_first_decade_asia/"><h4>First Decade of Asia, Chapter 1
-</h4></a>
- 					<p class="strong">Primeira Década da Asia, Capitulo I
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_oeglin_fortune_grants_comfort_hope.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_fortune_grants_comfort_hope/"><img src="/assets/img/text/oeglin_fortune_grants_comfort_hope-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_fortune_grants_comfort_hope/"><h4>Fortune grants me comfort and hope
-</h4></a>
- 					<p class="strong">Gelück mir trost und hoffnug geit
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_grace_honor_praise.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_grace_honor_praise/"><img src="/assets/img/text/oeglin_grace_honor_praise-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_grace_honor_praise/"><h4>Grace, honor and praise are her domain
-</h4></a>
- 					<p class="strong">Zucht er und lob ir wonet bey
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_oeglin_help_our_lady_aachen.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_help_our_lady_aachen/"><img src="/assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_help_our_lady_aachen/"><h4>Help, our lady of Aachen!
-</h4></a>
- 					<p class="strong">Hilf fraw von Ach
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_my_heart_pact_love.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_my_heart_pact_love/"><img src="/assets/img/text/oeglin_my_heart_pact_love-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_my_heart_pact_love/"><h4>My heart has made a pact with love
-</h4></a>
- 					<p class="strong">Mein hertz hat sich mit lieb verpflicht
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_now_depths_heart.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_now_depths_heart/"><img src="/assets/img/text/oeglin_now_depths_heart-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_now_depths_heart/"><h4>Now the depths of my heart
-</h4></a>
- 					<p class="strong">Yetz schaydens wee ist worden kund
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_grunau_prussian_chronicle.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/grunau_prussian_chronicle/"><img src="/assets/img/text/grunau_prussian_chronicle-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/grunau_prussian_chronicle/"><h4>Of the names of the Prussian false gods
-</h4></a>
- 					<p class="strong">Vonn dem namen der Preuschen abgöttir
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_roman_origins_lithuanians.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/roman_origins_lithuanians/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/roman_origins_lithuanians/"><h4>On Roman Origins of the Lithuanians
-</h4></a>
- 					<p class="strong">Сталосѧ єсть воплощеє сн҃а Бж҃ьего
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_our_vicar_away.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_our_vicar_away/"><img src="/assets/img/text/oeglin_our_vicar_away-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_our_vicar_away/"><h4>Our vicar is away
-</h4></a>
- 					<p class="strong">Unser pfarrer ist auf der pan
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_roman_prologue_republics_world.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/roman_prologue_republics_world/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/roman_prologue_republics_world/"><h4>Prologue to Republics of the World
-</h4></a>
- 					<p class="strong">Prologo a las Republicas del Mundo
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_tinodi_captivity_peter_pereny.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/tinodi_captivity_peter_pereny/"><img src="/assets/img/text/tinodi_captivity_peter_pereny-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/tinodi_captivity_peter_pereny/"><h4>The Captivity of Peter Perény, István Majlád and Bálint Török
-</h4></a>
- 					<p class="strong">Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_sachs_farmer_pregnant_foal.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/sachs_farmer_pregnant_foal/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/sachs_farmer_pregnant_foal/"><h4>The Farmer who Was Pregnant with a Foal
-</h4></a>
- 					<p class="strong">Der schwanger bawer mit dem full
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_damsel_carcayciona.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/damsel_carcayciona/"><img src="/assets/img/text/damsel_carcayciona-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/damsel_carcayciona/"><h4>The Legend of the Damsel Carcayçiona
-</h4></a>
- 					<p class="strong">ءَالْرَاكُنْتَمِيانْتُ دَا لَذُنْزَالّ كركيسينُ
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_tinodi_loss_buda.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/tinodi_loss_buda/"><img src="/assets/img/text/tinodi_loss_buda-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/tinodi_loss_buda/"><h4>The Loss of Buda and Captivity of Bálint Török
-</h4></a>
- 					<p class="strong">Buda veszéséröl és Terek Bálint fogságárol
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_daubigne_spring_sonnet_vi.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/daubigne_spring_sonnet_vi/"><img src="/assets/img/text/daubigne_spring_sonnet_vi-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/daubigne_spring_sonnet_vi/"><h4>The Spring – The Hecatomb for Diane, VI
-</h4></a>
- 					<p class="strong">Le Printemps – L’hécatombe à Diane, VI
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_daubigne_spring_sonnet_vii.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/daubigne_spring_sonnet_vii/"><img src="/assets/img/text/daubigne_spring_sonnet_vii-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/daubigne_spring_sonnet_vii/"><h4>The Spring – The Hecatomb for Diane, VII
-</h4></a>
- 					<p class="strong">Le Printemps – L’hécatombe à Diane, VII
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_oeglin_whoever_repays_loyalty_falsehood.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/oeglin_whoever_repays_loyalty_falsehood/"><img src="/assets/img/text/oeglin_whoever_repays_loyalty_falsehood-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/oeglin_whoever_repays_loyalty_falsehood/"><h4>Whoever repays loyalty with falsehood
-</h4></a>
- 					<p class="strong">Wer trew mit valsch vergelten wil
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 		</div>
- 	</div><!-- /.small-8 small-offset-2.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-
-
-
+			<div class="text-grid">
+				
+				
+				
+				<a href="/text/perez_de_pineda_brief_treatise_doctrine/" class="text-card">
+					
+					<img src="/assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg" alt="A Brief Treatise of Doctrine Useful for Every Christian
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Breve tratado de doctrina útil para todo cristiano
+</div>
+						<div class="text-engtitle">A Brief Treatise of Doctrine Useful for Every Christian
+</div>
+						<div class="text-meta">
+							Juan Perez de Piñeda
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/cabello_valboa_anthropomorphic_americas/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Anthropomorphic description of the Americas
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Descripción del antropomórfica del continente americano
+</div>
+						<div class="text-engtitle">Anthropomorphic description of the Americas
+</div>
+						<div class="text-meta">
+							Miguel Cabello Valboa
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_between_hill_valley_deep/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_between_hill_valley_deep-thumb.jpeg" alt="Between hill and valley deep
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Zwischen perg und tieffe tal
+</div>
+						<div class="text-engtitle">Between hill and valley deep
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_dearest_sight_heart/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_dearest_sight_heart-thumb.jpg" alt="Dearest sight of my heart
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Hertz liebstes pyld
+</div>
+						<div class="text-engtitle">Dearest sight of my heart
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_farewell_it_hurts/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_farewell_it_hurts-thumb.jpg" alt="Farewell! It hurts
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Ade mit layd
+</div>
+						<div class="text-engtitle">Farewell! It hurts
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/barros_first_decade_asia/" class="text-card">
+					
+					<img src="/assets/img/text/barros_first_decade_asia-thumb.png" alt="First Decade of Asia, Chapter 1
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Primeira Década da Asia, Capitulo I
+</div>
+						<div class="text-engtitle">First Decade of Asia, Chapter 1
+</div>
+						<div class="text-meta">
+							João de Barros
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/oeglin_fortune_grants_comfort_hope/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_fortune_grants_comfort_hope-thumb.jpg" alt="Fortune grants me comfort and hope
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Gelück mir trost und hoffnug geit
+</div>
+						<div class="text-engtitle">Fortune grants me comfort and hope
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_grace_honor_praise/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_grace_honor_praise-thumb.jpg" alt="Grace, honor and praise are her domain
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Zucht er und lob ir wonet bey
+</div>
+						<div class="text-engtitle">Grace, honor and praise are her domain
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/oeglin_help_our_lady_aachen/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_help_our_lady_aachen-thumb.jpg" alt="Help, our lady of Aachen!
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Hilf fraw von Ach
+</div>
+						<div class="text-engtitle">Help, our lady of Aachen!
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_my_heart_pact_love/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_my_heart_pact_love-thumb.jpg" alt="My heart has made a pact with love
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Mein hertz hat sich mit lieb verpflicht
+</div>
+						<div class="text-engtitle">My heart has made a pact with love
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_now_depths_heart/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_now_depths_heart-thumb.jpg" alt="Now the depths of my heart
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Yetz schaydens wee ist worden kund
+</div>
+						<div class="text-engtitle">Now the depths of my heart
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/grunau_prussian_chronicle/" class="text-card">
+					
+					<img src="/assets/img/text/grunau_prussian_chronicle-thumb.jpg" alt="Of the names of the Prussian false gods
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Vonn dem namen der Preuschen abgöttir
+</div>
+						<div class="text-engtitle">Of the names of the Prussian false gods
+</div>
+						<div class="text-meta">
+							Simon Grunau
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/roman_origins_lithuanians/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="On Roman Origins of the Lithuanians
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Сталосѧ єсть воплощеє сн҃а Бж҃ьего
+</div>
+						<div class="text-engtitle">On Roman Origins of the Lithuanians
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_our_vicar_away/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_our_vicar_away-thumb.jpg" alt="Our vicar is away
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Unser pfarrer ist auf der pan
+</div>
+						<div class="text-engtitle">Our vicar is away
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/roman_prologue_republics_world/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Prologue to Republics of the World
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Prologo a las Republicas del Mundo
+</div>
+						<div class="text-engtitle">Prologue to Republics of the World
+</div>
+						<div class="text-meta">
+							Jerónimo Roman
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/tinodi_captivity_peter_pereny/" class="text-card">
+					
+					<img src="/assets/img/text/tinodi_captivity_peter_pereny-thumb.png" alt="The Captivity of Peter Perény, István Majlád and Bálint Török
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Príni Péternek, Majlát Istvánnak és Terek Bálintnak fogságokról
+</div>
+						<div class="text-engtitle">The Captivity of Peter Perény, István Majlád and Bálint Török
+</div>
+						<div class="text-meta">
+							Sebastian Tinódi
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/sachs_farmer_pregnant_foal/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="The Farmer who Was Pregnant with a Foal
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Der schwanger bawer mit dem full
+</div>
+						<div class="text-engtitle">The Farmer who Was Pregnant with a Foal
+</div>
+						<div class="text-meta">
+							Hans Sachs
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/damsel_carcayciona/" class="text-card">
+					
+					<img src="/assets/img/text/damsel_carcayciona-thumb.jpg" alt="The Legend of the Damsel Carcayçiona
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">ءَالْرَاكُنْتَمِيانْتُ دَا لَذُنْزَالّ كركيسينُ
+</div>
+						<div class="text-engtitle">The Legend of the Damsel Carcayçiona
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/tinodi_loss_buda/" class="text-card">
+					
+					<img src="/assets/img/text/tinodi_loss_buda-thumb.png" alt="The Loss of Buda and Captivity of Bálint Török
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Buda veszéséröl és Terek Bálint fogságárol
+</div>
+						<div class="text-engtitle">The Loss of Buda and Captivity of Bálint Török
+</div>
+						<div class="text-meta">
+							Sebastian Tinódi
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/daubigne_spring_sonnet_vi/" class="text-card">
+					
+					<img src="/assets/img/text/daubigne_spring_sonnet_vi-thumb.jpg" alt="The Spring – The Hecatomb for Diane, VI
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Le Printemps – L’hécatombe à Diane, VI
+</div>
+						<div class="text-engtitle">The Spring – The Hecatomb for Diane, VI
+</div>
+						<div class="text-meta">
+							Théodore Agrippa d’Aubigné
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/daubigne_spring_sonnet_vii/" class="text-card">
+					
+					<img src="/assets/img/text/daubigne_spring_sonnet_vii-thumb.jpg" alt="The Spring – The Hecatomb for Diane, VII
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Le Printemps – L’hécatombe à Diane, VII
+</div>
+						<div class="text-engtitle">The Spring – The Hecatomb for Diane, VII
+</div>
+						<div class="text-meta">
+							Théodore Agrippa d’Aubigné
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/oeglin_whoever_repays_loyalty_falsehood/" class="text-card">
+					
+					<img src="/assets/img/text/oeglin_whoever_repays_loyalty_falsehood-thumb.jpg" alt="Whoever repays loyalty with falsehood
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Wer trew mit valsch vergelten wil
+</div>
+						<div class="text-engtitle">Whoever repays loyalty with falsehood
+</div>
+						<div class="text-meta">
+							Erhard Oeglin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
  		</article>
- 	</div><!-- /.medium-8.columns -->
+ 	</div><!-- /.large-12.columns -->
 </div><!-- /.row -->
 
 

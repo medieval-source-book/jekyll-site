@@ -216,681 +216,991 @@
 
   
   
-  <div class="row" id="main">
+  <style>
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.period-header {
+  margin-bottom: 2rem;
+}
+
+.period-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="row" id="main">
  	
 
- 	<div class="large-offset-2">
+ 	<div class="large-12 columns">
  		<article itemscope itemtype="http://schema.org/Article">
- 			<header class="row">
- 				<div itemprop="name" class="large-8 columns">
+ 			<header class="period-header">
+ 				<div itemprop="name">
  					<h1 id="pagetitle" class="landing">12th Century</h1>
  				</div>
- 				<div itemprop="image" class="large-4 columns">
- 					<img src="" />
- 					<p class="caption"></p>
- 				</div>
+ 				
  			</header>
 
  			<div itemprop="articleSection">
  				
  			</div>
- 			<div class="row">
- 	<div class="small-12 columns t30">
- 		<div class="row" id="listprojects">
 
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_hakim_iranshah_monstrous_courtship.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hakim_iranshah_monstrous_courtship/"><img src="/assets/img/text/hakim_iranshah_monstrous_courtship-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hakim_iranshah_monstrous_courtship/"><h4>A Monstrous Courtship
-</h4></a>
- 					<p class="strong">قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_hong_mai_chen_wangyou_daughter_law.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hong_mai_chen_wangyou_daughter_law/"><img src="/assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hong_mai_chen_wangyou_daughter_law/"><h4>Chen Wangyou's Daughter-in-Law
-</h4></a>
- 					<p class="strong">陳王猷子妇
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_pictor_concerning_wicked_woman.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/pictor_concerning_wicked_woman/"><img src="/assets/img/text/pictor_concerning_wicked_woman-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/pictor_concerning_wicked_woman/"><h4>Concerning the Wicked Woman
-</h4></a>
- 					<p class="strong">De Muliere Mala
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_discourse_angels_pagans.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/_texts/discourse_angels_pagans/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/_texts/discourse_angels_pagans/"><h4>Discourse on Angels and Pagans
-</h4></a>
- 					<p class="strong">Якоже пишеть премудрый Епифаний
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_adam_st_victor_hymn_honor_augustine.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/adam_st_victor_hymn_honor_augustine/"><img src="/assets/img/text/adam_st_victor_hymn_honor_augustine-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/adam_st_victor_hymn_honor_augustine/"><h4>In Honor of St. Augustine
-</h4></a>
- 					<p class="strong">Hymnus in honorem Sancti Augustini
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_rigaut_just_elephant.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/rigaut_just_elephant/"><img src="/assets/img/text/rigaut_just_elephant-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/rigaut_just_elephant/"><h4>Just as the elephant
-</h4></a>
- 					<p class="strong">“Atressi cum l'orifans”
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_millstatt_plaint_sin.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/millstatt_plaint_sin/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/millstatt_plaint_sin/"><h4>Millstatt Plaint of Sin
-</h4></a>
- 					<p class="strong">Millstatter Sündenklage
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_sanai_on_merciful_god.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/sanai_on_merciful_god/"><img src="/assets/img/text/sanai_on_merciful_god-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/sanai_on_merciful_god/"><h4>On the Merciful God and on the Birds’ Glorifications
-</h4></a>
- 					<p class="strong">در توحید خداوند غفور و تسبیح طیور فرماید
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_andre_romance_of_the_french.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/andre_romance_of_the_french/"><img src="/assets/img/text/andre_romance_of_the_french-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/andre_romance_of_the_french/"><h4>Romance of the French (Alfred)
-</h4></a>
- 					<p class="strong">Le Roman des Franceis (Arflet)
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_hong_mai_strange_dogs.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hong_mai_strange_dogs/"><img src="/assets/img/text/hong_mai_strange_dogs-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hong_mai_strange_dogs/"><h4>Strange Dogs
-</h4></a>
- 					<p class="strong">犬異
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_hong_mai_chastity_wu_wife.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hong_mai_chastity_wu_wife/"><img src="/assets/img/text/hong_mai_chastity_wu_wife-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hong_mai_chastity_wu_wife/"><h4>The Chastity of Mr. Wu's Wife
-</h4></a>
- 					<p class="strong">譚氏節操
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_hong_mai_concubine_mr_yao.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hong_mai_concubine_mr_yao/"><img src="/assets/img/text/hong_mai_concubine_mr_yao-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hong_mai_concubine_mr_yao/"><h4>The Concubine of Mr. Yao
-</h4></a>
- 					<p class="strong">姚氏妾
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_hong_mai_dream_gong_yu.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/hong_mai_dream_gong_yu/"><img src="/assets/img/text/hong_mai_dream_gong_yu-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/hong_mai_dream_gong_yu/"><h4>The Dream of Gong Yu
-</h4></a>
- 					<p class="strong">龔輿夢
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_passion_holy_virgins.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/passion_holy_virgins/"><img src="/assets/img/text/passion_holy_virgins-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/passion_holy_virgins/"><h4>The Passion of the Holy Virgins: Hope, Faith, Charity, and their Mother,...</h4></a>
- 					<p class="strong">Passio Sanctarum Virginum: Spei, Fidei, Karitatis, et Matris earum Sapientiae
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_often_recall.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_often_recall/"><img src="/assets/img/text/li_qingzhao_often_recall-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_often_recall/"><h4>To the tune "As if in a Dream"—"I often recall the sunset by Xiting"
-</h4></a>
- 					<p class="strong">如夢令 · 常記溪亭日暮
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_red_lotus.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_red_lotus/"><img src="/assets/img/text/li_qingzhao_red_lotus-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_red_lotus/"><h4>To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance ...</h4></a>
- 					<p class="strong">一剪梅 · 紅藕香殘玉簟秋
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_setting_sun.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_setting_sun/"><img src="/assets/img/text/li_qingzhao_setting_sun-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_setting_sun/"><h4>To the tune “Always Having Fun”—"The setting sun is like melted gold
-</h4></a>
- 					<p class="strong">永遇樂 · 落日鎔金
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_last_night.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_last_night/"><img src="/assets/img/text/li_qingzhao_last_night-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_last_night/"><h4>To the tune “As If in a Dream”—“Last night the rain was sparse”
-</h4></a>
- 					<p class="strong">如夢令 · 昨夜雨疏風驟
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_wind_gentle_sunlight_soft.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_wind_gentle_sunlight_soft/"><img src="/assets/img/text/li_qingzhao_wind_gentle_sunlight_soft-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_wind_gentle_sunlight_soft/"><h4>To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft
-</h4></a>
- 					<p class="strong">菩薩蠻 · 風柔日薄春猶早
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_in_thin_fog.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_in_thin_fog/"><img src="/assets/img/text/li_qingzhao_in_thin_fog-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_in_thin_fog/"><h4>To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy m...</h4></a>
- 					<p class="strong">醉花陰 · 薄霧濃雰愁永晝
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_courtyard_deep.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_courtyard_deep/"><img src="/assets/img/text/li_qingzhao_courtyard_deep-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_courtyard_deep/"><h4>To the tune “Immortal by the River”—"The courtyard is deep, how far does...</h4></a>
- 					<p class="strong">臨江仙 · 庭院深深深幾許
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_looking_searching.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_looking_searching/"><img src="/assets/img/text/li_qingzhao_looking_searching-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_looking_searching/"><h4>To the tune “Note after Note, Long Song”—"Looking and searching, looking...</h4></a>
- 					<p class="strong">聲聲慢 · 尋尋覓覓
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_incense_chills.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_incense_chills/"><img src="/assets/img/text/li_qingzhao_incense_chills-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_incense_chills/"><h4>To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The ...</h4></a>
- 					<p class="strong">鳳凰臺上憶吹簫 · 香冷金猊
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_at_night.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_at_night/"><img src="/assets/img/text/li_qingzhao_at_night-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_at_night/"><h4>To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did n...</h4></a>
- 					<p class="strong">訴衷情 · 夜來沉醉卸妝遲
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_outside_window_spring_color.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_outside_window_spring_color/"><img src="/assets/img/text/li_qingzhao_outside_window_spring_color-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_outside_window_spring_color/"><h4>To the tune “Sands of the Washing Stream”—"Outside the window, the sprin...</h4></a>
- 					<p class="strong">浣溪沙 · 小院閒窗春色深
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_in_the_sky.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_in_the_sky/"><img src="/assets/img/text/li_qingzhao_in_the_sky-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_in_the_sky/"><h4>To the tune “Southland Song”—“In the sky, the starry river turns”
-</h4></a>
- 					<p class="strong">南歌子 · 天上星河轉
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_wind_stops_dust_fragrant.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_wind_stops_dust_fragrant/"><img src="/assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_wind_stops_dust_fragrant/"><h4>To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, an...</h4></a>
- 					<p class="strong">武陵春 · 風住塵香花已盡
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_sky_merged.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_sky_merged/"><img src="/assets/img/text/li_qingzhao_sky_merged-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_sky_merged/"><h4>To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds w...</h4></a>
- 					<p class="strong">漁家傲 · 天接雲濤連曉霧
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_who_planted_banana_trees.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_who_planted_banana_trees/"><img src="/assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_who_planted_banana_trees/"><h4>To the tune “Vile Charmer, Long Version”—"Who planted the banana trees i...</h4></a>
- 					<p class="strong">添字醜奴兒 · 窗前誰種芭蕉樹
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_li_qingzhao_wind_comes_from_lake.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/li_qingzhao_wind_comes_from_lake/"><img src="/assets/img/text/li_qingzhao_wind_comes_from_lake-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/li_qingzhao_wind_comes_from_lake/"><h4>To the tune “Yearning for the Prince”—“Wind comes from the lake and the ...</h4></a>
- 					<p class="strong">怨王孫 · 湖上風來波浩渺
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_vorau_plaint_sin.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/vorau_plaint_sin/"><img src="/assets/img/text/vorau_plaint_sin-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/vorau_plaint_sin/"><h4>Vorau Plaint of Sin
-</h4></a>
- 					<p class="strong">Vorauer Sündenklage
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 		</div>
- 	</div><!-- /.small-8 small-offset-2.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-
-
-
+			<div class="text-grid">
+				
+				
+				
+				
+				
+				<a href="/text/hakim_iranshah_monstrous_courtship/" class="text-card">
+					
+					<img src="/assets/img/text/hakim_iranshah_monstrous_courtship-thumb.jpg" alt="A Monstrous Courtship
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">قطعه‌ای از بهمن‌نامه‌ی ایرانشاه بن ابی الخیر
+</div>
+						<div class="text-engtitle">A Monstrous Courtship
+</div>
+						<div class="text-meta">
+							Hakim Irānshāh ebn-e Abi-l-Khayr
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/hong_mai_chen_wangyou_daughter_law/" class="text-card">
+					
+					<img src="/assets/img/text/hong_mai_chen_wangyou_daughter_law-thumb.jpg" alt="Chen Wangyou's Daughter-in-Law
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">陳王猷子妇
+</div>
+						<div class="text-engtitle">Chen Wangyou's Daughter-in-Law
+</div>
+						<div class="text-meta">
+							Hong Mai 洪邁
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/pictor_concerning_wicked_woman/" class="text-card">
+					
+					<img src="/assets/img/text/pictor_concerning_wicked_woman-thumb.jpg" alt="Concerning the Wicked Woman
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De Muliere Mala
+</div>
+						<div class="text-engtitle">Concerning the Wicked Woman
+</div>
+						<div class="text-meta">
+							Petrus Pictor
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/_texts/discourse_angels_pagans/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Discourse on Angels and Pagans
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Якоже пишеть премудрый Епифаний
+</div>
+						<div class="text-engtitle">Discourse on Angels and Pagans
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/adam_st_victor_hymn_honor_augustine/" class="text-card">
+					
+					<img src="/assets/img/text/adam_st_victor_hymn_honor_augustine-thumb.png" alt="In Honor of St. Augustine
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Hymnus in honorem Sancti Augustini
+</div>
+						<div class="text-engtitle">In Honor of St. Augustine
+</div>
+						<div class="text-meta">
+							Adam of St. Victor [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/rigaut_just_elephant/" class="text-card">
+					
+					<img src="/assets/img/text/rigaut_just_elephant-thumb.jpg" alt="Just as the elephant
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">“Atressi cum l'orifans”
+</div>
+						<div class="text-engtitle">Just as the elephant
+</div>
+						<div class="text-meta">
+							Rigaut de Berbezilh
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/millstatt_plaint_sin/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Millstatt Plaint of Sin
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Millstatter Sündenklage
+</div>
+						<div class="text-engtitle">Millstatt Plaint of Sin
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/sanai_on_merciful_god/" class="text-card">
+					
+					<img src="/assets/img/text/sanai_on_merciful_god-thumb.jpg" alt="On the Merciful God and on the Birds’ Glorifications
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">در توحید خداوند غفور و تسبیح طیور فرماید
+</div>
+						<div class="text-engtitle">On the Merciful God and on the Birds’ Glorifications
+</div>
+						<div class="text-meta">
+							Sanā’ī of Ghazna
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/andre_romance_of_the_french/" class="text-card">
+					
+					<img src="/assets/img/text/andre_romance_of_the_french-thumb.jpg" alt="Romance of the French (Alfred)
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Le Roman des Franceis (Arflet)
+</div>
+						<div class="text-engtitle">Romance of the French (Alfred)
+</div>
+						<div class="text-meta">
+							André de Coutances
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/hong_mai_strange_dogs/" class="text-card">
+					
+					<img src="/assets/img/text/hong_mai_strange_dogs-thumb.jpg" alt="Strange Dogs
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">犬異
+</div>
+						<div class="text-engtitle">Strange Dogs
+</div>
+						<div class="text-meta">
+							Hong Mai 洪邁
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/hong_mai_chastity_wu_wife/" class="text-card">
+					
+					<img src="/assets/img/text/hong_mai_chastity_wu_wife-thumb.jpg" alt="The Chastity of Mr. Wu's Wife
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">譚氏節操
+</div>
+						<div class="text-engtitle">The Chastity of Mr. Wu's Wife
+</div>
+						<div class="text-meta">
+							Hong Mai 洪邁
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/hong_mai_concubine_mr_yao/" class="text-card">
+					
+					<img src="/assets/img/text/hong_mai_concubine_mr_yao-thumb.jpg" alt="The Concubine of Mr. Yao
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">姚氏妾
+</div>
+						<div class="text-engtitle">The Concubine of Mr. Yao
+</div>
+						<div class="text-meta">
+							Hong Mai 洪邁
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/hong_mai_dream_gong_yu/" class="text-card">
+					
+					<img src="/assets/img/text/hong_mai_dream_gong_yu-thumb.jpg" alt="The Dream of Gong Yu
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">龔輿夢
+</div>
+						<div class="text-engtitle">The Dream of Gong Yu
+</div>
+						<div class="text-meta">
+							Hong Mai 洪邁
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/passion_holy_virgins/" class="text-card">
+					
+					<img src="/assets/img/text/passion_holy_virgins-thumb.png" alt="The Passion of the Holy Virgins: Hope, Faith, Charity, and their Mother, Wisdom
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Passio Sanctarum Virginum: Spei, Fidei, Karitatis, et Matris earum Sapientiae
+</div>
+						<div class="text-engtitle">The Passion of the Holy Virgins: Hope, Faith, Charity, and their Mother, Wisdom
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_often_recall/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_often_recall-thumb.png" alt="To the tune "As if in a Dream"—"I often recall the sunset by Xiting"
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">如夢令 · 常記溪亭日暮
+</div>
+						<div class="text-engtitle">To the tune "As if in a Dream"—"I often recall the sunset by Xiting"
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_red_lotus/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_red_lotus-thumb.png" alt="To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered”
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">一剪梅 · 紅藕香殘玉簟秋
+</div>
+						<div class="text-engtitle">To the tune “A Single Cutting of Plum Blossom”—“The red lotus fragrance still lingered”
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_setting_sun/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_setting_sun-thumb.png" alt="To the tune “Always Having Fun”—"The setting sun is like melted gold
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">永遇樂 · 落日鎔金
+</div>
+						<div class="text-engtitle">To the tune “Always Having Fun”—"The setting sun is like melted gold
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/li_qingzhao_last_night/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_last_night-thumb.png" alt="To the tune “As If in a Dream”—“Last night the rain was sparse”
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">如夢令 · 昨夜雨疏風驟
+</div>
+						<div class="text-engtitle">To the tune “As If in a Dream”—“Last night the rain was sparse”
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_wind_gentle_sunlight_soft/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_wind_gentle_sunlight_soft-thumb.png" alt="To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">菩薩蠻 · 風柔日薄春猶早
+</div>
+						<div class="text-engtitle">To the tune “Bodhisattva Barbarian”—"The wind is gentle, the sunlight soft
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_in_thin_fog/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_in_thin_fog-thumb.png" alt="To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">醉花陰 · 薄霧濃雰愁永晝
+</div>
+						<div class="text-engtitle">To the tune “Drunk under the Shadow of Flowers”—"In thin fog and heavy mist
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_courtyard_deep/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_courtyard_deep-thumb.png" alt="To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">臨江仙 · 庭院深深深幾許
+</div>
+						<div class="text-engtitle">To the tune “Immortal by the River”—"The courtyard is deep, how far does it extend
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_looking_searching/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_looking_searching-thumb.png" alt="To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">聲聲慢 · 尋尋覓覓
+</div>
+						<div class="text-engtitle">To the tune “Note after Note, Long Song”—"Looking and searching, looking and searching
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/li_qingzhao_incense_chills/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_incense_chills-thumb.png" alt="To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">鳳凰臺上憶吹簫 · 香冷金猊
+</div>
+						<div class="text-engtitle">To the tune “On Top of the Phoenix Terrace, Recalling Flute Music”—"The incense chills in the golden lion
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_at_night/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_at_night-thumb.png" alt="To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">訴衷情 · 夜來沉醉卸妝遲
+</div>
+						<div class="text-engtitle">To the tune “Revealing Inmost Feelings”—"At night, I was drunk and did not take off my makeup
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_outside_window_spring_color/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_outside_window_spring_color-thumb.png" alt="To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">浣溪沙 · 小院閒窗春色深
+</div>
+						<div class="text-engtitle">To the tune “Sands of the Washing Stream”—"Outside the window, the spring color deepens
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_in_the_sky/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_in_the_sky-thumb.png" alt="To the tune “Southland Song”—“In the sky, the starry river turns”
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">南歌子 · 天上星河轉
+</div>
+						<div class="text-engtitle">To the tune “Southland Song”—“In the sky, the starry river turns”
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/li_qingzhao_wind_stops_dust_fragrant/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_wind_stops_dust_fragrant-thumb.png" alt="To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">武陵春 · 風住塵香花已盡
+</div>
+						<div class="text-engtitle">To the tune “Spring in Wuling”—"The wind stops, the dust is fragrant, and the flowers are all gone
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_sky_merged/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_sky_merged-thumb.png" alt="To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">漁家傲 · 天接雲濤連曉霧
+</div>
+						<div class="text-engtitle">To the tune “The Fisherman is Proud”—"The sky merged the sea of clouds with the mist of dawn
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_who_planted_banana_trees/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_who_planted_banana_trees-thumb.png" alt="To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">添字醜奴兒 · 窗前誰種芭蕉樹
+</div>
+						<div class="text-engtitle">To the tune “Vile Charmer, Long Version”—"Who planted the banana trees in front of the window
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/li_qingzhao_wind_comes_from_lake/" class="text-card">
+					
+					<img src="/assets/img/text/li_qingzhao_wind_comes_from_lake-thumb.png" alt="To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand”
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">怨王孫 · 湖上風來波浩渺
+</div>
+						<div class="text-engtitle">To the tune “Yearning for the Prince”—“Wind comes from the lake and the waves are misty and grand”
+</div>
+						<div class="text-meta">
+							Li Qingzhao 李清照
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/vorau_plaint_sin/" class="text-card">
+					
+					<img src="/assets/img/text/vorau_plaint_sin-thumb.png" alt="Vorau Plaint of Sin
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Vorauer Sündenklage
+</div>
+						<div class="text-engtitle">Vorau Plaint of Sin
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
  		</article>
- 	</div><!-- /.medium-8.columns -->
+ 	</div><!-- /.large-12.columns -->
 </div><!-- /.row -->
 
 

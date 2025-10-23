@@ -132,7 +132,7 @@ $modules: () !default;
 
   $remValues: ();
   @for $i from 1 through $max {
-    $remValues: append($remValues, convert-to-rem(list.nth($values, $i), $base-value));
+    $remValues: list.append($remValues, convert-to-rem(list.nth($values, $i), $base-value));
   }
   @return $remValues;
 }

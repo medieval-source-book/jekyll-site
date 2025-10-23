@@ -216,754 +216,1119 @@
 
   
   
-  <div class="row" id="main">
+  <style>
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.period-header {
+  margin-bottom: 2rem;
+}
+
+.period-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="row" id="main">
  	
 
- 	<div class="large-offset-2">
+ 	<div class="large-12 columns">
  		<article itemscope itemtype="http://schema.org/Article">
- 			<header class="row">
- 				<div itemprop="name" class="large-8 columns">
+ 			<header class="period-header">
+ 				<div itemprop="name">
  					<h1 id="pagetitle" class="landing">15th Century</h1>
  				</div>
- 				<div itemprop="image" class="large-4 columns">
- 					<img src="" />
- 					<p class="caption"></p>
- 				</div>
+ 				
  			</header>
 
  			<div itemprop="articleSection">
  				
  			</div>
- 			<div class="row">
- 	<div class="small-12 columns t30">
- 		<div class="row" id="listprojects">
 
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_carvajal_came_from_campagna.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_came_from_campagna/"><img src="/assets/img/text/carvajal_came_from_campagna-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_came_from_campagna/"><h4>As I came from Campagna
-</h4></a>
- 					<p class="strong">Veniendo de la Campanna
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_carvajal_between_sessa_cintura.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_between_sessa_cintura/"><img src="/assets/img/text/carvajal_between_sessa_cintura-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_between_sessa_cintura/"><h4>Between Sessa and Cintura
-</h4></a>
- 					<p class="strong">Entre Sesa et Cintura
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_lopes_chronicle_peter_i.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/lopes_chronicle_peter_i/"><img src="/assets/img/text/lopes_chronicle_peter_i-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/lopes_chronicle_peter_i/"><h4>Chronicle of King Peter I [Prologue]
-</h4></a>
- 					<p class="strong">Chronica del Rey D. Pedro [Prologo]
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_bracciolini_conclusio.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_conclusion/"><img src="/assets/img/text/bracciolini_conclusion-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_conclusion/"><h4>Conclusion
-</h4></a>
- 					<p class="strong">Conclusio
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_bracciolini_introduction.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_introduction/"><img src="/assets/img/text/bracciolini_introduction-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_introduction/"><h4>Introduction: So that rivals do not slander this collection of jokes for...</h4></a>
- 					<p class="strong">Ne Aemuli Carpant Facetiarum Opus, Propter Eloquentiae Tenuitatem
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_114.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_114/"><img src="/assets/img/text/bracciolini_joke_114-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_114/"><h4>Joke 114: About the prostitute who complained about the barber’s evil deed
-</h4></a>
- 					<p class="strong">Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_121.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_121/"><img src="/assets/img/text/bracciolini_joke_121-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_121/"><h4>Joke 121: The Brilliant Dante's Joke
-</h4></a>
- 					<p class="strong">Facetia CXXI: Iocatio Dantis clarissimi
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_13.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_13/"><img src="/assets/img/text/bracciolini_joke_13-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_13/"><h4>Joke 13: The saying of the cook of the famous duke of Milan
-</h4></a>
- 					<p class="strong">Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_273.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_273/"><img src="/assets/img/text/bracciolini_joke_273-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_273/"><h4>Joke 273: The obscene comparison of the teeth that threatened to fall out
-</h4></a>
- 					<p class="strong">Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_27.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_27/"><img src="/assets/img/text/bracciolini_joke_27-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_27/"><h4>Joke 27: The pregnant sister of the citizen of Constance
-</h4></a>
- 					<p class="strong">Facetia XXVII: Civis Constantiae Soror Gravida Facta
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_54.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_54/"><img src="/assets/img/text/bracciolini_joke_54-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_54/"><h4>Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) wi...</h4></a>
- 					<p class="strong">Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_57.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_57/"><img src="/assets/img/text/bracciolini_joke_57-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_57/"><h4>Joke 57: The elegant reply of the Florentine poet Dante
-</h4></a>
- 					<p class="strong">Facetia LVII: Responsio elegans dantis poete florentini
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_58.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_58/"><img src="/assets/img/text/bracciolini_joke_58-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_58/"><h4>Joke 58: A witty reply from the same poet
-</h4></a>
- 					<p class="strong">Facetia LVIII: Eiusdem poete faceta responsio
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_5.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_5/"><img src="/assets/img/text/bracciolini_joke_5-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_5/"><h4>Joke 5: About the stupid man who thought his wife had two pussies
-</h4></a>
- 					<p class="strong">Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_70.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_70/"><img src="/assets/img/text/bracciolini_joke_70-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_70/"><h4>Joke 70: The greedy man who tasted urine
-</h4></a>
- 					<p class="strong">Facetia LXX: De Avaro Qui Urinam Degustavit
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_81.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_81/"><img src="/assets/img/text/bracciolini_joke_81-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_81/"><h4>Joke 81: The debate between a Florentine and a Venetian
-</h4></a>
- 					<p class="strong">Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_bracciolini_joke_82.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bracciolini_joke_82/"><img src="/assets/img/text/bracciolini_joke_82-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/bracciolini_joke_82/"><h4>Joke 82: Antonio Loschi’s analogy
-</h4></a>
- 					<p class="strong">Facetia LXXXII: Comparatio Antonii Lusci
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_shoemakers_new_faith.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/shoemakers_new_faith/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/shoemakers_new_faith/"><h4>Now, you shoemakers of the new faith
-</h4></a>
- 					<p class="strong">Nuž, vy ševci viery nové
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_fesneau_agricola_oh_how_troubles_me.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/fesneau_agricola_oh_how_troubles_me/"><img src="/assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/fesneau_agricola_oh_how_troubles_me/"><h4>Oh, how it troubles me!
-</h4></a>
- 					<p class="strong">Ha, qu'il m'ennuie!
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_bohmit_heretic.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/bohmit_heretic/"><img src="/assets/img/text/bohmit_heretic-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/bohmit_heretic/"><h4>On Bohmit [Muhammad] the Heretic
-</h4></a>
- 					<p class="strong">Ѡ Бохмитѣ еретицѣ
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_carvajal_outside_rome.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_outside_rome/"><img src="/assets/img/text/carvajal_outside_rome-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_outside_rome/"><h4>Outside of Rome, crossing Marino
-</h4></a>
- 					<p class="strong">Partiendo de Roma, passando Marino
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_reno_incident_university_paris.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/reno_incident_university_paris/"><img src="/assets/img/text/reno_incident_university_paris-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/reno_incident_university_paris/"><h4>Regarding an outrageous incident at the University of Paris
-</h4></a>
- 					<p class="strong">De enormis casu in Universitate Parisiensis
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_greven_blessed_haseka.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/greven_blessed_haseka/"><img src="/assets/img/text/greven_blessed_haseka-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/greven_blessed_haseka/"><h4>Regarding blessed Haseka, virgin recluse in Westphalia
-</h4></a>
- 					<p class="strong">De B. Haseka, virgine reclusa in Westphalia
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_virgin_mary_lament_bordesholm.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/virgin_mary_lament_bordesholm/"><img src="/assets/img/text/virgin_mary_lament_bordesholm-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/virgin_mary_lament_bordesholm/"><h4>The Bordesholm Virgin Mary's Lament
-</h4></a>
- 					<p class="strong">Marienklage
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_miracles_vladimir_mother_god.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/miracles_vladimir_mother_god/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/miracles_vladimir_mother_god/"><h4>The Legend of the Miracles of the Vladimir Mother of God Icon
-</h4></a>
- 					<p class="strong">Ꙗко бо слн҃це створи бъ҃
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_miracle_mother_god_sign.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/miracle_mother_god_sign/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/miracle_mother_god_sign/"><h4>The Miracle of the Mother of God of the Sign (The Tale of the Battle bet...</h4></a>
- 					<p class="strong">слⷡ҇о ѡ҆ ꙁнаменїи ст҇ыѧ бц҇а в лⷮ҇ѣ • ҂ѕ̑ • х̑ • о҇ꙁ е • сътво
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_von_schondoch_queen_france.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/von_schondoch_queen_france/"><img src="/assets/img/text/von_schondoch_queen_france-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/von_schondoch_queen_france/"><h4>The Queen of France
-</h4></a>
- 					<p class="strong">Die Königin von Frankreich
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_folz_song_gutenberg.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/folz_song_gutenberg/"><img src="/assets/img/text/folz_song_gutenberg-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/folz_song_gutenberg/"><h4>The Song of Gutenberg
-</h4></a>
- 					<p class="strong">Gutenberglied
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_efrosin_tale_dracula.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/efrosin_tale_dracula/"><img src="/assets/img/text/efrosin_tale_dracula-thumb" class="videothumbnail"></a>
- 					<a href="/text/efrosin_tale_dracula/"><h4>The Tale of Dracula the Voivode
-</h4></a>
- 					<p class="strong">сказанїе ѡ дракоулѣ воеводѣ
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_efrosin_solomon_kitovras.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/efrosin_solomon_kitovras/"><img src="/assets/img/text/efrosin_solomon_kitovras-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/efrosin_solomon_kitovras/"><h4>The Tale of Solomon and Kitrovas
-</h4></a>
- 					<p class="strong">ѡ҆ Китоврасѣ ѿ палеи
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_testament_magnus.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/testament_magnus/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/testament_magnus/"><h4>The Testament of Magnus
-</h4></a>
- 					<p class="strong">Рᲂукописание , магнᲈша королѧ свѣискаго
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_two_confessions.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/two_confessions/"><img src="/assets/img/text/two_confessions-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/two_confessions/"><h4>The Two Confessions
-</h4></a>
- 					<p class="strong">Dÿ zwu peicht
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_trust_I_have_you.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/trust_I_have_you/"><img src="/assets/img/text/trust_I_have_you-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/trust_I_have_you/"><h4>The trust that I have in you
-</h4></a>
- 					<p class="strong">La fiance que j'ay en vous
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_carvajal_traveling_tuscany.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_traveling_tuscany/"><img src="/assets/img/text/carvajal_traveling_tuscany-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_traveling_tuscany/"><h4>Traveling through Tuscany
-</h4></a>
- 					<p class="strong">Passando por la Toscana
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_tuan_mac_cairill.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/tuan_mac_cairill/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/tuan_mac_cairill/"><h4>Tuán mac Cairill—it was heard
-</h4></a>
- 					<p class="strong">Tuán mac Cairill ro clos
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_two_three_days_ago.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/two_three_days_ago/"><img src="/assets/img/text/two_three_days_ago-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/two_three_days_ago/"><h4>Two or three days ago
-</h4></a>
- 					<p class="strong">Depuis deux ou trois jours enca
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_sant_jordi_underneath_my_forehead.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/sant_jordi_underneath_my_forehead/"><img src="/assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/sant_jordi_underneath_my_forehead/"><h4>Underneath my forehead I carry your beautiful image
-</h4></a>
- 					<p class="strong">Jus lo front port vostra bella semblança
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_carvajal_walking_out.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_walking_out/"><img src="/assets/img/text/carvajal_walking_out-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_walking_out/"><h4>Walking out of an olive grove
-</h4></a>
- 					<p class="strong">Saliendo de un oliuar
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_carvajal_wandering_lost.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/carvajal_wandering_lost/"><img src="/assets/img/text/carvajal_wandering_lost-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/carvajal_wandering_lost/"><h4>Wandering lost, it was already night
-</h4></a>
- 					<p class="strong">Andando perdido, de noche ya era
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 		</div>
- 	</div><!-- /.small-8 small-offset-2.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-
-
-
+			<div class="text-grid">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/carvajal_came_from_campagna/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_came_from_campagna-thumb.jpg" alt="As I came from Campagna
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Veniendo de la Campanna
+</div>
+						<div class="text-engtitle">As I came from Campagna
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/carvajal_between_sessa_cintura/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_between_sessa_cintura-thumb.jpg" alt="Between Sessa and Cintura
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Entre Sesa et Cintura
+</div>
+						<div class="text-engtitle">Between Sessa and Cintura
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/lopes_chronicle_peter_i/" class="text-card">
+					
+					<img src="/assets/img/text/lopes_chronicle_peter_i-thumb.png" alt="Chronicle of King Peter I [Prologue]
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Chronica del Rey D. Pedro [Prologo]
+</div>
+						<div class="text-engtitle">Chronicle of King Peter I [Prologue]
+</div>
+						<div class="text-meta">
+							Fernão Lopez
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/bracciolini_conclusion/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_conclusion-thumb.jpg" alt="Conclusion
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Conclusio
+</div>
+						<div class="text-engtitle">Conclusion
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/bracciolini_introduction/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_introduction-thumb.jpg" alt="Introduction: So that rivals do not slander this collection of jokes for its inelegance
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Ne Aemuli Carpant Facetiarum Opus, Propter Eloquentiae Tenuitatem
+</div>
+						<div class="text-engtitle">Introduction: So that rivals do not slander this collection of jokes for its inelegance
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_114/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_114-thumb.jpg" alt="Joke 114: About the prostitute who complained about the barber’s evil deed
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia CXIV: De Meretrice Conquerente De Tonsoris Maleficio
+</div>
+						<div class="text-engtitle">Joke 114: About the prostitute who complained about the barber’s evil deed
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_121/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_121-thumb.jpg" alt="Joke 121: The Brilliant Dante's Joke
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia CXXI: Iocatio Dantis clarissimi
+</div>
+						<div class="text-engtitle">Joke 121: The Brilliant Dante's Joke
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_13/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_13-thumb.png" alt="Joke 13: The saying of the cook of the famous duke of Milan
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia XIII: Dictum Coci Illustrissimo Duci Mediolanensi Habitum
+</div>
+						<div class="text-engtitle">Joke 13: The saying of the cook of the famous duke of Milan
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_273/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_273-thumb.jpg" alt="Joke 273: The obscene comparison of the teeth that threatened to fall out
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia CCLXXIII: De dentibus casum minantibus similitudo obscena
+</div>
+						<div class="text-engtitle">Joke 273: The obscene comparison of the teeth that threatened to fall out
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_27/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_27-thumb.jpg" alt="Joke 27: The pregnant sister of the citizen of Constance
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia XXVII: Civis Constantiae Soror Gravida Facta
+</div>
+						<div class="text-engtitle">Joke 27: The pregnant sister of the citizen of Constance
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_54/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_54-thumb.png" alt="Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LIV: De Quodam Qui Redolphum Sagittando Vulneravit
+</div>
+						<div class="text-engtitle">Joke 54: About the man who wounded Ridolfo (II da Varano di Camerino) with an arrow
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_57/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_57-thumb.jpg" alt="Joke 57: The elegant reply of the Florentine poet Dante
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LVII: Responsio elegans dantis poete florentini
+</div>
+						<div class="text-engtitle">Joke 57: The elegant reply of the Florentine poet Dante
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_58/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_58-thumb.jpg" alt="Joke 58: A witty reply from the same poet
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LVIII: Eiusdem poete faceta responsio
+</div>
+						<div class="text-engtitle">Joke 58: A witty reply from the same poet
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_5/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_5-thumb.jpg" alt="Joke 5: About the stupid man who thought his wife had two pussies
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia V: De Homine Insulso Qui Existimavit Duos Cunnos In Uxore
+</div>
+						<div class="text-engtitle">Joke 5: About the stupid man who thought his wife had two pussies
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_70/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_70-thumb.jpg" alt="Joke 70: The greedy man who tasted urine
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LXX: De Avaro Qui Urinam Degustavit
+</div>
+						<div class="text-engtitle">Joke 70: The greedy man who tasted urine
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_81/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_81-thumb.jpg" alt="Joke 81: The debate between a Florentine and a Venetian
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum
+</div>
+						<div class="text-engtitle">Joke 81: The debate between a Florentine and a Venetian
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/bracciolini_joke_82/" class="text-card">
+					
+					<img src="/assets/img/text/bracciolini_joke_82-thumb.jpg" alt="Joke 82: Antonio Loschi’s analogy
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Facetia LXXXII: Comparatio Antonii Lusci
+</div>
+						<div class="text-engtitle">Joke 82: Antonio Loschi’s analogy
+</div>
+						<div class="text-meta">
+							Poggio Bracciolini
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/shoemakers_new_faith/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Now, you shoemakers of the new faith
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Nuž, vy ševci viery nové
+</div>
+						<div class="text-engtitle">Now, you shoemakers of the new faith
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/fesneau_agricola_oh_how_troubles_me/" class="text-card">
+					
+					<img src="/assets/img/text/fesneau_agricola_oh_how_troubles_me-thumb.png" alt="Oh, how it troubles me!
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Ha, qu'il m'ennuie!
+</div>
+						<div class="text-engtitle">Oh, how it troubles me!
+</div>
+						<div class="text-meta">
+							Fesneau/Agricola [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/bohmit_heretic/" class="text-card">
+					
+					<img src="/assets/img/text/bohmit_heretic-thumb.png" alt="On Bohmit [Muhammad] the Heretic
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Ѡ Бохмитѣ еретицѣ
+</div>
+						<div class="text-engtitle">On Bohmit [Muhammad] the Heretic
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/carvajal_outside_rome/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_outside_rome-thumb.jpg" alt="Outside of Rome, crossing Marino
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Partiendo de Roma, passando Marino
+</div>
+						<div class="text-engtitle">Outside of Rome, crossing Marino
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/reno_incident_university_paris/" class="text-card">
+					
+					<img src="/assets/img/text/reno_incident_university_paris-thumb.jpg" alt="Regarding an outrageous incident at the University of Paris
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De enormis casu in Universitate Parisiensis
+</div>
+						<div class="text-engtitle">Regarding an outrageous incident at the University of Paris
+</div>
+						<div class="text-meta">
+							Johannes de Reno
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/greven_blessed_haseka/" class="text-card">
+					
+					<img src="/assets/img/text/greven_blessed_haseka-thumb.jpg" alt="Regarding blessed Haseka, virgin recluse in Westphalia
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De B. Haseka, virgine reclusa in Westphalia
+</div>
+						<div class="text-engtitle">Regarding blessed Haseka, virgin recluse in Westphalia
+</div>
+						<div class="text-meta">
+							Hermann Greven
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/virgin_mary_lament_bordesholm/" class="text-card">
+					
+					<img src="/assets/img/text/virgin_mary_lament_bordesholm-thumb.png" alt="The Bordesholm Virgin Mary's Lament
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Marienklage
+</div>
+						<div class="text-engtitle">The Bordesholm Virgin Mary's Lament
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/miracles_vladimir_mother_god/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="The Legend of the Miracles of the Vladimir Mother of God Icon
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Ꙗко бо слн҃це створи бъ҃
+</div>
+						<div class="text-engtitle">The Legend of the Miracles of the Vladimir Mother of God Icon
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/miracle_mother_god_sign/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="The Miracle of the Mother of God of the Sign (The Tale of the Battle between Novgorod and Suzdal)
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">слⷡ҇о ѡ҆ ꙁнаменїи ст҇ыѧ бц҇а в лⷮ҇ѣ • ҂ѕ̑ • х̑ • о҇ꙁ е • сътво
+</div>
+						<div class="text-engtitle">The Miracle of the Mother of God of the Sign (The Tale of the Battle between Novgorod and Suzdal)
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/von_schondoch_queen_france/" class="text-card">
+					
+					<img src="/assets/img/text/von_schondoch_queen_france-thumb.jpg" alt="The Queen of France
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Die Königin von Frankreich
+</div>
+						<div class="text-engtitle">The Queen of France
+</div>
+						<div class="text-meta">
+							von Schondoch
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/folz_song_gutenberg/" class="text-card">
+					
+					<img src="/assets/img/text/folz_song_gutenberg-thumb.jpg" alt="The Song of Gutenberg
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Gutenberglied
+</div>
+						<div class="text-engtitle">The Song of Gutenberg
+</div>
+						<div class="text-meta">
+							Hans Folz
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/efrosin_tale_dracula/" class="text-card">
+					
+					<img src="/assets/img/text/efrosin_tale_dracula-thumb" alt="The Tale of Dracula the Voivode
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">сказанїе ѡ дракоулѣ воеводѣ
+</div>
+						<div class="text-engtitle">The Tale of Dracula the Voivode
+</div>
+						<div class="text-meta">
+							Efrosin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/efrosin_solomon_kitovras/" class="text-card">
+					
+					<img src="/assets/img/text/efrosin_solomon_kitovras-thumb.png" alt="The Tale of Solomon and Kitrovas
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">ѡ҆ Китоврасѣ ѿ палеи
+</div>
+						<div class="text-engtitle">The Tale of Solomon and Kitrovas
+</div>
+						<div class="text-meta">
+							Efrosin
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/testament_magnus/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="The Testament of Magnus
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Рᲂукописание , магнᲈша королѧ свѣискаго
+</div>
+						<div class="text-engtitle">The Testament of Magnus
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/two_confessions/" class="text-card">
+					
+					<img src="/assets/img/text/two_confessions-thumb.jpg" alt="The Two Confessions
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Dÿ zwu peicht
+</div>
+						<div class="text-engtitle">The Two Confessions
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/trust_I_have_you/" class="text-card">
+					
+					<img src="/assets/img/text/trust_I_have_you-thumb.png" alt="The trust that I have in you
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">La fiance que j'ay en vous
+</div>
+						<div class="text-engtitle">The trust that I have in you
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/carvajal_traveling_tuscany/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_traveling_tuscany-thumb.jpg" alt="Traveling through Tuscany
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Passando por la Toscana
+</div>
+						<div class="text-engtitle">Traveling through Tuscany
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/tuan_mac_cairill/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Tuán mac Cairill—it was heard
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Tuán mac Cairill ro clos
+</div>
+						<div class="text-engtitle">Tuán mac Cairill—it was heard
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/two_three_days_ago/" class="text-card">
+					
+					<img src="/assets/img/text/two_three_days_ago-thumb.png" alt="Two or three days ago
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Depuis deux ou trois jours enca
+</div>
+						<div class="text-engtitle">Two or three days ago
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/sant_jordi_underneath_my_forehead/" class="text-card">
+					
+					<img src="/assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg" alt="Underneath my forehead I carry your beautiful image
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Jus lo front port vostra bella semblança
+</div>
+						<div class="text-engtitle">Underneath my forehead I carry your beautiful image
+</div>
+						<div class="text-meta">
+							Jordi di Sant Jordi
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/carvajal_walking_out/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_walking_out-thumb.jpg" alt="Walking out of an olive grove
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Saliendo de un oliuar
+</div>
+						<div class="text-engtitle">Walking out of an olive grove
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/carvajal_wandering_lost/" class="text-card">
+					
+					<img src="/assets/img/text/carvajal_wandering_lost-thumb.jpg" alt="Wandering lost, it was already night
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Andando perdido, de noche ya era
+</div>
+						<div class="text-engtitle">Wandering lost, it was already night
+</div>
+						<div class="text-meta">
+							Carvajal
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
  		</article>
- 	</div><!-- /.medium-8.columns -->
+ 	</div><!-- /.large-12.columns -->
 </div><!-- /.row -->
 
 

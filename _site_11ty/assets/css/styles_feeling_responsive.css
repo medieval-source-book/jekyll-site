@@ -5197,32 +5197,6 @@ table tr td {
   border-radius: 3px;
 }
 
-.dropdown li:not(.has-form):not(.active) > a:not(.button)::after {
-  visibility: hidden;
-}
-
-.dropdown li:hover:not(.has-form):not(.active) > a:not(.button)::after {
-  display: inline-block;
-  visibility: visible;
-}
-
-.dropdown li:not(.has-form):not(.active) > span:not(.button)::after {
-  visibility: hidden;
-}
-
-.dropdown li:hover:not(.has-form):not(.active) > span:not(.button)::after {
-  display: inline-block;
-  visibility: visible;
-}
-
-.dropdown .dropdown li:not(.has-form):not(.active) > a:not(.button) {
-  background-color: #FDE8A8;
-}
-
-.dropdown .dropdown li:not(.has-form):not(.active) > span:not(.button) {
-  background-color: #FDE8A8;
-}
-
 .text-left {
   text-align: left !important;
 }

@@ -216,650 +216,911 @@
 
   
   
-  <div class="row" id="main">
+  <style>
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.period-header {
+  margin-bottom: 2rem;
+}
+
+.period-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="row" id="main">
  	
 
- 	<div class="large-offset-2">
+ 	<div class="large-12 columns">
  		<article itemscope itemtype="http://schema.org/Article">
- 			<header class="row">
- 				<div itemprop="name" class="large-8 columns">
+ 			<header class="period-header">
+ 				<div itemprop="name">
  					<h1 id="pagetitle" class="landing">14th Century</h1>
  				</div>
- 				<div itemprop="image" class="large-4 columns">
- 					<img src="" />
- 					<p class="caption"></p>
- 				</div>
+ 				
  			</header>
 
  			<div itemprop="articleSection">
  				
  			</div>
- 			<div class="row">
- 	<div class="small-12 columns t30">
- 		<div class="row" id="listprojects">
 
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_al_nuwayri_cypriot_victory.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/al_nuwayri_cypriot_victory/"><img src="/assets/img/text/al_nuwayri_cypriot_victory-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/al_nuwayri_cypriot_victory/"><h4>An account of how the Cypriots gained victory over Alexandria
-</h4></a>
- 					<p class="strong">ذكر كيفية ظفر القبرسي بالإسكندرية
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_twinger_chronicle.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/twinger_chronicle/"><img src="/assets/img/text/twinger_chronicle-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/twinger_chronicle/"><h4>Chronicle [Prologue]
-</h4></a>
- 					<p class="strong">Cronica [vorrede]
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_fire_water.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_fire_water/"><img src="/assets/img/text/creature_dialogue_fire_water-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_fire_water/"><h4>Concerning Fire and Water
-</h4></a>
- 					<p class="strong">De igne et aqua
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_life_death.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_life_death/"><img src="/assets/img/text/creature_dialogue_life_death-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_life_death/"><h4>Concerning Life and Death
-</h4></a>
- 					<p class="strong">De vita et morte
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_man_woman.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_man_woman/"><img src="/assets/img/text/creature_dialogue_man_woman-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_man_woman/"><h4>Concerning Man and Woman
-</h4></a>
- 					<p class="strong">De homine et muliere
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_precious_topaz.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_precious_topaz/"><img src="/assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_precious_topaz/"><h4>Concerning Precious Topaz
-</h4></a>
- 					<p class="strong">De topasio pretioso
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_saturn_cloud.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_saturn_cloud/"><img src="/assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_saturn_cloud/"><h4>Concerning Saturn and the Cloud
-</h4></a>
- 					<p class="strong">De Saturno et nube
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_leopard_unicorn_dragon.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_leopard_unicorn_dragon/"><img src="/assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_leopard_unicorn_dragon/"><h4>Concerning the Leopard and the Unicorn Who Fought the Dragon
-</h4></a>
- 					<p class="strong">De leopardo et unicorni
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_sun_moon.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_sun_moon/"><img src="/assets/img/text/creature_dialogue_sun_moon-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_sun_moon/"><h4>Concerning the Sun and the Moon
-</h4></a>
- 					<p class="strong">De sole et luna
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_discourse_angels_pagans.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/discourse_angels_pagans/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/discourse_angels_pagans/"><h4>Death of King John
-</h4></a>
- 					<p class="strong">Smrt krále Jana
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_emare.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/emare/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/emare/"><h4>Emare
-</h4></a>
- 					<p class="strong">Emaré
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_filbert_vision.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/filbert_vision/"><img src="/assets/img/text/filbert_vision-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/filbert_vision/"><h4>Filbert's Vision
-</h4></a>
- 					<p class="strong">La visión de Filiberto
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_eifuku_monin_poem_979.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/eifuku_monin_poem_979/"><img src="/assets/img/text/eifuku_monin_poem_979-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/eifuku_monin_poem_979/"><h4>From the 1st Book of Love. Poem 979.
-</h4></a>
- 					<p class="strong">戀歌一、９７９
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_eifuku_monin_poem_1077.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/eifuku_monin_poem_1077/"><img src="/assets/img/text/eifuku_monin_poem_1077-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/eifuku_monin_poem_1077/"><h4>From the 2nd Book of Love. Poem 1077.
-</h4></a>
- 					<p class="strong">戀歌二、1077
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_eifuku_monin_poem_1384.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/eifuku_monin_poem_1384/"><img src="/assets/img/text/eifuku_monin_poem_1384-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/eifuku_monin_poem_1384/"><h4>From the 5th Book of Love. Poem 1384.
-</h4></a>
- 					<p class="strong">戀歌五、1384
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_eifuku_monin_poem_1388.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/eifuku_monin_poem_1388/"><img src="/assets/img/text/eifuku_monin_poem_1388-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/eifuku_monin_poem_1388/"><h4>From the 5th Book of Love. Poem 1388.
-</h4></a>
- 					<p class="strong">戀歌五、1388
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_guillaume_de_nangis_john_acre.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/guillaume_de_nangis_john_acre/"><img src="/assets/img/text/guillaume_de_nangis_john_acre-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/guillaume_de_nangis_john_acre/"><h4>How Sir John of Acre, butler of France, who was on guard, was deceived b...</h4></a>
- 					<p class="strong">Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu dec...</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_marston_childbirth_prayer.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/marston_childbirth_prayer/"><img src="/assets/img/text/marston_childbirth_prayer-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/marston_childbirth_prayer/"><h4>Marston Childbirth Prayer
-</h4></a>
- 					<p class="strong">Omnipotens sempiterne Deus
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_prologue_psalms_czech.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/prologue_psalms_czech/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/prologue_psalms_czech/"><h4>Prologue to the  Book of Psalms in Old Czech Printed Bibles
-</h4></a>
- 					<p class="strong">Předmluva ke Knize žalmů ve staročeských tištěných biblích
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_regarding_sister_agnes_waller.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/regarding_sister_agnes_waller/"><img src="/assets/img/text/regarding_sister_agnes_waller-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/regarding_sister_agnes_waller/"><h4>Regarding Sister Agnes Waller of Blessed Memory
-</h4></a>
- 					<p class="strong">Item de sorore sancte memorie Agnete, Wallaria cognomento
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_passavanti_charcoal_burner_nevers.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/charcoal_burner_nevers/"><img src="/assets/img/text/passavanti_charcoal_burner_nevers.png" class="videothumbnail"></a>
- 					<a href="/text/charcoal_burner_nevers/"><h4>The Charcoal-Burner of Nevers
-</h4></a>
- 					<p class="strong">Il Carbonaio di Niversa
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_king_tars.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/king_tars/"><img src="/assets/img/text/king_tars-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/king_tars/"><h4>The King of Tars
-</h4></a>
- 					<p class="strong">Þe king of Tars
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_miracle_mother_god_sign.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/miracle_mother_god_sign/"><img src="/assets/img/text/default.png" class="videothumbnail"></a>
- 					<a href="/text/miracle_mother_god_sign/"><h4>The Miracle of the Mother of God of the Sign (The Tale of the Battle bet...</h4></a>
- 					<p class="strong">слⷡ҇о ѡ҆ ꙁнаменїи ст҇ыѧ бц҇а в лⷮ҇ѣ • ҂ѕ̑ • х̑ • о҇ꙁ е • сътво
-</p>
-				</div>
- 			
- 			
- 			
- 				<div id="text_creature_dialogue_preface.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/creature_dialogue_preface/"><img src="/assets/img/text/creature_dialogue_preface-thumb.jpeg" class="videothumbnail"></a>
- 					<a href="/text/creature_dialogue_preface/"><h4>The Moral Dialogue of Creatures [Preface]
-</h4></a>
- 					<p class="strong">Dyalogus creaturarum moralizatus [Præfatio]
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_von_schondoch_queen_france.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/von_schondoch_queen_france/"><img src="/assets/img/text/von_schondoch_queen_france-thumb.jpg" class="videothumbnail"></a>
- 					<a href="/text/von_schondoch_queen_france/"><h4>The Queen of France
-</h4></a>
- 					<p class="strong">Die Königin von Frankreich
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 				<div id="text_sultan_daughter.md" class="large-4 medium-6 columns projectbox">
- 					<a href="/text/sultan_daughter/"><img src="/assets/img/text/sultan_daughter-thumb.png" class="videothumbnail"></a>
- 					<a href="/text/sultan_daughter/"><h4>The Sultan's Daughter in the Flower Garden
-</h4></a>
- 					<p class="strong">Die Sultanstochter im Blumengarten
-</p>
-				</div>
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 			
- 		</div>
- 	</div><!-- /.small-8 small-offset-2.columns -->
-</div><!-- /.row -->
-
-
-
-
-
-
-
-
-
-
+			<div class="text-grid">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/al_nuwayri_cypriot_victory/" class="text-card">
+					
+					<img src="/assets/img/text/al_nuwayri_cypriot_victory-thumb.jpg" alt="An account of how the Cypriots gained victory over Alexandria
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">ذكر كيفية ظفر القبرسي بالإسكندرية
+</div>
+						<div class="text-engtitle">An account of how the Cypriots gained victory over Alexandria
+</div>
+						<div class="text-meta">
+							Muhammad ibn Qāsim ibn Muhammad al-Nuwayrī al-Iskandarāniyy
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/twinger_chronicle/" class="text-card">
+					
+					<img src="/assets/img/text/twinger_chronicle-thumb.jpeg" alt="Chronicle [Prologue]
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Cronica [vorrede]
+</div>
+						<div class="text-engtitle">Chronicle [Prologue]
+</div>
+						<div class="text-meta">
+							Jakob Twinger von Königshofen
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/creature_dialogue_fire_water/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_fire_water-thumb.jpeg" alt="Concerning Fire and Water
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De igne et aqua
+</div>
+						<div class="text-engtitle">Concerning Fire and Water
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_life_death/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_life_death-thumb.jpg" alt="Concerning Life and Death
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De vita et morte
+</div>
+						<div class="text-engtitle">Concerning Life and Death
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_man_woman/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_man_woman-thumb.jpeg" alt="Concerning Man and Woman
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De homine et muliere
+</div>
+						<div class="text-engtitle">Concerning Man and Woman
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_precious_topaz/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg" alt="Concerning Precious Topaz
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De topasio pretioso
+</div>
+						<div class="text-engtitle">Concerning Precious Topaz
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_saturn_cloud/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg" alt="Concerning Saturn and the Cloud
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De Saturno et nube
+</div>
+						<div class="text-engtitle">Concerning Saturn and the Cloud
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_leopard_unicorn_dragon/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg" alt="Concerning the Leopard and the Unicorn Who Fought the Dragon
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De leopardo et unicorni
+</div>
+						<div class="text-engtitle">Concerning the Leopard and the Unicorn Who Fought the Dragon
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_sun_moon/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_sun_moon-thumb.jpeg" alt="Concerning the Sun and the Moon
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">De sole et luna
+</div>
+						<div class="text-engtitle">Concerning the Sun and the Moon
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/discourse_angels_pagans/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Death of King John
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Smrt krále Jana
+</div>
+						<div class="text-engtitle">Death of King John
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				<a href="/text/emare/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Emare
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Emaré
+</div>
+						<div class="text-engtitle">Emare
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/filbert_vision/" class="text-card">
+					
+					<img src="/assets/img/text/filbert_vision-thumb.png" alt="Filbert's Vision
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">La visión de Filiberto
+</div>
+						<div class="text-engtitle">Filbert's Vision
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/eifuku_monin_poem_979/" class="text-card">
+					
+					<img src="/assets/img/text/eifuku_monin_poem_979-thumb.jpg" alt="From the 1st Book of Love. Poem 979.
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">戀歌一、９７９
+</div>
+						<div class="text-engtitle">From the 1st Book of Love. Poem 979.
+</div>
+						<div class="text-meta">
+							Eifuku Mon'in 永福門院
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/eifuku_monin_poem_1077/" class="text-card">
+					
+					<img src="/assets/img/text/eifuku_monin_poem_1077-thumb.jpg" alt="From the 2nd Book of Love. Poem 1077.
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">戀歌二、1077
+</div>
+						<div class="text-engtitle">From the 2nd Book of Love. Poem 1077.
+</div>
+						<div class="text-meta">
+							Eifuku Mon'in 永福門院
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/eifuku_monin_poem_1384/" class="text-card">
+					
+					<img src="/assets/img/text/eifuku_monin_poem_1384-thumb.jpg" alt="From the 5th Book of Love. Poem 1384.
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">戀歌五、1384
+</div>
+						<div class="text-engtitle">From the 5th Book of Love. Poem 1384.
+</div>
+						<div class="text-meta">
+							Eifuku Mon'in 永福門院
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/eifuku_monin_poem_1388/" class="text-card">
+					
+					<img src="/assets/img/text/eifuku_monin_poem_1388-thumb.jpg" alt="From the 5th Book of Love. Poem 1388.
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">戀歌五、1388
+</div>
+						<div class="text-engtitle">From the 5th Book of Love. Poem 1388.
+</div>
+						<div class="text-meta">
+							Eifuku Mon'in 永福門院
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/guillaume_de_nangis_john_acre/" class="text-card">
+					
+					<img src="/assets/img/text/guillaume_de_nangis_john_acre-thumb.jpg" alt="How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Comment mesire Jehan d'Acre, bouteillier de France qui faisait le guet fu deceus d'aucuns Sarrazins qui requéraient le baptesme
+</div>
+						<div class="text-engtitle">How Sir John of Acre, butler of France, who was on guard, was deceived by some Saracens who requested baptism
+</div>
+						<div class="text-meta">
+							Guillaume de Nangis
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/marston_childbirth_prayer/" class="text-card">
+					
+					<img src="/assets/img/text/marston_childbirth_prayer-thumb.png" alt="Marston Childbirth Prayer
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Omnipotens sempiterne Deus
+</div>
+						<div class="text-engtitle">Marston Childbirth Prayer
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/prologue_psalms_czech/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="Prologue to the  Book of Psalms in Old Czech Printed Bibles
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Předmluva ke Knize žalmů ve staročeských tištěných biblích
+</div>
+						<div class="text-engtitle">Prologue to the  Book of Psalms in Old Czech Printed Bibles
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/regarding_sister_agnes_waller/" class="text-card">
+					
+					<img src="/assets/img/text/regarding_sister_agnes_waller-thumb.jpg" alt="Regarding Sister Agnes Waller of Blessed Memory
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Item de sorore sancte memorie Agnete, Wallaria cognomento
+</div>
+						<div class="text-engtitle">Regarding Sister Agnes Waller of Blessed Memory
+</div>
+						<div class="text-meta">
+							Various
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/charcoal_burner_nevers/" class="text-card">
+					
+					<img src="/assets/img/text/passavanti_charcoal_burner_nevers.png" alt="The Charcoal-Burner of Nevers
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Il Carbonaio di Niversa
+</div>
+						<div class="text-engtitle">The Charcoal-Burner of Nevers
+</div>
+						<div class="text-meta">
+							Jacopo Passavanti
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/king_tars/" class="text-card">
+					
+					<img src="/assets/img/text/king_tars-thumb.png" alt="The King of Tars
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Þe king of Tars
+</div>
+						<div class="text-engtitle">The King of Tars
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/miracle_mother_god_sign/" class="text-card">
+					
+					<img src="/assets/img/text/default.png" alt="The Miracle of the Mother of God of the Sign (The Tale of the Battle between Novgorod and Suzdal)
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">слⷡ҇о ѡ҆ ꙁнаменїи ст҇ыѧ бц҇а в лⷮ҇ѣ • ҂ѕ̑ • х̑ • о҇ꙁ е • сътво
+</div>
+						<div class="text-engtitle">The Miracle of the Mother of God of the Sign (The Tale of the Battle between Novgorod and Suzdal)
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				<a href="/text/creature_dialogue_preface/" class="text-card">
+					
+					<img src="/assets/img/text/creature_dialogue_preface-thumb.jpeg" alt="The Moral Dialogue of Creatures [Preface]
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Dyalogus creaturarum moralizatus [Præfatio]
+</div>
+						<div class="text-engtitle">The Moral Dialogue of Creatures [Preface]
+</div>
+						<div class="text-meta">
+							Nicolaus Pergamenus [att.]
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/von_schondoch_queen_france/" class="text-card">
+					
+					<img src="/assets/img/text/von_schondoch_queen_france-thumb.jpg" alt="The Queen of France
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Die Königin von Frankreich
+</div>
+						<div class="text-engtitle">The Queen of France
+</div>
+						<div class="text-meta">
+							von Schondoch
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="/text/sultan_daughter/" class="text-card">
+					
+					<img src="/assets/img/text/sultan_daughter-thumb.png" alt="The Sultan's Daughter in the Flower Garden
+" class="text-thumb">
+					
+					<div class="text-info">
+						<div class="text-origtitle">Die Sultanstochter im Blumengarten
+</div>
+						<div class="text-engtitle">The Sultan's Daughter in the Flower Garden
+</div>
+						<div class="text-meta">
+							Anonymous
+						</div>
+					</div>
+				</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
  		</article>
- 	</div><!-- /.medium-8.columns -->
+ 	</div><!-- /.large-12.columns -->
 </div><!-- /.row -->
 
 

@@ -216,493 +216,623 @@
 
   
   
-  <div class="row" id="main">
-  <div class="large-offset-2">
+  <style>
+.text-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.text-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: white;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.text-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.text-thumb {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  background: #f0f0f0;
+}
+
+.text-info {
+  padding: 1rem;
+}
+
+.text-origtitle {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.25rem 0;
+  min-height: 1.2rem;
+}
+
+.text-engtitle {
+  font-weight: bold;
+  margin: 0.5rem 0;
+  min-height: 2.4rem;
+  font-size: 1rem;
+}
+
+.text-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.5rem;
+}
+
+.collection-header {
+  margin-bottom: 2rem;
+}
+
+.collection-image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="row" id="main">
+  <div class="large-12 columns">
     <article itemscope itemtype="http://schema.org/Article">
-      <header class="row">
-        <div itemprop="name" class="large-8 columns">
+      <header class="collection-header">
+        <div itemprop="name">
           <h1 id="pagetitle" class="landing">Fantastic Fables: A 14th-Century Book of Moral Tales and Dialogues</h1>
         </div>
-        <div itemprop="image" class="large-4 columns">
-          <img src="" />
-          <p class="caption"></p>
+        
+        <div itemprop="image">
+          <img src="dialogus_creaturarum.jpg" class="collection-image" />
+          
         </div>
+        
       </header>
       <div itemprop="articleSection">
         <p>What did the fire say to the water? Why did a jewel want to travel the world? In this book of Latin dialogues and fables, the <em>Dialogus creaturarum moralisatus</em>,  moral and scientific questions are answered through lively stories.</p>
 
       </div>
-      <div class="row">
-        <div class="small-12 columns t30">
-          <div class="row" id="listprojects">
-            
-            
+      
+      <div class="text-grid">
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <a href="/text/creature_dialogue_fire_water/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_fire_water-thumb.jpeg" alt="Concerning Fire and Water
+" class="text-thumb">
               
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <div id="text_creature_dialogue_fire_water.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_fire_water/"><img src="/assets/img/text/creature_dialogue_fire_water-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_fire_water/"><h4>Concerning Fire and Water
-</h4></a>
-                  <p class="strong">De igne et aqua
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De igne et aqua
+</div>
+                <div class="text-engtitle">Concerning Fire and Water
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_life_death/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_life_death-thumb.jpg" alt="Concerning Life and Death
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_life_death.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_life_death/"><img src="/assets/img/text/creature_dialogue_life_death-thumb.jpg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_life_death/"><h4>Concerning Life and Death
-</h4></a>
-                  <p class="strong">De vita et morte
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De vita et morte
+</div>
+                <div class="text-engtitle">Concerning Life and Death
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_man_woman/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_man_woman-thumb.jpeg" alt="Concerning Man and Woman
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_man_woman.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_man_woman/"><img src="/assets/img/text/creature_dialogue_man_woman-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_man_woman/"><h4>Concerning Man and Woman
-</h4></a>
-                  <p class="strong">De homine et muliere
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De homine et muliere
+</div>
+                <div class="text-engtitle">Concerning Man and Woman
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_precious_topaz/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg" alt="Concerning Precious Topaz
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_precious_topaz.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_precious_topaz/"><img src="/assets/img/text/creature_dialogue_precious_topaz-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_precious_topaz/"><h4>Concerning Precious Topaz
-</h4></a>
-                  <p class="strong">De topasio pretioso
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De topasio pretioso
+</div>
+                <div class="text-engtitle">Concerning Precious Topaz
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_saturn_cloud/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg" alt="Concerning Saturn and the Cloud
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_saturn_cloud.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_saturn_cloud/"><img src="/assets/img/text/creature_dialogue_saturn_cloud-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_saturn_cloud/"><h4>Concerning Saturn and the Cloud
-</h4></a>
-                  <p class="strong">De Saturno et nube
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De Saturno et nube
+</div>
+                <div class="text-engtitle">Concerning Saturn and the Cloud
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_leopard_unicorn_dragon/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg" alt="Concerning the Leopard and the Unicorn Who Fought the Dragon
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_leopard_unicorn_dragon.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_leopard_unicorn_dragon/"><img src="/assets/img/text/creature_dialogue_leopard_unicorn_dragon-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_leopard_unicorn_dragon/"><h4>Concerning the Leopard and the Unicorn Who Fought the Dragon
-</h4></a>
-                  <p class="strong">De leopardo et unicorni
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De leopardo et unicorni
+</div>
+                <div class="text-engtitle">Concerning the Leopard and the Unicorn Who Fought the Dragon
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
+              </div>
+            </a>
+          
+        
+          
+            <a href="/text/creature_dialogue_sun_moon/" class="text-card">
               
-            
+              <img src="/assets/img/text/creature_dialogue_sun_moon-thumb.jpeg" alt="Concerning the Sun and the Moon
+" class="text-thumb">
               
-                <div id="text_creature_dialogue_sun_moon.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_sun_moon/"><img src="/assets/img/text/creature_dialogue_sun_moon-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_sun_moon/"><h4>Concerning the Sun and the Moon
-</h4></a>
-                  <p class="strong">De sole et luna
-</p>
+              <div class="text-info">
+                <div class="text-origtitle">De sole et luna
+</div>
+                <div class="text-engtitle">Concerning the Sun and the Moon
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <div id="text_creature_dialogue_preface.md" class="large-4 medium-6 columns projectbox">
-                  <a href="/text/creature_dialogue_preface/"><img src="/assets/img/text/creature_dialogue_preface-thumb.jpeg" class="videothumbnail"></a>
-                  <a href="/text/creature_dialogue_preface/"><h4>The Moral Dialogue of Creatures [Preface]
-</h4></a>
-                  <p class="strong">Dyalogus creaturarum moralizatus [Præfatio]
-</p>
+              </div>
+            </a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+            <a href="/text/creature_dialogue_preface/" class="text-card">
+              
+              <img src="/assets/img/text/creature_dialogue_preface-thumb.jpeg" alt="The Moral Dialogue of Creatures [Preface]
+" class="text-thumb">
+              
+              <div class="text-info">
+                <div class="text-origtitle">Dyalogus creaturarum moralizatus [Præfatio]
+</div>
+                <div class="text-engtitle">The Moral Dialogue of Creatures [Preface]
+</div>
+                <div class="text-meta">
+                  Nicolaus Pergamenus [att.]
                 </div>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-          </div>
-        </div>
+              </div>
+            </a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
       </div>
     </article>
   </div>
