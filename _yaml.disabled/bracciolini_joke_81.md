@@ -8,20 +8,23 @@ engtitle: |
 origtitle: |
   Facetia LXXXI: Disceptatio Inter Florentinum Et Venetum
 breadcrumb: true
-permalink: "text/bracciolini_joke_81"
 redirect_from: /text/joke-81-debate-between-florentine-and-venetian
 identifier: bracciolini_joke_81.md
 tei: /assets/tei/bracciolini_joke_81.xml
 pdf: /assets/pdf/bracciolini_joke_81.pdf
 textauthor: Poggio Bracciolini
-languages: [latin,western_europe]
-periods: [15th_century]
-textcollections: [facetiae-jokes]
-sdr: https://purl.stanford.edu/druid 
+languages:
+  - latin
+  - western_europe
+periods:
+  - 15th_century
+textcollections:
+  - facetiae-jokes
+sdr: 'https://purl.stanford.edu/druid'
 image: /assets/img/text/bracciolini_joke_81.jpg
 thumb: /assets/img/text/bracciolini_joke_81-thumb.jpg
 imagesource: |
   Venice, from Hartmann Schedel's Nuremberg Chronicle [Public Domain]
-fulltext: |
-  
+fulltext: ''
 ---
+

@@ -1,0 +1,76 @@
+<p>Repository: medieval-source-book.github.io</p>
+<p>Purpose</p>
+<ul>
+<li>This repository is a Jekyll-based static site for a medieval sources project (derived from the Digital Humanities Literacy Guidebook repo). The site is built and served with Bundler + Jekyll; production builds use <code>bundle exec jekyll build</code> and preview with <code>bundle exec jekyll serve</code>.</li>
+</ul>
+<p>Top-level quick facts for an AI coding agent</p>
+<ul>
+<li>Language/tech: Ruby, Jekyll, Liquid templates, SCSS, YAML, Markdown</li>
+<li>Entry points: <code>_layouts/</code> (page templates), <code>_includes/</code> (shared partials), <code>_data/</code> (site data), <code>_sass/</code> (styles), content in root and <code>_texts</code>, <code>_periods</code>, <code>_regions</code>, <code>_genres</code> directories.</li>
+<li>Local preview command: <code>bundle exec jekyll serve --watch --config _config.yml,_config_local.yml</code></li>
+<li>Build + link-checking: <code>bundle exec jekyll build --config _config.yml,_config_local.yml</code> then <code>bundle exec htmlproofer ./_site --assume-extension --empty-alt-ignore --timeframe '30d' --allow-hash-href</code></li>
+</ul>
+<p>What to focus on when making changes</p>
+<ul>
+<li>Respect Jekyll/Liquid conventions used across <code>_layouts</code> and <code>_includes</code>; many templates rely on specific YAML front-matter fields (e.g., <code>identifier</code>, <code>meta_title</code>, <code>title</code>, <code>permalink</code>, <code>creationdate</code>, <code>date_updated</code>). See README.md for required fields when adding pages.</li>
+<li>Navigation is driven by <code>_data/navigation.yml</code> and <code>_data/disciplines.yml</code>; when adding new top-level pages or disciplines update these files.</li>
+<li>Content directories (e.g., <code>_periods/</code>, <code>_regions/</code>, <code>_genres/</code>) contain markdown files with front-matter used to populate listing pages—follow existing identifier/permalink conventions.</li>
+<li>Styling lives in <code>_sass/</code> with ordered partials (<code>_01_...</code> through <code>_10_...</code>)—don't reorder unless you know the cascade impact.</li>
+</ul>
+<p>Patterns and examples an agent should use</p>
+<ul>
+<li>Page templating: pages typically set <code>layout: page</code> or <code>layout: project</code> in front-matter and rely on <code>_layouts/page.html</code> or <code>_layouts/project.html</code>. When editing templates, search <code>_includes</code> for helper fragments like <code>_navigation.html</code>, <code>_masthead.html</code>, and <code>_text-metadata.html</code>.</li>
+<li>Adding a new page: copy an existing page in the appropriate directory, update required YAML fields (identifier, meta_title, title, permalink, creationdate, date_updated). Then add a navigation entry in <code>_data/navigation.yml</code> so it appears in menus.</li>
+<li>Adding a discipline/topic: update <code>_data/disciplines.yml</code> or relevant <code>_data</code> files. Disciplines must use a lowercase <code>identifier</code> string to match across project pages.</li>
+</ul>
+<p>Developer workflows and commands</p>
+<ul>
+<li>Install dependencies:
+<ul>
+<li><code>gem install bundler</code></li>
+<li><code>bundle install</code></li>
+</ul>
+</li>
+<li>Local preview (watch mode):
+<ul>
+<li><code>bundle exec jekyll serve --watch --config _config.yml,_config_local.yml</code></li>
+</ul>
+</li>
+<li>One-off build (for link checking):
+<ul>
+<li><code>bundle exec jekyll build --config _config.yml,_config_local.yml</code></li>
+<li><code>bundle exec htmlproofer ./_site --assume-extension --empty-alt-ignore --timeframe '30d' --allow-hash-href</code></li>
+</ul>
+</li>
+<li>CI: see <code>.github/workflows/jekyll.yml</code> for how GitHub Actions builds the site; mimic those steps locally for parity.</li>
+</ul>
+<p>Project-specific conventions and gotchas</p>
+<ul>
+<li>Identifiers: front-matter <code>identifier</code> must be lowercase letters only, cannot start with a digit, and contain no spaces. This is enforced by site templates and navigation matching.</li>
+<li>Permalinks: must end with a trailing slash <code>/</code> and be lowercase; these affect breadcrumb generation.</li>
+<li>Data-driven lists: many pages and landing lists are populated from <code>_data</code> YAML files—changes there can affect many pages site-wide.</li>
+<li>HTML proofer options used in README (allow-hash-href, assume-extension) indicate the site uses in-page anchors and extensionless URLs—avoid changing link formats without running the link-checker.</li>
+<li>Avoid moving Sass partials out of the numeric ordering in <code>_sass/</code>—the numbers indicate intended load order.</li>
+</ul>
+<p>Integration points and external dependencies</p>
+<ul>
+<li>Bundler-managed Ruby gems as declared in <code>Gemfile</code> (run <code>bundle install</code> to match CI). Do not hard-upgrade gems without checking CI <code>.github/workflows/jekyll.yml</code>.</li>
+<li><code>htmlproofer</code> is used for link checking during local checks and CI.</li>
+<li>Theme: based on Feeling Responsive (see README) — layout/partials may follow that theme's conventions.</li>
+</ul>
+<p>When making PRs (code/markup changes)</p>
+<ul>
+<li>Run <code>bundle exec jekyll build</code> and <code>htmlproofer</code> locally to catch link and build regressions before opening a PR.</li>
+<li>For content changes, include the required front-matter fields and update <code>_data/navigation.yml</code> when adding new pages intended for the nav.</li>
+<li>When editing templates or Sass, verify the site renders locally (<code>jekyll serve</code>) and visually inspect key pages: frontpage, a genre page (e.g., <code>_genres/canso.md</code>), and a text page under <code>_texts</code>.</li>
+</ul>
+<p>Files to inspect when debugging a layout or content issue</p>
+<ul>
+<li><code>_layouts/page.html</code>, <code>_layouts/text.html</code>, <code>_includes/_navigation.html</code>, <code>_includes/_masthead.html</code>, <code>_data/navigation.yml</code>, <code>_sass/_01_settings_colors.scss</code>, <code>_sass/_06_typography.scss</code>.</li>
+</ul>
+<p>If you need more detail</p>
+<ul>
+<li>Ask for specific areas to expand: templates, data files, SCSS, or CI steps. Provide a short reproduction case (file changed + expected vs actual) and I will update the instructions or make a targeted fix.</li>
+</ul>
+<hr>
+<p>Please review this draft and tell me which sections you want expanded, merged differently, or rewritten. I can also merge it with existing custom instructions if you provide them.</p>

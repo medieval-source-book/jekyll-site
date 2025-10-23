@@ -15,17 +15,16 @@ tei: /assets/tei/von_schondoch_queen_france.xml
 pdf: /assets/pdf/von_schondoch_queen_france.pdf
 textauthor: von Schondoch
 languages: [german]
-regions: [western_europe]
 periods: [14th_century, 15th_century]
 textcollections: [gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/von_schondoch_queen_france.jpg
 thumb: /assets/img/text/von_schondoch_queen_france-thumb.jpg
-imagesource: |
-  Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Heidelberg Hs. 1012 (olim Ashburnham Place, Cod. 486) ff. 249r [Public Domain]
+ 
 ## Introduction to the Source 
 <p>Heid. Hs. 1012, the version of <em>The Queen of France</em> that was used for this transcription and translation, was written around or before 1460 in the Moselle Franconian/Rhenish Franconian region (Siegen-Luxembourg/Kassel-Saarbrücken). <em>The Queen of France</em> is the final text of three in that manuscript. It is preceded by <em>The Duke of Brunswick</em>, a German rhymed couplet narrative; and by <em>Loher and Maller</em>, which is a German prose translation by Elisabeth von Nassau-Saarbrücken (or someone at her court) from a chanson de geste, an Old French heroic epic.</p> <p>Heid. Hs. 1012 tells <em>The Queen of France</em> in a manner focused on the queen's steadfastness and virtue. By adding lines and by expanding on specific themes (e.g. a comparison between the queen and the Virgin Mary and the king's explicit joy at discovering that the queen has lived a virtuous and pious life without him), this version emphasizes the "good wife" theme more than other versions, and in some cases suggests parallels with religious stories of martyrs and saints.</p>
 ## Introduction to the Text 

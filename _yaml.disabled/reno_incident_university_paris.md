@@ -8,20 +8,22 @@ engtitle: |
 origtitle: |
   De enormis casu in Universitate Parisiensis
 breadcrumb: true
-permalink: "text/reno_incident_university_paris"
 redirect_from: /text/regarding-outrageous-incident-university-paris
 identifier: reno_incident_university_paris.md
 tei: /assets/tei/reno_incident_university_paris.xml
 pdf: /assets/pdf/reno_incident_university_paris.pdf
 textauthor: Johannes de Reno
-languages: [latin,western_europe]
-periods: [15th_century]
+languages:
+  - latin
+  - western_europe
+periods:
+  - 15th_century
 textcollections: []
-sdr: https://purl.stanford.edu/druid 
+sdr: 'https://purl.stanford.edu/druid'
 image: /assets/img/text/reno_incident_university_paris.jpg
 thumb: /assets/img/text/reno_incident_university_paris-thumb.jpg
 imagesource: |
   “Conclusions de la Nation d'Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)
-fulltext: |
-  
+fulltext: ''
 ---
+

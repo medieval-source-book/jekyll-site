@@ -1,4 +1,6 @@
 @charset "utf-8";
+@use "sass:math";
+@use "sass:color";
 
 $spacing-unit: 30px;
 
@@ -270,7 +272,7 @@ $header-font-family: $font-family-serif;
 // $anchor-text-decoration: none;
 // $anchor-text-decoration-hover: none;
 $anchor-font-color: $red;
-$anchor-font-color-hover: scale-color($red, $lightness: -14%);
+$anchor-font-color-hover: color.scale($red, $lightness: -14%);
 
 // We use these to style the <hr> element
 // $hr-border-width: 1px;
@@ -1145,8 +1147,8 @@ $side-nav-list-margin: rem-calc(0 0 0 0);
 
 // We use these to control link styles.
 $side-nav-link-color: $primary-color;
-$side-nav-link-color-active: scale-color($side-nav-link-color, $lightness: -40%);
-$side-nav-link-color-hover: scale-color($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-active: color.scale($side-nav-link-color, $lightness: -40%);
+$side-nav-link-color-hover: color.scale($side-nav-link-color, $lightness: -40%);
 $side-nav-font-size: rem-calc(16);
 
 // $side-nav-link-bg-hover: hsla(0, 0, 0, 0.025);
@@ -1401,7 +1403,7 @@ $topbar-title-font-size: rem-calc(19);
 // $topbar-link-color-active: #000;
 // $topbar-link-color-active-hover: #000;
 // $topbar-link-weight: $font-weight-normal;
-$topbar-link-font-size: ($topbar-height / 4);
+$topbar-link-font-size: math.div($topbar-height, 4);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
 // $topbar-link-bg: $topbar-bg;
 // $topbar-link-bg-color-hover: #ff0;

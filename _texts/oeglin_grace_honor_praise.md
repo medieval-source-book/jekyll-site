@@ -15,17 +15,16 @@ tei: /assets/tei/oeglin_grace_honor_praise.xml
 pdf: /assets/pdf/oeglin_grace_honor_praise.pdf
 textauthor: Erhard Oeglin
 languages: [german]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_grace_honor_praise.jpg
 thumb: /assets/img/text/oeglin_grace_honor_praise-thumb.jpg
-imagesource: |
-  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42v [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.42v [Public Domain]
+ 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>
 ## Introduction to the Text 

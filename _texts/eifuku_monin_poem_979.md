@@ -15,17 +15,16 @@ tei: /assets/tei/eifuku_monin_poem_979.xml
 pdf: /assets/pdf/eifuku_monin_poem_979.pdf
 textauthor: Eifuku Mon'in 永福門院
 languages: [japanese]
-regions: [asia]
 periods: [14th_century]
 textcollections: [love-songs, gender-sex-sensuality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/eifuku_monin_poem_979.jpg
 thumb: /assets/img/text/eifuku_monin_poem_979-thumb.jpg
-imagesource: |
-  Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from "Reeds and Geese", Tesshū Tokusai, Dated 11th Month 1343. One of a pair of hanging scrolls; ink on silk. Metropolitan Museum of Art, Purchase, Mrs. Jackson Burke Gift, 1977. 1977.172. [Public Domain]
+ 
 ## Introduction to the Source 
 <p dir="ltr" id="docs-internal-guid-9a502122-7fff-fcf1-b66b-aee185b43d2a">The<em> Fūga wakashū</em> imperial anthology was commissioned and compiled between 1344 and 1346 by retired Emperor Hanazono (1297-1348), the son of Eifuku Mon’in. The <em>Fūga wakashū</em> contains twenty volumes with a total of 2,210 poems. The anthology is the second and final imperial anthology to prominently feature Kyōgoku school poetry, the first being the <em>Gyokuyō wakashū</em> (c. 1313-14). It also features many poets from the Reizei poetry school. </p> <p dir="ltr">It is notable that Hanazono involved himself to such an extent in the creation of the anthology. Normally, the emperor commissioning the work would have several compilers gather the poems, arrange them into sections, and make decisions on how to transcribe the poems, after which the emperor would inspect the final draft. Hanazono was trained by his mother Eifuku in the Kyōgoku style and personally knew many of the poets included in the collection. It is unsurprising, then, that Honazono compiled the anthology himself, not to mention his writing the Chinese and Japanese prefaces to the anthology.</p> <p>Two of the earliest surviving manuscripts of the <em>Fūga wakashū </em>date back to a time roughly contemporary with the compilation of the text. One is a fragment <a href="http://library.tsurumi-u.ac.jp/opac/opac_link/bibid/1000064153">stored in Tsurumi University’s Special Collections</a>; the other is a partial manuscript containing the seventeenth volume, which was transcribed by the Buddhist poet Ton’a, and which is <a href="https://core.ac.uk/download/pdf/235263481.pdf">stored at the Itsuō Art Museum</a> in Ōsaka. A later manuscript, produced in the late Muromachi period, containing the tenth volume of <em>Fūga wakashū</em> (Love Book One) has been digitized and is <a href="http://www.archives.kyoto.jp/websearchpe/detail?cls=152_old_books_catalog&pkey=0000000144">viewable at the Kyoto Institute, Library, and Archives</a>. An example of a digitized manuscript containing all volumes of the text can be found <a href="https://kotenseki.nijl.ac.jp/biblio/200006882/viewer/115">here</a>. There are many examples of the text reproduced in woodblock print form during the Edo Period, such as <a href="http://dl.ndl.go.jp/info:ndljp/pid/2579178">this</a> beautiful digitized book. Although the transmission of the text is fairly stable, variants between manuscripts exist. A list of <em>Fūga wakashū</em> manuscripts containing variants can be found on page iv of Iwasa Miyoko’s edition of the text (2004).</p>
 ## Introduction to the Text 

@@ -15,17 +15,16 @@ tei: /assets/tei/bracciolini_joke_27.xml
 pdf: /assets/pdf/bracciolini_joke_27.pdf
 textauthor: Poggio Bracciolini
 languages: [latin]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [facetiae-jokes, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/bracciolini_joke_27.jpg
 thumb: /assets/img/text/bracciolini_joke_27-thumb.jpg
-imagesource: |
-  Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Pregnant Woman, detail from Limbourg Brothers, September from Les Très Riches Heures du duc de Berry, Chantilly, Musée Condé Ms.65, f.9v
+ 
 ## Introduction to the Source 
 <p>The <em>Facetiae</em> seems to have had immediate success. The collection as we now know it was composed between 1452-53, but Poggio had by then been working on versions of it (some of which had been in circulation) from as early as 1438. Over fifty manuscripts containing the text are preserved to this day. The <em>Facetiae</em> was also printed early and repeatedly, first appearing in this form around 1470. Another testimony to the popularity of the text is the fact that Poggio’s jokes or “conversations” were translated to several other languages, either the entire collection (into Italian and French at the end of the fifteenth century) or individual stories, which were mixed into the different Aesop collections circulating during this period. Herein lies somewhat of an irony, since Poggio himself in the introduction to the <em>Facetiae</em> seems to indicate that the object of writing them is to write stories in Latin that are usually told in the vernacular languages.</p>
 ## Introduction to the Text 

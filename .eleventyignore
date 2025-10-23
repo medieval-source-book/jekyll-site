@@ -1,0 +1,29 @@
+html/
+# Folders that should not be processed as Eleventy input
+html/
+_yaml/
+_yaml.disabled/
+_texts original/
+
+# Jekyll source dirs not meant for Eleventy to render
+_includes/
+_layouts/
+_sass/
+
+# Build outputs and deps
+_site/
+_site_11ty/
+node_modules/
+11ty/node_modules/
+
+# Large code assets not intended for templating
+assets/code/
+11ty/node_modules/
+assets/code/
+_texts original/_includes/
+_layouts/
+_sass/
+_site/
+_site_11ty/
+node_modules/
+11ty/node_modules/

@@ -15,17 +15,16 @@ tei: /assets/tei/testament_magnus.xml
 pdf: /assets/pdf/testament_magnus.pdf
 textauthor: Anonymous
 languages: [slavonic]
-regions: [eastern_europe]
 periods: [15th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
-imagesource: |
-  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
-fulltext: |
-
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The text used for this translation is taken from the St. Sophia First Chronicle, a fifteenth-century compilation written in Old Russian that belongs to a larger family of Novgorodian chronicles created during this period. This chronicle was named “St. Sophia” because nineteenth-century scholars had once (incorrectly) believed that the earliest versions had been composed by a fifteenth-century Novgorodian author in the St. Sophia Cathedral in Novgorod. Today, scholars think that the chronicle was composed by a Muscovite author.</p> <p>The manuscript used in this translation is an example of the so-called “younger version” of the chronicle (a later copy of the St. Sophia First chronicle text). It is known as <em>Tolstoy's Sophia I Chronicle</em>, named after its owner, the collector Fyodor Andreevich Tolstoy (1758–1849). Today it is held by the Russian National Library in St. Petersburg. In the St. Sophia First Chronicle, the “Testament of Magnus” spans 214r-a through 215r-a. It can also be found in other Novgorodian chronicles such as the Novgorod Karamzin Chronicle and the Fourth Novgorod Chronicle. It is likely that none of these three chronicles contains an original version of the “Testament;” they all seem to share a common textual source, today unknown. Overall, these chronicles preserve much of the same narrative content but each features omissions and additions. For example, the First Sophia Chronicle and Fourth Novgorod Chronicle track fairly closely up to entries dated 1418, when the main body of the First Sophia chronicle ends while the Fourth Novgorod Chronicle continues in the mid-fifteenth century. Furthermore, the First Sophia Chronicle’s content generally focuses less exclusively on Novgorod than the Fourth Novgorod Chronicle and Novgorod Karamzin Chronicle does. (See John H. Lind’s work in Further Reading for a discussion of fifteenth-century Russian chronicles.)</p>
 ## Introduction to the Text 

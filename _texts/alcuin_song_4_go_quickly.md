@@ -15,17 +15,16 @@ tei: /assets/tei/alcuin_song_4_go_quickly.xml
 pdf: /assets/pdf/alcuin_song_4_go_quickly.pdf
 textauthor: Alcuin
 languages: [latin]
-regions: [western_europe]
 periods: [8th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/alcuin_song_4_go_quickly.jpg
 thumb: /assets/img/text/alcuin_song_4_go_quickly-thumb.jpg
-imagesource: |
-  Paris BNF MS Latin 528 f.140v [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Paris BNF MS Latin 528 f.140v [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The poem is preserved in a single manuscript, <a href="https://gallica.bnf.fr/ark:/12148/btv1b9078378q/f140.item.zoom">Paris, BNF, lat. 528</a>. The manuscript is a complex compendium of poetic, grammatical and rhetorical texts, most notably including numerous epistles and poems by Paul the Deacon (d. 799). It is believed to have been compiled in Saint-Denis (near Paris) during the abbacy of Fardulf (793–806). Fardulf’s predecessor, Fulerad, is the last person addressed in Alcuin’s poem, which suggests that the “little letter” did in fact make the journey on which Alcuin sent it. It can certainly be dated to the first half of the ninth century on palaeographical grounds. By the eleventh century it had moved to the Abbey of Saint Martial in Limoges (in west-central France); it was transferred to the Bibliothèque Nationale de France at Paris in 1730.</p>
 ## Introduction to the Text 

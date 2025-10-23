@@ -15,17 +15,16 @@ tei: /assets/tei/sant_jordi_underneath_my_forehead.xml
 pdf: /assets/pdf/sant_jordi_underneath_my_forehead.pdf
 textauthor: Jordi di Sant Jordi
 languages: [catalan]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [gender-sex-sensuality, love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sant_jordi_underneath_my_forehead.jpg
 thumb: /assets/img/text/sant_jordi_underneath_my_forehead-thumb.jpg
-imagesource: |
-  Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Initial P: A Man Speaking to Four Youths and A Man Placing a Ring on a Woman's Hand, Getty Museum Ms. Ludwig XIV 6 (83.MQ.165), fol. 205v, about 1290–1310 [Public Domain]
+ 
 ## Introduction to the Source 
 <p>This poem is a <em>unicum</em> copied in Zaragoza, Biblioteca de la Universidad de Zaragoza, MS 210, fol. 98v-99r (the <em>Cançoner de Saragossa</em>). The manuscript has been digitized <a href="http://zaguan.unizar.es/record/535?ln=en">here</a>. It contains a compilation of Catalan verse dating to 1461-1462. It is the oldest known manuscript to transmit Ausiàs March’s poetry, and an important witness to the transmission of the poetry of several other authors, including Pere Torroella and Lleonard de Sors.</p>
 ## Introduction to the Text 

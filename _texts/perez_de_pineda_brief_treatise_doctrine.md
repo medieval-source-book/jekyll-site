@@ -15,17 +15,16 @@ tei: /assets/tei/perez_de_pineda_brief_treatise_doctrine.xml
 pdf: /assets/pdf/perez_de_pineda_brief_treatise_doctrine.pdf
 textauthor: Juan Perez de Piñeda
 languages: [spanish]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg
 thumb: /assets/img/text/perez_de_pineda_brief_treatise_doctrine.jpg
-imagesource: |
-  Luis de Vargas, “Saint John the Evangelist,” ca. 1561; Pen and ink and wash on paper; Collection of the Hispanic Society of America
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Luis de Vargas, “Saint John the Evangelist,” ca. 1561; Pen and ink and wash on paper; Collection of the Hispanic Society of America
+ 
 ## Introduction to the Source 
 <p>The first edition of <em>A Brief Treatise of Doctrine</em> was published in 1560 in Geneva by Jean Crespin, a printer with known Calvinist leanings. Along with the other works of Perez, this text was banned in Spain and would only have circulated through clandestine networks of Reformation sympathizers. By 1560, those networks were collapsing as more arrests were made in Spain by the Inquisition. Consequently, it is improbable that this text had a wide circulation. It likely would have disappeared were it not for the dedicated efforts of Luis de Usoz y Rio and his partner Benjamin B. Wiffen to collect and preserve reformist texts in the 19th Century. The two men worked cross-continentally to find rare books in small bookstores around the world. They re-bound and re-printed the works they found in the <em>Reformistas Antiguos Españoles (Old Spanish Reformers)</em>, the oldest editions of which are held today in the National Library of Spain.</p>
 ## Introduction to the Text 

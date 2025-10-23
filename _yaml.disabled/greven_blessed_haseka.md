@@ -8,20 +8,23 @@ engtitle: |
 origtitle: |
   De B. Haseka, virgine reclusa in Westphalia
 breadcrumb: true
-permalink: "text/greven_blessed_haseka"
 redirect_from: /text/regarding-blessed-haseka-virgin-recluse-westphalia
 identifier: greven_blessed_haseka.md
 tei: /assets/tei/greven_blessed_haseka.xml
 pdf: /assets/pdf/greven_blessed_haseka.pdf
 textauthor: Hermann Greven
-languages: [latin,western_europe]
-periods: [15th_century]
-textcollections: [prayer-spirituality-and-life-after-death-global-medieval-perspectives]
-sdr: https://purl.stanford.edu/druid 
+languages:
+  - latin
+  - western_europe
+periods:
+  - 15th_century
+textcollections:
+  - prayer-spirituality-and-life-after-death-global-medieval-perspectives
+sdr: 'https://purl.stanford.edu/druid'
 image: /assets/img/text/greven_blessed_haseka.jpg
 thumb: /assets/img/text/greven_blessed_haseka-thumb.jpg
 imagesource: |
   A king consults an anchoress, Rothschild Canticles, Yale Bienecke MS 404 [Public Domain]
-fulltext: |
-  
+fulltext: ''
 ---
+

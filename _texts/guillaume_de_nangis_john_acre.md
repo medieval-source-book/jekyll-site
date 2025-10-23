@@ -15,17 +15,16 @@ tei: /assets/tei/guillaume_de_nangis_john_acre.xml
 pdf: /assets/pdf/guillaume_de_nangis_john_acre.pdf
 textauthor: Guillaume de Nangis
 languages: [french]
-regions: [western_europe]
 periods: [13th_century, 14th_century]
 textcollections: [cross-cultural-encounters, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/guillaume_de_nangis_john_acre.jpg
 thumb: /assets/img/text/guillaume_de_nangis_john_acre-thumb.jpg
-imagesource: |
-  London, British Library Royal MS 16 G VI, f.442r
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ London, British Library Royal MS 16 G VI, f.442r
+ 
 ## Introduction to the Source 
 <p>This version of Guillaume de Nangis’s text is included in the <em>Grandes Chroniques de France</em> made for John II of France (<a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_16_g_vi_fs001r">British Library-Royal MS 16 G VI</a>). These royal chronicles blend historical and mythological elements, functioning as a source of political legitimacy for both the Capetian and Valois dynasties of French monarchs.</p>
 ## Introduction to the Text 

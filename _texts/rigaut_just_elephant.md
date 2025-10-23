@@ -15,17 +15,16 @@ tei: /assets/tei/rigaut_just_elephant.xml
 pdf: /assets/pdf/rigaut_just_elephant.pdf
 textauthor: Rigaut de Berbezilh
 languages: [occitan]
-regions: [western_europe]
 periods: [12th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/rigaut_just_elephant.jpg
 thumb: /assets/img/text/rigaut_just_elephant-thumb.jpg
-imagesource: |
-  Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan Songbook K) [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Life of Rigaut de Berbezilh in Paris BnF Fr. 12473 f.71r (Occitan Songbook K) [Public Domain]
+ 
 ## Introduction to the Source 
 <p>“Atressi cum l’orifans” is extant in a large number of manuscripts, which may indicate that when <em>chansonniers</em> were composed, Rigaut’s works were held in higher esteem than in scholarly assessments. Across manuscripts, the lyric changes, be it in the order of stanzas, the presence/absence of stanzas, single words and phrases, linguistic makeover, or the presence of a written melody (extant in two manuscripts). Rigaut seems to have been popular in Northern French <em>chansonniers</em>, although Eliza Zingesser has shown that this came at the cost of making Rigaut look birdlike, almost a madman (2020, 49–80).</p> <p>This translation is based on the edition of the lyric by Carl Appel (1920, 70–71, item 29), with adapted punctuation. The reference edition remains that by Alberto Varvaro (1960, 106-134).</p>
 ## Introduction to the Text 

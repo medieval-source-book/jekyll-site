@@ -7,5 +7,5 @@ permalink: search/
 sitemap: false
 ---
 
-{% include _search-lunr.html %}
-{% include _search-lunr_results.html %}
+{% include '_search-lunr.html' %}
+{% include '_search-lunr_results.html' %}

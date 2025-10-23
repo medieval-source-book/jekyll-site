@@ -2,6 +2,9 @@
 // foundation.zurb.com
 // Licensed under MIT Open Source
 
+@use "sass:math";
+@use "sass:string";
+@use "sass:color";
 @import "global";
 @import "grid";
 @import "buttons";
@@ -23,7 +26,7 @@ $topbar-margin-bottom: 0 !default;
 
 // Controlling the styles for the title in the top bar
 $topbar-title-weight: $font-weight-normal !default;
-$topbar-title-font-size: ($topbar-height / 5) !default;
+$topbar-title-font-size: math.div($topbar-height, 5) !default;
 
 // Set the link colors and styles for top-level nav
 $topbar-link-color: $white !default;
@@ -31,16 +34,16 @@ $topbar-link-color-hover: $white !default;
 $topbar-link-color-active: $white !default;
 $topbar-link-color-active-hover: $white !default;
 $topbar-link-weight: $font-weight-normal !default;
-$topbar-link-font-size: ($topbar-height / 5) !default;
+$topbar-link-font-size: math.div($topbar-height, 5) !default;
 $topbar-link-hover-lightness: -10% !default; // Darken by 10%
 $topbar-link-bg: $topbar-bg !default;
 $topbar-link-bg-hover: $pale-amber !default;
 $topbar-link-bg-color-hover: $pale-amber !default;
 $topbar-link-bg-active: $primary-color !default;
-$topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%) !default;
+$topbar-link-bg-active-hover: color.scale($primary-color, $lightness: -14%) !default;
 $topbar-link-font-family: $font-family-monospace;
 $topbar-link-text-transform: none !default;
-$topbar-link-padding: ($topbar-line-height / 4) !default;
+$topbar-link-padding: math.div($topbar-line-height, 4) !default;
 $topbar-back-link-size: rem-calc(18) !default;
 $topbar-link-dropdown-padding: rem-calc(20) !default;
 $topbar-button-font-size: 0.75rem !default;
@@ -60,12 +63,12 @@ $topbar-dropdown-toggle-alpha: 0.4 !default;
 $topbar-dropdown-label-color: $monsoon !default;
 $topbar-dropdown-label-text-transform: none !default;
 $topbar-dropdown-label-font-weight: $font-weight-bold !default;
-$topbar-dropdown-label-font-size: ($topbar-height / 5) !default;
+$topbar-dropdown-label-font-size: math.div($topbar-height, 5) !default;
 $topbar-dropdown-label-bg: $pale-amber !default;
 
 // Top menu icon styles
 $topbar-menu-link-transform: none !default;
-$topbar-menu-link-font-size: ($topbar-height / 4) !default;
+$topbar-menu-link-font-size: math.div($topbar-height, 4) !default;
 $topbar-menu-link-weight: $font-weight-bold !default;
 $topbar-menu-link-color: $white !default;
 $topbar-menu-icon-color: $white !default;
@@ -82,8 +85,8 @@ $topbar-media-query: $medium-up !default;
 $topbar-input-height: rem-calc(28) !default;
 
 // Divider Styles
-$topbar-divider-border-bottom: solid 1px scale-color($topbar-bg-color, $lightness: 13%) !default;
-$topbar-divider-border-top: solid 1px scale-color($topbar-bg-color, $lightness: -50%) !default;
+$topbar-divider-border-bottom: solid 1px color.scale($topbar-bg-color, $lightness: 13%) !default;
+$topbar-divider-border-top: solid 1px color.scale($topbar-bg-color, $lightness: -50%) !default;
 
 // Sticky Class
 $topbar-sticky-class: ".sticky" !default;
@@ -111,7 +114,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
     // This class is generated despite the value of $include-html-top-bar-classes
     // to ensure width calculations work correctly.
     meta.foundation-mq-topbar {
-      font-family: "/" + unquote($topbar-media-query) + "/";
+  font-family: "/" + string.unquote($topbar-media-query) + "/";
       width: $topbar-breakpoint;
     }
 
@@ -494,7 +497,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           font-size: rem-calc(14);
           position: relative;
           height: $topbar-input-height;
-          top: (($topbar-height - $topbar-input-height) / 2);
+          top: math.div(($topbar-height - $topbar-input-height), 2);
         }
 
         &.expanded { background: $topbar-bg; }
@@ -539,13 +542,13 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           }
           &:not(.has-form) {
             a:not(.button) {
-              padding: 0 ($topbar-height / 5) 0 1rem;
+              padding: 0 math.div($topbar-height, 5) 0 1rem;
               line-height: $topbar-line-height;
             }
           }
           &.active:not(.has-form) {
             a:not(.button) {
-              padding: 0 ($topbar-height / 5) 0 1rem;
+              padding: 0 math.div($topbar-height, 5) 0 1rem;
               line-height: $topbar-line-height;
               color: $topbar-link-color-active;
             }
@@ -653,7 +656,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
         .has-form {
           background: $topbar-link-bg;
-          padding: 0 ($topbar-height / 3);
+          padding: 0 math.div($topbar-height, 3);
           height: $topbar-line-height;
         }
 

@@ -15,17 +15,16 @@ tei: /assets/tei/sanai_on_merciful_god.xml
 pdf: /assets/pdf/sanai_on_merciful_god.pdf
 textauthor: Sanā’ī of Ghazna
 languages: [persian]
-regions: [middle_east]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/sanai_on_merciful_god.jpg
 thumb: /assets/img/text/sanai_on_merciful_god-thumb.jpg
-imagesource: |
-  Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Sanā’ī al-Ghaznavī, Abū al-Majd Majdūd ibn Ādam. Huva kitāb-i mustaṭāb-i kullīyāt. Bombay: Khan Sahib M.M. Shirazi, 1328 [1910]. Library of Congress [Public Domain]]
+ 
 ## Introduction to the Source 
 <p>The <em>Dīvān</em>, in which the aforementioned poem appears, was published in Bombay in 1910 by Khan Sahib M.M. Shirazi. The collection contains 14,000 distichs that mainly revolve around religious themes, such as eschewing the <em>nafs</em> [carnal soul], performing the <em>dhikr</em>, and abandoning the cupidity of worldly substance and goods, among others.</p>
 ## Introduction to the Text 

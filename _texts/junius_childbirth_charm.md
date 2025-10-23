@@ -15,17 +15,16 @@ tei: /assets/tei/junius_childbirth_charm.xml
 pdf: /assets/pdf/junius_childbirth_charm.pdf
 textauthor: Anonymous
 languages: [english,latin]
-regions: [western_europe]
 periods: [11th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/junius_childbirth_charm.png
 thumb: /assets/img/text/junius_childbirth_charm-thumb.png
-imagesource: |
-  Detail from New York, Metropolitan Museum, Manuscript Illumination with the Birth of the Virgin in an Initial G, from a Gradual [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from New York, Metropolitan Museum, Manuscript Illumination with the Birth of the Virgin in an Initial G, from a Gradual [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The <em>Junius Childbirth Charm</em> is transmitted in the manuscript Oxford Bodleian Library, MS Junius 85/86, an eleventh-century Anglo-Saxon manuscript containing Lenten sermons, including dialogues between the body and soul. It is one of four childbirth charms written into the spaces between sermons. It is worth noting that the childbirth charms in this manuscript contain the first known occurrence of the sequence of the holy mothers.</p>
 ## Introduction to the Text 

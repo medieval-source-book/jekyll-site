@@ -15,17 +15,16 @@ tei: /assets/tei/miracle_mother_god_sign.xml
 pdf: /assets/pdf/miracle_mother_god_sign.pdf
 textauthor: Anonymous
 languages: [slavonic]
-regions: [eastern_europe]
 periods: [14th_century, 15th_century]
 textcollections: [prayer-spirituality, making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/default.png
 thumb: /assets/img/text/default.png
-imagesource: |
-  Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from _Silk with Griffins_. 1200-1250 CE. Silk and silver-gilt metal on parchment over cotton. Central Asia, Sicily, or North Africa. 69 1/4 x 38 1/4 in. (175.9 x 97.2 cm). The Cloisters Collection, 1984, at the Metropolitan Museum of Art, New York. Object Number 1984.344. [https://www.metmuseum.org/art/collection/search/466119](https://www.metmuseum.org/art/collection/search/466119). [Public Domain]
+ 
 ## Introduction to the Source 
 <p>The text used for this translation is from a 14th or 15th century manuscript, <em>Festal Menaion</em>, in the St. Sofia Collection of the National Library of Russia, St. Petersburg (Софийское собрание 396, fol. 1v-4v). A digitization of the manuscript is available to view online here: <a href="http://nlr.ru/manuscripts/RA1527/elektronnyiy-katalog?ab=D684C217-677F-40DD-AADA-33FD3A80D9B1">http://nlr.ru/manuscripts/RA1527/elektronnyiy-katalog?ab=D684C217-677F-40DD-AADA-33FD3A80D9B1</a>. The <em>Festal Menaion</em> is a liturgical book of the Eastern Orthodox Church, which contains texts used for the most important feasts that always fall on the same dates of the ecclesiastical year. The <em>Festal Menaion</em> is an abridged version of the <em>Menaion</em>, a far more extensive liturgical book which holds texts for the services for all the saints’ feasts and commemorations that have a constant date in the liturgical calendar. The legend about the miracle of the icon of the Mother of God is included in this <em>Festal Menaion</em> because it celebrates the feast of the icon of the Mother of God, a significant religious holiday in Novgorod. As in most liturgical manuscripts, the names of the authors and scribes are unknown. However, from the differing handwriting and orthographic conventions used in the text, it is evident that more than one scribe worked on recording or copying this tale.</p>
 ## Introduction to the Text 

@@ -15,17 +15,16 @@ tei: /assets/tei/adam_st_victor_hymn_honor_augustine.xml
 pdf: /assets/pdf/adam_st_victor_hymn_honor_augustine.pdf
 textauthor: Adam of St. Victor [att.]
 languages: [latin]
-regions: [western_europe]
 periods: [12th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/adam_st_victor_hymn_honor_augustine.png
 thumb: /assets/img/text/adam_st_victor_hymn_honor_augustine-thumb.png
-imagesource: |
-  Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from Cambridge, Corpus Christi College, MS 253, f. 140v [Public Domain]
+ 
 ## Introduction to the Source 
 <p>This edition is based on ​​Cambridge, Corpus Christi College, MS 253. Besides “In Honor of St. Augustine”, the manuscript contains selections from Augustine’s theological works, his Confessions, and a guide to living a Christian life for soldiers by Ferrandus, deacon of Carthage (d. 546/7). The works by Augustine are in a fine hand, with exceptional illuminated initials. “In Honor of St. Augustine” is in a twelfth-century hand and appears with musical notation on a three-line stave. There are also some late medieval additions at the end of the manuscript.</p>
 ## Introduction to the Text 

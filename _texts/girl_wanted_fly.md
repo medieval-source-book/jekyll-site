@@ -15,17 +15,16 @@ tei: /assets/tei/girl_wanted_fly.xml
 pdf: /assets/pdf/girl_wanted_fly.pdf
 textauthor: Anonymous
 languages: [french]
-regions: [western_europe]
 periods: [13th_century]
 textcollections: [gender-sex-sensuality, prank-or-be-pranked]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/girl_wanted_fly.jpeg
 thumb: /assets/img/text/girl_wanted_fly-thumb.jpeg
-imagesource: |
-  Bibliothèque nationale de France, Département des manuscrits, Français 25545
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Bibliothèque nationale de France, Département des manuscrits, Français 25545
+ 
 ## Introduction to the Source 
 <p>“La pucele” exists in three different manuscripts, each of which is a compilation of fabliaux and similar short verse tales. Each version of the tale is largely the same, but with some differences in details. The manuscripts are<a href="http://www.e-codices.unifr.ch/en/bbb/0354/43r/0/Sequence-1462"> Bern, Burgerbibliothek 354, folio 43ra-44ra</a> (Witness B); <a href="http://gallica.bnf.fr/ark:/12148/btv1b6000803p">Paris, Bibliothèque nationale de France, fr. 1593, folio 187rb-188ra</a> (Witness E); and<a href="http://gallica.bnf.fr/ark:/12148/btv1b10525826x/f18.image.r"> Paris, Bibliothèque nationale de France, fr. 25545, folio 4vb-5vb</a> (Witness I). This edition follows the witness naming conventions found in the <i>Nouveau Recueil Complet des Fabliaux</i> (<i>NRCF</i>). The longest of the three manuscripts is I, which has a 26 verse epilogue, compared to 7 verses in B and 9 in E. Each text shows evidence of divergences from what scholars assume to have been the (now lost)   original text. The critical text, which we have drawn from the <i>NRCF</i>, tracks most closely with B, despite some omissions in B.</p> <p>Of the three manuscripts, B is the most legible and most well-preserved, despite some holes in the parchment. E is nearly as legible as B. I is the least legible, showing signs of multiple repairs to the manuscript, irregularly lined columns, and multiple illegible sections due to faded or scraped ink. B has red and blue initials and rubrics in a pale red. E has spaces reserved for miniatures and other decorations that were never completed. I uses red ink for majuscules and rubrics.</p> <p>In all three manuscripts, the fabliau’s author is unnamed. The text is also difficult to date or locate with any precision. Each manuscript is believed to be from the late 13<sup>th </sup>or early 14<sup>th</sup>century. I has been dated most precisely as between the end of 1316 and April 3, 1317. As a result, the original date for the composition of “La pucele” is suspected to be sometime in the mid- to late 13<sup>th </sup>century.</p>
 ## Introduction to the Text 

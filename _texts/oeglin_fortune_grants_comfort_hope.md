@@ -15,17 +15,16 @@ tei: /assets/tei/oeglin_fortune_grants_comfort_hope.xml
 pdf: /assets/pdf/oeglin_fortune_grants_comfort_hope.pdf
 textauthor: Erhard Oeglin
 languages: [german]
-regions: [western_europe]
 periods: [16th_century]
 textcollections: [love-songs]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/oeglin_fortune_grants_comfort_hope.jpg
 thumb: /assets/img/text/oeglin_fortune_grants_comfort_hope-thumb.jpg
-imagesource: |
-  Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15r
-fulltext: |
-                                                       
---- 
+imagesource: ""
+fulltext: ""
+---
+ Bayerische Staatsbibliothek München 00082229 Rar.27 Stimme T f.15r
+ 
 ## Introduction to the Source 
 <p>Digitized copies of these partbooks from the Bayerische Staatsbibliothek in Munich are available online <a href="https://stimmbuecher.digitale-sammlungen.de//view?id=bsb00082229">here</a>.</p>
 ## Introduction to the Text 

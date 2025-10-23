@@ -15,17 +15,16 @@ tei: /assets/tei/reno_incident_university_paris.xml
 pdf: /assets/pdf/reno_incident_university_paris.pdf
 textauthor: Johannes de Reno
 languages: [latin]
-regions: [western_europe]
 periods: [15th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/reno_incident_university_paris.jpg
 thumb: /assets/img/text/reno_incident_university_paris-thumb.jpg
-imagesource: |
-  “Conclusions de la Nation d'Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ “Conclusions de la Nation d'Angleterre. « Anno Mo CCCCo sexto, die quinta mensis maii — Mo CCCCo XXIIII, die septima mensis martii »”, NuBIS (Bibliothèque interuniversitaire de la Sorbonne)
+ 
 ## Introduction to the Source 
 <p>Medieval European universities were often organized into a variable number of ‘Nations’ (<em>nationes</em>), semi-independent associations which grouped together students and masters on a broadly geographical basis. The University of Paris had four Nations: the French, the Picard, the Norman, and the English/German one. Compiled by the proctors (elective officials) of the Nations, the ‘books of the proctors of the Nations’ <em>(libri procuratorum nationis</em>) were registers containing chronological entries which documented any significant information about the academic, social, and political life of each Nation and of the university in general. Needless to say, these are sources of unparalleled value when studying early universities. The original manuscripts of the English/German Nation, which survive for most of the 14th and 15th centuries, are currently kept at the Bibliothèque de la Sorbonne in Paris; the manuscript to which the passage belongs is Reg. 5 (fols. 50r-v).</p>
 ## Introduction to the Text 

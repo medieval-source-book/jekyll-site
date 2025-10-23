@@ -15,17 +15,16 @@ tei: /assets/tei/besom_devotion.xml
 pdf: /assets/pdf/besom_devotion.pdf
 textauthor: Anonymous
 languages: [irish]
-regions: [western_europe]
 periods: [8th_century]
 textcollections: [prayer-spirituality]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/besom_devotion
 thumb: /assets/img/text/besom_devotion-thumb
-imagesource: |
-  
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ 
+ 
 ## Introduction to the Source 
 <p>The “Litany of Creation” is preserved in Dublin RIA Manuscript 23 N 10 (formerly Betham 145, Catalog 967). This manuscript was produced by three principal scribes, who signed their names simply as Aodh, Dubthach and Torna. They worked for or belonged to the Ó Maoil Chonaire, a family of professional poets and historians from Connacht. At a conference at the Royal Irish Academy in 2019, this manuscript was given a new name by scholars: the Book of Ballycummin (<em>Baile in Chuimine</em>).</p>
 ## Introduction to the Text 

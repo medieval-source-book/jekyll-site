@@ -15,17 +15,16 @@ tei: /assets/tei/tinodi_captivity_peter_pereny.xml
 pdf: /assets/pdf/tinodi_captivity_peter_pereny.pdf
 textauthor: Sebastian Tinódi
 languages: [hungarian]
-regions: [eastern_europe]
 periods: [16th_century]
 textcollections: [making-history]
 sdr: https://purl.stanford.edu/druid 
 image: /assets/img/text/tinodi_captivity_peter_pereny.png
 thumb: /assets/img/text/tinodi_captivity_peter_pereny-thumb.png
-imagesource: |
-  Detail from "Buda, Vulgo Ofen, Prima et Regia Ungarici" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries.
-fulltext: |
-  
---- 
+imagesource: ""
+fulltext: ""
+---
+ Detail from "Buda, Vulgo Ofen, Prima et Regia Ungarici" (1572). David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries.
+ 
 ## Introduction to the Source 
 <p><em>Cronica</em>, Sebastian Tinódi’s songbook of 1544, contains this song and twenty-one others together with his own musical compositions. It was printed in Kolozsvár (Cluj-Napoca, Romania). A few original copies are extant as facsimile editions. The source for this translation is the standardized transcription accessible on the Hungarian Electronic Library website, <em>Tinódi Sebestyén összes költeménye</em>: <a href="http://mek.oszk.hu/01100/01100/index.phtml">http://mek.oszk.hu/01100/01100/index.phtml</a>.</p>
 ## Introduction to the Text 
